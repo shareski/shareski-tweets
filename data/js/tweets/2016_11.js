@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 22:50:22 +0000 2016",
+		"id": 802645700412461000,
+		"id_str": "802645700412461056",
+		"text": "RT @MsPhillipsHRSB: Inspired by @DiscoveryEd VFT to Churchill, Manitoba @ktschutt We used @DoInkTweets to put us in the Arctic with a Polar…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsPhillipsHRSB",
+					"name": "Ms.Phillips",
+					"id": 2147737079,
+					"id_str": "2147737079",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "ktschutt",
+					"name": "Kyle Schutt",
+					"id": 21026922,
+					"id_str": "21026922",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "DoInkTweets",
+					"name": "DoInk Tweets",
+					"id": 85589214,
+					"id_str": "85589214",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30684,
+			"friends_count": 5592,
+			"listed_count": 1392,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 574,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 22:38:02 +0000 2016",
+			"id": 802642599093956600,
+			"id_str": "802642599093956608",
+			"text": "Inspired by @DiscoveryEd VFT to Churchill, Manitoba @ktschutt We used @DoInkTweets to put us in the Arctic with a P… https://t.co/YwyjlvDn9y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"screen_name": "ktschutt",
+						"name": "Kyle Schutt",
+						"id": 21026922,
+						"id_str": "21026922",
+						"indices": [
+							52,
+							61
+						]
+					},
+					{
+						"screen_name": "DoInkTweets",
+						"name": "DoInk Tweets",
+						"id": 85589214,
+						"id_str": "85589214",
+						"indices": [
+							70,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YwyjlvDn9y",
+						"expanded_url": "https://twitter.com/i/web/status/802642599093956608",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2147737079,
+				"id_str": "2147737079",
+				"name": "Ms.Phillips",
+				"screen_name": "MsPhillipsHRSB",
+				"location": "",
+				"description": "Vice Principal Sir Charles Tupper School DEN Star/LC/Ambassador, Lover of Technology, Halifax, Nova Scotia",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 533,
+				"friends_count": 376,
+				"listed_count": 11,
+				"created_at": "Tue Oct 22 00:33:40 +0000 2013",
+				"favourites_count": 1050,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714273554523676672/0yc6sjDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714273554523676672/0yc6sjDc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2147737079/1459131220",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 21:58:45 +0000 2016",
 		"id": 802632712272146400,
 		"id_str": "802632712272146432",
