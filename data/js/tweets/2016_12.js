@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 01 20:59:53 +0000 2016",
+		"id": 804429837293277200,
+		"id_str": "804429837293277189",
+		"text": "#windy #halifax #yhz #umbrella #pooched @ Four Points by Sheraton Halifax https://t.co/giJwaO34iY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "windy",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "halifax",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "yhz",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "umbrella",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "pooched",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/giJwaO34iY",
+					"expanded_url": "https://www.instagram.com/p/BNfSM5LgK1N/",
+					"display_url": "instagram.com/p/BNfSM5LgK1N/",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30769,
+			"friends_count": 5604,
+			"listed_count": 1394,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 576,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				44.64485,
+				-63.57163
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-63.57163,
+				44.64485
+			]
+		},
+		"place": {
+			"id": "5d058f2e9fe1516c",
+			"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json",
+			"place_type": "city",
+			"name": "Halifax",
+			"full_name": "Halifax, Nova Scotia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-64.237659,
+							43.366298
+						],
+						[
+							-59.385802,
+							43.366298
+						],
+						[
+							-59.385802,
+							45.27617
+						],
+						[
+							-64.237659,
+							45.27617
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 01 20:13:58 +0000 2016",
+		"id": 804418283202035700,
+		"id_str": "804418283202035712",
+		"text": "Hello! I'm Dean Shareski from Moose Jaw, currently on an airplane somewhere in Ontario.Please to meet you.… https://t.co/D82owcDMkb",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D82owcDMkb",
+					"expanded_url": "https://twitter.com/i/web/status/804418283202035712",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30769,
+			"friends_count": 5604,
+			"listed_count": 1394,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 576,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 804356166507581400,
+		"quoted_status_id_str": "804356166507581440",
+		"quoted_status": {
+			"created_at": "Thu Dec 01 16:07:08 +0000 2016",
+			"id": 804356166507581400,
+			"id_str": "804356166507581440",
+			"text": "Hi all! Teaching about how our world is interconnected. Please say hi to my grade 5s and 6s with hashtag #higrade5and6 and where you're from",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "higrade5and6",
+						"indices": [
+							105,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34681403,
+				"id_str": "34681403",
+				"name": "Thomas Skelton",
+				"screen_name": "tskel",
+				"location": "Swift Current, SK",
+				"description": "Father, Husband, Educator at #chinooksd , WGTF top 100 teacher, PGA of Canada pro, Colour guy for the #scbroncos #livingthedream B.Ed, M. Ed",
+				"url": "https://t.co/JxFWTPqNen",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JxFWTPqNen",
+								"expanded_url": "http://tskelton.ca",
+								"display_url": "tskelton.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6997,
+				"friends_count": 2031,
+				"listed_count": 25,
+				"created_at": "Thu Apr 23 18:05:47 +0000 2009",
+				"favourites_count": 1618,
+				"utc_offset": -21600,
+				"time_zone": "Saskatchewan",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788582047207927808/pc9GuVAN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788582047207927808/pc9GuVAN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34681403/1456709504",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 01 14:08:57 +0000 2016",
 		"id": 804326421313228800,
 		"id_str": "804326421313228800",
