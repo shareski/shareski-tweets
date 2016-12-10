@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 04:47:39 +0000 2016",
+		"id": 807446659592503300,
+		"id_str": "807446659592503297",
+		"text": "It's excellent. https://t.co/TrICof6b7Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TrICof6b7Q",
+					"expanded_url": "https://twitter.com/birbigs/status/806628137358544897",
+					"display_url": "twitter.com/birbigs/status…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30917,
+			"friends_count": 5649,
+			"listed_count": 1397,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 580,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 806628137358544900,
+		"quoted_status_id_str": "806628137358544897",
+		"quoted_status": {
+			"created_at": "Wed Dec 07 22:35:09 +0000 2016",
+			"id": 806628137358544900,
+			"id_str": "806628137358544897",
+			"text": "A note about @dontthinkmovie. Please RT if you like the movie. Hoping this will be like that one Ellen tweet.… https://t.co/lMSRZSeJw8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dontthinkmovie",
+						"name": "Don't Think Twice",
+						"id": 3342062238,
+						"id_str": "3342062238",
+						"indices": [
+							13,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lMSRZSeJw8",
+						"expanded_url": "https://twitter.com/i/web/status/806628137358544897",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15147397,
+				"id_str": "15147397",
+				"name": "Mike Birbiglia",
+				"screen_name": "birbigs",
+				"location": "",
+				"description": "Made #SleepwalkWithMe. New one is @DontThinkMovie on @iTunes NOW. https://t.co/ef0sPiaw0F",
+				"url": "https://t.co/5GgYt2yZsX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5GgYt2yZsX",
+								"expanded_url": "http://www.birbigs.com",
+								"display_url": "birbigs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ef0sPiaw0F",
+								"expanded_url": "https://itun.es/us/CBxVdb",
+								"display_url": "itun.es/us/CBxVdb",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 488333,
+				"friends_count": 578,
+				"listed_count": 7837,
+				"created_at": "Tue Jun 17 16:27:25 +0000 2008",
+				"favourites_count": 38304,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "4E86C3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/815233575/5a30a0bb16d6785152ffe6f5288e2bd2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/815233575/5a30a0bb16d6785152ffe6f5288e2bd2.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733659029956886529/lGoWa-XD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733659029956886529/lGoWa-XD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15147397/1477513994",
+				"profile_link_color": "0A54FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "68D2F0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1632,
+			"favorite_count": 1179,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 10 04:46:09 +0000 2016",
+		"id": 807446279496302600,
+		"id_str": "807446279496302592",
+		"text": "@birbigs just watched \"Don't Think Twice\" well done.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "birbigs",
+					"name": "Mike Birbiglia",
+					"id": 15147397,
+					"id_str": "15147397",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 15147397,
+		"in_reply_to_user_id_str": "15147397",
+		"in_reply_to_screen_name": "birbigs",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30917,
+			"friends_count": 5649,
+			"listed_count": 1397,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 580,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 10 00:02:46 +0000 2016",
 		"id": 807374962508099600,
 		"id_str": "807374962508099584",
