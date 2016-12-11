@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 04:01:35 +0000 2016",
+		"id": 807797453722386400,
+		"id_str": "807797453722386436",
+		"text": "RT @pernilleripp: Excited to see @shareski @RafranzDavis @bbray27 @EricEwald_Iowa @korytellers and the awesome teachers from Grand Forks at…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pernilleripp",
+					"name": "Pernille Ripp",
+					"id": 56559078,
+					"id_str": "56559078",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"screen_name": "RafranzDavis",
+					"name": "Rafranz Davis",
+					"id": 15825051,
+					"id_str": "15825051",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "bbray27",
+					"name": "Barbara Bray",
+					"id": 6536022,
+					"id_str": "6536022",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "EricEwald_Iowa",
+					"name": "Eric Ewald",
+					"id": 318809852,
+					"id_str": "318809852",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "korytellers",
+					"name": "Kory Graham",
+					"id": 25602418,
+					"id_str": "25602418",
+					"indices": [
+						82,
+						94
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30928,
+			"friends_count": 5649,
+			"listed_count": 1398,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 580,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 11 03:01:45 +0000 2016",
+			"id": 807782395005042700,
+			"id_str": "807782395005042692",
+			"text": "Excited to see @shareski @RafranzDavis @bbray27 @EricEwald_Iowa @korytellers and the awesome teachers from Grand Forks at #TIES16",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TIES16",
+						"indices": [
+							122,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"screen_name": "RafranzDavis",
+						"name": "Rafranz Davis",
+						"id": 15825051,
+						"id_str": "15825051",
+						"indices": [
+							25,
+							38
+						]
+					},
+					{
+						"screen_name": "bbray27",
+						"name": "Barbara Bray",
+						"id": 6536022,
+						"id_str": "6536022",
+						"indices": [
+							39,
+							47
+						]
+					},
+					{
+						"screen_name": "EricEwald_Iowa",
+						"name": "Eric Ewald",
+						"id": 318809852,
+						"id_str": "318809852",
+						"indices": [
+							48,
+							63
+						]
+					},
+					{
+						"screen_name": "korytellers",
+						"name": "Kory Graham",
+						"id": 25602418,
+						"id_str": "25602418",
+						"indices": [
+							64,
+							76
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56559078,
+				"id_str": "56559078",
+				"name": "Pernille Ripp",
+				"screen_name": "pernilleripp",
+				"location": "Madison, WI",
+				"description": "Living a fantastic life being a 7th gr. teacher, mother to 4 fantastic monsters and soul mate to an incredible man. Creator of the Global Read Aloud and author.",
+				"url": "http://t.co/C7FDqMAXd0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/C7FDqMAXd0",
+								"expanded_url": "http://www.pernillesripp.com",
+								"display_url": "pernillesripp.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36570,
+				"friends_count": 1804,
+				"listed_count": 1397,
+				"created_at": "Tue Jul 14 01:13:44 +0000 2009",
+				"favourites_count": 5240,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58773,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795802858587189252/vzf6WsLo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795802858587189252/vzf6WsLo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56559078/1414955059",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 11 01:10:36 +0000 2016",
 		"id": 807754421903863800,
 		"id_str": "807754421903863808",
