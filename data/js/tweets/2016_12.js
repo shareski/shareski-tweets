@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 18:37:33 +0000 2016",
+		"id": 808017898358931500,
+		"id_str": "808017898358931457",
+		"text": "#attagirl https://t.co/Yg1WIQKm0o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "attagirl",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yg1WIQKm0o",
+					"expanded_url": "https://twitter.com/chaaven/status/808016680039436288",
+					"display_url": "twitter.com/chaaven/status…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30931,
+			"friends_count": 5650,
+			"listed_count": 1398,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 581,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107801,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 808016680039436300,
+		"quoted_status_id_str": "808016680039436288",
+		"quoted_status": {
+			"created_at": "Sun Dec 11 18:32:43 +0000 2016",
+			"id": 808016680039436300,
+			"id_str": "808016680039436288",
+			"text": "Wearing my Canadian mittens in honor of #ties16 Keynote Speaker. See you soon @shareski https://t.co/nIK5bYsGkH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ties16",
+						"indices": [
+							40,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 808016669415116800,
+						"id_str": "808016669415116800",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Czam4TkVEAAJ5OB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Czam4TkVEAAJ5OB.jpg",
+						"url": "https://t.co/nIK5bYsGkH",
+						"display_url": "pic.twitter.com/nIK5bYsGkH",
+						"expanded_url": "https://twitter.com/chaaven/status/808016680039436288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 808016669415116800,
+						"id_str": "808016669415116800",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Czam4TkVEAAJ5OB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Czam4TkVEAAJ5OB.jpg",
+						"url": "https://t.co/nIK5bYsGkH",
+						"display_url": "pic.twitter.com/nIK5bYsGkH",
+						"expanded_url": "https://twitter.com/chaaven/status/808016680039436288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15842148,
+				"id_str": "15842148",
+				"name": "Carla Haaven",
+				"screen_name": "chaaven",
+				"location": "Grand Forks, ND",
+				"description": "Curriculum Technology Partner Grand Forks Public Schools DEN Star DENSI2014 Nashville - DENSI2015 Washington DC - DENSI2016 Chicago Google Certified Trainer",
+				"url": "https://t.co/5FzJnXMunT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5FzJnXMunT",
+								"expanded_url": "http://chaaven.blogspot.com/",
+								"display_url": "chaaven.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1027,
+				"friends_count": 1128,
+				"listed_count": 98,
+				"created_at": "Wed Aug 13 20:44:13 +0000 2008",
+				"favourites_count": 2800,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745719551887712257/bNBJ3DfE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745719551887712257/bNBJ3DfE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15842148/1399321529",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Dec 11 12:04:29 +0000 2016",
 		"id": 807918978479824900,
 		"id_str": "807918978479824896",
