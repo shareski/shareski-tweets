@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 14:44:40 +0000 2016",
+		"id": 808321676907872300,
+		"id_str": "808321676907872256",
+		"text": "@korytellers see below. #pantschat #ties16 https://t.co/RBES0dgY9p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pantschat",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "ties16",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "korytellers",
+					"name": "Kory Graham",
+					"id": 25602418,
+					"id_str": "25602418",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RBES0dgY9p",
+					"expanded_url": "https://twitter.com/micwalker/status/808314607718776832",
+					"display_url": "twitter.com/micwalker/stat…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 25602418,
+		"in_reply_to_user_id_str": "25602418",
+		"in_reply_to_screen_name": "korytellers",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31036,
+			"friends_count": 5654,
+			"listed_count": 1398,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 582,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107809,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 808314607718776800,
+		"quoted_status_id_str": "808314607718776832",
+		"quoted_status": {
+			"created_at": "Mon Dec 12 14:16:34 +0000 2016",
+			"id": 808314607718776800,
+			"id_str": "808314607718776832",
+			"text": "Started following @shareski in late 2007 or early 2008. Looking forward to seeing him keynote #ties16! For those playing at home: turquoise",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ties16",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10010202,
+				"id_str": "10010202",
+				"name": "Michael Walker",
+				"screen_name": "micwalker",
+				"location": "Minneapolis, Minnesota",
+				"description": "Digital Learning Specialist, CETL , Husband, Dad, Learner, Advocate, Cheesehead. Opinions expressed here are my own.",
+				"url": "http://t.co/eKLGcPaHAy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eKLGcPaHAy",
+								"expanded_url": "http://about.me/micwalker",
+								"display_url": "about.me/micwalker",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2942,
+				"friends_count": 977,
+				"listed_count": 299,
+				"created_at": "Tue Nov 06 20:51:14 +0000 2007",
+				"favourites_count": 7604,
+				"utc_offset": -21600,
+				"time_zone": "America/Chicago",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180512685/twilk_background_4d03c67587474.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180512685/twilk_background_4d03c67587474.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2527680242/hlc02l4s5d7l5j4vscxe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2527680242/hlc02l4s5d7l5j4vscxe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10010202/1455897082",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 12 05:43:44 +0000 2016",
 		"id": 808185548326191100,
 		"id_str": "808185548326191104",
