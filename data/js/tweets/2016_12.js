@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 23:41:50 +0000 2016",
+		"id": 811718352825503700,
+		"id_str": "811718352825503744",
+		"text": "Two of my favourite people. https://t.co/j5kqwS6ufP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j5kqwS6ufP",
+					"expanded_url": "https://twitter.com/teacherdiana1/status/811716229375225856",
+					"display_url": "twitter.com/teacherdiana1/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31592,
+			"friends_count": 5765,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 591,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 811716229375225900,
+		"quoted_status_id_str": "811716229375225856",
+		"quoted_status": {
+			"created_at": "Wed Dec 21 23:33:24 +0000 2016",
+			"id": 811716229375225900,
+			"id_str": "811716229375225856",
+			"text": "@KelliHolden @Kiva awesome!  Don't forget about the book \"One Hen\" https://t.co/RajHKSiFjx it's a great resource too!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KelliHolden",
+						"name": "Kelli Holden",
+						"id": 299916676,
+						"id_str": "299916676",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "Kiva",
+						"name": "Kiva",
+						"id": 15433693,
+						"id_str": "15433693",
+						"indices": [
+							13,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RajHKSiFjx",
+						"expanded_url": "http://www.kidscanpress.com/products/one-hen",
+						"display_url": "kidscanpress.com/products/one-h…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 811699933426262000,
+			"in_reply_to_status_id_str": "811699933426262017",
+			"in_reply_to_user_id": 299916676,
+			"in_reply_to_user_id_str": "299916676",
+			"in_reply_to_screen_name": "KelliHolden",
+			"user": {
+				"id": 499276364,
+				"id_str": "499276364",
+				"name": "Diana Williams",
+				"screen_name": "teacherdiana1",
+				"location": "BC, Canada",
+				"description": "Grade 3&4 teacher #sd36learn. Happy mamma. Student of PBL, Daily5/CAFE & innovative teaching. DEN Star, Classroom Champion, KIVA ninja!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2999,
+				"friends_count": 2787,
+				"listed_count": 124,
+				"created_at": "Tue Feb 21 23:36:29 +0000 2012",
+				"favourites_count": 3232,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8656,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756311441922101248/vol7duqF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756311441922101248/vol7duqF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/499276364/1444142569",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 21 22:36:55 +0000 2016",
 		"id": 811702015973855200,
 		"id_str": "811702015973855233",
