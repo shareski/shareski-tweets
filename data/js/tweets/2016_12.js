@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 11:24:00 +0000 2016",
+		"id": 815156549513519100,
+		"id_str": "815156549513519108",
+		"text": "The #deanie for best reenactment of a scene from Dirty Dancing goes to .. @MACumings #densi2016 https://t.co/qlAn03oQn8 cc @imcguy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "densi2016",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MACumings",
+					"name": "Mitch A. Cumings",
+					"id": 2385423936,
+					"id_str": "2385423936",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "imcguy",
+					"name": "Chad Lehman",
+					"id": 10645702,
+					"id_str": "10645702",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qlAn03oQn8",
+					"expanded_url": "https://twitter.com/MACumings/status/756825479944871936",
+					"display_url": "twitter.com/MACumings/stat…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31631,
+			"friends_count": 5793,
+			"listed_count": 1407,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 591,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108151,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 756825479944872000,
+		"quoted_status_id_str": "756825479944871936",
+		"quoted_status": {
+			"created_at": "Sat Jul 23 12:17:10 +0000 2016",
+			"id": 756825479944872000,
+			"id_str": "756825479944871936",
+			"text": "This one time at DEN camp.....\n\nMiss you all already! Have a great summer!!\n#DENSI2016 https://t.co/QfZ1t4pvTu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DENSI2016",
+						"indices": [
+							76,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 756825468544745500,
+						"id_str": "756825468544745474",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CoDIwPmUAAI7w_Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CoDIwPmUAAI7w_Z.jpg",
+						"url": "https://t.co/QfZ1t4pvTu",
+						"display_url": "pic.twitter.com/QfZ1t4pvTu",
+						"expanded_url": "https://twitter.com/MACumings/status/756825479944871936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 557,
+								"h": 916,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 557,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 413,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 756825468544745500,
+						"id_str": "756825468544745474",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CoDIwPmUAAI7w_Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CoDIwPmUAAI7w_Z.jpg",
+						"url": "https://t.co/QfZ1t4pvTu",
+						"display_url": "pic.twitter.com/QfZ1t4pvTu",
+						"expanded_url": "https://twitter.com/MACumings/status/756825479944871936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 557,
+								"h": 916,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 557,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 413,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2385423936,
+				"id_str": "2385423936",
+				"name": "Mitch A. Cumings",
+				"screen_name": "MACumings",
+				"location": "",
+				"description": "Principal, Berrien Springs Middle School",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 180,
+				"friends_count": 143,
+				"listed_count": 6,
+				"created_at": "Wed Mar 12 15:31:48 +0000 2014",
+				"favourites_count": 336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660827472464887808/2JQDx7vX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660827472464887808/2JQDx7vX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2385423936/1441413686",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 31 10:34:01 +0000 2016",
 		"id": 815143969281609700,
 		"id_str": "815143969281609730",
