@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 01 23:12:54 +0000 2017",
+		"id": 815697337037234200,
+		"id_str": "815697337037234176",
+		"text": "RT @Sportsnet: Lanny McDonald slides right by Detroit's alumni photo. https://t.co/p5DwZSF9yP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sportsnet",
+					"name": "Sportsnet",
+					"id": 21660529,
+					"id_str": "21660529",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 815263568476000300,
+					"id_str": "815263568476000256",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+					"url": "https://t.co/p5DwZSF9yP",
+					"display_url": "pic.twitter.com/p5DwZSF9yP",
+					"expanded_url": "https://twitter.com/Sportsnet/status/815263632887947264/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 815263632887947300,
+					"source_status_id_str": "815263632887947264",
+					"source_user_id": 21660529,
+					"source_user_id_str": "21660529"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815263568476000300,
+					"id_str": "815263568476000256",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+					"url": "https://t.co/p5DwZSF9yP",
+					"display_url": "pic.twitter.com/p5DwZSF9yP",
+					"expanded_url": "https://twitter.com/Sportsnet/status/815263632887947264/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 815263632887947300,
+					"source_status_id_str": "815263632887947264",
+					"source_user_id": 21660529,
+					"source_user_id_str": "21660529",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11178,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/815263568476000256/pl/i3BpROlu0t7dUXlV.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/320x180/jCs0YRpAdsiz2mD9.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/640x360/oL5R5IfrNthDkrZl.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/815263568476000256/pl/i3BpROlu0t7dUXlV.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/1280x720/8T8mcIjZ8yOh7upH.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Lanny McDonald crashes the Red Wings alumni photo. ",
+						"description": "Watch as Lanny McDonald slides right through the Detroit Red Wings alumni photo. ",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 21660529,
+							"id_str": "21660529",
+							"name": "Sportsnet",
+							"screen_name": "Sportsnet",
+							"location": "Canada",
+							"description": "Canada's sports news, scores, schedules, standings, games & highlights from #NHL, #MLB/#BlueJays, #NBA/#Raptors and more.",
+							"url": "https://t.co/zuykezZ7g1",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zuykezZ7g1",
+											"expanded_url": "http://www.sportsnet.ca",
+											"display_url": "sportsnet.ca",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 587704,
+							"friends_count": 213,
+							"listed_count": 2871,
+							"created_at": "Mon Feb 23 15:31:12 +0000 2009",
+							"favourites_count": 601,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 140504,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688147445453176832/g1kFKDWk.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688147445453176832/g1kFKDWk.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/21660529/1482939269",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31639,
+			"friends_count": 5795,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 591,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 18:29:31 +0000 2016",
+			"id": 815263632887947300,
+			"id_str": "815263632887947264",
+			"text": "Lanny McDonald slides right by Detroit's alumni photo. https://t.co/p5DwZSF9yP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 815263568476000300,
+						"id_str": "815263568476000256",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+						"url": "https://t.co/p5DwZSF9yP",
+						"display_url": "pic.twitter.com/p5DwZSF9yP",
+						"expanded_url": "https://twitter.com/Sportsnet/status/815263632887947264/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815263568476000300,
+						"id_str": "815263568476000256",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1Bl8maUAAAX84D.jpg",
+						"url": "https://t.co/p5DwZSF9yP",
+						"display_url": "pic.twitter.com/p5DwZSF9yP",
+						"expanded_url": "https://twitter.com/Sportsnet/status/815263632887947264/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 11178,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/815263568476000256/pl/i3BpROlu0t7dUXlV.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/320x180/jCs0YRpAdsiz2mD9.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/640x360/oL5R5IfrNthDkrZl.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/815263568476000256/pl/i3BpROlu0t7dUXlV.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/815263568476000256/vid/1280x720/8T8mcIjZ8yOh7upH.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Lanny McDonald crashes the Red Wings alumni photo. ",
+							"description": "Watch as Lanny McDonald slides right through the Detroit Red Wings alumni photo. ",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21660529,
+				"id_str": "21660529",
+				"name": "Sportsnet",
+				"screen_name": "Sportsnet",
+				"location": "Canada",
+				"description": "Canada's sports news, scores, schedules, standings, games & highlights from #NHL, #MLB/#BlueJays, #NBA/#Raptors and more.",
+				"url": "https://t.co/zuykezZ7g1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zuykezZ7g1",
+								"expanded_url": "http://www.sportsnet.ca",
+								"display_url": "sportsnet.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 587704,
+				"friends_count": 213,
+				"listed_count": 2871,
+				"created_at": "Mon Feb 23 15:31:12 +0000 2009",
+				"favourites_count": 601,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 140504,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688147445453176832/g1kFKDWk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688147445453176832/g1kFKDWk.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21660529/1482939269",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 695,
+			"favorite_count": 1380,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 695,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 01 23:03:54 +0000 2017",
 		"id": 815695070489874400,
 		"id_str": "815695070489874432",
