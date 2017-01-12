@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 04:23:26 +0000 2017",
+		"id": 819399364003196900,
+		"id_str": "819399364003196928",
+		"text": "RT @RexFB: Follow the fun....will I collect 150 Canadian Anthem arrangements/artists in 2017? #winnipeg #canada #150anthems https://t.co/uC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "winnipeg",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "canada",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "150anthems",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RexFB",
+					"name": "Rex Ferguson-Baird",
+					"id": 1225414633,
+					"id_str": "1225414633",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31752,
+			"friends_count": 5802,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 598,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 04:19:03 +0000 2017",
+			"id": 819398257881321500,
+			"id_str": "819398257881321474",
+			"text": "Follow the fun....will I collect 150 Canadian Anthem arrangements/artists in 2017? #winnipeg #canada #150anthems https://t.co/uCP4QJZ0dl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "winnipeg",
+						"indices": [
+							83,
+							92
+						]
+					},
+					{
+						"text": "canada",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "150anthems",
+						"indices": [
+							101,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819398237089984500,
+						"id_str": "819398237089984512",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C18WWvNUcAAEfZM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C18WWvNUcAAEfZM.jpg",
+						"url": "https://t.co/uCP4QJZ0dl",
+						"display_url": "pic.twitter.com/uCP4QJZ0dl",
+						"expanded_url": "https://twitter.com/RexFB/status/819398257881321474/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819398237089984500,
+						"id_str": "819398237089984512",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C18WWvNUcAAEfZM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C18WWvNUcAAEfZM.jpg",
+						"url": "https://t.co/uCP4QJZ0dl",
+						"display_url": "pic.twitter.com/uCP4QJZ0dl",
+						"expanded_url": "https://twitter.com/RexFB/status/819398257881321474/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1225414633,
+				"id_str": "1225414633",
+				"name": "Rex Ferguson-Baird",
+				"screen_name": "RexFB",
+				"location": "",
+				"description": "Learner, Leader, Maker, Speaker. Recipient @TLPCanada #outstandingprincipal Award 2016, DENny 2015. Brooklands School, #SJASD, Winnipeg. Thoughts are my own.",
+				"url": "https://t.co/4TzXB3Azjq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4TzXB3Azjq",
+								"expanded_url": "http://sightingleadership.blogspot.ca",
+								"display_url": "sightingleadership.blogspot.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2529,
+				"friends_count": 2629,
+				"listed_count": 109,
+				"created_at": "Wed Feb 27 15:53:55 +0000 2013",
+				"favourites_count": 9248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9078,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000395805500/7f3d9b7a285b86c2806d5989cf502254_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000395805500/7f3d9b7a285b86c2806d5989cf502254_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1225414633/1472483542",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 12 01:45:52 +0000 2017",
 		"id": 819359709790515200,
 		"id_str": "819359709790515200",
