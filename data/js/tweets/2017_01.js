@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 19:39:52 +0000 2017",
+		"id": 821441932413046800,
+		"id_str": "821441932413046784",
+		"text": "Enjoyed my sharing with the folks at #transformlearning #dreamteam about personal and Personalized learning and exp… https://t.co/KkFAmhA1ux",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "transformlearning",
+					"indices": [
+						37,
+						55
+					]
+				},
+				{
+					"text": "dreamteam",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KkFAmhA1ux",
+					"expanded_url": "https://twitter.com/i/web/status/821441932413046784",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31839,
+			"friends_count": 5817,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 599,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 821425790575329300,
+		"quoted_status_id_str": "821425790575329281",
+		"quoted_status": {
+			"created_at": "Tue Jan 17 18:35:44 +0000 2017",
+			"id": 821425790575329300,
+			"id_str": "821425790575329281",
+			"text": "@shareski Thanks for sharing a great example of awesome teaching by @teacherdiana1 @ksuiteach @DiscoveryEd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "teacherdiana1",
+						"name": "Diana Williams",
+						"id": 499276364,
+						"id_str": "499276364",
+						"indices": [
+							68,
+							82
+						]
+					},
+					{
+						"screen_name": "ksuiteach",
+						"name": "KSU iTeach",
+						"id": 129823325,
+						"id_str": "129823325",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 15794027,
+				"id_str": "15794027",
+				"name": "Ana Hale",
+				"screen_name": "anahale",
+				"location": "Roswell, Ga",
+				"description": "I love books, reading, and my dogs. I'm a DEN Star teacher who loves teaching with technology.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 352,
+				"friends_count": 318,
+				"listed_count": 27,
+				"created_at": "Sun Aug 10 01:11:22 +0000 2008",
+				"favourites_count": 286,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/488792874595524608/mXwTcIMw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488792874595524608/mXwTcIMw_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 19:30:34 +0000 2017",
+		"id": 821439590473093100,
+		"id_str": "821439590473093121",
+		"text": "RT @ijohnpederson: I know what I’m getting @shareski and his wife Paula next. https://t.co/Hpdi6i8j3F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ijohnpederson",
+					"name": "ijohnpederson👨🏻‍💻",
+					"id": 71123,
+					"id_str": "71123",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hpdi6i8j3F",
+					"expanded_url": "http://www.eater.com/2017/1/17/14296962/chrissy-teigen-kfc-pajamas",
+					"display_url": "eater.com/2017/1/17/1429…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31839,
+			"friends_count": 5817,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 599,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 19:18:24 +0000 2017",
+			"id": 821436530128515100,
+			"id_str": "821436530128515073",
+			"text": "I know what I’m getting @shareski and his wife Paula next. https://t.co/Hpdi6i8j3F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Hpdi6i8j3F",
+						"expanded_url": "http://www.eater.com/2017/1/17/14296962/chrissy-teigen-kfc-pajamas",
+						"display_url": "eater.com/2017/1/17/1429…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71123,
+				"id_str": "71123",
+				"name": "ijohnpederson👨🏻‍💻",
+				"screen_name": "ijohnpederson",
+				"location": "Blue Mounds, Wisconsin",
+				"description": "Bug fixes.",
+				"url": "https://t.co/MlOqXa7jjo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MlOqXa7jjo",
+								"expanded_url": "http://ijohnpederson.com",
+								"display_url": "ijohnpederson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3531,
+				"friends_count": 326,
+				"listed_count": 265,
+				"created_at": "Fri Dec 15 17:19:55 +0000 2006",
+				"favourites_count": 4419,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723505087277047808/rk93FMuv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723505087277047808/rk93FMuv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71123/1377110403",
+				"profile_link_color": "330033",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 17 18:58:21 +0000 2017",
 		"id": 821431480882757600,
 		"id_str": "821431480882757632",
