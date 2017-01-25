@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 16:19:55 +0000 2017",
+		"id": 824290712707625000,
+		"id_str": "824290712707624961",
+		"text": "RT @HallDavidson: Great #deignite last night.Passion felt! @amandacdykes @ideaguy42 @RafranzDavis @MrsLauer @rushtonh @michaelthorpe36 @sco…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deignite",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HallDavidson",
+					"name": "HallDavidson",
+					"id": 7882162,
+					"id_str": "7882162",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "ideaguy42",
+					"name": "Bob Dillon",
+					"id": 22856987,
+					"id_str": "22856987",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "RafranzDavis",
+					"name": "Rafranz Davis",
+					"id": 15825051,
+					"id_str": "15825051",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "MrsLauer",
+					"name": "Diane Lauer",
+					"id": 11612812,
+					"id_str": "11612812",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "rushtonh",
+					"name": "Rushton Hurley",
+					"id": 14894240,
+					"id_str": "14894240",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"screen_name": "michaelthorpe36",
+					"name": "Michael Thorpe",
+					"id": 246805145,
+					"id_str": "246805145",
+					"indices": [
+						118,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31943,
+			"friends_count": 5835,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 605,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 25 16:01:12 +0000 2017",
+			"id": 824286003288571900,
+			"id_str": "824286003288571907",
+			"text": "Great #deignite last night.Passion felt! @amandacdykes @ideaguy42 @RafranzDavis @MrsLauer @rushtonh @michaelthorpe36 @scottburns  @shareski",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "deignite",
+						"indices": [
+							6,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amandacdykes",
+						"name": "Amanda Dykes",
+						"id": 16285501,
+						"id_str": "16285501",
+						"indices": [
+							41,
+							54
+						]
+					},
+					{
+						"screen_name": "ideaguy42",
+						"name": "Bob Dillon",
+						"id": 22856987,
+						"id_str": "22856987",
+						"indices": [
+							55,
+							65
+						]
+					},
+					{
+						"screen_name": "RafranzDavis",
+						"name": "Rafranz Davis",
+						"id": 15825051,
+						"id_str": "15825051",
+						"indices": [
+							66,
+							79
+						]
+					},
+					{
+						"screen_name": "MrsLauer",
+						"name": "Diane Lauer",
+						"id": 11612812,
+						"id_str": "11612812",
+						"indices": [
+							80,
+							89
+						]
+					},
+					{
+						"screen_name": "rushtonh",
+						"name": "Rushton Hurley",
+						"id": 14894240,
+						"id_str": "14894240",
+						"indices": [
+							90,
+							99
+						]
+					},
+					{
+						"screen_name": "michaelthorpe36",
+						"name": "Michael Thorpe",
+						"id": 246805145,
+						"id_str": "246805145",
+						"indices": [
+							100,
+							116
+						]
+					},
+					{
+						"screen_name": "scottburns",
+						"name": "Scott Burns",
+						"id": 17760459,
+						"id_str": "17760459",
+						"indices": [
+							117,
+							128
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							130,
+							139
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7882162,
+				"id_str": "7882162",
+				"name": "HallDavidson",
+				"screen_name": "HallDavidson",
+				"location": "Los Angeles",
+				"description": "40 years in education technology. Taught middle/high/college.Worked building teacher network for Discovery (DEN). Now Global ed.Hopeless ed tech geek since '73.",
+				"url": "http://t.co/xKY0xCclOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xKY0xCclOV",
+								"expanded_url": "http://www.discoveryeducation.com/speakers-bureau/index.cfm",
+								"display_url": "discoveryeducation.com/speakers-burea…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9521,
+				"friends_count": 714,
+				"listed_count": 424,
+				"created_at": "Wed Aug 01 14:32:50 +0000 2007",
+				"favourites_count": 88,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7882162/1402421527",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 25 11:45:05 +0000 2017",
 		"id": 824221548533973000,
 		"id_str": "824221548533972994",
