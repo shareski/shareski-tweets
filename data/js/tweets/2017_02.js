@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 20:58:43 +0000 2017",
+		"id": 831246245633073200,
+		"id_str": "831246245633073153",
+		"text": "RT @katiedaugird: Every week should be Random Acts of Kindness week! https://t.co/n2EJmYgmu1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katiedaugird",
+					"name": "Katie House Daugird",
+					"id": 778956371685412900,
+					"id_str": "778956371685412864",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n2EJmYgmu1",
+					"expanded_url": "https://twitter.com/discoveryed/status/830903102941298688",
+					"display_url": "twitter.com/discoveryed/st…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32257,
+			"friends_count": 5883,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 615,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 13 16:14:34 +0000 2017",
+			"id": 831174735216140300,
+			"id_str": "831174735216140293",
+			"text": "Every week should be Random Acts of Kindness week! https://t.co/n2EJmYgmu1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n2EJmYgmu1",
+						"expanded_url": "https://twitter.com/discoveryed/status/830903102941298688",
+						"display_url": "twitter.com/discoveryed/st…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 778956371685412900,
+				"id_str": "778956371685412864",
+				"name": "Katie House Daugird",
+				"screen_name": "katiedaugird",
+				"location": "Arlington Hts, IL",
+				"description": "Director of Urban Partnerships at Discovery Education. Passionate about transforming teaching and learning. Sports fanatic. Mom to two hilarious girls.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124,
+				"friends_count": 541,
+				"listed_count": 0,
+				"created_at": "Thu Sep 22 13:57:26 +0000 2016",
+				"favourites_count": 165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778957821232685056/1vv9wyma_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778957821232685056/1vv9wyma_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 830903102941298700,
+			"quoted_status_id_str": "830903102941298688",
+			"quoted_status": {
+				"created_at": "Sun Feb 12 22:15:11 +0000 2017",
+				"id": 830903102941298700,
+				"id_str": "830903102941298688",
+				"text": "Let’s turn the world kind! Random Acts of Kindness Week Feb 12-18 #RAKWeek2017 #DiscoverKindness randomactsof.us https://t.co/Hix2zpOomt",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RAKWeek2017",
+							"indices": [
+								66,
+								78
+							]
+						},
+						{
+							"text": "DiscoverKindness",
+							"indices": [
+								79,
+								96
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 830903099782893600,
+							"id_str": "830903099782893569",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/C4f194lUkAEPwMr.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4f194lUkAEPwMr.jpg",
+							"url": "https://t.co/Hix2zpOomt",
+							"display_url": "pic.twitter.com/Hix2zpOomt",
+							"expanded_url": "https://twitter.com/DiscoveryEd/status/830903102941298688/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1000,
+									"h": 1000,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1000,
+									"h": 1000,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 830903099782893600,
+							"id_str": "830903099782893569",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/C4f194lUkAEPwMr.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4f194lUkAEPwMr.jpg",
+							"url": "https://t.co/Hix2zpOomt",
+							"display_url": "pic.twitter.com/Hix2zpOomt",
+							"expanded_url": "https://twitter.com/DiscoveryEd/status/830903102941298688/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1000,
+									"h": 1000,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1000,
+									"h": 1000,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1665531,
+					"id_str": "1665531",
+					"name": "Discovery Education",
+					"screen_name": "DiscoveryEd",
+					"location": "Global",
+					"description": "Connecting teachers to their most powerful resources… Each other.",
+					"url": "https://t.co/X3GaFiYvXQ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/X3GaFiYvXQ",
+									"expanded_url": "http://DiscoveryEducation.com",
+									"display_url": "DiscoveryEducation.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 323767,
+					"friends_count": 7358,
+					"listed_count": 4710,
+					"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+					"favourites_count": 2174,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 26406,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/90654031/twilk_background_4bbf959e21168.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/90654031/twilk_background_4bbf959e21168.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1486744077",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 141,
+				"favorite_count": 102,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 830903102941298700,
+		"quoted_status_id_str": "830903102941298688",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 13 17:55:31 +0000 2017",
 		"id": 831200140266455000,
 		"id_str": "831200140266455040",
