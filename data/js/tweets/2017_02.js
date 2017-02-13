@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 17:55:31 +0000 2017",
+		"id": 831200140266455000,
+		"id_str": "831200140266455040",
+		"text": "RT @austinkleon: Wendell Berry’s standards for technological innovation (1987): https://t.co/wUwmuW8vpE https://t.co/9b8ZjnaYlr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austinkleon",
+					"name": "Austin Kleon",
+					"id": 9698942,
+					"id_str": "9698942",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wUwmuW8vpE",
+					"expanded_url": "http://home.btconnect.com/tipiglen/berrynot.html",
+					"display_url": "home.btconnect.com/tipiglen/berry…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 831191423118561300,
+					"id_str": "831191423118561280",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+					"url": "https://t.co/9b8ZjnaYlr",
+					"display_url": "pic.twitter.com/9b8ZjnaYlr",
+					"expanded_url": "https://twitter.com/austinkleon/status/831191433730224128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831191433730224100,
+					"source_status_id_str": "831191433730224128",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 831191423118561300,
+					"id_str": "831191423118561280",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+					"url": "https://t.co/9b8ZjnaYlr",
+					"display_url": "pic.twitter.com/9b8ZjnaYlr",
+					"expanded_url": "https://twitter.com/austinkleon/status/831191433730224128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 579,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831191433730224100,
+					"source_status_id_str": "831191433730224128",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32252,
+			"friends_count": 5882,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 615,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 13 17:20:55 +0000 2017",
+			"id": 831191433730224100,
+			"id_str": "831191433730224128",
+			"text": "Wendell Berry’s standards for technological innovation (1987): https://t.co/wUwmuW8vpE https://t.co/9b8ZjnaYlr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wUwmuW8vpE",
+						"expanded_url": "http://home.btconnect.com/tipiglen/berrynot.html",
+						"display_url": "home.btconnect.com/tipiglen/berry…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 831191423118561300,
+						"id_str": "831191423118561280",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+						"url": "https://t.co/9b8ZjnaYlr",
+						"display_url": "pic.twitter.com/9b8ZjnaYlr",
+						"expanded_url": "https://twitter.com/austinkleon/status/831191433730224128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831191423118561300,
+						"id_str": "831191423118561280",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4j8MgtVUAADJo3.jpg",
+						"url": "https://t.co/9b8ZjnaYlr",
+						"display_url": "pic.twitter.com/9b8ZjnaYlr",
+						"expanded_url": "https://twitter.com/austinkleon/status/831191433730224128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 579,
+								"h": 433,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 831190932255031300,
+			"in_reply_to_status_id_str": "831190932255031300",
+			"in_reply_to_user_id": 9698942,
+			"in_reply_to_user_id_str": "9698942",
+			"in_reply_to_screen_name": "austinkleon",
+			"user": {
+				"id": 9698942,
+				"id_str": "9698942",
+				"name": "Austin Kleon",
+				"screen_name": "austinkleon",
+				"location": "Austin, Texas",
+				"description": "Author of STEAL LIKE AN ARTIST and other books. Newsletters are the new Twitter: https://t.co/cJks9LUC0z",
+				"url": "https://t.co/ER0M6plgH2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ER0M6plgH2",
+								"expanded_url": "http://austinkleon.com/",
+								"display_url": "austinkleon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cJks9LUC0z",
+								"expanded_url": "http://austinkleon.com/newsletter",
+								"display_url": "austinkleon.com/newsletter",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 76601,
+				"friends_count": 1081,
+				"listed_count": 3509,
+				"created_at": "Fri Oct 26 01:03:22 +0000 2007",
+				"favourites_count": 92053,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76746,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9698942/1413591669",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 13 16:38:38 +0000 2017",
 		"id": 831180792487346200,
 		"id_str": "831180792487346176",
