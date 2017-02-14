@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 14 13:55:25 +0000 2017",
+		"id": 831502106305630200,
+		"id_str": "831502106305630208",
+		"text": "I assume these are welcoming words. https://t.co/0kDVX0htRA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0kDVX0htRA",
+					"expanded_url": "https://twitter.com/nsimard3/status/831500787259949057",
+					"display_url": "twitter.com/nsimard3/statu…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32272,
+			"friends_count": 5884,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 615,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 831500787259949000,
+		"quoted_status_id_str": "831500787259949057",
+		"quoted_status": {
+			"created_at": "Tue Feb 14 13:50:10 +0000 2017",
+			"id": 831500787259949000,
+			"id_str": "831500787259949057",
+			"text": "Au congrès du LCEEQ de Laval Qc, prête à écouter le Keynote de Dean Shareski @shareski @QAIStweets #lceeq2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lceeq2017",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							77,
+							86
+						]
+					},
+					{
+						"screen_name": "QAIStweets",
+						"name": "QAIS",
+						"id": 2749314482,
+						"id_str": "2749314482",
+						"indices": [
+							87,
+							98
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1317333463,
+				"id_str": "1317333463",
+				"name": "Nathalie Simard",
+				"screen_name": "NSimard3",
+				"location": "Montréal",
+				"description": "M.A. Enseignante au primaire depuis 20 ans et coord. des TICs au primaire au LCC. J'aime explorer avec mes élèves et introduire la technologie à ma pédagogie.",
+				"url": "https://t.co/vifpNVgeyH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vifpNVgeyH",
+								"expanded_url": "http://www.mmesimard3e.wordpress.com",
+								"display_url": "mmesimard3e.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 740,
+				"friends_count": 552,
+				"listed_count": 55,
+				"created_at": "Sat Mar 30 22:57:55 +0000 2013",
+				"favourites_count": 1185,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1747,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/444946240409989120/FmwHEe7P_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/444946240409989120/FmwHEe7P_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1317333463/1404972175",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 14 05:02:17 +0000 2017",
 		"id": 831367940570243100,
 		"id_str": "831367940570243074",
