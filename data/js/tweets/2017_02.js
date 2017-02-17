@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 21:27:00 +0000 2017",
+		"id": 832702914141397000,
+		"id_str": "832702914141396992",
+		"text": "Discuss https://t.co/ZQhlWvwJu4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZQhlWvwJu4",
+					"expanded_url": "https://instagram.com/p/BQl5BcsBNAl/",
+					"display_url": "instagram.com/p/BQl5BcsBNAl/",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32408,
+			"friends_count": 5912,
+			"listed_count": 1423,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 621,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 17 21:19:35 +0000 2017",
+		"id": 832701048397537300,
+		"id_str": "832701048397537281",
+		"text": "RT @dropstepdunk: My CNN 10 Quiz Today included this... @sportsvoxradio @shareski https://t.co/W9QM3GWVWf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dropstepdunk",
+					"name": "Matt Miller",
+					"id": 441046539,
+					"id_str": "441046539",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "sportsvoxradio",
+					"name": "Sports Vox Radio",
+					"id": 4426731373,
+					"id_str": "4426731373",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832614520400982000,
+					"id_str": "832614520400982017",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+					"url": "https://t.co/W9QM3GWVWf",
+					"display_url": "pic.twitter.com/W9QM3GWVWf",
+					"expanded_url": "https://twitter.com/dropstepdunk/status/832614576407642112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832614576407642100,
+					"source_status_id_str": "832614576407642112",
+					"source_user_id": 441046539,
+					"source_user_id_str": "441046539"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832614520400982000,
+					"id_str": "832614520400982017",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+					"url": "https://t.co/W9QM3GWVWf",
+					"display_url": "pic.twitter.com/W9QM3GWVWf",
+					"expanded_url": "https://twitter.com/dropstepdunk/status/832614576407642112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832614576407642100,
+					"source_status_id_str": "832614576407642112",
+					"source_user_id": 441046539,
+					"source_user_id_str": "441046539"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32408,
+			"friends_count": 5912,
+			"listed_count": 1423,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 621,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 17 15:35:58 +0000 2017",
+			"id": 832614576407642100,
+			"id_str": "832614576407642112",
+			"text": "My CNN 10 Quiz Today included this... @sportsvoxradio @shareski https://t.co/W9QM3GWVWf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sportsvoxradio",
+						"name": "Sports Vox Radio",
+						"id": 4426731373,
+						"id_str": "4426731373",
+						"indices": [
+							38,
+							53
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							54,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 832614520400982000,
+						"id_str": "832614520400982017",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+						"url": "https://t.co/W9QM3GWVWf",
+						"display_url": "pic.twitter.com/W9QM3GWVWf",
+						"expanded_url": "https://twitter.com/dropstepdunk/status/832614576407642112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832614520400982000,
+						"id_str": "832614520400982017",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C44KfrNVMAEdC5Q.jpg",
+						"url": "https://t.co/W9QM3GWVWf",
+						"display_url": "pic.twitter.com/W9QM3GWVWf",
+						"expanded_url": "https://twitter.com/dropstepdunk/status/832614576407642112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 657,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 441046539,
+				"id_str": "441046539",
+				"name": "Matt Miller",
+				"screen_name": "dropstepdunk",
+				"location": "Under a Shade Tree In Indiana",
+				"description": "Jesus | Husband | Dad | 6th SS Teacher | Photog | Graphic Designer | Coach | @CMSMrMiller #khakitennie https://t.co/963PbR9Tan",
+				"url": "https://t.co/Cn9x5Bi1kF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cn9x5Bi1kF",
+								"expanded_url": "http://www.millermatt.org",
+								"display_url": "millermatt.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/963PbR9Tan",
+								"expanded_url": "http://about.me/miller.matt",
+								"display_url": "about.me/miller.matt",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1388,
+				"friends_count": 2298,
+				"listed_count": 97,
+				"created_at": "Mon Dec 19 17:49:05 +0000 2011",
+				"favourites_count": 3876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CC6600",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619375783790821376/dGn5e5na.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619375783790821376/dGn5e5na.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763945635754016768/2v-6KZ04_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763945635754016768/2v-6KZ04_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/441046539/1478792317",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "636060",
+				"profile_text_color": "CD3E32",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 17 19:16:41 +0000 2017",
 		"id": 832670120908517400,
 		"id_str": "832670120908517380",
