@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 05:13:12 +0000 2017",
+		"id": 836081728242397200,
+		"id_str": "836081728242397184",
+		"text": "RT @joshgreenman: FAKE NEWS https://t.co/77AankDF0k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshgreenman",
+					"name": "Josh Greenman",
+					"id": 19024627,
+					"id_str": "19024627",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 836081547547721700,
+					"id_str": "836081547547721729",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+					"url": "https://t.co/77AankDF0k",
+					"display_url": "pic.twitter.com/77AankDF0k",
+					"expanded_url": "https://twitter.com/joshgreenman/status/836081552035557377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836081552035557400,
+					"source_status_id_str": "836081552035557377",
+					"source_user_id": 19024627,
+					"source_user_id_str": "19024627"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 836081547547721700,
+					"id_str": "836081547547721729",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+					"url": "https://t.co/77AankDF0k",
+					"display_url": "pic.twitter.com/77AankDF0k",
+					"expanded_url": "https://twitter.com/joshgreenman/status/836081552035557377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 225,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836081552035557400,
+					"source_status_id_str": "836081552035557377",
+					"source_user_id": 19024627,
+					"source_user_id_str": "19024627"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32617,
+			"friends_count": 5934,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 05:12:30 +0000 2017",
+			"id": 836081552035557400,
+			"id_str": "836081552035557377",
+			"text": "FAKE NEWS https://t.co/77AankDF0k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836081547547721700,
+						"id_str": "836081547547721729",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+						"url": "https://t.co/77AankDF0k",
+						"display_url": "pic.twitter.com/77AankDF0k",
+						"expanded_url": "https://twitter.com/joshgreenman/status/836081552035557377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 225,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836081547547721700,
+						"id_str": "836081547547721729",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5pbvNzXQAEsc3q.jpg",
+						"url": "https://t.co/77AankDF0k",
+						"display_url": "pic.twitter.com/77AankDF0k",
+						"expanded_url": "https://twitter.com/joshgreenman/status/836081552035557377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 225,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19024627,
+				"id_str": "19024627",
+				"name": "Josh Greenman",
+				"screen_name": "joshgreenman",
+				"location": "",
+				"description": "New York Daily News opinion editor, editorial writer. Tweets by me are not signed.",
+				"url": "https://t.co/8BuSoow8lu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8BuSoow8lu",
+								"expanded_url": "http://www.nydailynews.com",
+								"display_url": "nydailynews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31738,
+				"friends_count": 7278,
+				"listed_count": 1306,
+				"created_at": "Thu Jan 15 15:10:20 +0000 2009",
+				"favourites_count": 4704,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 166369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000452959740/eb0cb545c11d8cce3f9ceb7279f4544d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000452959740/eb0cb545c11d8cce3f9ceb7279f4544d_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 184,
+			"favorite_count": 249,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 27 02:48:30 +0000 2017",
 		"id": 836045314511405000,
 		"id_str": "836045314511405056",
