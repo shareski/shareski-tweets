@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 01 18:41:12 +0000 2017",
+		"id": 837009845022830600,
+		"id_str": "837009845022830593",
+		"text": "Day(s) of Discovery locations announced here. Free, awesome PD. You're invited. https://t.co/fFr4cUBbGu #DEPD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEPD",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fFr4cUBbGu",
+					"expanded_url": "http://www.dayofdiscoverytour.com/",
+					"display_url": "dayofdiscoverytour.com",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32630,
+			"friends_count": 5942,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 01 18:23:57 +0000 2017",
+		"id": 837005501653221400,
+		"id_str": "837005501653221376",
+		"text": "If you're at #SXSWEdu you'll want in on this. https://t.co/MG5yBcLe4X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SXSWEdu",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MG5yBcLe4X",
+					"expanded_url": "https://twitter.com/AndySchaeferDE/status/836957276904820736",
+					"display_url": "twitter.com/AndySchaeferDE…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32630,
+			"friends_count": 5942,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 836957276904820700,
+		"quoted_status_id_str": "836957276904820736",
+		"quoted_status": {
+			"created_at": "Wed Mar 01 15:12:19 +0000 2017",
+			"id": 836957276904820700,
+			"id_str": "836957276904820736",
+			"text": "Join us for an Ignite at #SXSWEdu https://t.co/sfKRvNBsfD hear from @RafranzDavis @susandpatrick @mrhooker @1to1Brian @TWFBihr @chrislehmann",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SXSWEdu",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RafranzDavis",
+						"name": "Rafranz Davis",
+						"id": 15825051,
+						"id_str": "15825051",
+						"indices": [
+							68,
+							81
+						]
+					},
+					{
+						"screen_name": "susandpatrick",
+						"name": "Susan Patrick",
+						"id": 61554990,
+						"id_str": "61554990",
+						"indices": [
+							82,
+							96
+						]
+					},
+					{
+						"screen_name": "mrhooker",
+						"name": "Carl Hooker",
+						"id": 9890872,
+						"id_str": "9890872",
+						"indices": [
+							97,
+							106
+						]
+					},
+					{
+						"screen_name": "1to1Brian",
+						"name": "Brian Romero Smith",
+						"id": 20115672,
+						"id_str": "20115672",
+						"indices": [
+							107,
+							117
+						]
+					},
+					{
+						"screen_name": "TWFBihr",
+						"name": "Kathy Bihr",
+						"id": 28220245,
+						"id_str": "28220245",
+						"indices": [
+							118,
+							126
+						]
+					},
+					{
+						"screen_name": "chrislehmann",
+						"name": "Chris Lehmann",
+						"id": 7108702,
+						"id_str": "7108702",
+						"indices": [
+							127,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sfKRvNBsfD",
+						"expanded_url": "http://bit.ly/2m8m12v",
+						"display_url": "bit.ly/2m8m12v",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18448804,
+				"id_str": "18448804",
+				"name": "Andy Schaefer",
+				"screen_name": "AndySchaeferDE",
+				"location": "Chicago, IL",
+				"description": "Husband and father of three children.  Vice President, Discovery Education US & General Manager for Discovery Education Canada.",
+				"url": "http://t.co/OOe0o2GzRf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OOe0o2GzRf",
+								"expanded_url": "http://www.discoveryeducation.com",
+								"display_url": "discoveryeducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1187,
+				"friends_count": 966,
+				"listed_count": 48,
+				"created_at": "Mon Dec 29 12:50:41 +0000 2008",
+				"favourites_count": 220,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1840662166/Andy_LBP_Large2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1840662166/Andy_LBP_Large2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18448804/1358855078",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 01 15:46:01 +0000 2017",
 		"id": 836965756604670000,
 		"id_str": "836965756604669955",
