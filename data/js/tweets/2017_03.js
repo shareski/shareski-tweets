@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 01:46:05 +0000 2017",
+		"id": 838928707515527200,
+		"id_str": "838928707515527169",
+		"text": "RT @teacherdiana1: Hey #sd36learn film maker @mike_mazzuca was so great to skype with my class, help him get his web series by watching his…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd36learn",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacherdiana1",
+					"name": "Diana Williams",
+					"id": 499276364,
+					"id_str": "499276364",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mike_mazzuca",
+					"name": "Michael Mazzuca",
+					"id": 719374544,
+					"id_str": "719374544",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32667,
+			"friends_count": 5947,
+			"listed_count": 1422,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 623,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 07 01:45:32 +0000 2017",
+			"id": 838928569925455900,
+			"id_str": "838928569925455874",
+			"text": "Hey #sd36learn film maker @mike_mazzuca was so great to skype with my class, help him get his web series by watchin… https://t.co/nGzTO75cft",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sd36learn",
+						"indices": [
+							4,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mike_mazzuca",
+						"name": "Michael Mazzuca",
+						"id": 719374544,
+						"id_str": "719374544",
+						"indices": [
+							26,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nGzTO75cft",
+						"expanded_url": "https://twitter.com/i/web/status/838928569925455874",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 499276364,
+				"id_str": "499276364",
+				"name": "Diana Williams",
+				"screen_name": "teacherdiana1",
+				"location": "BC, Canada",
+				"description": "Teacher, Speaker, Consultant #sd36learn. Student of PBL, Daily5/CAFE & innovative teaching. DEN Star, 2x #deanie award winner, Classroom Champion, KIVA ninja!",
+				"url": "https://t.co/jqOv8nc6w9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jqOv8nc6w9",
+								"expanded_url": "http://www.teacherdiana.com",
+								"display_url": "teacherdiana.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3069,
+				"friends_count": 2840,
+				"listed_count": 124,
+				"created_at": "Tue Feb 21 23:36:29 +0000 2012",
+				"favourites_count": 3383,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8803,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756311441922101248/vol7duqF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756311441922101248/vol7duqF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/499276364/1444142569",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838924593356238800,
+			"quoted_status_id_str": "838924593356238848",
+			"quoted_status": {
+				"created_at": "Tue Mar 07 01:29:44 +0000 2017",
+				"id": 838924593356238800,
+				"id_str": "838924593356238848",
+				"text": "Follow. https://t.co/3FNApex7Sj",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 838924573953269800,
+							"id_str": "838924573953269760",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/C6R1dIfUoAAE5KP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6R1dIfUoAAE5KP.jpg",
+							"url": "https://t.co/3FNApex7Sj",
+							"display_url": "pic.twitter.com/3FNApex7Sj",
+							"expanded_url": "https://twitter.com/TheMavericksWeb/status/838924593356238848/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1152,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 838924573953269800,
+							"id_str": "838924573953269760",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/C6R1dIfUoAAE5KP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6R1dIfUoAAE5KP.jpg",
+							"url": "https://t.co/3FNApex7Sj",
+							"display_url": "pic.twitter.com/3FNApex7Sj",
+							"expanded_url": "https://twitter.com/TheMavericksWeb/status/838924593356238848/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1152,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 836938753486778400,
+					"id_str": "836938753486778368",
+					"name": "The Mavericks",
+					"screen_name": "TheMavericksWeb",
+					"location": "Toronto, Ontario",
+					"description": "The Official Twitter Account for #TheMavericks Web series. Created by @mike_mazzuca & Sandro Cataldo.",
+					"url": "https://t.co/UWBOURrvbY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UWBOURrvbY",
+									"expanded_url": "https://goo.gl/Y0EPde",
+									"display_url": "goo.gl/Y0EPde",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 127,
+					"friends_count": 1283,
+					"listed_count": 1,
+					"created_at": "Wed Mar 01 13:58:43 +0000 2017",
+					"favourites_count": 2,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 19,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/837149012549648386/6Mz-s13D_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/837149012549648386/6Mz-s13D_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/836938753486778368/1488426822",
+					"profile_link_color": "8A0707",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838924593356238800,
+		"quoted_status_id_str": "838924593356238848",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 07 00:58:44 +0000 2017",
 		"id": 838916792949092400,
 		"id_str": "838916792949092352",
