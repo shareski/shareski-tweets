@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 17:58:56 +0000 2017",
+		"id": 839535924375666700,
+		"id_str": "839535924375666689",
+		"text": "RT @8Amber8: #BookSnaps #choosehappiness https://t.co/ouqOHyRqUL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookSnaps",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "choosehappiness",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 839514955867050000,
+					"id_str": "839514955867049984",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+					"url": "https://t.co/ouqOHyRqUL",
+					"display_url": "pic.twitter.com/ouqOHyRqUL",
+					"expanded_url": "https://twitter.com/8Amber8/status/839514979263004673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839514979263004700,
+					"source_status_id_str": "839514979263004673",
+					"source_user_id": 30315497,
+					"source_user_id_str": "30315497"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 839514955867050000,
+					"id_str": "839514955867049984",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+					"url": "https://t.co/ouqOHyRqUL",
+					"display_url": "pic.twitter.com/ouqOHyRqUL",
+					"expanded_url": "https://twitter.com/8Amber8/status/839514979263004673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839514979263004700,
+					"source_status_id_str": "839514979263004673",
+					"source_user_id": 30315497,
+					"source_user_id_str": "30315497"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32679,
+			"friends_count": 5951,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 624,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109079,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 08 16:35:43 +0000 2017",
+			"id": 839514979263004700,
+			"id_str": "839514979263004673",
+			"text": "#BookSnaps #choosehappiness https://t.co/ouqOHyRqUL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BookSnaps",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "choosehappiness",
+						"indices": [
+							11,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 839514955867050000,
+						"id_str": "839514955867049984",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+						"url": "https://t.co/ouqOHyRqUL",
+						"display_url": "pic.twitter.com/ouqOHyRqUL",
+						"expanded_url": "https://twitter.com/8Amber8/status/839514979263004673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 839514955867050000,
+						"id_str": "839514955867049984",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6aOZ4gVUAAoOCL.jpg",
+						"url": "https://t.co/ouqOHyRqUL",
+						"display_url": "pic.twitter.com/ouqOHyRqUL",
+						"expanded_url": "https://twitter.com/8Amber8/status/839514979263004673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30315497,
+				"id_str": "30315497",
+				"name": "Amber Teamann",
+				"screen_name": "8Amber8",
+				"location": "",
+				"description": "wife, mom, proud elementary principal, #edtech fan, loquacious on sports, education, and all things student centered!",
+				"url": "https://t.co/acEDNo910M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/acEDNo910M",
+								"expanded_url": "http://www.amberteamann.com",
+								"display_url": "amberteamann.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20092,
+				"friends_count": 6471,
+				"listed_count": 848,
+				"created_at": "Fri Apr 10 21:18:01 +0000 2009",
+				"favourites_count": 5650,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806980044862038016/689iBeGS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806980044862038016/689iBeGS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30315497/1412023931",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Mar 08 16:16:06 +0000 2017",
 		"id": 839510043909320700,
 		"id_str": "839510043909320705",
