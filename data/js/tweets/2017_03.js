@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 04:49:46 +0000 2017",
+		"id": 839337324056051700,
+		"id_str": "839337324056051713",
+		"text": "RT @yvrairport: Just retweet &amp; be entered to win FOUR free tix to Hong Kong on @cathaypacificCA's new A350 for @hkrugby7s #FlyFancy https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlyFancy",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yvrairport",
+					"name": "Vancouver Airport",
+					"id": 96006812,
+					"id_str": "96006812",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "cathaypacificCA",
+					"name": "Cathay Pacific CA",
+					"id": 41784892,
+					"id_str": "41784892",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"screen_name": "hkrugby7s",
+					"name": "Hong Kong Rugby 7s",
+					"id": 265890656,
+					"id_str": "265890656",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32677,
+			"friends_count": 5949,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 623,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 08 01:22:10 +0000 2017",
+			"id": 839285077662040000,
+			"id_str": "839285077662040065",
+			"text": "Just retweet &amp; be entered to win FOUR free tix to Hong Kong on @cathaypacificCA's new A350 for @hkrugby7s #FlyFancy… https://t.co/ng6sxWNEQg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FlyFancy",
+						"indices": [
+							110,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cathaypacificCA",
+						"name": "Cathay Pacific CA",
+						"id": 41784892,
+						"id_str": "41784892",
+						"indices": [
+							67,
+							83
+						]
+					},
+					{
+						"screen_name": "hkrugby7s",
+						"name": "Hong Kong Rugby 7s",
+						"id": 265890656,
+						"id_str": "265890656",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ng6sxWNEQg",
+						"expanded_url": "https://twitter.com/i/web/status/839285077662040065",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96006812,
+				"id_str": "96006812",
+				"name": "Vancouver Airport",
+				"screen_name": "yvrairport",
+				"location": "Vancouver, B.C. Canada",
+				"description": "Official Twitter account of Vancouver International Airport (YVR). For immediate assistance call 604.207.7077.",
+				"url": "https://t.co/5WS8yTsq3g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5WS8yTsq3g",
+								"expanded_url": "http://www.yvr.ca",
+								"display_url": "yvr.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47996,
+				"friends_count": 9703,
+				"listed_count": 1168,
+				"created_at": "Thu Dec 10 23:14:17 +0000 2009",
+				"favourites_count": 20492,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20552,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "859E3C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519915869380427776/IE6UbQxN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519915869380427776/IE6UbQxN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808452374855438336/XMrTnJ9s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808452374855438336/XMrTnJ9s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96006812/1415641580",
+				"profile_link_color": "0A548B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 196,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 08 02:54:08 +0000 2017",
 		"id": 839308221240258600,
 		"id_str": "839308221240258560",
