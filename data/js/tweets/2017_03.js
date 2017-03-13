@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 14:45:08 +0000 2017",
+		"id": 841299091934060500,
+		"id_str": "841299091934060544",
+		"text": "RT @DiscoveryEd: Try #SpotlightOnStrategies with your students - register for our six-week challenge: https://t.co/LLrMh7kusS https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotlightOnStrategies",
+					"indices": [
+						21,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LLrMh7kusS",
+					"expanded_url": "http://bit.ly/2mmlKt7",
+					"display_url": "bit.ly/2mmlKt7",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32749,
+			"friends_count": 5975,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 628,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 13 14:41:57 +0000 2017",
+			"id": 841298288833908700,
+			"id_str": "841298288833908736",
+			"text": "Try #SpotlightOnStrategies with your students - register for our six-week challenge: https://t.co/LLrMh7kusS https://t.co/WGxk0e7u6P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpotlightOnStrategies",
+						"indices": [
+							4,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LLrMh7kusS",
+						"expanded_url": "http://bit.ly/2mmlKt7",
+						"display_url": "bit.ly/2mmlKt7",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 841297969869705200,
+						"id_str": "841297969869705216",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zkC9RXUAA-Lg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zkC9RXUAA-Lg8.jpg",
+						"url": "https://t.co/WGxk0e7u6P",
+						"display_url": "pic.twitter.com/WGxk0e7u6P",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/841298288833908736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841297969869705200,
+						"id_str": "841297969869705216",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C6zkC9RXUAA-Lg8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6zkC9RXUAA-Lg8.jpg",
+						"url": "https://t.co/WGxk0e7u6P",
+						"display_url": "pic.twitter.com/WGxk0e7u6P",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/841298288833908736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 590,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1665531,
+				"id_str": "1665531",
+				"name": "Discovery Education",
+				"screen_name": "DiscoveryEd",
+				"location": "Global",
+				"description": "Connecting teachers to their most powerful resources… Each other.",
+				"url": "https://t.co/X3GaFiYvXQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X3GaFiYvXQ",
+								"expanded_url": "http://DiscoveryEducation.com",
+								"display_url": "DiscoveryEducation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 327045,
+				"friends_count": 7387,
+				"listed_count": 4727,
+				"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+				"favourites_count": 2305,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26776,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/90654031/twilk_background_4bbf959e21168.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/90654031/twilk_background_4bbf959e21168.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1489186100",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 13 04:46:07 +0000 2017",
 		"id": 841148345406111700,
 		"id_str": "841148345406111744",
