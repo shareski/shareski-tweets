@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 15:12:17 +0000 2017",
+		"id": 844567413672853500,
+		"id_str": "844567413672853507",
+		"text": "RT @DMLO_o: Never stop learning. Register for #DEXP https://t.co/Oav8IhtM8p #ngrd #psd70 #phrd7 #stalbertpublic #starcatholic #ssd24 @share…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEXP",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "ngrd",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "psd70",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "phrd7",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "stalbertpublic",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"text": "starcatholic",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "ssd24",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMLO_o",
+					"name": "Diane Lefebvre",
+					"id": 384503376,
+					"id_str": "384503376",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Oav8IhtM8p",
+					"expanded_url": "http://goo.gl/WnPBht",
+					"display_url": "goo.gl/WnPBht",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32935,
+			"friends_count": 5984,
+			"listed_count": 1419,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 628,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 15:11:42 +0000 2017",
+			"id": 844567269107814400,
+			"id_str": "844567269107814400",
+			"text": "Never stop learning. Register for #DEXP https://t.co/Oav8IhtM8p #ngrd #psd70 #phrd7 #stalbertpublic #starcatholic… https://t.co/k9TmBfetjP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DEXP",
+						"indices": [
+							34,
+							39
+						]
+					},
+					{
+						"text": "ngrd",
+						"indices": [
+							64,
+							69
+						]
+					},
+					{
+						"text": "psd70",
+						"indices": [
+							70,
+							76
+						]
+					},
+					{
+						"text": "phrd7",
+						"indices": [
+							77,
+							83
+						]
+					},
+					{
+						"text": "stalbertpublic",
+						"indices": [
+							84,
+							99
+						]
+					},
+					{
+						"text": "starcatholic",
+						"indices": [
+							100,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Oav8IhtM8p",
+						"expanded_url": "http://goo.gl/WnPBht",
+						"display_url": "goo.gl/WnPBht",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/k9TmBfetjP",
+						"expanded_url": "https://twitter.com/i/web/status/844567269107814400",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 384503376,
+				"id_str": "384503376",
+				"name": "Diane Lefebvre",
+				"screen_name": "DMLO_o",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 156,
+				"listed_count": 10,
+				"created_at": "Mon Oct 03 20:10:48 +0000 2011",
+				"favourites_count": 30,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 186,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2772258949/2a2af47330c8564405df955cab4d43ea_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2772258949/2a2af47330c8564405df955cab4d43ea_normal.jpeg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 22 01:45:01 +0000 2017",
 		"id": 844364260801232900,
 		"id_str": "844364260801232896",
