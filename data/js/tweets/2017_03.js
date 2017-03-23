@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 23:23:59 +0000 2017",
+		"id": 844691155287769100,
+		"id_str": "844691155287769088",
+		"text": "RT @yxecows: #skbudget #skpoli Consumption Tax items: 1.5% tax on all wives who try to change their husbands. It won't work. Not much going…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "skbudget",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "skpoli",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yxecows",
+					"name": "YXECOWS",
+					"id": 2532597019,
+					"id_str": "2532597019",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32940,
+			"friends_count": 5985,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 628,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 20:34:07 +0000 2017",
+			"id": 844648406597361700,
+			"id_str": "844648406597361664",
+			"text": "#skbudget #skpoli Consumption Tax items: 1.5% tax on all wives who try to change their husbands. It won't work. Not much going on upstairs.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "skbudget",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "skpoli",
+						"indices": [
+							10,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2532597019,
+				"id_str": "2532597019",
+				"name": "YXECOWS",
+				"screen_name": "yxecows",
+				"location": "Saskatoon ",
+				"description": "Educated Cows in #yxe. We graze at the best University on Earth. Fighting for your right to cheap booze in a strip mall near you! Parody account, obviously.",
+				"url": "https://t.co/PoJDX4hvQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PoJDX4hvQF",
+								"expanded_url": "http://tinyurl.com/hhbs8jn",
+								"display_url": "tinyurl.com/hhbs8jn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2310,
+				"friends_count": 871,
+				"listed_count": 19,
+				"created_at": "Thu May 29 12:43:19 +0000 2014",
+				"favourites_count": 2228,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8253,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636286749119934464/0NMEgyB0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/636286749119934464/0NMEgyB0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781613074738393088/DQZq-Q_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781613074738393088/DQZq-Q_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2532597019/1477564504",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 22 22:23:54 +0000 2017",
 		"id": 844676035295744000,
 		"id_str": "844676035295744001",
