@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 15:41:05 +0000 2017",
+		"id": 845299438247727100,
+		"id_str": "845299438247727105",
+		"text": "If you want to know what great sharing looks like, devoid of bragging or self promoting, pay attention to @avivaloca https://t.co/0iIsPUWzv6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avivaloca",
+					"name": "Aviva Dunsiger",
+					"id": 62133901,
+					"id_str": "62133901",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0iIsPUWzv6",
+					"expanded_url": "https://twitter.com/avivaloca/status/845299103349268483",
+					"display_url": "twitter.com/avivaloca/stat…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32994,
+			"friends_count": 5987,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 628,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109278,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845299103349268500,
+		"quoted_status_id_str": "845299103349268483",
+		"quoted_status": {
+			"created_at": "Fri Mar 24 15:39:45 +0000 2017",
+			"id": 845299103349268500,
+			"id_str": "845299103349268483",
+			"text": "A debate over what this may be (&amp; why). Love their thinking. https://t.co/yRSTDW8bDn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845298935610523600,
+						"id_str": "845298935610523648",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845298935610523648/pu/img/EWBYNk-dYjxBrMrm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845298935610523648/pu/img/EWBYNk-dYjxBrMrm.jpg",
+						"url": "https://t.co/yRSTDW8bDn",
+						"display_url": "pic.twitter.com/yRSTDW8bDn",
+						"expanded_url": "https://twitter.com/avivaloca/status/845299103349268483/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845298935610523600,
+						"id_str": "845298935610523648",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845298935610523648/pu/img/EWBYNk-dYjxBrMrm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845298935610523648/pu/img/EWBYNk-dYjxBrMrm.jpg",
+						"url": "https://t.co/yRSTDW8bDn",
+						"display_url": "pic.twitter.com/yRSTDW8bDn",
+						"expanded_url": "https://twitter.com/avivaloca/status/845299103349268483/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 37825,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845298935610523648/pu/vid/640x360/yOkI3d_RQUoK8CY8.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/845298935610523648/pu/pl/MxzNkT7gC1-K9DXI.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845298935610523648/pu/vid/1280x720/D3DBQJTCFy53etfM.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845298935610523648/pu/vid/320x180/MqxmpynFfCkS-zvL.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62133901,
+				"id_str": "62133901",
+				"name": "Aviva Dunsiger",
+				"screen_name": "avivaloca",
+				"location": "Hamilton, Ontario, Canada",
+				"description": "Teaching is my passion. Have taught all grades from K-6. Excited to be back in JK/SK!\nClass Blog: https://t.co/RywMqkCKKE",
+				"url": "https://t.co/zSvRKcViKu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zSvRKcViKu",
+								"expanded_url": "http://adunsiger.com",
+								"display_url": "adunsiger.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RywMqkCKKE",
+								"expanded_url": "https://mrscrockett.commons.hwdsb.on.ca/",
+								"display_url": "mrscrockett.commons.hwdsb.on.ca",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10590,
+				"friends_count": 10052,
+				"listed_count": 582,
+				"created_at": "Sat Aug 01 22:34:02 +0000 2009",
+				"favourites_count": 7783,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 150946,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616319918/twilk_background_501343dae7e39.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616319918/twilk_background_501343dae7e39.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771489502682570752/gimm1LKo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771489502682570752/gimm1LKo_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 23 23:35:44 +0000 2017",
 		"id": 845056498573201400,
 		"id_str": "845056498573201408",
