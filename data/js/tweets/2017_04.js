@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 18:09:36 +0000 2017",
+		"id": 852222184596676600,
+		"id_str": "852222184596676609",
+		"text": "Likewise. So grateful for my Ontario connections. https://t.co/Ol5hkbz8Nm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ol5hkbz8Nm",
+					"expanded_url": "https://twitter.com/markwcarbone/status/852220563334602767",
+					"display_url": "twitter.com/markwcarbone/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33186,
+			"friends_count": 6009,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852220563334602800,
+		"quoted_status_id_str": "852220563334602767",
+		"quoted_status": {
+			"created_at": "Wed Apr 12 18:03:10 +0000 2017",
+			"id": 852220563334602800,
+			"id_str": "852220563334602767",
+			"text": "Enjoyed invigorating lunch conversation with  @shareski @royanlee @msjweir @eddoadt @HeidiSiwak @AndrewBieronski @cresencia - awesome!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							46,
+							55
+						]
+					},
+					{
+						"screen_name": "royanlee",
+						"name": "royan🌶",
+						"id": 30651485,
+						"id_str": "30651485",
+						"indices": [
+							56,
+							65
+						]
+					},
+					{
+						"screen_name": "msjweir",
+						"name": "Jamie Reaburn Weir",
+						"id": 14468274,
+						"id_str": "14468274",
+						"indices": [
+							66,
+							74
+						]
+					},
+					{
+						"screen_name": "eddoadt",
+						"name": "Ed Doadt ☕️🇨🇦",
+						"id": 35578315,
+						"id_str": "35578315",
+						"indices": [
+							75,
+							83
+						]
+					},
+					{
+						"screen_name": "HeidiSiwak",
+						"name": "Heidi Siwak",
+						"id": 211949928,
+						"id_str": "211949928",
+						"indices": [
+							84,
+							95
+						]
+					},
+					{
+						"screen_name": "AndrewBieronski",
+						"name": "Andrew Bieronski",
+						"id": 313378457,
+						"id_str": "313378457",
+						"indices": [
+							96,
+							112
+						]
+					},
+					{
+						"screen_name": "cresencia",
+						"name": "Cresencia Fong",
+						"id": 11173992,
+						"id_str": "11173992",
+						"indices": [
+							113,
+							123
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24306537,
+				"id_str": "24306537",
+				"name": "Mark W. Carbone",
+				"screen_name": "markwcarbone",
+				"location": "Cambridge ON Canada",
+				"description": "CIO, Waterloo Region DSB: Connected Leader & Learner  #OSSEMOOC #OSAPAC #plpnetwork #ECOO15 #edwrdsb  OASBO PLPeep ::: connect, learn, reflect, share!",
+				"url": "http://t.co/XuHCfpwMf4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XuHCfpwMf4",
+								"expanded_url": "http://blog.markwcarbone.ca/",
+								"display_url": "blog.markwcarbone.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6532,
+				"friends_count": 6651,
+				"listed_count": 378,
+				"created_at": "Sat Mar 14 01:59:53 +0000 2009",
+				"favourites_count": 1517,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13070,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725370903794618368/nb0A9ihP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725370903794618368/nb0A9ihP_normal.jpg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 18:03:20 +0000 2017",
+		"id": 852220606741454800,
+		"id_str": "852220606741454860",
+		"text": "@thebenhartman sometimes, and yes, there are things we can learn but perhaps we might do well to celebrate our own innovations more.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebenhartman",
+					"name": "Ben Hartman",
+					"id": 508965076,
+					"id_str": "508965076",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 852219440032862200,
+		"in_reply_to_status_id_str": "852219440032862208",
+		"in_reply_to_user_id": 508965076,
+		"in_reply_to_user_id_str": "508965076",
+		"in_reply_to_screen_name": "thebenhartman",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33186,
+			"friends_count": 6009,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 12 15:51:35 +0000 2017",
 		"id": 852187447849046000,
 		"id_str": "852187447849046017",
