@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 14:30:36 +0000 2017",
+		"id": 854341397578567700,
+		"id_str": "854341397578567680",
+		"text": "So great to see familiar and new faces from across the pond. Have a wonderful day! @DiscoveryEd https://t.co/WMG9pPHH31",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WMG9pPHH31",
+					"expanded_url": "https://twitter.com/trysomeicytea/status/854335882366775296",
+					"display_url": "twitter.com/trysomeicytea/…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33225,
+			"friends_count": 6013,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109504,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854335882366775300,
+		"quoted_status_id_str": "854335882366775296",
+		"quoted_status": {
+			"created_at": "Tue Apr 18 14:08:41 +0000 2017",
+			"id": 854335882366775300,
+			"id_str": "854335882366775296",
+			"text": "A surprise appearance from @shareski in our mystery skype session this afternoon! Thanks @missglclarke #DoDKnebworth #ukdenchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoDKnebworth",
+						"indices": [
+							103,
+							116
+						]
+					},
+					{
+						"text": "ukdenchat",
+						"indices": [
+							117,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							27,
+							36
+						]
+					},
+					{
+						"screen_name": "missglclarke",
+						"name": "Gemma Clarke",
+						"id": 247966256,
+						"id_str": "247966256",
+						"indices": [
+							89,
+							102
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1849317986,
+				"id_str": "1849317986",
+				"name": "Philip Nottingham",
+				"screen_name": "trysomeicytea",
+				"location": "North West, England",
+				"description": "Primary ICT Teacher, changing the world one byte at a time. Google and Raspberry Pi Certified Educator. https://t.co/Q5bRrc8KQQ",
+				"url": "https://t.co/MFhoT2OLPk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MFhoT2OLPk",
+								"expanded_url": "http://trysomeicytea.com",
+								"display_url": "trysomeicytea.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Q5bRrc8KQQ",
+								"expanded_url": "http://fb.me/trysomeicytea",
+								"display_url": "fb.me/trysomeicytea",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 691,
+				"friends_count": 321,
+				"listed_count": 63,
+				"created_at": "Mon Sep 09 20:15:51 +0000 2013",
+				"favourites_count": 571,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1464,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506523390312591360/W2bBRGkW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506523390312591360/W2bBRGkW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644263649297743872/3ojdmN1r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644263649297743872/3ojdmN1r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1849317986/1442439297",
+				"profile_link_color": "055933",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 18 05:18:20 +0000 2017",
 		"id": 854202413745569800,
 		"id_str": "854202413745569792",
