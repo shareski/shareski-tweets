@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 15:31:04 +0000 2017",
+		"id": 855081388848054300,
+		"id_str": "855081388848054274",
+		"text": "RT @DMLO_o: 1 week left! #DEXP https://t.co/Oav8IhtM8p #ngrd #psd70 #phrd7 #stalbertpublic #starcatholic #ssd24 @shareski https://t.co/rPsY…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEXP",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "ngrd",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "psd70",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "phrd7",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "stalbertpublic",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"text": "starcatholic",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "ssd24",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMLO_o",
+					"name": "Diane Lefebvre",
+					"id": 384503376,
+					"id_str": "384503376",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Oav8IhtM8p",
+					"expanded_url": "http://goo.gl/WnPBht",
+					"display_url": "goo.gl/WnPBht",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33253,
+			"friends_count": 6017,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 628,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 20 15:03:07 +0000 2017",
+			"id": 855074356489334800,
+			"id_str": "855074356489334784",
+			"text": "1 week left! #DEXP https://t.co/Oav8IhtM8p #ngrd #psd70 #phrd7 #stalbertpublic #starcatholic #ssd24 @shareski https://t.co/rPsYr7NH6b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DEXP",
+						"indices": [
+							13,
+							18
+						]
+					},
+					{
+						"text": "ngrd",
+						"indices": [
+							43,
+							48
+						]
+					},
+					{
+						"text": "psd70",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "phrd7",
+						"indices": [
+							56,
+							62
+						]
+					},
+					{
+						"text": "stalbertpublic",
+						"indices": [
+							63,
+							78
+						]
+					},
+					{
+						"text": "starcatholic",
+						"indices": [
+							79,
+							92
+						]
+					},
+					{
+						"text": "ssd24",
+						"indices": [
+							93,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							100,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Oav8IhtM8p",
+						"expanded_url": "http://goo.gl/WnPBht",
+						"display_url": "goo.gl/WnPBht",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 844567217328943100,
+						"id_str": "844567217328943104",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C7iBaNHU8AAW4BN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7iBaNHU8AAW4BN.jpg",
+						"url": "https://t.co/rPsYr7NH6b",
+						"display_url": "pic.twitter.com/rPsYr7NH6b",
+						"expanded_url": "https://twitter.com/DMLO_o/status/844567269107814400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 844567269107814400,
+						"source_status_id_str": "844567269107814400",
+						"source_user_id": 384503376,
+						"source_user_id_str": "384503376"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844567217328943100,
+						"id_str": "844567217328943104",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C7iBaNHU8AAW4BN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7iBaNHU8AAW4BN.jpg",
+						"url": "https://t.co/rPsYr7NH6b",
+						"display_url": "pic.twitter.com/rPsYr7NH6b",
+						"expanded_url": "https://twitter.com/DMLO_o/status/844567269107814400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 302,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 844567269107814400,
+						"source_status_id_str": "844567269107814400",
+						"source_user_id": 384503376,
+						"source_user_id_str": "384503376"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 384503376,
+				"id_str": "384503376",
+				"name": "Diane Lefebvre",
+				"screen_name": "DMLO_o",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 156,
+				"listed_count": 10,
+				"created_at": "Mon Oct 03 20:10:48 +0000 2011",
+				"favourites_count": 31,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2772258949/2a2af47330c8564405df955cab4d43ea_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2772258949/2a2af47330c8564405df955cab4d43ea_normal.jpeg",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 20 03:16:17 +0000 2017",
 		"id": 854896473296842800,
 		"id_str": "854896473296842754",
