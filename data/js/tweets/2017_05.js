@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 14 19:53:59 +0000 2017",
+		"id": 863844862973628400,
+		"id_str": "863844862973628416",
+		"text": "RT @RSKvamme: This happens more often than you'd think! I've even been called \"grandma\" before... #truth #HappyMothersDay https://t.co/OPnr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "truth",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "HappyMothersDay",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RSKvamme",
+					"name": "Rachelle Mievre",
+					"id": 891927416,
+					"id_str": "891927416",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33572,
+			"friends_count": 6063,
+			"listed_count": 1419,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 630,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 14 19:47:35 +0000 2017",
+			"id": 863843254105555000,
+			"id_str": "863843254105554945",
+			"text": "This happens more often than you'd think! I've even been called \"grandma\" before... #truth #HappyMothersDay https://t.co/OPnrD8A5DY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "truth",
+						"indices": [
+							84,
+							90
+						]
+					},
+					{
+						"text": "HappyMothersDay",
+						"indices": [
+							91,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863843245591191600,
+						"id_str": "863843245591191552",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C_z82uMVYAAJ--K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_z82uMVYAAJ--K.jpg",
+						"url": "https://t.co/OPnrD8A5DY",
+						"display_url": "pic.twitter.com/OPnrD8A5DY",
+						"expanded_url": "https://twitter.com/RSKvamme/status/863843254105554945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863843245591191600,
+						"id_str": "863843245591191552",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C_z82uMVYAAJ--K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_z82uMVYAAJ--K.jpg",
+						"url": "https://t.co/OPnrD8A5DY",
+						"display_url": "pic.twitter.com/OPnrD8A5DY",
+						"expanded_url": "https://twitter.com/RSKvamme/status/863843254105554945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 477,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 891927416,
+				"id_str": "891927416",
+				"name": "Rachelle Mievre",
+				"screen_name": "RSKvamme",
+				"location": "Regina, SK",
+				"description": "Wife. Middle years teacher. Music lover. Voracious reader. Owner of the cutest mutt. #GeniusHour enthusiast. Follow my classroom @MrsMievresClass.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 570,
+				"friends_count": 932,
+				"listed_count": 17,
+				"created_at": "Fri Oct 19 21:59:24 +0000 2012",
+				"favourites_count": 597,
+				"utc_offset": -21600,
+				"time_zone": "Saskatchewan",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848606854015889408/xt5VYPYH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848606854015889408/xt5VYPYH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/891927416/1493091045",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 14 18:39:25 +0000 2017",
 		"id": 863826096420266000,
 		"id_str": "863826096420265984",
