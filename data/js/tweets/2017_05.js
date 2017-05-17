@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 17 16:44:46 +0000 2017",
+		"id": 864884408192352300,
+		"id_str": "864884408192352256",
+		"text": "Awesome. @DaneSadownyk is bringing his show to #yvr tonight for this. https://t.co/4RxlATrWOm https://t.co/cxlw5PaKfN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yvr",
+					"indices": [
+						47,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4RxlATrWOm",
+					"expanded_url": "https://www.eventbrite.com/e/ignite-your-passion-for-discovery-vancouver-2017-tickets-33827922226?err=29",
+					"display_url": "eventbrite.com/e/ignite-your-…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/cxlw5PaKfN",
+					"expanded_url": "https://twitter.com/_teach2learn/status/864859404432097280",
+					"display_url": "twitter.com/_teach2learn/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33612,
+			"friends_count": 6072,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 864859404432097300,
+		"quoted_status_id_str": "864859404432097280",
+		"quoted_status": {
+			"created_at": "Wed May 17 15:05:24 +0000 2017",
+			"id": 864859404432097300,
+			"id_str": "864859404432097280",
+			"text": "Starting the day off right at #ecsd #emtech #googlesummit with @DaneSadownyk @mrsroffey #summitof69 https://t.co/6gbK2bZBAd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ecsd",
+						"indices": [
+							30,
+							35
+						]
+					},
+					{
+						"text": "emtech",
+						"indices": [
+							36,
+							43
+						]
+					},
+					{
+						"text": "googlesummit",
+						"indices": [
+							44,
+							57
+						]
+					},
+					{
+						"text": "summitof69",
+						"indices": [
+							88,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DaneSadownyk",
+						"name": "Dane Sadownyk",
+						"id": 2401850311,
+						"id_str": "2401850311",
+						"indices": [
+							63,
+							76
+						]
+					},
+					{
+						"screen_name": "mrsroffey",
+						"name": "Trisha Roffey",
+						"id": 459903904,
+						"id_str": "459903904",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 864859385545187300,
+						"id_str": "864859385545187328",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DACZB2gVYAAh5dd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DACZB2gVYAAh5dd.jpg",
+						"url": "https://t.co/6gbK2bZBAd",
+						"display_url": "pic.twitter.com/6gbK2bZBAd",
+						"expanded_url": "https://twitter.com/_Teach2Learn/status/864859404432097280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 864859385545187300,
+						"id_str": "864859385545187328",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DACZB2gVYAAh5dd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DACZB2gVYAAh5dd.jpg",
+						"url": "https://t.co/6gbK2bZBAd",
+						"display_url": "pic.twitter.com/6gbK2bZBAd",
+						"expanded_url": "https://twitter.com/_Teach2Learn/status/864859404432097280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1355402382,
+				"id_str": "1355402382",
+				"name": "Sarah Platero",
+				"screen_name": "_Teach2Learn",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 337,
+				"friends_count": 355,
+				"listed_count": 24,
+				"created_at": "Mon Apr 15 21:46:00 +0000 2013",
+				"favourites_count": 1830,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 878,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689965800107671552/4glmXYGz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689965800107671552/4glmXYGz_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 17 04:55:07 +0000 2017",
 		"id": 864705819354333200,
 		"id_str": "864705819354333184",
