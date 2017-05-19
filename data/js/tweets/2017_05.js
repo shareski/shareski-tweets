@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 17:25:01 +0000 2017",
+		"id": 865619314207895600,
+		"id_str": "865619314207895552",
+		"text": "RT @Vendram1n: @HallDavidson talking flexible learning environments. There are no rectangles in nature! @DiscoveryEd #sd36learn https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd36learn",
+					"indices": [
+						117,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vendram1n",
+					"name": "Antonio Vendramin",
+					"id": 262981141,
+					"id_str": "262981141",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "HallDavidson",
+					"name": "HallDavidson",
+					"id": 7882162,
+					"id_str": "7882162",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33630,
+			"friends_count": 6076,
+			"listed_count": 1421,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109851,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 19 17:24:35 +0000 2017",
+			"id": 865619203780255700,
+			"id_str": "865619203780255744",
+			"text": "@HallDavidson talking flexible learning environments. There are no rectangles in nature! @DiscoveryEd #sd36learn https://t.co/ziGJBEXZ9F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sd36learn",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HallDavidson",
+						"name": "HallDavidson",
+						"id": 7882162,
+						"id_str": "7882162",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 865619199233634300,
+						"id_str": "865619199233634304",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DANME1EUMAALBMC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DANME1EUMAALBMC.jpg",
+						"url": "https://t.co/ziGJBEXZ9F",
+						"display_url": "pic.twitter.com/ziGJBEXZ9F",
+						"expanded_url": "https://twitter.com/Vendram1n/status/865619203780255744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865619199233634300,
+						"id_str": "865619199233634304",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DANME1EUMAALBMC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DANME1EUMAALBMC.jpg",
+						"url": "https://t.co/ziGJBEXZ9F",
+						"display_url": "pic.twitter.com/ziGJBEXZ9F",
+						"expanded_url": "https://twitter.com/Vendram1n/status/865619203780255744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 865619199208562700,
+						"id_str": "865619199208562688",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DANME0-VoAAHicA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DANME0-VoAAHicA.jpg",
+						"url": "https://t.co/ziGJBEXZ9F",
+						"display_url": "pic.twitter.com/ziGJBEXZ9F",
+						"expanded_url": "https://twitter.com/Vendram1n/status/865619203780255744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 7882162,
+			"in_reply_to_user_id_str": "7882162",
+			"in_reply_to_screen_name": "HallDavidson",
+			"user": {
+				"id": 262981141,
+				"id_str": "262981141",
+				"name": "Antonio Vendramin",
+				"screen_name": "Vendram1n",
+				"location": "Langley, B.C., Canada",
+				"description": "Always Failing-Always Learning! Dist. Principal, Communicating Student Learning, Surrey, Canada. ❤Family-Hiking-Running-Camping-🐶. Tweets/opinions are my own.",
+				"url": "https://t.co/n8OxIsoBHx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n8OxIsoBHx",
+								"expanded_url": "http://about.me/Vendramin",
+								"display_url": "about.me/Vendramin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2690,
+				"friends_count": 2023,
+				"listed_count": 102,
+				"created_at": "Wed Mar 09 03:58:39 +0000 2011",
+				"favourites_count": 1664,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7140,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647931341338611713/aSG4cBV5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647931341338611713/aSG4cBV5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262981141/1409946121",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 16:45:08 +0000 2017",
 		"id": 865609274898079700,
 		"id_str": "865609274898079744",
