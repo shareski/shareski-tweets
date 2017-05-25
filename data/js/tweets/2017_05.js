@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 25 01:50:09 +0000 2017",
+		"id": 867558372479868900,
+		"id_str": "867558372479868929",
+		"text": "First Men's night. Windy but played well. Shot a 74 at Hillcrest Sports Centre using  https://t.co/LGo8DkFqYK https://t.co/GAxICK4VWS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGo8DkFqYK",
+					"expanded_url": "https://shotzoom.com/rounds/A1FBA47A-DB6E-4731-8946-F8A14812DDC7",
+					"display_url": "shotzoom.com/rounds/A1FBA47…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 867558370248581100,
+					"id_str": "867558370248581120",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DAovvcCVYAACa0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAovvcCVYAACa0K.jpg",
+					"url": "https://t.co/GAxICK4VWS",
+					"display_url": "pic.twitter.com/GAxICK4VWS",
+					"expanded_url": "https://twitter.com/shareski/status/867558372479868929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 867558370248581100,
+					"id_str": "867558370248581120",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/DAovvcCVYAACa0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAovvcCVYAACa0K.jpg",
+					"url": "https://t.co/GAxICK4VWS",
+					"display_url": "pic.twitter.com/GAxICK4VWS",
+					"expanded_url": "https://twitter.com/shareski/status/867558372479868929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33655,
+			"friends_count": 6078,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109890,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 25 01:34:16 +0000 2017",
+		"id": 867554376985870300,
+		"id_str": "867554376985870336",
+		"text": "RT @JasonBuccheri: @AndySchaeferDE @shareski https://t.co/Yr8Xov5wsG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonBuccheri",
+					"name": "Jason J. Buccheri",
+					"id": 292741552,
+					"id_str": "292741552",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "AndySchaeferDE",
+					"name": "Andy Schaefer",
+					"id": 18448804,
+					"id_str": "18448804",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yr8Xov5wsG",
+					"expanded_url": "https://twitter.com/timandsid/status/867501062248439808",
+					"display_url": "twitter.com/timandsid/stat…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33655,
+			"friends_count": 6078,
+			"listed_count": 1420,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109890,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 25 01:13:43 +0000 2017",
+			"id": 867549205509750800,
+			"id_str": "867549205509750786",
+			"text": "@AndySchaeferDE @shareski https://t.co/Yr8Xov5wsG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AndySchaeferDE",
+						"name": "Andy Schaefer",
+						"id": 18448804,
+						"id_str": "18448804",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							16,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Yr8Xov5wsG",
+						"expanded_url": "https://twitter.com/timandsid/status/867501062248439808",
+						"display_url": "twitter.com/timandsid/stat…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 18448804,
+			"in_reply_to_user_id_str": "18448804",
+			"in_reply_to_screen_name": "AndySchaeferDE",
+			"user": {
+				"id": 292741552,
+				"id_str": "292741552",
+				"name": "Jason J. Buccheri",
+				"screen_name": "JasonBuccheri",
+				"location": "Toronto",
+				"description": "An info hunter.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158,
+				"friends_count": 577,
+				"listed_count": 20,
+				"created_at": "Wed May 04 04:31:56 +0000 2011",
+				"favourites_count": 670,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 843,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368485024/IMG_0316_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368485024/IMG_0316_normal.JPG",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0e9966c128992fda",
+				"url": "https://api.twitter.com/1.1/geo/id/0e9966c128992fda.json",
+				"place_type": "city",
+				"name": "Canmore",
+				"full_name": "Canmore, Alberta",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-115.432715,
+								50.999886
+							],
+							[
+								-115.222633,
+								50.999886
+							],
+							[
+								-115.222633,
+								51.1334
+							],
+							[
+								-115.432715,
+								51.1334
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 867501062248439800,
+			"quoted_status_id_str": "867501062248439808",
+			"quoted_status": {
+				"created_at": "Wed May 24 22:02:25 +0000 2017",
+				"id": 867501062248439800,
+				"id_str": "867501062248439808",
+				"text": "The evolution of Big Sexy. Bartolo Colon turns 44 today. (Via - @espn) https://t.co/A27MwpaHEy",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "espn",
+							"name": "ESPN",
+							"id": 2557521,
+							"id_str": "2557521",
+							"indices": [
+								64,
+								69
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 867501029641920500,
+							"id_str": "867501029641920513",
+							"indices": [
+								71,
+								94
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/867501029641920513/pu/img/ME7I2ufhluuO_D6j.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/867501029641920513/pu/img/ME7I2ufhluuO_D6j.jpg",
+							"url": "https://t.co/A27MwpaHEy",
+							"display_url": "pic.twitter.com/A27MwpaHEy",
+							"expanded_url": "https://twitter.com/timandsid/status/867501062248439808/video/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 340,
+									"h": 340,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 640,
+									"h": 640,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 600,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 867501029641920500,
+							"id_str": "867501029641920513",
+							"indices": [
+								71,
+								94
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/867501029641920513/pu/img/ME7I2ufhluuO_D6j.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/867501029641920513/pu/img/ME7I2ufhluuO_D6j.jpg",
+							"url": "https://t.co/A27MwpaHEy",
+							"display_url": "pic.twitter.com/A27MwpaHEy",
+							"expanded_url": "https://twitter.com/timandsid/status/867501062248439808/video/1",
+							"type": "video",
+							"sizes": {
+								"small": {
+									"w": 340,
+									"h": 340,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 640,
+									"h": 640,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 600,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									1,
+									1
+								],
+								"duration_millis": 15000,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/867501029641920513/pu/vid/480x480/1lOvlU2m7DsjZAFX.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/867501029641920513/pu/pl/6q8XcvPh_2PBfkmD.m3u8"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/867501029641920513/pu/vid/240x240/lBZGzeQ7MvS1FtAT.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 182422417,
+					"id_str": "182422417",
+					"name": "Tim and Sid",
+					"screen_name": "timandsid",
+					"location": "Toronto",
+					"description": "Catch #TimandSid weekdays at 5pm ET, 2pm PT on @Sportsnet or online 24/7 on https://t.co/QfWCZ3TL3r - IG @timandsid and FB: https://t.co/x5BHPYB9p5",
+					"url": "https://t.co/UAPrLM9E1J",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/UAPrLM9E1J",
+									"expanded_url": "http://www.sportsnet.ca/timandsid",
+									"display_url": "sportsnet.ca/timandsid",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/QfWCZ3TL3r",
+									"expanded_url": "http://sportsnet.ca/timandsid",
+									"display_url": "sportsnet.ca/timandsid",
+									"indices": [
+										76,
+										99
+									]
+								},
+								{
+									"url": "https://t.co/x5BHPYB9p5",
+									"expanded_url": "http://facebook.com/timandsid",
+									"display_url": "facebook.com/timandsid",
+									"indices": [
+										124,
+										147
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 111689,
+					"friends_count": 411,
+					"listed_count": 639,
+					"created_at": "Tue Aug 24 15:21:57 +0000 2010",
+					"favourites_count": 324,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 24051,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/795634655676559360/z57d5TgS_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/795634655676559360/z57d5TgS_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/182422417/1478528998",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 60,
+				"favorite_count": 123,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 867501062248439800,
+		"quoted_status_id_str": "867501062248439808",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed May 24 23:33:47 +0000 2017",
 		"id": 867524055192260600,
 		"id_str": "867524055192260611",
