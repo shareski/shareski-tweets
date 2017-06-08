@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 01:03:28 +0000 2017",
+		"id": 872620056101793800,
+		"id_str": "872620056101793792",
+		"text": "#ditto Thank you @mrhooker and the #iPlza17 crew for having us. https://t.co/GzPOBDrMoW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ditto",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "iPlza17",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrhooker",
+					"name": "Carl Hooker",
+					"id": 9890872,
+					"id_str": "9890872",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GzPOBDrMoW",
+					"expanded_url": "https://twitter.com/chapresearch/status/872606548719271936",
+					"display_url": "twitter.com/chapresearch/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33826,
+			"friends_count": 6093,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 635,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 872606548719272000,
+		"quoted_status_id_str": "872606548719271936",
+		"quoted_status": {
+			"created_at": "Thu Jun 08 00:09:48 +0000 2017",
+			"id": 872606548719272000,
+			"id_str": "872606548719271936",
+			"text": "It was so amazing to get to be part of the Super Slam keynotes at #iplza17 with @KerryHawk02, @shareski and Martha! Thank you @iPadpalooza!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iplza17",
+						"indices": [
+							66,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KerryHawk02",
+						"name": "Kerry Gallagher",
+						"id": 21903605,
+						"id_str": "21903605",
+						"indices": [
+							80,
+							92
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							94,
+							103
+						]
+					},
+					{
+						"screen_name": "iPadpalooza",
+						"name": "iPadpalooza",
+						"id": 475895549,
+						"id_str": "475895549",
+						"indices": [
+							126,
+							138
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4865409943,
+				"id_str": "4865409943",
+				"name": "Chap Research",
+				"screen_name": "ChapResearch",
+				"location": "Austin, TX",
+				"description": "An #innovation program at Westlake High School that gives students the opportunity to acquire real world skills not taught in school. Read more on our website!",
+				"url": "https://t.co/P1RmlkRqz4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P1RmlkRqz4",
+								"expanded_url": "http://www.ChapResearch.com",
+								"display_url": "ChapResearch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 140,
+				"friends_count": 291,
+				"listed_count": 7,
+				"created_at": "Fri Feb 05 17:20:42 +0000 2016",
+				"favourites_count": 356,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695821189306912768/GdGeIYD5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695821189306912768/GdGeIYD5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4865409943/1476598651",
+				"profile_link_color": "42478F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 07 17:57:52 +0000 2017",
 		"id": 872512951869222900,
 		"id_str": "872512951869222913",
