@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 21:36:12 +0000 2017",
+		"id": 873292672013828100,
+		"id_str": "873292672013828096",
+		"text": "RT @imcguy: This is fantastic! What great thoughts from our students. https://t.co/nsFdXYL1n4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imcguy",
+					"name": "Chad Lehman",
+					"id": 10645702,
+					"id_str": "10645702",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nsFdXYL1n4",
+					"expanded_url": "https://twitter.com/BaysideFPBS/status/873257906082381824",
+					"display_url": "twitter.com/BaysideFPBS/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33849,
+			"friends_count": 6094,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 637,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 09 19:18:58 +0000 2017",
+			"id": 873258136932675600,
+			"id_str": "873258136932675585",
+			"text": "This is fantastic! What great thoughts from our students. https://t.co/nsFdXYL1n4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nsFdXYL1n4",
+						"expanded_url": "https://twitter.com/BaysideFPBS/status/873257906082381824",
+						"display_url": "twitter.com/BaysideFPBS/st…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10645702,
+				"id_str": "10645702",
+				"name": "Chad Lehman",
+				"screen_name": "imcguy",
+				"location": "Milwaukee area",
+				"description": "Library media specialist, teacher, learner, Harley rider, edtech lover, and sports nut.",
+				"url": "http://t.co/SjbtSafaXl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SjbtSafaXl",
+								"expanded_url": "http://www.chadlehman.com",
+								"display_url": "chadlehman.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7949,
+				"friends_count": 3426,
+				"listed_count": 334,
+				"created_at": "Tue Nov 27 03:10:20 +0000 2007",
+				"favourites_count": 2057,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33284,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0515C7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561356593/twilk_background_4fbf8c2b66635.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561356593/twilk_background_4fbf8c2b66635.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/491692634394476545/FrlWCyJr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/491692634394476545/FrlWCyJr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10645702/1463616419",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFF629",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 873257906082381800,
+			"quoted_status_id_str": "873257906082381824",
+			"quoted_status": {
+				"created_at": "Fri Jun 09 19:18:03 +0000 2017",
+				"id": 873257906082381800,
+				"id_str": "873257906082381824",
+				"text": "Changing the World, One Person at a Time - a fantastic video by Ella C, one of our 7th graders! https://t.co/XwGNOWH6s7 via @YouTube",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "YouTube",
+							"name": "YouTube",
+							"id": 10228272,
+							"id_str": "10228272",
+							"indices": [
+								124,
+								132
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/XwGNOWH6s7",
+							"expanded_url": "https://youtu.be/LeNb4M334JE",
+							"display_url": "youtu.be/LeNb4M334JE",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 781122150136700900,
+					"id_str": "781122150136700928",
+					"name": "Bayside MiddleSchool",
+					"screen_name": "BaysideFPBS",
+					"location": "Bayside, WI",
+					"description": "We are a 5-8 grade middle school serving the students of the Fox Point-Bayside School District.",
+					"url": "https://t.co/A3tATMHEda",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/A3tATMHEda",
+									"expanded_url": "http://www.foxbay.k12.wi.us/bms/",
+									"display_url": "foxbay.k12.wi.us/bms/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 73,
+					"friends_count": 106,
+					"listed_count": 3,
+					"created_at": "Wed Sep 28 13:23:27 +0000 2016",
+					"favourites_count": 13,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 199,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/781475881457897472/533gofnb_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/781475881457897472/533gofnb_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/781122150136700928/1475154035",
+					"profile_link_color": "800000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 873257906082381800,
+		"quoted_status_id_str": "873257906082381824",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 09 03:34:13 +0000 2017",
 		"id": 873020381358981100,
 		"id_str": "873020381358981121",
