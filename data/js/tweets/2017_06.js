@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 21 01:56:13 +0000 2017",
+		"id": 877344374710911000,
+		"id_str": "877344374710910976",
+		"text": "Call me paranoid but I get the feeling that the @Rangers don't think much of @JoeyBats19",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rangers",
+					"name": "Texas Rangers",
+					"id": 40931019,
+					"id_str": "40931019",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"screen_name": "JoeyBats19",
+					"name": "Jose Bautista",
+					"id": 278098811,
+					"id_str": "278098811",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33940,
+			"friends_count": 6110,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 21 01:34:49 +0000 2017",
+		"id": 877338986502438900,
+		"id_str": "877338986502438912",
+		"text": "@caglanville @ErinCosky @DanysLac @sheila_vick @AnnickRauch @kkeerybi @h_james18 @MicheleCorbat @juliequennell @T_Meikle Thank you so much.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caglanville",
+					"name": "Carol Glanville",
+					"id": 80391480,
+					"id_str": "80391480",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ErinCosky",
+					"name": "Erin Cosky",
+					"id": 705519397851369500,
+					"id_str": "705519397851369473",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "DanysLac",
+					"name": "Danys",
+					"id": 1225266955,
+					"id_str": "1225266955",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "sheila_vick",
+					"name": "Sheila Vick",
+					"id": 1099418040,
+					"id_str": "1099418040",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "AnnickRauch",
+					"name": "Annick Rauch",
+					"id": 414468434,
+					"id_str": "414468434",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "kkeerybi",
+					"name": "Kristi Keery Bishop",
+					"id": 127951928,
+					"id_str": "127951928",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "h_james18",
+					"name": "Heidi James",
+					"id": 141346450,
+					"id_str": "141346450",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "MicheleCorbat",
+					"name": "Michele Corbat",
+					"id": 747896383,
+					"id_str": "747896383",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"screen_name": "juliequennell",
+					"name": "JulieQuennell",
+					"id": 78528005,
+					"id_str": "78528005",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "T_Meikle",
+					"name": "Tom Meikle",
+					"id": 420683682,
+					"id_str": "420683682",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 80391480,
+		"in_reply_to_user_id_str": "80391480",
+		"in_reply_to_screen_name": "caglanville",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33940,
+			"friends_count": 6110,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 20 22:50:13 +0000 2017",
 		"id": 877297565087256600,
 		"id_str": "877297565087256579",
