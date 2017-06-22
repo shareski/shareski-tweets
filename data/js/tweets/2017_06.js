@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 03:09:04 +0000 2017",
+		"id": 877725093937283100,
+		"id_str": "877725093937283072",
+		"text": "Good stuff here. https://t.co/WX688NCmwt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WX688NCmwt",
+					"expanded_url": "https://twitter.com/cbcdocs/status/877498840189870080",
+					"display_url": "twitter.com/cbcdocs/status…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33967,
+			"friends_count": 6117,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110138,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877498840189870100,
+		"quoted_status_id_str": "877498840189870080",
+		"quoted_status": {
+			"created_at": "Wed Jun 21 12:10:01 +0000 2017",
+			"id": 877498840189870100,
+			"id_str": "877498840189870080",
+			"text": "#NationalAboriginalDay 'Here's five things you're going to have to stop saying about my people.' @WabKinew​ Watch:… https://t.co/NvWmKXsd5w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalAboriginalDay",
+						"indices": [
+							0,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WabKinew",
+						"name": "Wab Kinew",
+						"id": 25021769,
+						"id_str": "25021769",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NvWmKXsd5w",
+						"expanded_url": "https://twitter.com/i/web/status/877498840189870080",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14747551,
+				"id_str": "14747551",
+				"name": "CBC Docs",
+				"screen_name": "cbcdocs",
+				"location": "Toronto, Canada",
+				"description": "For fans of CBC documentary programming including FIRSTHAND, The Nature of Things with David Suzuki, The Passionate Eye, Short Docs, and more.",
+				"url": "http://t.co/VNzDdbQnPB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VNzDdbQnPB",
+								"expanded_url": "http://www.cbc.ca/docs",
+								"display_url": "cbc.ca/docs",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19823,
+				"friends_count": 1512,
+				"listed_count": 818,
+				"created_at": "Mon May 12 18:23:32 +0000 2008",
+				"favourites_count": 7739,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/885802537/925ec83a7f95f02893d8f4353a7c8fd4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/885802537/925ec83a7f95f02893d8f4353a7c8fd4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877527074763943936/Ui5QQ84f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877527074763943936/Ui5QQ84f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14747551/1498053375",
+				"profile_link_color": "EE1D25",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 297,
+			"favorite_count": 323,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 21 21:53:09 +0000 2017",
 		"id": 877645592998162400,
 		"id_str": "877645592998162433",
