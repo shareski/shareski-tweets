@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 25 16:25:06 +0000 2017",
+		"id": 879012587345719300,
+		"id_str": "879012587345719296",
+		"text": "RT @rrodgers: #golfJesus returns @woscholar @shareski @imcguy @ideaguy42 @blewistexas https://t.co/H8AONx3wrr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "golfJesus",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rrodgers",
+					"name": "Randy Rodgers",
+					"id": 7664032,
+					"id_str": "7664032",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "woscholar",
+					"name": "Scott S. Floyd",
+					"id": 7123302,
+					"id_str": "7123302",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "imcguy",
+					"name": "Chad Lehman",
+					"id": 10645702,
+					"id_str": "10645702",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"screen_name": "ideaguy42",
+					"name": "Bob Dillon",
+					"id": 22856987,
+					"id_str": "22856987",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "blewistexas",
+					"name": "Bill Lewis",
+					"id": 9888572,
+					"id_str": "9888572",
+					"indices": [
+						73,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 878997140382507000,
+					"id_str": "878997140382507008",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+					"url": "https://t.co/H8AONx3wrr",
+					"display_url": "pic.twitter.com/H8AONx3wrr",
+					"expanded_url": "https://twitter.com/rrodgers/status/878997144912490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878997144912490500,
+					"source_status_id_str": "878997144912490496",
+					"source_user_id": 7664032,
+					"source_user_id_str": "7664032"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 878997140382507000,
+					"id_str": "878997140382507008",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+					"url": "https://t.co/H8AONx3wrr",
+					"display_url": "pic.twitter.com/H8AONx3wrr",
+					"expanded_url": "https://twitter.com/rrodgers/status/878997144912490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878997144912490500,
+					"source_status_id_str": "878997144912490496",
+					"source_user_id": 7664032,
+					"source_user_id_str": "7664032"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34008,
+			"friends_count": 6122,
+			"listed_count": 1419,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 642,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 25 15:23:44 +0000 2017",
+			"id": 878997144912490500,
+			"id_str": "878997144912490496",
+			"text": "#golfJesus returns @woscholar @shareski @imcguy @ideaguy42 @blewistexas https://t.co/H8AONx3wrr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "golfJesus",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "woscholar",
+						"name": "Scott S. Floyd",
+						"id": 7123302,
+						"id_str": "7123302",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"screen_name": "imcguy",
+						"name": "Chad Lehman",
+						"id": 10645702,
+						"id_str": "10645702",
+						"indices": [
+							40,
+							47
+						]
+					},
+					{
+						"screen_name": "ideaguy42",
+						"name": "Bob Dillon",
+						"id": 22856987,
+						"id_str": "22856987",
+						"indices": [
+							48,
+							58
+						]
+					},
+					{
+						"screen_name": "blewistexas",
+						"name": "Bill Lewis",
+						"id": 9888572,
+						"id_str": "9888572",
+						"indices": [
+							59,
+							71
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 878997140382507000,
+						"id_str": "878997140382507008",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+						"url": "https://t.co/H8AONx3wrr",
+						"display_url": "pic.twitter.com/H8AONx3wrr",
+						"expanded_url": "https://twitter.com/rrodgers/status/878997144912490496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878997140382507000,
+						"id_str": "878997140382507008",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDLTPfcVYAAL1nE.jpg",
+						"url": "https://t.co/H8AONx3wrr",
+						"display_url": "pic.twitter.com/H8AONx3wrr",
+						"expanded_url": "https://twitter.com/rrodgers/status/878997144912490496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7664032,
+				"id_str": "7664032",
+				"name": "Randy Rodgers",
+				"screen_name": "rrodgers",
+				"location": "New Braunfels, Texas",
+				"description": "Educator, maker, speaker, writer, dreamer, believer.  Seguin ISD. TCEA Area 13 Director. Pro bass angler at heart. Ideas are my own. #roboedu #edwhatif founder",
+				"url": "http://t.co/2vvfRTOVCG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2vvfRTOVCG",
+								"expanded_url": "http://about.me/RandyRodgers",
+								"display_url": "about.me/RandyRodgers",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3983,
+				"friends_count": 2425,
+				"listed_count": 274,
+				"created_at": "Mon Jul 23 17:59:26 +0000 2007",
+				"favourites_count": 836,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14163,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4B7899",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000091833028/e7d4f36c5bf93c6f3eda129adf6fd231.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000091833028/e7d4f36c5bf93c6f3eda129adf6fd231.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816023616101879808/Dzpo3vWn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816023616101879808/Dzpo3vWn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7664032/1458829834",
+				"profile_link_color": "304F64",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "030302",
+				"profile_text_color": "1D7FB4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 25 16:24:59 +0000 2017",
+		"id": 879012556869914600,
+		"id_str": "879012556869914625",
+		"text": "@JCasaTodd We should see how many Canadians we can get together for a jump photo.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JCasaTodd",
+					"name": "Jennifer Casa-Todd",
+					"id": 240961894,
+					"id_str": "240961894",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 878996558473297900,
+		"in_reply_to_status_id_str": "878996558473297922",
+		"in_reply_to_user_id": 240961894,
+		"in_reply_to_user_id_str": "240961894",
+		"in_reply_to_screen_name": "JCasaTodd",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34008,
+			"friends_count": 6122,
+			"listed_count": 1419,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 642,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 25 12:58:36 +0000 2017",
 		"id": 878960619780788200,
 		"id_str": "878960619780788225",
