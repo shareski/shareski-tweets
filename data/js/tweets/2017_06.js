@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 28 23:19:27 +0000 2017",
+		"id": 880204022942056400,
+		"id_str": "880204022942056449",
+		"text": "I'm starting to get good at this. https://t.co/ZVaTcc8v3E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZVaTcc8v3E",
+					"expanded_url": "https://twitter.com/mrskmpeters/status/880196715973926913",
+					"display_url": "twitter.com/mrskmpeters/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34142,
+			"friends_count": 6137,
+			"listed_count": 1423,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 880196715973926900,
+		"quoted_status_id_str": "880196715973926913",
+		"quoted_status": {
+			"created_at": "Wed Jun 28 22:50:25 +0000 2017",
+			"id": 880196715973926900,
+			"id_str": "880196715973926913",
+			"text": "179/365: Award for best photobomb of #iste17 goes to @shareski. No, I did not photoshop him in… https://t.co/LUHQlJZOHV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iste17",
+						"indices": [
+							37,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LUHQlJZOHV",
+						"expanded_url": "https://www.instagram.com/p/BV5o92mhwe6/",
+						"display_url": "instagram.com/p/BV5o92mhwe6/",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58933798,
+				"id_str": "58933798",
+				"name": "Kristina Peters",
+				"screen_name": "Mrskmpeters",
+				"location": "Washington, DC",
+				"description": "Public Interest Tech & Ed Policy Fellow @NewAmerica, K-12 #OER Specialist, Former #GoOpen lead, Learner, Social Butterfly, AZ/NE girl in DC. Tweets =mine.",
+				"url": "https://t.co/raLHbzbe2G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/raLHbzbe2G",
+								"expanded_url": "https://www.newamerica.org/public-interest-technology/",
+								"display_url": "newamerica.org/public-interes…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7388,
+				"friends_count": 3068,
+				"listed_count": 402,
+				"created_at": "Tue Jul 21 21:50:51 +0000 2009",
+				"favourites_count": 8197,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513732709332426752/hZJwJ5f-.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513732709332426752/hZJwJ5f-.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879125853686431746/G9gA4VmQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879125853686431746/G9gA4VmQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58933798/1496709541",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 28 22:43:33 +0000 2017",
 		"id": 880194991041073200,
 		"id_str": "880194991041073152",
