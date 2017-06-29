@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 13:19:28 +0000 2017",
+		"id": 880415420863455200,
+		"id_str": "880415420863455236",
+		"text": "@Dowbiggin you're the mayor of my pants. I think you would know. https://t.co/qf3HaJ6CQY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dowbiggin",
+					"name": "Diane Main",
+					"id": 9675812,
+					"id_str": "9675812",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qf3HaJ6CQY",
+					"expanded_url": "https://twitter.com/dowbiggin/status/880414786126831617",
+					"display_url": "twitter.com/dowbiggin/stat…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 9675812,
+		"in_reply_to_user_id_str": "9675812",
+		"in_reply_to_screen_name": "Dowbiggin",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34152,
+			"friends_count": 6140,
+			"listed_count": 1423,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 880414786126831600,
+		"quoted_status_id_str": "880414786126831617",
+		"quoted_status": {
+			"created_at": "Thu Jun 29 13:16:56 +0000 2017",
+			"id": 880414786126831600,
+			"id_str": "880414786126831617",
+			"text": "@shareski Is it because all your pants are in San Antonio? https://t.co/IU0Aw46J9V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 880414780778885100,
+						"id_str": "880414780778885120",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DDfclBdUMAAJpa3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDfclBdUMAAJpa3.jpg",
+						"url": "https://t.co/IU0Aw46J9V",
+						"display_url": "pic.twitter.com/IU0Aw46J9V",
+						"expanded_url": "https://twitter.com/Dowbiggin/status/880414786126831617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 726,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 726,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880414780778885100,
+						"id_str": "880414780778885120",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DDfclBdUMAAJpa3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDfclBdUMAAJpa3.jpg",
+						"url": "https://t.co/IU0Aw46J9V",
+						"display_url": "pic.twitter.com/IU0Aw46J9V",
+						"expanded_url": "https://twitter.com/Dowbiggin/status/880414786126831617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 726,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 726,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 880398857393385500,
+			"in_reply_to_status_id_str": "880398857393385472",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 9675812,
+				"id_str": "9675812",
+				"name": "Diane Main",
+				"screen_name": "Dowbiggin",
+				"location": "Campbell, CA",
+				"description": "Christian, Dir. of Learning Innovation & Design, geocacher, genealogist (UK/Ireland), mother, wife, gadget geek, GCT, CUE Rockstar, SVCUE, MERIT",
+				"url": "https://t.co/fmXuLywoLH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fmXuLywoLH",
+								"expanded_url": "https://about.me/dowbiggin",
+								"display_url": "about.me/dowbiggin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6725,
+				"friends_count": 2654,
+				"listed_count": 433,
+				"created_at": "Thu Oct 25 05:04:38 +0000 2007",
+				"favourites_count": 20674,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65179,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725082542693441536/tVEMhOF2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725082542693441536/tVEMhOF2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450755012256227328/kEf2Qcyr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450755012256227328/kEf2Qcyr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9675812/1396303343",
+				"profile_link_color": "0078FF",
+				"profile_sidebar_border_color": "FEEC06",
+				"profile_sidebar_fill_color": "98C293",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 29 13:09:01 +0000 2017",
 		"id": 880412790057553900,
 		"id_str": "880412790057553922",
