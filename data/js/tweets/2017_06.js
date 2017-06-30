@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 30 03:20:07 +0000 2017",
+		"id": 880626976721186800,
+		"id_str": "880626976721186816",
+		"text": "@donnadesroches @kathycassidy @dkuropatwa @glassbeed Congrats Donna. I know your career impacted many students and… https://t.co/RL1Rj8wyoz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donnadesroches",
+					"name": "Donna DesRoches",
+					"id": 5936222,
+					"id_str": "5936222",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "kathycassidy",
+					"name": "Kathy Cassidy",
+					"id": 14070562,
+					"id_str": "14070562",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "dkuropatwa",
+					"name": "Darren Kuropatwa",
+					"id": 5634392,
+					"id_str": "5634392",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "glassbeed",
+					"name": "Clarence Fisher",
+					"id": 5926752,
+					"id_str": "5926752",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RL1Rj8wyoz",
+					"expanded_url": "https://twitter.com/i/web/status/880626976721186816",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 880617077874217000,
+		"in_reply_to_status_id_str": "880617077874216960",
+		"in_reply_to_user_id": 5936222,
+		"in_reply_to_user_id_str": "5936222",
+		"in_reply_to_screen_name": "donnadesroches",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34169,
+			"friends_count": 6142,
+			"listed_count": 1423,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 642,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 30 01:42:00 +0000 2017",
 		"id": 880602287487557600,
 		"id_str": "880602287487557632",
