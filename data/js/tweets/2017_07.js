@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 07 22:52:00 +0000 2017",
+		"id": 883458605831209000,
+		"id_str": "883458605831208960",
+		"text": "What is it with Australians and Whistler? https://t.co/8qk4sfVdnK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 883458598138859500,
+					"id_str": "883458598138859521",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEKs6gvU0AEj8x7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEKs6gvU0AEj8x7.jpg",
+					"url": "https://t.co/8qk4sfVdnK",
+					"display_url": "pic.twitter.com/8qk4sfVdnK",
+					"expanded_url": "https://twitter.com/shareski/status/883458605831208960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 216,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883458598138859500,
+					"id_str": "883458598138859521",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEKs6gvU0AEj8x7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEKs6gvU0AEj8x7.jpg",
+					"url": "https://t.co/8qk4sfVdnK",
+					"display_url": "pic.twitter.com/8qk4sfVdnK",
+					"expanded_url": "https://twitter.com/shareski/status/883458605831208960/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 216,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 184,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DEKs6gvU0AEj8x7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34264,
+			"friends_count": 6149,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 07 16:18:00 +0000 2017",
 		"id": 883359454128873500,
 		"id_str": "883359454128873472",
