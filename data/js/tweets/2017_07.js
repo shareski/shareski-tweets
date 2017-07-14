@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 14 18:56:33 +0000 2017",
+		"id": 885936067580481500,
+		"id_str": "885936067580481536",
+		"text": "Excellent leadership thoughts from @Ryan_Imbriale and sketchnoting from @rockourworld #densi2017 https://t.co/AUESAGGf3v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "densi2017",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ryan_Imbriale",
+					"name": "Ryan Imbriale",
+					"id": 88499336,
+					"id_str": "88499336",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "rockourworld",
+					"name": "Carol Anne McGuire",
+					"id": 13414932,
+					"id_str": "13414932",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AUESAGGf3v",
+					"expanded_url": "https://twitter.com/rockourworld/status/885913213438578688",
+					"display_url": "twitter.com/rockourworld/s…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34355,
+			"friends_count": 6155,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 885913213438578700,
+		"quoted_status_id_str": "885913213438578688",
+		"quoted_status": {
+			"created_at": "Fri Jul 14 17:25:44 +0000 2017",
+			"id": 885913213438578700,
+			"id_str": "885913213438578688",
+			"text": "Fantastic job @ryan_imbriale for inspiring us @DiscoveryEd #densi2017 https://t.co/W4PaNslARC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "densi2017",
+						"indices": [
+							59,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ryan_Imbriale",
+						"name": "Ryan Imbriale",
+						"id": 88499336,
+						"id_str": "88499336",
+						"indices": [
+							14,
+							28
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							46,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 885913206811615200,
+						"id_str": "885913206811615235",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DEtlXinVYAM9Co-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEtlXinVYAM9Co-.jpg",
+						"url": "https://t.co/W4PaNslARC",
+						"display_url": "pic.twitter.com/W4PaNslARC",
+						"expanded_url": "https://twitter.com/rockourworld/status/885913213438578688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885913206811615200,
+						"id_str": "885913206811615235",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DEtlXinVYAM9Co-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEtlXinVYAM9Co-.jpg",
+						"url": "https://t.co/W4PaNslARC",
+						"display_url": "pic.twitter.com/W4PaNslARC",
+						"expanded_url": "https://twitter.com/rockourworld/status/885913213438578688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13414932,
+				"id_str": "13414932",
+				"name": "Carol Anne McGuire",
+				"screen_name": "rockourworld",
+				"location": "California",
+				"description": "ADE, DEN, ISTE, Disney, Rock Our World, Google, Vision Specialist, TVI",
+				"url": "http://t.co/6VBrY3eCmi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6VBrY3eCmi",
+								"expanded_url": "http://www.rockourworld.org",
+								"display_url": "rockourworld.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2844,
+				"friends_count": 574,
+				"listed_count": 117,
+				"created_at": "Wed Feb 13 03:54:27 +0000 2008",
+				"favourites_count": 940,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4207,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/492364111603191808/UnWXQWN8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/492364111603191808/UnWXQWN8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13414932/1406082843",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 14 17:13:53 +0000 2017",
 		"id": 885910231632552000,
 		"id_str": "885910231632551936",
