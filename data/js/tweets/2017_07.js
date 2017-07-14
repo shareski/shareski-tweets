@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 14 17:13:53 +0000 2017",
+		"id": 885910231632552000,
+		"id_str": "885910231632551936",
+		"text": "RT @KelliVogstad: How does playing Jenga offer us insight into our strategic school plans? @Ryan_Imbriale @PrincipalStager @PMWellsCharter…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KelliVogstad",
+					"name": "Kelli Vogstad",
+					"id": 2802247434,
+					"id_str": "2802247434",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Ryan_Imbriale",
+					"name": "Ryan Imbriale",
+					"id": 88499336,
+					"id_str": "88499336",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "PrincipalStager",
+					"name": "Theresa Stager",
+					"id": 1536969096,
+					"id_str": "1536969096",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "PMWellsCharter",
+					"name": "PMWellsCharter",
+					"id": 878666985508397000,
+					"id_str": "878666985508397058",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34355,
+			"friends_count": 6155,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 14 17:11:35 +0000 2017",
+			"id": 885909652671561700,
+			"id_str": "885909652671561728",
+			"text": "How does playing Jenga offer us insight into our strategic school plans? @Ryan_Imbriale @PrincipalStager… https://t.co/OiTAlzyWtX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ryan_Imbriale",
+						"name": "Ryan Imbriale",
+						"id": 88499336,
+						"id_str": "88499336",
+						"indices": [
+							73,
+							87
+						]
+					},
+					{
+						"screen_name": "PrincipalStager",
+						"name": "Theresa Stager",
+						"id": 1536969096,
+						"id_str": "1536969096",
+						"indices": [
+							88,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OiTAlzyWtX",
+						"expanded_url": "https://twitter.com/i/web/status/885909652671561728",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2802247434,
+				"id_str": "2802247434",
+				"name": "Kelli Vogstad",
+				"screen_name": "KelliVogstad",
+				"location": "Surrey, B.C., Canada",
+				"description": "Building an ethic of care for people & ideas. Passionate about learning & making a difference. Principal, Teacher/Administrator for 35 yrs.",
+				"url": "https://t.co/xNkHIvfut7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xNkHIvfut7",
+								"expanded_url": "http://kellivogstad.com",
+								"display_url": "kellivogstad.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 616,
+				"listed_count": 11,
+				"created_at": "Wed Sep 10 18:57:09 +0000 2014",
+				"favourites_count": 1017,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 719,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/509778192463171584/WwDzXOD__normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/509778192463171584/WwDzXOD__normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2802247434/1499758366",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 14 16:56:08 +0000 2017",
 		"id": 885905767265689600,
 		"id_str": "885905767265689600",
