@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 18 21:01:53 +0000 2017",
+		"id": 887417163526553600,
+		"id_str": "887417163526553600",
+		"text": "RT @KelliHolden: Shareski returns! #DENSI2017 #teamgoddard @shareski https://t.co/7XpCcIqXV5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENSI2017",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "teamgoddard",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KelliHolden",
+					"name": "Kelli Holden",
+					"id": 299916676,
+					"id_str": "299916676",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 887402271079751700,
+					"id_str": "887402271079751682",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+					"url": "https://t.co/7XpCcIqXV5",
+					"display_url": "pic.twitter.com/7XpCcIqXV5",
+					"expanded_url": "https://twitter.com/KelliHolden/status/887402295864025089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887402295864025100,
+					"source_status_id_str": "887402295864025089",
+					"source_user_id": 299916676,
+					"source_user_id_str": "299916676"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 887402271079751700,
+					"id_str": "887402271079751682",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+					"url": "https://t.co/7XpCcIqXV5",
+					"display_url": "pic.twitter.com/7XpCcIqXV5",
+					"expanded_url": "https://twitter.com/KelliHolden/status/887402295864025089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887402295864025100,
+					"source_status_id_str": "887402295864025089",
+					"source_user_id": 299916676,
+					"source_user_id_str": "299916676"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34410,
+			"friends_count": 6161,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110387,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 18 20:02:49 +0000 2017",
+			"id": 887402295864025100,
+			"id_str": "887402295864025089",
+			"text": "Shareski returns! #DENSI2017 #teamgoddard @shareski https://t.co/7XpCcIqXV5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DENSI2017",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"text": "teamgoddard",
+						"indices": [
+							29,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							42,
+							51
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 887402271079751700,
+						"id_str": "887402271079751682",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+						"url": "https://t.co/7XpCcIqXV5",
+						"display_url": "pic.twitter.com/7XpCcIqXV5",
+						"expanded_url": "https://twitter.com/KelliHolden/status/887402295864025089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887402271079751700,
+						"id_str": "887402271079751682",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFCvqfSVYAIyeCo.jpg",
+						"url": "https://t.co/7XpCcIqXV5",
+						"display_url": "pic.twitter.com/7XpCcIqXV5",
+						"expanded_url": "https://twitter.com/KelliHolden/status/887402295864025089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299916676,
+				"id_str": "299916676",
+				"name": "Kelli Holden",
+				"screen_name": "KelliHolden",
+				"location": "",
+				"description": "Grade 3 Teacher @prescottpsd70 who loves family, learning & our Keeshond #EdcampPSD70 Organizer @MrsHoldensClass coconspirator! DENStar #MIEE",
+				"url": "https://t.co/7TgkYZJxSy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7TgkYZJxSy",
+								"expanded_url": "https://kelliholden.wordpress.com/",
+								"display_url": "kelliholden.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6196,
+				"friends_count": 5450,
+				"listed_count": 128,
+				"created_at": "Mon May 16 22:03:27 +0000 2011",
+				"favourites_count": 7495,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500525445717037056/LlxC-Va5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500525445717037056/LlxC-Va5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299916676/1437764868",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 18 20:53:50 +0000 2017",
+		"id": 887415135291154400,
+		"id_str": "887415135291154432",
+		"text": "@TeachrCybrarian The current plan is Building 3 deck. 8:30 or 9 ish.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeachrCybrarian",
+					"name": "Cathy Daniel",
+					"id": 3242703493,
+					"id_str": "3242703493",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 887351631632883700,
+		"in_reply_to_status_id_str": "887351631632883714",
+		"in_reply_to_user_id": 3242703493,
+		"in_reply_to_user_id_str": "3242703493",
+		"in_reply_to_screen_name": "TeachrCybrarian",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34410,
+			"friends_count": 6161,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110387,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 18 15:33:06 +0000 2017",
 		"id": 887334420675387400,
 		"id_str": "887334420675387394",
