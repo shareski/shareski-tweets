@@ -1,6 +1,653 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 20 03:43:42 +0000 2017",
+		"id": 887880670151757800,
+		"id_str": "887880670151757824",
+		"text": "RT @chrisnash01: The amazing Brits taking part in the DENmazing race!  #DENsi2017 #ukdenchat #denchat @DiscoveryEdUk https://t.co/t8R1ldkIxv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENsi2017",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "ukdenchat",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "denchat",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrisnash01",
+					"name": "Chris Nash",
+					"id": 14718252,
+					"id_str": "14718252",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "DiscoveryEdUk",
+					"name": "Discovery Ed UK",
+					"id": 61462485,
+					"id_str": "61462485",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 887855658720251900,
+					"id_str": "887855658720251904",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+					"url": "https://t.co/t8R1ldkIxv",
+					"display_url": "pic.twitter.com/t8R1ldkIxv",
+					"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887855708401782800,
+					"source_status_id_str": "887855708401782784",
+					"source_user_id": 14718252,
+					"source_user_id_str": "14718252"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 887855658720251900,
+					"id_str": "887855658720251904",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+					"url": "https://t.co/t8R1ldkIxv",
+					"display_url": "pic.twitter.com/t8R1ldkIxv",
+					"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887855708401782800,
+					"source_status_id_str": "887855708401782784",
+					"source_user_id": 14718252,
+					"source_user_id_str": "14718252"
+				},
+				{
+					"id": 887855659840143400,
+					"id_str": "887855659840143361",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DFJMBMCXgAEI7vZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFJMBMCXgAEI7vZ.jpg",
+					"url": "https://t.co/t8R1ldkIxv",
+					"display_url": "pic.twitter.com/t8R1ldkIxv",
+					"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887855708401782800,
+					"source_status_id_str": "887855708401782784",
+					"source_user_id": 14718252,
+					"source_user_id_str": "14718252"
+				},
+				{
+					"id": 887855659974357000,
+					"id_str": "887855659974356994",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DFJMBMiXcAIOwwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFJMBMiXcAIOwwV.jpg",
+					"url": "https://t.co/t8R1ldkIxv",
+					"display_url": "pic.twitter.com/t8R1ldkIxv",
+					"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 887855708401782800,
+					"source_status_id_str": "887855708401782784",
+					"source_user_id": 14718252,
+					"source_user_id_str": "14718252"
+				},
+				{
+					"id": 887855659835904000,
+					"id_str": "887855659835904000",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DFJMBMBW0AA2U0i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFJMBMBW0AA2U0i.jpg",
+					"url": "https://t.co/t8R1ldkIxv",
+					"display_url": "pic.twitter.com/t8R1ldkIxv",
+					"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 887855708401782800,
+					"source_status_id_str": "887855708401782784",
+					"source_user_id": 14718252,
+					"source_user_id_str": "14718252"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34448,
+			"friends_count": 6171,
+			"listed_count": 1418,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 02:04:31 +0000 2017",
+			"id": 887855708401782800,
+			"id_str": "887855708401782784",
+			"text": "The amazing Brits taking part in the DENmazing race!  #DENsi2017 #ukdenchat #denchat @DiscoveryEdUk https://t.co/t8R1ldkIxv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DENsi2017",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"text": "ukdenchat",
+						"indices": [
+							65,
+							75
+						]
+					},
+					{
+						"text": "denchat",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEdUk",
+						"name": "Discovery Ed UK",
+						"id": 61462485,
+						"id_str": "61462485",
+						"indices": [
+							85,
+							99
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 887855658720251900,
+						"id_str": "887855658720251904",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+						"url": "https://t.co/t8R1ldkIxv",
+						"display_url": "pic.twitter.com/t8R1ldkIxv",
+						"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887855658720251900,
+						"id_str": "887855658720251904",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFJMBH3XUAAgdGO.jpg",
+						"url": "https://t.co/t8R1ldkIxv",
+						"display_url": "pic.twitter.com/t8R1ldkIxv",
+						"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 887855659840143400,
+						"id_str": "887855659840143361",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DFJMBMCXgAEI7vZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFJMBMCXgAEI7vZ.jpg",
+						"url": "https://t.co/t8R1ldkIxv",
+						"display_url": "pic.twitter.com/t8R1ldkIxv",
+						"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 887855659974357000,
+						"id_str": "887855659974356994",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DFJMBMiXcAIOwwV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFJMBMiXcAIOwwV.jpg",
+						"url": "https://t.co/t8R1ldkIxv",
+						"display_url": "pic.twitter.com/t8R1ldkIxv",
+						"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 887855659835904000,
+						"id_str": "887855659835904000",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DFJMBMBW0AA2U0i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFJMBMBW0AA2U0i.jpg",
+						"url": "https://t.co/t8R1ldkIxv",
+						"display_url": "pic.twitter.com/t8R1ldkIxv",
+						"expanded_url": "https://twitter.com/chrisnash01/status/887855708401782784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14718252,
+				"id_str": "14718252",
+				"name": "Chris Nash",
+				"screen_name": "chrisnash01",
+				"location": "London",
+				"description": "Head of Community Discovery Education",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 257,
+				"listed_count": 8,
+				"created_at": "Fri May 09 21:23:35 +0000 2008",
+				"favourites_count": 391,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 914,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/64327809/Picture_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/64327809/Picture_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14718252/1490114545",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 20 01:00:12 +0000 2017",
 		"id": 887839524851654700,
 		"id_str": "887839524851654657",
