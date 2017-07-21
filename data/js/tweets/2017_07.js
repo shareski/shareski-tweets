@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 21 00:25:50 +0000 2017",
+		"id": 888193264809070600,
+		"id_str": "888193264809070594",
+		"text": "I'm in love with this photo. @STEMeduKAtor08 #DENSI2017 https://t.co/kxscpAfG6z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENSI2017",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STEMeduKAtor08",
+					"name": "Alexis Moore",
+					"id": 710474067002916900,
+					"id_str": "710474067002916865",
+					"indices": [
+						29,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kxscpAfG6z",
+					"expanded_url": "https://twitter.com/stemedukator08/status/841666960245039105",
+					"display_url": "twitter.com/stemedukator08…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34459,
+			"friends_count": 6178,
+			"listed_count": 1417,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 841666960245039100,
+		"quoted_status_id_str": "841666960245039105",
+		"quoted_status": {
+			"created_at": "Tue Mar 14 15:06:55 +0000 2017",
+			"id": 841666960245039100,
+			"id_str": "841666960245039105",
+			"text": "Do you see these faces? I LOVE teaching Science!! @blufordstem @GCSchoolsNC @DiscoveryEd @gcae4me @STEMsolutions… https://t.co/6t1PVwQCOV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "blufordstem",
+						"name": "Bluford STEM Academy",
+						"id": 3622905375,
+						"id_str": "3622905375",
+						"indices": [
+							50,
+							62
+						]
+					},
+					{
+						"screen_name": "GCSchoolsNC",
+						"name": "Guilford Co. Schools",
+						"id": 102144469,
+						"id_str": "102144469",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							76,
+							88
+						]
+					},
+					{
+						"screen_name": "gcae4me",
+						"name": "GCAE",
+						"id": 48427319,
+						"id_str": "48427319",
+						"indices": [
+							89,
+							97
+						]
+					},
+					{
+						"screen_name": "STEMsolutions",
+						"name": "STEMsolutions",
+						"id": 479998051,
+						"id_str": "479998051",
+						"indices": [
+							98,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6t1PVwQCOV",
+						"expanded_url": "https://twitter.com/i/web/status/841666960245039105",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 710474067002916900,
+				"id_str": "710474067002916865",
+				"name": "Alexis Moore",
+				"screen_name": "STEMeduKAtor08",
+				"location": "",
+				"description": "Dedicated educator leaving a sparkle where ever I go!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37,
+				"friends_count": 101,
+				"listed_count": 2,
+				"created_at": "Thu Mar 17 14:33:12 +0000 2016",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841831392153612289/G2I58Ods_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841831392153612289/G2I58Ods_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/710474067002916865/1489543221",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 20 22:27:18 +0000 2017",
 		"id": 888163433010479100,
 		"id_str": "888163433010479104",
