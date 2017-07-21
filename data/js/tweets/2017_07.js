@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 21 06:56:08 +0000 2017",
+		"id": 888291485854048300,
+		"id_str": "888291485854048256",
+		"text": "RT @hatcherelli: Looks like team #ecsdawesome has taken over #DENSI2017 Proud of you guys! @DaneSadownyk @DMLO_o https://t.co/HhcEUGu8om",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ecsdawesome",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"text": "DENSI2017",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatcherelli",
+					"name": "Derek Hatch",
+					"id": 22322516,
+					"id_str": "22322516",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "DMLO_o",
+					"name": "Diane Lefebvre",
+					"id": 384503376,
+					"id_str": "384503376",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HhcEUGu8om",
+					"expanded_url": "https://twitter.com/srta_perri/status/887906019757637634",
+					"display_url": "twitter.com/srta_perri/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34462,
+			"friends_count": 6182,
+			"listed_count": 1419,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 641,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 21 01:30:15 +0000 2017",
+			"id": 888209475563278300,
+			"id_str": "888209475563278336",
+			"text": "Looks like team #ecsdawesome has taken over #DENSI2017 Proud of you guys! @DaneSadownyk @DMLO_o https://t.co/HhcEUGu8om",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ecsdawesome",
+						"indices": [
+							16,
+							28
+						]
+					},
+					{
+						"text": "DENSI2017",
+						"indices": [
+							44,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DaneSadownyk",
+						"name": "Dane Sadownyk",
+						"id": 2401850311,
+						"id_str": "2401850311",
+						"indices": [
+							74,
+							87
+						]
+					},
+					{
+						"screen_name": "DMLO_o",
+						"name": "Diane Lefebvre",
+						"id": 384503376,
+						"id_str": "384503376",
+						"indices": [
+							88,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HhcEUGu8om",
+						"expanded_url": "https://twitter.com/srta_perri/status/887906019757637634",
+						"display_url": "twitter.com/srta_perri/sta…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22322516,
+				"id_str": "22322516",
+				"name": "Derek Hatch",
+				"screen_name": "hatcherelli",
+				"location": "Edmonton, Alberta, Canada",
+				"description": "Principal with #ECSD @FatherLeoGECSD Edtech, leadership and innovative teaching. M.Ed. @UPortland, #EdCampYEG Organizer, #iTunesU author, Husband, Dad, Coach.",
+				"url": "https://t.co/5583V3h7wt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5583V3h7wt",
+								"expanded_url": "http://hatcherelli.wordpress.com",
+								"display_url": "hatcherelli.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1345,
+				"friends_count": 1078,
+				"listed_count": 217,
+				"created_at": "Sun Mar 01 02:21:45 +0000 2009",
+				"favourites_count": 1060,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10029,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/214955880/jigsaw.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/214955880/jigsaw.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835112432234213378/TJMEZ6Cl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835112432234213378/TJMEZ6Cl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22322516/1352383031",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 887906019757637600,
+			"quoted_status_id_str": "887906019757637634",
+			"quoted_status": {
+				"created_at": "Thu Jul 20 05:24:26 +0000 2017",
+				"id": 887906019757637600,
+				"id_str": "887906019757637634",
+				"text": "Go team Orange Crush! #densi2017 #denmazingrace https://t.co/jF9lUoVJnE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "densi2017",
+							"indices": [
+								22,
+								32
+							]
+						},
+						{
+							"text": "denmazingrace",
+							"indices": [
+								33,
+								47
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 887906013369598000,
+							"id_str": "887906013369597952",
+							"indices": [
+								48,
+								71
+							],
+							"media_url": "http://pbs.twimg.com/media/DFJ50JjUAAAw2J_.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFJ50JjUAAAw2J_.jpg",
+							"url": "https://t.co/jF9lUoVJnE",
+							"display_url": "pic.twitter.com/jF9lUoVJnE",
+							"expanded_url": "https://twitter.com/srta_perri/status/887906019757637634/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1328,
+									"h": 747,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 887906013369598000,
+							"id_str": "887906013369597952",
+							"indices": [
+								48,
+								71
+							],
+							"media_url": "http://pbs.twimg.com/media/DFJ50JjUAAAw2J_.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DFJ50JjUAAAw2J_.jpg",
+							"url": "https://t.co/jF9lUoVJnE",
+							"display_url": "pic.twitter.com/jF9lUoVJnE",
+							"expanded_url": "https://twitter.com/srta_perri/status/887906019757637634/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1328,
+									"h": 747,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2297160720,
+					"id_str": "2297160720",
+					"name": "Amanda Perri",
+					"screen_name": "srta_perri",
+					"location": "",
+					"description": "Grade 5 Spanish Bilingual teacher",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 48,
+					"friends_count": 90,
+					"listed_count": 3,
+					"created_at": "Sat Jan 18 03:16:40 +0000 2014",
+					"favourites_count": 127,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 35,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DBE9ED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/424382541286477824/Jr7l96vf_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/424382541286477824/Jr7l96vf_normal.jpeg",
+					"profile_link_color": "CC3366",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E6F6F9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "tl"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 887906019757637600,
+		"quoted_status_id_str": "887906019757637634",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 21 04:38:51 +0000 2017",
 		"id": 888256938005340200,
 		"id_str": "888256938005340165",
