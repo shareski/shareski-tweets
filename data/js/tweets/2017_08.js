@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 09 17:23:33 +0000 2017",
+		"id": 895334748788113400,
+		"id_str": "895334748788113408",
+		"text": "Boom.  Also 8 more days till I get to hang with these folks. https://t.co/hiLwdzeu0I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hiLwdzeu0I",
+					"expanded_url": "https://twitter.com/iAct_RCISD/status/894569792140697600",
+					"display_url": "twitter.com/iAct_RCISD/sta…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34691,
+			"friends_count": 6217,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 894569792140697600,
+		"quoted_status_id_str": "894569792140697600",
+		"quoted_status": {
+			"created_at": "Mon Aug 07 14:43:53 +0000 2017",
+			"id": 894569792140697600,
+			"id_str": "894569792140697600",
+			"text": "CHOOSE J❤️Y! #RCISDJoy https://t.co/mHWzSr8YhL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RCISDJoy",
+						"indices": [
+							13,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 894569787086430200,
+						"id_str": "894569787086430208",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DGome1IVYAAOJM9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGome1IVYAAOJM9.jpg",
+						"url": "https://t.co/mHWzSr8YhL",
+						"display_url": "pic.twitter.com/mHWzSr8YhL",
+						"expanded_url": "https://twitter.com/iAct_RCISD/status/894569792140697600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894569787086430200,
+						"id_str": "894569787086430208",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DGome1IVYAAOJM9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGome1IVYAAOJM9.jpg",
+						"url": "https://t.co/mHWzSr8YhL",
+						"display_url": "pic.twitter.com/mHWzSr8YhL",
+						"expanded_url": "https://twitter.com/iAct_RCISD/status/894569792140697600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1876353535,
+				"id_str": "1876353535",
+				"name": "iAct",
+				"screen_name": "iAct_RCISD",
+				"location": "Royse City, TX",
+				"description": "Instruction, Assessment, Curriculum, and Technology. Supporting teachers and students of @RoyseCityISD.",
+				"url": "https://t.co/JrrNdRWvQK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JrrNdRWvQK",
+								"expanded_url": "http://iactrcisd.blogspot.com",
+								"display_url": "iactrcisd.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 827,
+				"listed_count": 35,
+				"created_at": "Tue Sep 17 17:44:42 +0000 2013",
+				"favourites_count": 4857,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3066,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765630745914343425/w9pvJPW3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765630745914343425/w9pvJPW3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1876353535/1471375511",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d244f8086001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d244f8086001.json",
+				"place_type": "poi",
+				"name": "Royse City High School",
+				"full_name": "Royse City High School",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 09 17:11:08 +0000 2017",
 		"id": 895331625864581100,
 		"id_str": "895331625864581120",
