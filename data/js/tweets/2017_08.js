@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 15 01:32:31 +0000 2017",
+		"id": 897269742448332800,
+		"id_str": "897269742448332805",
+		"text": "Boom. https://t.co/aMb76M9zjZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aMb76M9zjZ",
+					"expanded_url": "https://twitter.com/leadedtech/status/897255479809724416",
+					"display_url": "twitter.com/leadedtech/sta…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34806,
+			"friends_count": 6233,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110564,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897255479809724400,
+		"quoted_status_id_str": "897255479809724416",
+		"quoted_status": {
+			"created_at": "Tue Aug 15 00:35:51 +0000 2017",
+			"id": 897255479809724400,
+			"id_str": "897255479809724416",
+			"text": "@IdahoEdTech @gcouros Who's George Couros?  (you're welcome @shareski ) 😂😆🤣 #ieta18",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ieta18",
+						"indices": [
+							76,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IdahoEdTech",
+						"name": "IETA",
+						"id": 2249169108,
+						"id_str": "2249169108",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "gcouros",
+						"name": "George Couros",
+						"id": 18368680,
+						"id_str": "18368680",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							60,
+							69
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 897195812710633500,
+			"in_reply_to_status_id_str": "897195812710633472",
+			"in_reply_to_user_id": 2249169108,
+			"in_reply_to_user_id_str": "2249169108",
+			"in_reply_to_screen_name": "IdahoEdTech",
+			"user": {
+				"id": 85361157,
+				"id_str": "85361157",
+				"name": "Simon Miller",
+				"screen_name": "leadedtech",
+				"location": "ÜT: 47.559032,-116.300507",
+				"description": "Husband, Dad, Reformed TechDir, Google for Education: L1, L2, Cert Trainer, Cert Innovator, Golf Coach, Star Wars Geek, Runner, Musician, Tech enthusiast.",
+				"url": "https://t.co/yNOQhXr3Yo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yNOQhXr3Yo",
+								"expanded_url": "http://about.me/simonmiller",
+								"display_url": "about.me/simonmiller",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3196,
+				"friends_count": 2518,
+				"listed_count": 203,
+				"created_at": "Mon Oct 26 17:02:40 +0000 2009",
+				"favourites_count": 3529,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39088,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/724922732828344320/K5AsLWXD.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/724922732828344320/K5AsLWXD.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820511604471001088/sDjUlG2Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820511604471001088/sDjUlG2Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85361157/1484460580",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 14 23:11:27 +0000 2017",
 		"id": 897234241150476300,
 		"id_str": "897234241150476289",
