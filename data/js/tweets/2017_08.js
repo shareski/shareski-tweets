@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 15 22:54:50 +0000 2017",
+		"id": 897592447290814500,
+		"id_str": "897592447290814464",
+		"text": "Thank you. You're doing great and important work. @Edu_Thompson @erinshoemaker81 @enoughallredy #cmspl https://t.co/4V1d1Nt6R8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cmspl",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Edu_Thompson",
+					"name": "Jill Thompson",
+					"id": 289087256,
+					"id_str": "289087256",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "erinshoemaker81",
+					"name": "Erin Shoemaker",
+					"id": 796878818225123300,
+					"id_str": "796878818225123328",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "enoughallredy",
+					"name": "Lisa Allred",
+					"id": 27756573,
+					"id_str": "27756573",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897592371491336200,
+					"id_str": "897592371491336192",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/897592371491336192/pu/img/hWT2xt3Ws_ok3M4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/897592371491336192/pu/img/hWT2xt3Ws_ok3M4D.jpg",
+					"url": "https://t.co/4V1d1Nt6R8",
+					"display_url": "pic.twitter.com/4V1d1Nt6R8",
+					"expanded_url": "https://twitter.com/shareski/status/897592447290814464/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897592371491336200,
+					"id_str": "897592371491336192",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/897592371491336192/pu/img/hWT2xt3Ws_ok3M4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/897592371491336192/pu/img/hWT2xt3Ws_ok3M4D.jpg",
+					"url": "https://t.co/4V1d1Nt6R8",
+					"display_url": "pic.twitter.com/4V1d1Nt6R8",
+					"expanded_url": "https://twitter.com/shareski/status/897592447290814464/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24313,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/897592371491336192/pu/pl/SO7p6SgVOctHQ4yT.m3u8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/897592371491336192/pu/vid/720x720/3IzXHE-2iDVy0zTo.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/897592371491336192/pu/vid/480x480/jcCa2jh7iHj-7tH2.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/897592371491336192/pu/vid/240x240/U24en0ulQ8DdD4x0.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34832,
+			"friends_count": 6237,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110565,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 01:32:31 +0000 2017",
 		"id": 897269742448332800,
 		"id_str": "897269742448332805",
