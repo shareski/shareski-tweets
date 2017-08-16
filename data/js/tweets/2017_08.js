@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 00:20:35 +0000 2017",
+		"id": 897614025030238200,
+		"id_str": "897614025030238208",
+		"text": "RT @ZachSnow: Pretty exciting day. Secondary science teachers in @RoyseCityISD getting some training in @DiscoveryEd Techbooks. #rlchat #RC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rlchat",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZachSnow",
+					"name": "Zach Snow",
+					"id": 47220135,
+					"id_str": "47220135",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "RoyseCityISD",
+					"name": "Royse City ISD",
+					"id": 611810435,
+					"id_str": "611810435",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34835,
+			"friends_count": 6237,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 14:14:01 +0000 2017",
+			"id": 897098992110248000,
+			"id_str": "897098992110247940",
+			"text": "Pretty exciting day. Secondary science teachers in @RoyseCityISD getting some training in @DiscoveryEd Techbooks.… https://t.co/0aDy0kq0DU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RoyseCityISD",
+						"name": "Royse City ISD",
+						"id": 611810435,
+						"id_str": "611810435",
+						"indices": [
+							51,
+							64
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							90,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0aDy0kq0DU",
+						"expanded_url": "https://twitter.com/i/web/status/897098992110247940",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47220135,
+				"id_str": "47220135",
+				"name": "Zach Snow",
+				"screen_name": "ZachSnow",
+				"location": "Royse City, TX",
+				"description": "Christ follower, husband to @suziesnow, daddy. Community Pastor @FourWindsRC. Coor. of Innovation/STEAM @RoyseCityISD. 1600/3200 Coach for @RCHSGIRLSTRACK.",
+				"url": "https://t.co/VAeyyU6yDj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VAeyyU6yDj",
+								"expanded_url": "http://zachsnow.blogspot.com",
+								"display_url": "zachsnow.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5632,
+				"friends_count": 5485,
+				"listed_count": 111,
+				"created_at": "Mon Jun 15 01:00:42 +0000 2009",
+				"favourites_count": 3812,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14177,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529993329279115265/l-yt7-XR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529993329279115265/l-yt7-XR.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/729733405676478466/1XSYc452_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/729733405676478466/1XSYc452_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47220135/1466196809",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d244f8086001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d244f8086001.json",
+				"place_type": "poi",
+				"name": "Royse City High School",
+				"full_name": "Royse City High School",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							],
+							[
+								-96.29133407584861,
+								32.9756104896494
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 00:13:36 +0000 2017",
+		"id": 897612269194014700,
+		"id_str": "897612269194014721",
+		"text": "@TeacherGaff @Edu_Thompson @erinshoemaker81 @enoughallredy Aww. They are too kind. We missed you today.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherGaff",
+					"name": "Sara Gaffney",
+					"id": 888443330010292200,
+					"id_str": "888443330010292224",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Edu_Thompson",
+					"name": "Jill Thompson",
+					"id": 289087256,
+					"id_str": "289087256",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "erinshoemaker81",
+					"name": "Erin Shoemaker",
+					"id": 796878818225123300,
+					"id_str": "796878818225123328",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "enoughallredy",
+					"name": "Lisa Allred",
+					"id": 27756573,
+					"id_str": "27756573",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 897610479132188700,
+		"in_reply_to_status_id_str": "897610479132188672",
+		"in_reply_to_user_id": 888443330010292200,
+		"in_reply_to_user_id_str": "888443330010292224",
+		"in_reply_to_screen_name": "TeacherGaff",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34835,
+			"friends_count": 6237,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 22:54:50 +0000 2017",
 		"id": 897592447290814500,
 		"id_str": "897592447290814464",
