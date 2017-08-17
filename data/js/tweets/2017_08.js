@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 19:04:50 +0000 2017",
+		"id": 898259341223931900,
+		"id_str": "898259341223931904",
+		"text": "RT @ElsaCarter75189: #RCISD knows how to spread JOY!!! #Convocation2017 #RCISDJOY https://t.co/US47HmUNgS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RCISD",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "Convocation2017",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"text": "RCISDJOY",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElsaCarter75189",
+					"name": "Elsa Carter",
+					"id": 788789471751745500,
+					"id_str": "788789471751745536",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898185540024926200,
+					"id_str": "898185540024926208",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+					"url": "https://t.co/US47HmUNgS",
+					"display_url": "pic.twitter.com/US47HmUNgS",
+					"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898185551953702900,
+					"source_status_id_str": "898185551953702913",
+					"source_user_id": 788789471751745500,
+					"source_user_id_str": "788789471751745536"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898185540024926200,
+					"id_str": "898185540024926208",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+					"url": "https://t.co/US47HmUNgS",
+					"display_url": "pic.twitter.com/US47HmUNgS",
+					"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898185551953702900,
+					"source_status_id_str": "898185551953702913",
+					"source_user_id": 788789471751745500,
+					"source_user_id_str": "788789471751745536"
+				},
+				{
+					"id": 898185540012359700,
+					"id_str": "898185540012359681",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DHb-_WbUQAEeI9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHb-_WbUQAEeI9o.jpg",
+					"url": "https://t.co/US47HmUNgS",
+					"display_url": "pic.twitter.com/US47HmUNgS",
+					"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898185551953702900,
+					"source_status_id_str": "898185551953702913",
+					"source_user_id": 788789471751745500,
+					"source_user_id_str": "788789471751745536"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34871,
+			"friends_count": 6239,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110574,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 14:11:37 +0000 2017",
+			"id": 898185551953702900,
+			"id_str": "898185551953702913",
+			"text": "#RCISD knows how to spread JOY!!! #Convocation2017 #RCISDJOY https://t.co/US47HmUNgS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RCISD",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "Convocation2017",
+						"indices": [
+							34,
+							50
+						]
+					},
+					{
+						"text": "RCISDJOY",
+						"indices": [
+							51,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898185540024926200,
+						"id_str": "898185540024926208",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+						"url": "https://t.co/US47HmUNgS",
+						"display_url": "pic.twitter.com/US47HmUNgS",
+						"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898185540024926200,
+						"id_str": "898185540024926208",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHb-_WeUAAAOrQY.jpg",
+						"url": "https://t.co/US47HmUNgS",
+						"display_url": "pic.twitter.com/US47HmUNgS",
+						"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 898185540012359700,
+						"id_str": "898185540012359681",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DHb-_WbUQAEeI9o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHb-_WbUQAEeI9o.jpg",
+						"url": "https://t.co/US47HmUNgS",
+						"display_url": "pic.twitter.com/US47HmUNgS",
+						"expanded_url": "https://twitter.com/ElsaCarter75189/status/898185551953702913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 788789471751745500,
+				"id_str": "788789471751745536",
+				"name": "Elsa Carter",
+				"screen_name": "ElsaCarter75189",
+				"location": "",
+				"description": "Bilingual PreK Teacher",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46,
+				"friends_count": 61,
+				"listed_count": 0,
+				"created_at": "Wed Oct 19 17:10:39 +0000 2016",
+				"favourites_count": 132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788803535294992384/DFDcuWPw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788803535294992384/DFDcuWPw_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 13:35:26 +0000 2017",
 		"id": 898176446052483100,
 		"id_str": "898176446052483075",
