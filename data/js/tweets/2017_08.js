@@ -1,6 +1,809 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 19:58:45 +0000 2017",
+		"id": 898272910376263700,
+		"id_str": "898272910376263681",
+		"text": "Thanks again @kworthy11 @Curriculumdiva @KayeKenny @zachsnow @Micotrav @MikeAnderson79 @RoyseCityISD #rcisdjoy https://t.co/6wwJr5jOJv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rcisdjoy",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kworthy11",
+					"name": "Kevin Worthy",
+					"id": 552955778,
+					"id_str": "552955778",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Curriculumdiva",
+					"name": "Julia Robinson",
+					"id": 487121237,
+					"id_str": "487121237",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "KayeKenny",
+					"name": "kenny kaye",
+					"id": 632988838,
+					"id_str": "632988838",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "ZachSnow",
+					"name": "Zach Snow",
+					"id": 47220135,
+					"id_str": "47220135",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "Micotrav",
+					"name": "Bobby Summers",
+					"id": 35723910,
+					"id_str": "35723910",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "MikeAnderson79",
+					"name": "Mike Anderson",
+					"id": 418135478,
+					"id_str": "418135478",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "RoyseCityISD",
+					"name": "Royse City ISD",
+					"id": 611810435,
+					"id_str": "611810435",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898272855560826900,
+					"id_str": "898272855560826880",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/898272855560826880/pu/img/9MljuPuozoF64sce.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/898272855560826880/pu/img/9MljuPuozoF64sce.jpg",
+					"url": "https://t.co/6wwJr5jOJv",
+					"display_url": "pic.twitter.com/6wwJr5jOJv",
+					"expanded_url": "https://twitter.com/shareski/status/898272910376263681/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898272855560826900,
+					"id_str": "898272855560826880",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/898272855560826880/pu/img/9MljuPuozoF64sce.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/898272855560826880/pu/img/9MljuPuozoF64sce.jpg",
+					"url": "https://t.co/6wwJr5jOJv",
+					"display_url": "pic.twitter.com/6wwJr5jOJv",
+					"expanded_url": "https://twitter.com/shareski/status/898272910376263681/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52890,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/898272855560826880/pu/vid/720x720/NpbfJzmITcBQFa6e.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/898272855560826880/pu/pl/QPFxkoahD4uJ4_a5.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/898272855560826880/pu/vid/480x480/YNo6FMJQfzA7fITt.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/898272855560826880/pu/vid/240x240/Uu2WbydOa9hlPnTO.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34873,
+			"friends_count": 6239,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 19:56:57 +0000 2017",
+		"id": 898272459056496600,
+		"id_str": "898272459056496640",
+		"text": "RT @getheather: You get $1000, you get $1000....... #rcisdjoy https://t.co/jTyhsHqz0N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rcisdjoy",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getheather",
+					"name": "Heather Russell",
+					"id": 1115803027,
+					"id_str": "1115803027",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898221083408572400,
+					"id_str": "898221083408572416",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+					"url": "https://t.co/jTyhsHqz0N",
+					"display_url": "pic.twitter.com/jTyhsHqz0N",
+					"expanded_url": "https://twitter.com/getheather/status/898221090060857344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898221090060857300,
+					"source_status_id_str": "898221090060857344",
+					"source_user_id": 1115803027,
+					"source_user_id_str": "1115803027"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898221083408572400,
+					"id_str": "898221083408572416",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+					"url": "https://t.co/jTyhsHqz0N",
+					"display_url": "pic.twitter.com/jTyhsHqz0N",
+					"expanded_url": "https://twitter.com/getheather/status/898221090060857344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898221090060857300,
+					"source_status_id_str": "898221090060857344",
+					"source_user_id": 1115803027,
+					"source_user_id_str": "1115803027"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34873,
+			"friends_count": 6239,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 16:32:50 +0000 2017",
+			"id": 898221090060857300,
+			"id_str": "898221090060857344",
+			"text": "You get $1000, you get $1000....... #rcisdjoy https://t.co/jTyhsHqz0N",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rcisdjoy",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898221083408572400,
+						"id_str": "898221083408572416",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+						"url": "https://t.co/jTyhsHqz0N",
+						"display_url": "pic.twitter.com/jTyhsHqz0N",
+						"expanded_url": "https://twitter.com/getheather/status/898221090060857344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898221083408572400,
+						"id_str": "898221083408572416",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHcfUP5VoAAUaoZ.jpg",
+						"url": "https://t.co/jTyhsHqz0N",
+						"display_url": "pic.twitter.com/jTyhsHqz0N",
+						"expanded_url": "https://twitter.com/getheather/status/898221090060857344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115803027,
+				"id_str": "1115803027",
+				"name": "Heather Russell",
+				"screen_name": "getheather",
+				"location": "",
+				"description": "Mom of two awesome girls, GT Teacher for Royse City ISD, Genius Hour Coordinator, Innovation Day Leader, STEAM Enthusiast, @EdCampAwesome cofounder, #RLchat",
+				"url": "http://t.co/wRHjBhzh5k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wRHjBhzh5k",
+								"expanded_url": "http://about.me/getheatherrussell",
+								"display_url": "about.me/getheatherruss…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1441,
+				"friends_count": 1227,
+				"listed_count": 45,
+				"created_at": "Thu Jan 24 02:28:38 +0000 2013",
+				"favourites_count": 2436,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000013591992/b6ed1542d64507121c9257500a2bd362_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000013591992/b6ed1542d64507121c9257500a2bd362_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115803027/1371606029",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 19:47:58 +0000 2017",
+		"id": 898270196036587500,
+		"id_str": "898270196036587520",
+		"text": "@StuartBurt @RciSd Missed you too but @ZachSnow let me know you're doing well. Rockin the twins. Or is it twinses?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StuartBurt",
+					"name": "Stuart E. Burt II",
+					"id": 12692592,
+					"id_str": "12692592",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RciSd",
+					"name": "Røciø †øs†αdø",
+					"id": 2462551320,
+					"id_str": "2462551320",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "ZachSnow",
+					"name": "Zach Snow",
+					"id": 47220135,
+					"id_str": "47220135",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 898213637495631900,
+		"in_reply_to_status_id_str": "898213637495631872",
+		"in_reply_to_user_id": 12692592,
+		"in_reply_to_user_id_str": "12692592",
+		"in_reply_to_screen_name": "StuartBurt",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34873,
+			"friends_count": 6239,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 19:04:50 +0000 2017",
 		"id": 898259341223931900,
 		"id_str": "898259341223931904",
