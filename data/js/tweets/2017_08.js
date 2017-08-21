@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 21 12:47:55 +0000 2017",
+		"id": 899614037130063900,
+		"id_str": "899614037130063872",
+		"text": "Pro tip for today. https://t.co/hy2dtm4Mg3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hy2dtm4Mg3",
+					"expanded_url": "https://twitter.com/sedson/status/899596846196293632",
+					"display_url": "twitter.com/sedson/status/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34904,
+			"friends_count": 6246,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 647,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 899596846196293600,
+		"quoted_status_id_str": "899596846196293632",
+		"quoted_status": {
+			"created_at": "Mon Aug 21 11:39:36 +0000 2017",
+			"id": 899596846196293600,
+			"id_str": "899596846196293632",
+			"text": "\"Hey, Brian, don't do that.\" #sunstare https://t.co/i1Ui0A0ryj cc: @shareski",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sunstare",
+						"indices": [
+							29,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							67,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/i1Ui0A0ryj",
+						"expanded_url": "https://www.youtube.com/watch?v=wTEGOI9Leys",
+						"display_url": "youtube.com/watch?v=wTEGOI…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10747072,
+				"id_str": "10747072",
+				"name": "Sarah Edson",
+				"screen_name": "sedson",
+				"location": "Connecticut",
+				"description": "educator, @girlsschools Trustee, co-founder of @edcampct. I love dogs, running, @barre3, and really funny people.",
+				"url": "https://t.co/otnjbuxbcN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/otnjbuxbcN",
+								"expanded_url": "http://www.sarahedson.com",
+								"display_url": "sarahedson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2295,
+				"friends_count": 1390,
+				"listed_count": 146,
+				"created_at": "Fri Nov 30 19:13:26 +0000 2007",
+				"favourites_count": 2250,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D2D8DF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/38386481/beach.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/38386481/beach.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463104718827315201/ZCZYHw6t_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463104718827315201/ZCZYHw6t_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10747072/1468107384",
+				"profile_link_color": "6F1501",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFEFC7",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 03:06:33 +0000 2017",
 		"id": 899467734119059500,
 		"id_str": "899467734119059457",
