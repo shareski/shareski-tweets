@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 02:35:17 +0000 2017",
+		"id": 899822252941877200,
+		"id_str": "899822252941877248",
+		"text": "Just show your students this every morning. Boom. https://t.co/ZV03BjMYdT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZV03BjMYdT",
+					"expanded_url": "https://twitter.com/earnknowledge/status/899514872446148612",
+					"display_url": "twitter.com/earnknowledge/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34909,
+			"friends_count": 6247,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 648,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 899514872446148600,
+		"quoted_status_id_str": "899514872446148612",
+		"quoted_status": {
+			"created_at": "Mon Aug 21 06:13:52 +0000 2017",
+			"id": 899514872446148600,
+			"id_str": "899514872446148612",
+			"text": "\"I got it, I got it\" Never stop retweeting this video.. https://t.co/YVKBtEgf91",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 702044582821781500,
+						"id_str": "702044582821781504",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/702044582821781504/pu/img/6INT9nckfrwIcUeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/702044582821781504/pu/img/6INT9nckfrwIcUeB.jpg",
+						"url": "https://t.co/YVKBtEgf91",
+						"display_url": "pic.twitter.com/YVKBtEgf91",
+						"expanded_url": "https://twitter.com/FascinatingVids/status/702044923688833024/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 702044923688833000,
+						"source_status_id_str": "702044923688833024",
+						"source_user_id": 2597498814,
+						"source_user_id_str": "2597498814"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 702044582821781500,
+						"id_str": "702044582821781504",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/702044582821781504/pu/img/6INT9nckfrwIcUeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/702044582821781504/pu/img/6INT9nckfrwIcUeB.jpg",
+						"url": "https://t.co/YVKBtEgf91",
+						"display_url": "pic.twitter.com/YVKBtEgf91",
+						"expanded_url": "https://twitter.com/FascinatingVids/status/702044923688833024/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 360,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 702044923688833000,
+						"source_status_id_str": "702044923688833024",
+						"source_user_id": 2597498814,
+						"source_user_id_str": "2597498814",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 30000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/702044582821781504/pu/pl/UOWJmxD6-6p_sjHY.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/702044582821781504/pu/vid/360x640/IoI1hqArWcA0vnFk.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/702044582821781504/pu/vid/180x320/PGJpCtEAc5cleRRY.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2597498814,
+								"id_str": "2597498814",
+								"name": "Fascinating Videos",
+								"screen_name": "FascinatingVids",
+								"location": "",
+								"description": "Posting the best slow motion, time-lapse, science, animal and funny GIFs/Vines on Twitter. We do not claim the rights to the videos. (Original acc. 08-08-2014)",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2697114,
+								"friends_count": 170,
+								"listed_count": 2555,
+								"created_at": "Tue Jul 01 06:36:59 +0000 2014",
+								"favourites_count": 9,
+								"utc_offset": 10800,
+								"time_zone": "Athens",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 3775,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/816532410225467392/vFyVQFq-_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/816532410225467392/vFyVQFq-_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2597498814/1407443679",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 843112550,
+				"id_str": "843112550",
+				"name": "Learn Something",
+				"screen_name": "EarnKnowledge",
+				"location": "Worldwide",
+				"description": "Learn something new every day with us.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3386032,
+				"friends_count": 3281,
+				"listed_count": 5623,
+				"created_at": "Mon Sep 24 07:13:39 +0000 2012",
+				"favourites_count": 7,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31678,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770497822844006400/3TwwqOGL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770497822844006400/3TwwqOGL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/843112550/1472573908",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6227,
+			"favorite_count": 11208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 21:43:29 +0000 2017",
 		"id": 899748816676560900,
 		"id_str": "899748816676560896",
