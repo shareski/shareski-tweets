@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 24 16:07:36 +0000 2017",
+		"id": 900751452980863000,
+		"id_str": "900751452980862976",
+		"text": "Awesome. https://t.co/0p10Px4Ned",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0p10Px4Ned",
+					"expanded_url": "https://twitter.com/nlakusta/status/900747838816010240",
+					"display_url": "twitter.com/nlakusta/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34944,
+			"friends_count": 6254,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 648,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3797791ff9c0e4c6",
+			"url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+			"place_type": "city",
+			"name": "Toronto",
+			"full_name": "Toronto, Ontario",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-79.639319,
+							43.403221
+						],
+						[
+							-78.90582,
+							43.403221
+						],
+						[
+							-78.90582,
+							43.855401
+						],
+						[
+							-79.639319,
+							43.855401
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 900747838816010200,
+		"quoted_status_id_str": "900747838816010240",
+		"quoted_status": {
+			"created_at": "Thu Aug 24 15:53:14 +0000 2017",
+			"id": 900747838816010200,
+			"id_str": "900747838816010240",
+			"text": "New #psd70 staff checking out @DiscoveryEd Spotlight on Strategies resources cc @shareski https://t.co/vi4dJHiWAY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "psd70",
+						"indices": [
+							4,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							30,
+							42
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							80,
+							89
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 900747836580536300,
+						"id_str": "900747836580536320",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DIAZYo-VoAAb00O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIAZYo-VoAAb00O.jpg",
+						"url": "https://t.co/vi4dJHiWAY",
+						"display_url": "pic.twitter.com/vi4dJHiWAY",
+						"expanded_url": "https://twitter.com/nlakusta/status/900747838816010240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900747836580536300,
+						"id_str": "900747836580536320",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DIAZYo-VoAAb00O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIAZYo-VoAAb00O.jpg",
+						"url": "https://t.co/vi4dJHiWAY",
+						"display_url": "pic.twitter.com/vi4dJHiWAY",
+						"expanded_url": "https://twitter.com/nlakusta/status/900747838816010240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35656623,
+				"id_str": "35656623",
+				"name": "Nicole Lakusta",
+				"screen_name": "nlakusta",
+				"location": "Stony Plain, Alberta",
+				"description": "Educational tech enthusiast, innovative school leader, French German Canadian, Star Discovery Educator, ETCATA Vice Pres",
+				"url": "http://t.co/d78xOsYhN2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d78xOsYhN2",
+								"expanded_url": "http://about.me/nlakusta",
+								"display_url": "about.me/nlakusta",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2855,
+				"friends_count": 3020,
+				"listed_count": 271,
+				"created_at": "Mon Apr 27 03:26:51 +0000 2009",
+				"favourites_count": 1097,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12153,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001329",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443749504391446528/84I5Ajii.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443749504391446528/84I5Ajii.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1620691293/Nic_Nov2011curlysmall_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1620691293/Nic_Nov2011curlysmall_normal.jpg",
+				"profile_link_color": "004358",
+				"profile_sidebar_border_color": "F7B565",
+				"profile_sidebar_fill_color": "000B17",
+				"profile_text_color": "448668",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 24 14:06:31 +0000 2017",
 		"id": 900720981630738400,
 		"id_str": "900720981630738432",
