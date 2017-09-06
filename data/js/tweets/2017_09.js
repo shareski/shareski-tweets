@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 06 01:28:16 +0000 2017",
+		"id": 905241205725900800,
+		"id_str": "905241205725900800",
+		"text": "My dream is to co-present with this kid. https://t.co/oWzb4bWcEn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWzb4bWcEn",
+					"expanded_url": "https://twitter.com/Joe_Sanfelippo/status/905239359561113601",
+					"display_url": "twitter.com/Joe_Sanfelippo…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35102,
+			"friends_count": 6274,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 648,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110722,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 905239359561113600,
+		"quoted_status_id_str": "905239359561113601",
+		"quoted_status": {
+			"created_at": "Wed Sep 06 01:20:56 +0000 2017",
+			"id": 905239359561113600,
+			"id_str": "905239359561113601",
+			"text": "@shareski @thomascmurray @rkiker Yeah....uhhhh...I wish that was my biggest problem https://t.co/OEbuqNCG3b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "thomascmurray",
+						"name": "Tom Murray",
+						"id": 50447280,
+						"id_str": "50447280",
+						"indices": [
+							10,
+							24
+						]
+					},
+					{
+						"screen_name": "rkiker",
+						"name": "Rich Kiker",
+						"id": 19551063,
+						"id_str": "19551063",
+						"indices": [
+							25,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 905239179247923200,
+						"id_str": "905239179247923200",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905239179247923200/pu/img/eECNajbv53cTD72R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905239179247923200/pu/img/eECNajbv53cTD72R.jpg",
+						"url": "https://t.co/OEbuqNCG3b",
+						"display_url": "pic.twitter.com/OEbuqNCG3b",
+						"expanded_url": "https://twitter.com/Joe_Sanfelippo/status/905239359561113601/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 905239179247923200,
+						"id_str": "905239179247923200",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/905239179247923200/pu/img/eECNajbv53cTD72R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/905239179247923200/pu/img/eECNajbv53cTD72R.jpg",
+						"url": "https://t.co/OEbuqNCG3b",
+						"display_url": "pic.twitter.com/OEbuqNCG3b",
+						"expanded_url": "https://twitter.com/Joe_Sanfelippo/status/905239359561113601/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 23716,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/905239179247923200/pu/vid/320x180/BmFEJZhfluaWv9-Q.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/905239179247923200/pu/pl/JfQvJxyjWCHfDsa7.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/905239179247923200/pu/vid/640x360/6OI718ArJgmMsFYo.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/905239179247923200/pu/vid/1280x720/tOsjSbJbWJGXAk6m.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 905228188275630100,
+			"in_reply_to_status_id_str": "905228188275630080",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 356626702,
+				"id_str": "356626702",
+				"name": "Joe Sanfelippo",
+				"screen_name": "Joe_Sanfelippo",
+				"location": "Fall Creek, WI",
+				"description": "Married to the amazing @ajsanfelippo5 Dad to 3 rock stars • Superintendent • Keynote Speaker • Co-Author of #HackingLeadership Connect at https://t.co/kh95vatmsg",
+				"url": "https://t.co/HEmS4GAtGY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HEmS4GAtGY",
+								"expanded_url": "http://www.jsanfelippo.com",
+								"display_url": "jsanfelippo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kh95vatmsg",
+								"expanded_url": "http://bit.ly/drsan",
+								"display_url": "bit.ly/drsan",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19976,
+				"friends_count": 1436,
+				"listed_count": 678,
+				"created_at": "Wed Aug 17 03:54:24 +0000 2011",
+				"favourites_count": 15313,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30284,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902020683571580929/i7HOhRhj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902020683571580929/i7HOhRhj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/356626702/1488728187",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 06 00:36:33 +0000 2017",
 		"id": 905228188275630100,
 		"id_str": "905228188275630080",
