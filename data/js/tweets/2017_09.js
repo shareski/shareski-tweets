@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 11 18:14:42 +0000 2017",
+		"id": 907306420369973200,
+		"id_str": "907306420369973249",
+		"text": "My pants match the extension cord. https://t.co/rsurKpVqt6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rsurKpVqt6",
+					"expanded_url": "https://twitter.com/kcnena/status/907284913828892673",
+					"display_url": "twitter.com/kcnena/status/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35147,
+			"friends_count": 6289,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 648,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6d716125b43cb735",
+			"url": "https://api.twitter.com/1.1/geo/id/6d716125b43cb735.json",
+			"place_type": "city",
+			"name": "Algonquin",
+			"full_name": "Algonquin, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-88.383751,
+							42.124838
+						],
+						[
+							-88.198981,
+							42.124838
+						],
+						[
+							-88.198981,
+							42.241892
+						],
+						[
+							-88.383751,
+							42.241892
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 907284913828892700,
+		"quoted_status_id_str": "907284913828892673",
+		"quoted_status": {
+			"created_at": "Mon Sep 11 16:49:14 +0000 2017",
+			"id": 907284913828892700,
+			"id_str": "907284913828892673",
+			"text": "\"We judge ourselves by our intentions.  We judge others by their impact.\"  Lots of great lessons! @shareski #CEP300 https://t.co/TPFgzIyWH6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CEP300",
+						"indices": [
+							108,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 907284897256976400,
+						"id_str": "907284897256976385",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DJdSzpsUMAEYsNW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJdSzpsUMAEYsNW.jpg",
+						"url": "https://t.co/TPFgzIyWH6",
+						"display_url": "pic.twitter.com/TPFgzIyWH6",
+						"expanded_url": "https://twitter.com/kcnena/status/907284913828892673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907284897256976400,
+						"id_str": "907284897256976385",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DJdSzpsUMAEYsNW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJdSzpsUMAEYsNW.jpg",
+						"url": "https://t.co/TPFgzIyWH6",
+						"display_url": "pic.twitter.com/TPFgzIyWH6",
+						"expanded_url": "https://twitter.com/kcnena/status/907284913828892673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33223308,
+				"id_str": "33223308",
+				"name": "Kristin Corriveau",
+				"screen_name": "kcnena",
+				"location": "Algonquin, IL",
+				"description": "Assistant Superintendent for Curriculum, Doctoral Student. Avid traveler.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 468,
+				"friends_count": 1037,
+				"listed_count": 25,
+				"created_at": "Sun Apr 19 15:21:07 +0000 2009",
+				"favourites_count": 622,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1006,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891181295287508993/niIhzJKP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891181295287508993/niIhzJKP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33223308/1400900424",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0aaa61c35b976001",
+				"url": "https://api.twitter.com/1.1/geo/id/0aaa61c35b976001.json",
+				"place_type": "poi",
+				"name": "D300 Central Office",
+				"full_name": "D300 Central Office",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-88.341251,
+								42.161411
+							],
+							[
+								-88.341251,
+								42.161411
+							],
+							[
+								-88.341251,
+								42.161411
+							],
+							[
+								-88.341251,
+								42.161411
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 11 12:56:55 +0000 2017",
 		"id": 907226450419441700,
 		"id_str": "907226450419441664",
