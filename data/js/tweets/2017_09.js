@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 18:21:32 +0000 2017",
+		"id": 908032918781616100,
+		"id_str": "908032918781616130",
+		"text": "RT @SolutionTree: You'll lose 27% of new teachers within their first 5 years. What's your teacher induction and retention process?  https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SolutionTree",
+					"name": "Solution Tree",
+					"id": 80559938,
+					"id_str": "80559938",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35177,
+			"friends_count": 6298,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 27 18:06:33 +0000 2017",
+			"id": 879762890886004700,
+			"id_str": "879762890886004736",
+			"text": "You'll lose 27% of new teachers within their first 5 years. What's your teacher induction and retention process?  https://t.co/n9ryd52xHC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n9ryd52xHC",
+						"expanded_url": "https://cards.twitter.com/cards/1byog2/4go02",
+						"display_url": "cards.twitter.com/cards/1byog2/4…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80559938,
+				"id_str": "80559938",
+				"name": "Solution Tree",
+				"screen_name": "SolutionTree",
+				"location": "Bloomington, Indiana",
+				"description": "Transforming education worldwide to ensure learning for all. PD, books, events, and free resources on PLCs, RTI, assessment, and more. Chats: #atPLC & #atAssess",
+				"url": "https://t.co/K5kY0LJ7ys",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K5kY0LJ7ys",
+								"expanded_url": "http://www.solutiontree.com",
+								"display_url": "solutiontree.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41220,
+				"friends_count": 254,
+				"listed_count": 756,
+				"created_at": "Wed Oct 07 12:08:23 +0000 2009",
+				"favourites_count": 10755,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26874,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59BEE4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662629225/x74305597633b5a954b0c78ea3dc4d16.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662629225/x74305597633b5a954b0c78ea3dc4d16.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880876111508381696/pOgSpDZF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880876111508381696/pOgSpDZF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80559938/1502889294",
+				"profile_link_color": "8FCAE0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "191F22",
+				"profile_text_color": "4BB7DF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 16:14:31 +0000 2017",
 		"id": 908000950484435000,
 		"id_str": "908000950484434945",
