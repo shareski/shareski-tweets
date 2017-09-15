@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 15 02:37:50 +0000 2017",
+		"id": 908520204300415000,
+		"id_str": "908520204300414983",
+		"text": "RT @FCHSMathFun: As a math teacher, I fully support and agree with this statement! https://t.co/R4Gfd6BsAL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FCHSMathFun",
+					"name": "Chris McCord",
+					"id": 2352170718,
+					"id_str": "2352170718",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R4Gfd6BsAL",
+					"expanded_url": "https://twitter.com/shareski/status/908480584527355904",
+					"display_url": "twitter.com/shareski/statu…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35196,
+			"friends_count": 6300,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 15 02:21:15 +0000 2017",
+			"id": 908516028317143000,
+			"id_str": "908516028317143047",
+			"text": "As a math teacher, I fully support and agree with this statement! https://t.co/R4Gfd6BsAL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R4Gfd6BsAL",
+						"expanded_url": "https://twitter.com/shareski/status/908480584527355904",
+						"display_url": "twitter.com/shareski/statu…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2352170718,
+				"id_str": "2352170718",
+				"name": "Chris McCord",
+				"screen_name": "FCHSMathFun",
+				"location": "Fayetteville, GA",
+				"description": "Math Teacher, Cross Country & Girls' LAX Coach @fchstigers #MTBoS #FCTechChat #Alg2Chat #WeirdEd #teach180 #CoffeEdu #EduColor #TLAP  #SlowMathChat VandyGrad",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366,
+				"friends_count": 712,
+				"listed_count": 23,
+				"created_at": "Wed Feb 19 19:48:43 +0000 2014",
+				"favourites_count": 4412,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2094,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/547098136422789120/pL7TJ8GW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/547098136422789120/pL7TJ8GW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2352170718/1419273295",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 908480584527355900,
+			"quoted_status_id_str": "908480584527355904",
+			"quoted_status": {
+				"created_at": "Fri Sep 15 00:00:24 +0000 2017",
+				"id": 908480584527355900,
+				"id_str": "908480584527355904",
+				"text": "No, it's not okay to have a kid miss P.E. to finish their math work.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 739743,
+					"id_str": "739743",
+					"name": "Dean Shareski",
+					"screen_name": "shareski",
+					"location": "Moose Jaw, SK",
+					"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+					"url": "https://t.co/xNwidZoCqU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xNwidZoCqU",
+									"expanded_url": "http://about.me/shareski",
+									"display_url": "about.me/shareski",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/GsJVzEeMpH",
+									"expanded_url": "http://shareski.ca/y/followme",
+									"display_url": "shareski.ca/y/followme",
+									"indices": [
+										129,
+										152
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 35196,
+					"friends_count": 6300,
+					"listed_count": 1410,
+					"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+					"favourites_count": 650,
+					"utc_offset": -21600,
+					"time_zone": "Saskatchewan",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 110806,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "666BFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+					"profile_link_color": "384D3A",
+					"profile_sidebar_border_color": "CCC333",
+					"profile_sidebar_fill_color": "1DB2D7",
+					"profile_text_color": "362720",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 53,
+				"favorite_count": 140,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 908480584527355900,
+		"quoted_status_id_str": "908480584527355904",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 15 00:12:18 +0000 2017",
 		"id": 908483579549769700,
 		"id_str": "908483579549769728",
