@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 05:11:23 +0000 2017",
+		"id": 910008398443372500,
+		"id_str": "910008398443372544",
+		"text": "RT @craigcantlie: We just released a few tickets for @TEDxWestVanED this weekend. Come be part of a great day https://t.co/o2pd094SDz #tedx…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "craigcantlie",
+					"name": "Craig Cantlie",
+					"id": 234334621,
+					"id_str": "234334621",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "TEDxWestVanED",
+					"name": "TEDxWestVancouverED",
+					"id": 1148385649,
+					"id_str": "1148385649",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o2pd094SDz",
+					"expanded_url": "http://www.tedxwestvancouvered.com/tickets-imagine-2017/",
+					"display_url": "tedxwestvancouvered.com/tickets-imagin…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35243,
+			"friends_count": 6337,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 02:12:48 +0000 2017",
+			"id": 909963453929898000,
+			"id_str": "909963453929897985",
+			"text": "We just released a few tickets for @TEDxWestVanED this weekend. Come be part of a great day https://t.co/o2pd094SDz… https://t.co/VRf4M5EpRS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TEDxWestVanED",
+						"name": "TEDxWestVancouverED",
+						"id": 1148385649,
+						"id_str": "1148385649",
+						"indices": [
+							35,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/o2pd094SDz",
+						"expanded_url": "http://www.tedxwestvancouvered.com/tickets-imagine-2017/",
+						"display_url": "tedxwestvancouvered.com/tickets-imagin…",
+						"indices": [
+							92,
+							115
+						]
+					},
+					{
+						"url": "https://t.co/VRf4M5EpRS",
+						"expanded_url": "https://twitter.com/i/web/status/909963453929897985",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234334621,
+				"id_str": "234334621",
+				"name": "Craig Cantlie",
+				"screen_name": "craigcantlie",
+				"location": "Vancouver",
+				"description": "Principal in West Vancouver School District and Curator of TEDxWestVancouverED",
+				"url": "https://t.co/0kkBUZLRkW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kkBUZLRkW",
+								"expanded_url": "http://craigcantlie.com",
+								"display_url": "craigcantlie.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1048,
+				"friends_count": 526,
+				"listed_count": 61,
+				"created_at": "Wed Jan 05 12:01:11 +0000 2011",
+				"favourites_count": 967,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/518506217165967360/2vl73UH0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/518506217165967360/2vl73UH0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234334621/1501163611",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1e5cb4d0509db554",
+				"url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+				"place_type": "city",
+				"name": "Vancouver",
+				"full_name": "Vancouver, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.224215,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.316738
+							],
+							[
+								-123.224215,
+								49.316738
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 02:59:47 +0000 2017",
 		"id": 909975277668831200,
 		"id_str": "909975277668831232",
