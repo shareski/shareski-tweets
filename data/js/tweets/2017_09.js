@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 20:41:11 +0000 2017",
+		"id": 910604775045029900,
+		"id_str": "910604775045029888",
+		"text": "RT @Carla_Pereira2: I'm #PeelProud to be sharing the IGNITE stage with @stancameron on Oct 5 in Etobicoke. #Peelfam support would be apprec…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeelProud",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "Peelfam",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Carla_Pereira2",
+					"name": "Carla Pereira",
+					"id": 579539781,
+					"id_str": "579539781",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "StanCameron",
+					"name": "Stan Cameron",
+					"id": 168010887,
+					"id_str": "168010887",
+					"indices": [
+						71,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35262,
+			"friends_count": 6337,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 20 19:56:01 +0000 2017",
+			"id": 910593411320868900,
+			"id_str": "910593411320868866",
+			"text": "I'm #PeelProud to be sharing the IGNITE stage with @stancameron on Oct 5 in Etobicoke. #Peelfam support would be ap… https://t.co/fPj6tpUiK0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PeelProud",
+						"indices": [
+							4,
+							14
+						]
+					},
+					{
+						"text": "Peelfam",
+						"indices": [
+							87,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StanCameron",
+						"name": "Stan Cameron",
+						"id": 168010887,
+						"id_str": "168010887",
+						"indices": [
+							51,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fPj6tpUiK0",
+						"expanded_url": "https://twitter.com/i/web/status/910593411320868866",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 579539781,
+				"id_str": "579539781",
+				"name": "Carla Pereira",
+				"screen_name": "Carla_Pereira2",
+				"location": "Peel, Ontario",
+				"description": "Proud @Peelschools communicator. Sarcastic optimist. Extroverted introvert. #PeelProud #WeTheNorth #TFClive #CR7 https://t.co/tGTYEhlAhT.",
+				"url": "https://t.co/LeH4ZppxO8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LeH4ZppxO8",
+								"expanded_url": "https://ca.linkedin.com/in/carla-pereira-apr-51539148",
+								"display_url": "ca.linkedin.com/in/carla-perei…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tGTYEhlAhT",
+								"expanded_url": "http://bringtheawesomealways.wordpress.com",
+								"display_url": "bringtheawesomealways.wordpress.com",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6476,
+				"friends_count": 6467,
+				"listed_count": 135,
+				"created_at": "Mon May 14 02:02:57 +0000 2012",
+				"favourites_count": 41545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33317,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901830413441753088/f7KG0kIT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901830413441753088/f7KG0kIT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/579539781/1503756910",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 910573825942708200,
+			"quoted_status_id_str": "910573825942708224",
+			"quoted_status": {
+				"created_at": "Wed Sep 20 18:38:12 +0000 2017",
+				"id": 910573825942708200,
+				"id_str": "910573825942708224",
+				"text": "Come out and hear the likes of event. Hear the likes of @Carla_Pereira2 Also @stancameron might do a magic trick https://t.co/4zbhQI6jnq",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Carla_Pereira2",
+							"name": "Carla Pereira",
+							"id": 579539781,
+							"id_str": "579539781",
+							"indices": [
+								56,
+								71
+							]
+						},
+						{
+							"screen_name": "StanCameron",
+							"name": "Stan Cameron",
+							"id": 168010887,
+							"id_str": "168010887",
+							"indices": [
+								77,
+								89
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/4zbhQI6jnq",
+							"expanded_url": "https://www.eventbrite.com/e/ignite-your-passion-for-discovery-cea-2017-tickets-37848620242",
+							"display_url": "eventbrite.com/e/ignite-your-…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 739743,
+					"id_str": "739743",
+					"name": "Dean Shareski",
+					"screen_name": "shareski",
+					"location": "Moose Jaw, SK",
+					"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+					"url": "https://t.co/xNwidZoCqU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xNwidZoCqU",
+									"expanded_url": "http://about.me/shareski",
+									"display_url": "about.me/shareski",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/GsJVzEeMpH",
+									"expanded_url": "http://shareski.ca/y/followme",
+									"display_url": "shareski.ca/y/followme",
+									"indices": [
+										129,
+										152
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 35262,
+					"friends_count": 6337,
+					"listed_count": 1409,
+					"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+					"favourites_count": 650,
+					"utc_offset": -21600,
+					"time_zone": "Saskatchewan",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 110843,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "666BFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+					"profile_link_color": "384D3A",
+					"profile_sidebar_border_color": "CCC333",
+					"profile_sidebar_fill_color": "1DB2D7",
+					"profile_text_color": "362720",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 910573825942708200,
+		"quoted_status_id_str": "910573825942708224",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 20 18:38:12 +0000 2017",
 		"id": 910573825942708200,
 		"id_str": "910573825942708224",
