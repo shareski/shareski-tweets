@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 22:34:50 +0000 2017",
+		"id": 912807702958673900,
+		"id_str": "912807702958673920",
+		"text": "Nicely played. https://t.co/QPi64R3aCw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPi64R3aCw",
+					"expanded_url": "https://twitter.com/djakes/status/912800260883349506",
+					"display_url": "twitter.com/djakes/status/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35339,
+			"friends_count": 6349,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 912800260883349500,
+		"quoted_status_id_str": "912800260883349506",
+		"quoted_status": {
+			"created_at": "Tue Sep 26 22:05:15 +0000 2017",
+			"id": 912800260883349500,
+			"id_str": "912800260883349506",
+			"text": "Twitter potentially going to 280 characters means @shareski no longer needs a blog.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							50,
+							59
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6581222,
+				"id_str": "6581222",
+				"name": "David Jakes",
+				"screen_name": "djakes",
+				"location": "Naperville, Illinois, USA",
+				"description": "Teacher, Technologist, Designer, Freelancer, Founder and Chief Design Officer, David Jakes Designs LLC. #makenolittleplans",
+				"url": "https://t.co/lQFAvphGed",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lQFAvphGed",
+								"expanded_url": "http://davidjakesdesigns.com",
+								"display_url": "davidjakesdesigns.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8692,
+				"friends_count": 1021,
+				"listed_count": 455,
+				"created_at": "Mon Jun 04 22:41:55 +0000 2007",
+				"favourites_count": 4533,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/59751075/new_fake_large_495-4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/59751075/new_fake_large_495-4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849414178863448066/38QacGnp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849414178863448066/38QacGnp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6581222/1486871965",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "4F697D",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 17:11:10 +0000 2017",
 		"id": 912726251101655000,
 		"id_str": "912726251101655040",
