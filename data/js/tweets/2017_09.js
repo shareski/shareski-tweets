@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 17:11:10 +0000 2017",
+		"id": 912726251101655000,
+		"id_str": "912726251101655040",
+		"text": "RT @kellyhines: The @Wesleyan_School students are learning lots and having fun! https://t.co/RgaRIpCt0x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kellyhines",
+					"name": "Kelly Hines",
+					"id": 17100825,
+					"id_str": "17100825",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Wesleyan_School",
+					"name": "Wesleyan School",
+					"id": 245435006,
+					"id_str": "245435006",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RgaRIpCt0x",
+					"expanded_url": "https://twitter.com/nflplay60/status/912725709151461377",
+					"display_url": "twitter.com/nflplay60/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35332,
+			"friends_count": 6348,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110899,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 26 17:11:02 +0000 2017",
+			"id": 912726217194901500,
+			"id_str": "912726217194901505",
+			"text": "The @Wesleyan_School students are learning lots and having fun! https://t.co/RgaRIpCt0x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Wesleyan_School",
+						"name": "Wesleyan School",
+						"id": 245435006,
+						"id_str": "245435006",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RgaRIpCt0x",
+						"expanded_url": "https://twitter.com/nflplay60/status/912725709151461377",
+						"display_url": "twitter.com/nflplay60/stat…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17100825,
+				"id_str": "17100825",
+				"name": "Kelly Hines",
+				"screen_name": "kellyhines",
+				"location": "Greensboro,NC",
+				"description": "Passionate about Community Engagement with Discovery Education. Keeping Kids First - Wife, Mom, Learner, Leader, Napper",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10180,
+				"friends_count": 5242,
+				"listed_count": 510,
+				"created_at": "Sat Nov 01 14:29:32 +0000 2008",
+				"favourites_count": 3196,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28536,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/582926056853807104/hpECvJ-z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/582926056853807104/hpECvJ-z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17100825/1432601076",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 912725709151461400,
+			"quoted_status_id_str": "912725709151461377",
+			"quoted_status": {
+				"created_at": "Tue Sep 26 17:09:01 +0000 2017",
+				"id": 912725709151461400,
+				"id_str": "912725709151461377",
+				"text": "@kellyhines Love to see our players &amp; kids getting physically active in communities across the world! Great to see… https://t.co/gNIgpkrd36",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "kellyhines",
+							"name": "Kelly Hines",
+							"id": 17100825,
+							"id_str": "17100825",
+							"indices": [
+								0,
+								11
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/gNIgpkrd36",
+							"expanded_url": "https://twitter.com/i/web/status/912725709151461377",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 912725047814639600,
+				"in_reply_to_status_id_str": "912725047814639618",
+				"in_reply_to_user_id": 17100825,
+				"in_reply_to_user_id_str": "17100825",
+				"in_reply_to_screen_name": "kellyhines",
+				"user": {
+					"id": 238220631,
+					"id_str": "238220631",
+					"name": "NFL PLAY 60",
+					"screen_name": "nflplay60",
+					"location": "",
+					"description": "The official Twitter account of NFL PLAY 60, the NFL's movement for an active and healthy generation!",
+					"url": "https://t.co/Zl9h3QYX0q",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Zl9h3QYX0q",
+									"expanded_url": "http://nflrush.com/play60",
+									"display_url": "nflrush.com/play60",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 9200,
+					"friends_count": 124,
+					"listed_count": 61,
+					"created_at": "Fri Jan 14 17:08:48 +0000 2011",
+					"favourites_count": 906,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 1259,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000105608499/2190bebcdf2ca9fb9226ed704d407587.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000105608499/2190bebcdf2ca9fb9226ed704d407587.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000671159109/95d1960d42ed235bc3ae0e556039d497_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000671159109/95d1960d42ed235bc3ae0e556039d497_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/238220631/1506004021",
+					"profile_link_color": "F20C18",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A3AAAD",
+					"profile_text_color": "120861",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 912725709151461400,
+		"quoted_status_id_str": "912725709151461377",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 26 16:43:39 +0000 2017",
+		"id": 912719325810892800,
+		"id_str": "912719325810892800",
+		"text": "It's actually 7:30 but either way, love to see you there! https://t.co/Pcb7EF5Cqb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pcb7EF5Cqb",
+					"expanded_url": "https://twitter.com/EdCanNet/status/912712185448734720",
+					"display_url": "twitter.com/EdCanNet/statu…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35332,
+			"friends_count": 6348,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110899,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 912712185448734700,
+		"quoted_status_id_str": "912712185448734720",
+		"quoted_status": {
+			"created_at": "Tue Sep 26 16:15:17 +0000 2017",
+			"id": 912712185448734700,
+			"id_str": "912712185448734720",
+			"text": "Invitation: IGNITE (local educators sharing big ideas) Oct 5 at 5:30pm hosted by @shareski - reg required @ https://t.co/s7GKEY3OJC #OntEd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OntEd",
+						"indices": [
+							132,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s7GKEY3OJC",
+						"expanded_url": "http://ow.ly/TCT430fn1ft",
+						"display_url": "ow.ly/TCT430fn1ft",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21773756,
+				"id_str": "21773756",
+				"name": "EdCan Network",
+				"screen_name": "EdCanNet",
+				"location": "Toronto, Canada",
+				"description": "EdCan Network / Le Réseau ÉdCan Amplifying What Works - Misez sur les réussites | Our magazine – Notre magazine @EdCanPub",
+				"url": "https://t.co/2d2dkQnBeQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2d2dkQnBeQ",
+								"expanded_url": "http://www.edcan.ca",
+								"display_url": "edcan.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5815,
+				"friends_count": 471,
+				"listed_count": 344,
+				"created_at": "Tue Feb 24 17:28:02 +0000 2009",
+				"favourites_count": 677,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6945,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897453154073067520/mjy-Wlwe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897453154073067520/mjy-Wlwe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21773756/1502807176",
+				"profile_link_color": "3366CC",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 15:37:21 +0000 2017",
 		"id": 912702641234497500,
 		"id_str": "912702641234497536",
