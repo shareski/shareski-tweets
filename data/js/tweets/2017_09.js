@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 28 17:05:25 +0000 2017",
+		"id": 913449581349814300,
+		"id_str": "913449581349814272",
+		"text": "RT @mcleod: Happy reading, @casas_jimmy. Let @shareski and me know what you think!  :)  https://t.co/QWx9WySLUd  #edchat #edtech #edadmin #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "edadmin",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "casas_jimmy",
+					"name": "Jimmy Casas",
+					"id": 345696646,
+					"id_str": "345696646",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QWx9WySLUd",
+					"expanded_url": "http://bit.ly/mcleodshareski",
+					"display_url": "bit.ly/mcleodshareski",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35355,
+			"friends_count": 6357,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110932,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 28 17:00:44 +0000 2017",
+			"id": 913448401194377200,
+			"id_str": "913448401194377216",
+			"text": "Happy reading, @casas_jimmy. Let @shareski and me know what you think!  :)  https://t.co/QWx9WySLUd  #edchat… https://t.co/4FCu80bIMo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchat",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "casas_jimmy",
+						"name": "Jimmy Casas",
+						"id": 345696646,
+						"id_str": "345696646",
+						"indices": [
+							15,
+							27
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QWx9WySLUd",
+						"expanded_url": "http://bit.ly/mcleodshareski",
+						"display_url": "bit.ly/mcleodshareski",
+						"indices": [
+							76,
+							99
+						]
+					},
+					{
+						"url": "https://t.co/4FCu80bIMo",
+						"expanded_url": "https://twitter.com/i/web/status/913448401194377216",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4132841,
+				"id_str": "4132841",
+				"name": "Scott McLeod",
+				"screen_name": "mcleod",
+				"location": "Lafayette, CO",
+				"description": "Associate Professor. CASTLE Founder. Blogger. Idea generator. Solution builder. Agitator. Catalyst. “If the leaders don’t get it, it’s not going to happen.”",
+				"url": "http://t.co/8W5TQsejfw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8W5TQsejfw",
+								"expanded_url": "http://www.dangerouslyirrelevant.org",
+								"display_url": "dangerouslyirrelevant.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51468,
+				"friends_count": 8034,
+				"listed_count": 2778,
+				"created_at": "Wed Apr 11 06:19:46 +0000 2007",
+				"favourites_count": 3644,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B3244",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/116327027/Dark_Blue_Blank_copy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/116327027/Dark_Blue_Blank_copy.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/528513398003077123/U0fv_0fy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/528513398003077123/U0fv_0fy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4132841/1474343460",
+				"profile_link_color": "2B3244",
+				"profile_sidebar_border_color": "2B3244",
+				"profile_sidebar_fill_color": "E7A417",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 913436959061807100,
+			"quoted_status_id_str": "913436959061807104",
+			"quoted_status": {
+				"created_at": "Thu Sep 28 16:15:16 +0000 2017",
+				"id": 913436959061807100,
+				"id_str": "913436959061807104",
+				"text": "Look what came in the mail today! Thank you @mcleod &amp; @shareski Plan to dig into it this weekend.  Keep inspiring! https://t.co/ssc8DHq80u",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "mcleod",
+							"name": "Scott McLeod",
+							"id": 4132841,
+							"id_str": "4132841",
+							"indices": [
+								44,
+								51
+							]
+						},
+						{
+							"screen_name": "shareski",
+							"name": "Dean Shareski",
+							"id": 739743,
+							"id_str": "739743",
+							"indices": [
+								58,
+								67
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 913436945623089200,
+							"id_str": "913436945623089155",
+							"indices": [
+								119,
+								142
+							],
+							"media_url": "http://pbs.twimg.com/media/DK0uD_yVAAMDhX5.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DK0uD_yVAAMDhX5.jpg",
+							"url": "https://t.co/ssc8DHq80u",
+							"display_url": "pic.twitter.com/ssc8DHq80u",
+							"expanded_url": "https://twitter.com/casas_jimmy/status/913436959061807104/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 913436945623089200,
+							"id_str": "913436945623089155",
+							"indices": [
+								119,
+								142
+							],
+							"media_url": "http://pbs.twimg.com/media/DK0uD_yVAAMDhX5.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DK0uD_yVAAMDhX5.jpg",
+							"url": "https://t.co/ssc8DHq80u",
+							"display_url": "pic.twitter.com/ssc8DHq80u",
+							"expanded_url": "https://twitter.com/casas_jimmy/status/913436959061807104/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 345696646,
+					"id_str": "345696646",
+					"name": "Jimmy Casas",
+					"screen_name": "casas_jimmy",
+					"location": "Bettendorf, Iowa",
+					"description": "Senior Fellow at ICLE. CEO: ConnectEDD, Leadership Coach, Author, Speaker. #FutureReady Advisor. Passionate about kids & serving others. Co-Founder of https://t.co/5zfMcVxXoV",
+					"url": "https://t.co/5YbhEflfwn",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/5YbhEflfwn",
+									"expanded_url": "http://www.jimmycasas.com",
+									"display_url": "jimmycasas.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/5zfMcVxXoV",
+									"expanded_url": "http://WGEDD.com",
+									"display_url": "WGEDD.com",
+									"indices": [
+										151,
+										174
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 35533,
+					"friends_count": 8077,
+					"listed_count": 841,
+					"created_at": "Sun Jul 31 01:16:18 +0000 2011",
+					"favourites_count": 16490,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 35375,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "141411",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018140053/8bf0d111d472532be2dcb909e1fa476d.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018140053/8bf0d111d472532be2dcb909e1fa476d.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/771198250351153153/r4HiK7I-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/771198250351153153/r4HiK7I-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/345696646/1495888068",
+					"profile_link_color": "0B0BB3",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 913436959061807100,
+		"quoted_status_id_str": "913436959061807104",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 28 12:35:25 +0000 2017",
 		"id": 913381632933027800,
 		"id_str": "913381632933027840",
