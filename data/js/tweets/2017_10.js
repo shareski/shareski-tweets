@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 14 01:52:49 +0000 2017",
+		"id": 919018120605569000,
+		"id_str": "919018120605569030",
+		"text": "RT @hughtheteacher: @TSN_Sports @CFLonTSN My 100 years old grandma is diehard @sskroughriders fan is celebrating at game with family. See h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hughtheteacher",
+					"name": "Hugh McDonald",
+					"id": 334500742,
+					"id_str": "334500742",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "TSN_Sports",
+					"name": "TSN",
+					"id": 25375962,
+					"id_str": "25375962",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "CFLonTSN",
+					"name": "CFL on TSN",
+					"id": 322233489,
+					"id_str": "322233489",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "sskroughriders",
+					"name": "Sask. Roughriders",
+					"id": 64826919,
+					"id_str": "64826919",
+					"indices": [
+						78,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35609,
+			"friends_count": 6397,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 651,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 14 01:28:09 +0000 2017",
+			"id": 919011915749244900,
+			"id_str": "919011915749244929",
+			"text": "@TSN_Sports @CFLonTSN My 100 years old grandma is diehard @sskroughriders fan is celebrating at game with family. S… https://t.co/pmbPpaI1l2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TSN_Sports",
+						"name": "TSN",
+						"id": 25375962,
+						"id_str": "25375962",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "CFLonTSN",
+						"name": "CFL on TSN",
+						"id": 322233489,
+						"id_str": "322233489",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"screen_name": "sskroughriders",
+						"name": "Sask. Roughriders",
+						"id": 64826919,
+						"id_str": "64826919",
+						"indices": [
+							58,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pmbPpaI1l2",
+						"expanded_url": "https://twitter.com/i/web/status/919011915749244929",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 25375962,
+			"in_reply_to_user_id_str": "25375962",
+			"in_reply_to_screen_name": "TSN_Sports",
+			"user": {
+				"id": 334500742,
+				"id_str": "334500742",
+				"name": "Hugh McDonald",
+				"screen_name": "hughtheteacher",
+				"location": "Surrey, British Columbia",
+				"description": "Husband/Dad, Gr. 6/7 Teacher/Learner @mcdclassroom try things, meaningful learning, youth sports, DENstar, DEN LC, #geniushour #mysteryskype #sd36learn",
+				"url": "https://t.co/J3WpwR7qVh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J3WpwR7qVh",
+								"expanded_url": "http://hughtheteacher.wordpress.com/",
+								"display_url": "hughtheteacher.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8376,
+				"friends_count": 4210,
+				"listed_count": 369,
+				"created_at": "Wed Jul 13 05:56:48 +0000 2011",
+				"favourites_count": 8062,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24515,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334500742/1500510762",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 21:32:53 +0000 2017",
 		"id": 918952707989180400,
 		"id_str": "918952707989180416",
