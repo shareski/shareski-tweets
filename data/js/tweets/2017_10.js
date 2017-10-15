@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 15 02:27:58 +0000 2017",
+		"id": 919389355482984400,
+		"id_str": "919389355482984448",
+		"text": "Anyone else relate to this? Honestly I haven’t heard much or thought about it. I hope it’s isolated. https://t.co/TIMqkMoWBn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TIMqkMoWBn",
+					"expanded_url": "https://twitter.com/acampbell99/status/919183058594598912",
+					"display_url": "twitter.com/acampbell99/st…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35624,
+			"friends_count": 6400,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 651,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111088,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00dc41d1ef797d1a",
+			"url": "https://api.twitter.com/1.1/geo/id/00dc41d1ef797d1a.json",
+			"place_type": "city",
+			"name": "Moose Jaw",
+			"full_name": "Moose Jaw, Saskatchewan",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.626384,
+							50.35293
+						],
+						[
+							-105.465886,
+							50.35293
+						],
+						[
+							-105.465886,
+							50.43446
+						],
+						[
+							-105.626384,
+							50.43446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 919183058594598900,
+		"quoted_status_id_str": "919183058594598912",
+		"quoted_status": {
+			"created_at": "Sat Oct 14 12:48:13 +0000 2017",
+			"id": 919183058594598900,
+			"id_str": "919183058594598912",
+			"text": "Canadian Schools Silence Teachers on Social Media https://t.co/m88ejbNQa4 #onted #abed #bced #REdTO17 #EdCan https://t.co/aBuVtzyrtS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onted",
+						"indices": [
+							74,
+							80
+						]
+					},
+					{
+						"text": "abed",
+						"indices": [
+							81,
+							86
+						]
+					},
+					{
+						"text": "bced",
+						"indices": [
+							87,
+							92
+						]
+					},
+					{
+						"text": "REdTO17",
+						"indices": [
+							93,
+							101
+						]
+					},
+					{
+						"text": "EdCan",
+						"indices": [
+							102,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m88ejbNQa4",
+						"expanded_url": "http://andrewscampbell.com/2017/10/14/canadian-schools-silence-teachers-on-social-media/",
+						"display_url": "andrewscampbell.com/2017/10/14/can…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 919181747291639800,
+						"id_str": "919181747291639808",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DMGW7dtXUAA2ewH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMGW7dtXUAA2ewH.jpg",
+						"url": "https://t.co/aBuVtzyrtS",
+						"display_url": "pic.twitter.com/aBuVtzyrtS",
+						"expanded_url": "https://twitter.com/acampbell99/status/919183058594598912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 525,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919181747291639800,
+						"id_str": "919181747291639808",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DMGW7dtXUAA2ewH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMGW7dtXUAA2ewH.jpg",
+						"url": "https://t.co/aBuVtzyrtS",
+						"display_url": "pic.twitter.com/aBuVtzyrtS",
+						"expanded_url": "https://twitter.com/acampbell99/status/919183058594598912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 525,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54886076,
+				"id_str": "54886076",
+				"name": "Andrew Campbell",
+				"screen_name": "acampbell99",
+				"location": "Ontario, Canada",
+				"description": "Educator. Grade 5 teacher. Writer. (Toronto Star, Globe & Mail). Speaker (CBC, podcasts & conferences). Father. Burnley supporter.",
+				"url": "https://t.co/ybWyIXWfzM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybWyIXWfzM",
+								"expanded_url": "http://andrewscampbell.com",
+								"display_url": "andrewscampbell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4627,
+				"friends_count": 2862,
+				"listed_count": 338,
+				"created_at": "Wed Jul 08 12:53:56 +0000 2009",
+				"favourites_count": 5572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679865502/4cfccb77079505f23bf88bad1e6113d6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679865502/4cfccb77079505f23bf88bad1e6113d6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914268575145365504/Z_BtXHWf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914268575145365504/Z_BtXHWf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54886076/1506186014",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 14 01:52:49 +0000 2017",
 		"id": 919018120605569000,
 		"id_str": "919018120605569030",
