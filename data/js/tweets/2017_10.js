@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 17 23:09:27 +0000 2017",
+		"id": 920426558950707200,
+		"id_str": "920426558950707200",
+		"text": "Yes. https://t.co/fGKslT7Vvf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGKslT7Vvf",
+					"expanded_url": "https://twitter.com/spencerideas/status/920425485628313600",
+					"display_url": "twitter.com/spencerideas/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35743,
+			"friends_count": 6412,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "9807c5c5f7a2c6ce",
+			"url": "https://api.twitter.com/1.1/geo/id/9807c5c5f7a2c6ce.json",
+			"place_type": "admin",
+			"name": "Minnesota",
+			"full_name": "Minnesota, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-97.239256,
+							43.499362
+						],
+						[
+							-89.483385,
+							43.499362
+						],
+						[
+							-89.483385,
+							49.384359
+						],
+						[
+							-97.239256,
+							49.384359
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 920425485628313600,
+		"quoted_status_id_str": "920425485628313600",
+		"quoted_status": {
+			"created_at": "Tue Oct 17 23:05:11 +0000 2017",
+			"id": 920425485628313600,
+			"id_str": "920425485628313600",
+			"text": "How to take a nap https://t.co/k64RgviLTw by @austinkleon cc: @shareski #napchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "napchat",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "austinkleon",
+						"name": "Austin Kleon",
+						"id": 9698942,
+						"id_str": "9698942",
+						"indices": [
+							45,
+							57
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/k64RgviLTw",
+						"expanded_url": "https://austinkleon.com/2017/10/13/how-to-take-a-nap/",
+						"display_url": "austinkleon.com/2017/10/13/how…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18389166,
+				"id_str": "18389166",
+				"name": "John Spencer",
+				"screen_name": "spencerideas",
+				"location": "Salem, OR",
+				"description": "I'm a professor and a maker. Sometimes I make things. Sometimes I make a difference. On a good day, I get to do both. https://t.co/Z9fo6sS71j",
+				"url": "https://t.co/Oxk86aceXX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oxk86aceXX",
+								"expanded_url": "http://www.spencerauthor.com/about-me/",
+								"display_url": "spencerauthor.com/about-me/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Z9fo6sS71j",
+								"expanded_url": "http://spencervideos.com",
+								"display_url": "spencervideos.com",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29461,
+				"friends_count": 14939,
+				"listed_count": 1025,
+				"created_at": "Fri Dec 26 13:59:34 +0000 2008",
+				"favourites_count": 5506,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57555,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890643091807326208/7LJjOdTc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890643091807326208/7LJjOdTc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18389166/1501108250",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Oct 17 22:45:50 +0000 2017",
+		"id": 920420616171335700,
+		"id_str": "920420616171335680",
+		"text": "RT @Nick_Proud: This is one of my favorite interview questions.  #ITECia https://t.co/nlc7mrE7KH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ITECia",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick_Proud",
+					"name": "Nick Proud",
+					"id": 81910185,
+					"id_str": "81910185",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 920308181598793700,
+					"id_str": "920308181598793728",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+					"url": "https://t.co/nlc7mrE7KH",
+					"display_url": "pic.twitter.com/nlc7mrE7KH",
+					"expanded_url": "https://twitter.com/Nick_Proud/status/920308195435929600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1104,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1884,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 626,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920308195435929600,
+					"source_status_id_str": "920308195435929600",
+					"source_user_id": 81910185,
+					"source_user_id_str": "81910185"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 920308181598793700,
+					"id_str": "920308181598793728",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+					"url": "https://t.co/nlc7mrE7KH",
+					"display_url": "pic.twitter.com/nlc7mrE7KH",
+					"expanded_url": "https://twitter.com/Nick_Proud/status/920308195435929600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1104,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1884,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 626,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920308195435929600,
+					"source_status_id_str": "920308195435929600",
+					"source_user_id": 81910185,
+					"source_user_id_str": "81910185"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35743,
+			"friends_count": 6412,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 17 15:19:06 +0000 2017",
+			"id": 920308195435929600,
+			"id_str": "920308195435929600",
+			"text": "This is one of my favorite interview questions.  #ITECia https://t.co/nlc7mrE7KH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ITECia",
+						"indices": [
+							49,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 920308181598793700,
+						"id_str": "920308181598793728",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+						"url": "https://t.co/nlc7mrE7KH",
+						"display_url": "pic.twitter.com/nlc7mrE7KH",
+						"expanded_url": "https://twitter.com/Nick_Proud/status/920308195435929600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1104,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1884,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 626,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 920308181598793700,
+						"id_str": "920308181598793728",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMWXakgU8AAxbue.jpg",
+						"url": "https://t.co/nlc7mrE7KH",
+						"display_url": "pic.twitter.com/nlc7mrE7KH",
+						"expanded_url": "https://twitter.com/Nick_Proud/status/920308195435929600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1104,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1884,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 626,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81910185,
+				"id_str": "81910185",
+				"name": "Nick Proud",
+				"screen_name": "Nick_Proud",
+				"location": "North Liberty, IA",
+				"description": "Principal @GarnerElem, Family Man, & Presenter. 2016 #itecIA Admin. of the Year https://t.co/ZjF37VNVac #dadsasprincipals #dadsondeck podcast contributor",
+				"url": "https://t.co/F3AzEtvWtI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3AzEtvWtI",
+								"expanded_url": "http://www.proudspoints.blogspot.com",
+								"display_url": "proudspoints.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZjF37VNVac",
+								"expanded_url": "http://www.FinestGreatestBest.com",
+								"display_url": "FinestGreatestBest.com",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2219,
+				"friends_count": 2064,
+				"listed_count": 66,
+				"created_at": "Mon Oct 12 19:40:44 +0000 2009",
+				"favourites_count": 2367,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875691098034892800/kj19KYDp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875691098034892800/kj19KYDp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81910185/1497826853",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1c67f9d9cbae7f69",
+				"url": "https://api.twitter.com/1.1/geo/id/1c67f9d9cbae7f69.json",
+				"place_type": "city",
+				"name": "Des Moines",
+				"full_name": "Des Moines, IA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-93.709504,
+								41.501409
+							],
+							[
+								-93.503235,
+								41.501409
+							],
+							[
+								-93.503235,
+								41.6514656
+							],
+							[
+								-93.709504,
+								41.6514656
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 17 22:18:26 +0000 2017",
+		"id": 920413720257458200,
+		"id_str": "920413720257458176",
+		"text": "@AkaMsCrowley I like that he omitted the part about being accountable",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AkaMsCrowley",
+					"name": "Brianna",
+					"id": 566806253,
+					"id_str": "566806253",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920412702744416300,
+		"in_reply_to_status_id_str": "920412702744416259",
+		"in_reply_to_user_id": 566806253,
+		"in_reply_to_user_id_str": "566806253",
+		"in_reply_to_screen_name": "AkaMsCrowley",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35743,
+			"friends_count": 6412,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 17 22:03:12 +0000 2017",
 		"id": 920409889721155600,
 		"id_str": "920409889721155584",
