@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 17 16:19:10 +0000 2017",
+		"id": 920323311749488600,
+		"id_str": "920323311749488640",
+		"text": "RT @j_allen: Inspired by @shareski’s #itecia keynote, I’ve created a new @flipboard magazine, Joy In Schools https://t.co/8kLR3qDxTO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "itecia",
+					"indices": [
+						37,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "j_allen",
+					"name": "Josh Allen",
+					"id": 11058912,
+					"id_str": "11058912",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "Flipboard",
+					"name": "Flipboard",
+					"id": 114870386,
+					"id_str": "114870386",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8kLR3qDxTO",
+					"expanded_url": "http://flip.it/ECRVD4",
+					"display_url": "flip.it/ECRVD4",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35729,
+			"friends_count": 6411,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111109,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 17 14:57:31 +0000 2017",
+			"id": 920302762851799000,
+			"id_str": "920302762851799046",
+			"text": "Inspired by @shareski’s #itecia keynote, I’ve created a new @flipboard magazine, Joy In Schools https://t.co/8kLR3qDxTO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "itecia",
+						"indices": [
+							24,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"screen_name": "Flipboard",
+						"name": "Flipboard",
+						"id": 114870386,
+						"id_str": "114870386",
+						"indices": [
+							60,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8kLR3qDxTO",
+						"expanded_url": "http://flip.it/ECRVD4",
+						"display_url": "flip.it/ECRVD4",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11058912,
+				"id_str": "11058912",
+				"name": "Josh Allen",
+				"screen_name": "j_allen",
+				"location": "Crossing the Missouri River",
+				"description": "If technology is an event in your school, you are doing it wrong. @dadsined co-host. #GoogleET \"Stumbling in like a prodigal child.\" - Crowder",
+				"url": "https://t.co/Vbvtt6VcuP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vbvtt6VcuP",
+								"expanded_url": "http://flipboard.com/@joshallen",
+								"display_url": "flipboard.com/@joshallen",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7880,
+				"friends_count": 2303,
+				"listed_count": 522,
+				"created_at": "Tue Dec 11 19:03:52 +0000 2007",
+				"favourites_count": 6462,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50674,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199598796/IMG_0189.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199598796/IMG_0189.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/658818020416995328/KMO5htLg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/658818020416995328/KMO5htLg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11058912/1352122815",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 17 16:17:41 +0000 2017",
+		"id": 920322937999282200,
+		"id_str": "920322937999282176",
+		"text": "Yeah. A reporter contacted me. https://t.co/nW46N1ru0e",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nW46N1ru0e",
+					"expanded_url": "https://twitter.com/mr_casal/status/920307406655156226",
+					"display_url": "twitter.com/mr_casal/statu…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35729,
+			"friends_count": 6411,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111109,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1c67f9d9cbae7f69",
+			"url": "https://api.twitter.com/1.1/geo/id/1c67f9d9cbae7f69.json",
+			"place_type": "city",
+			"name": "Des Moines",
+			"full_name": "Des Moines, IA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-93.709504,
+							41.501409
+						],
+						[
+							-93.503235,
+							41.501409
+						],
+						[
+							-93.503235,
+							41.6514656
+						],
+						[
+							-93.709504,
+							41.6514656
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 920307406655156200,
+		"quoted_status_id_str": "920307406655156226",
+		"quoted_status": {
+			"created_at": "Tue Oct 17 15:15:58 +0000 2017",
+			"id": 920307406655156200,
+			"id_str": "920307406655156226",
+			"text": "@shareski Have you seen this (references you): Staten Island principal caught plagiarizing in essay to teachers https://t.co/d7JOEQ90JC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d7JOEQ90JC",
+						"expanded_url": "http://nyp.st/2ytmiTv",
+						"display_url": "nyp.st/2ytmiTv",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 116811958,
+				"id_str": "116811958",
+				"name": "Chris Casal",
+				"screen_name": "mr_casal",
+				"location": "Brooklyn, NY",
+				"description": "Purveyor of geekery @HeathcoteSchool - Google for Education Certified Trainer & Administrator - Personal account, tweets my own, etc... #GAFE #edtech #ipaded",
+				"url": "https://t.co/nI9ptjvBn8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nI9ptjvBn8",
+								"expanded_url": "http://about.me/mrcasal",
+								"display_url": "about.me/mrcasal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2919,
+				"friends_count": 833,
+				"listed_count": 304,
+				"created_at": "Tue Feb 23 17:02:55 +0000 2010",
+				"favourites_count": 2574,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18005,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516776309595181056/jObV730O.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516776309595181056/jObV730O.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/468536978175438848/njuSeBaW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/468536978175438848/njuSeBaW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116811958/1409747813",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 17 09:11:00 +0000 2017",
 		"id": 920215559769337900,
 		"id_str": "920215559769337857",
