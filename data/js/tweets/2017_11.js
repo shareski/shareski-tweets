@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 22:33:11 +0000 2017",
+		"id": 927665192720392200,
+		"id_str": "927665192720392192",
+		"text": "Wow.  I wish I still had mine to break. https://t.co/0fspx08AHb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fspx08AHb",
+					"expanded_url": "https://twitter.com/oroannm/status/927664619111567361",
+					"display_url": "twitter.com/oroannm/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35926,
+			"friends_count": 6431,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 651,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e6610919d60bcae1",
+			"url": "https://api.twitter.com/1.1/geo/id/e6610919d60bcae1.json",
+			"place_type": "city",
+			"name": "Berkeley",
+			"full_name": "Berkeley, MO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-90.386457,
+							38.719559
+						],
+						[
+							-90.309531,
+							38.719559
+						],
+						[
+							-90.309531,
+							38.7741541
+						],
+						[
+							-90.386457,
+							38.7741541
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927664619111567400,
+		"quoted_status_id_str": "927664619111567361",
+		"quoted_status": {
+			"created_at": "Mon Nov 06 22:30:55 +0000 2017",
+			"id": 927664619111567400,
+			"id_str": "927664619111567361",
+			"text": "Said cup @courosa @shareski https://t.co/xggcvakV9c",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "courosa",
+						"name": "Dr. Alec Couros",
+						"id": 739293,
+						"id_str": "739293",
+						"indices": [
+							9,
+							17
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 927664610362007600,
+						"id_str": "927664610362007552",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DN-6DFNUIAAZSQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN-6DFNUIAAZSQt.jpg",
+						"url": "https://t.co/xggcvakV9c",
+						"display_url": "pic.twitter.com/xggcvakV9c",
+						"expanded_url": "https://twitter.com/OroAnnM/status/927664619111567361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927664610362007600,
+						"id_str": "927664610362007552",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DN-6DFNUIAAZSQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN-6DFNUIAAZSQt.jpg",
+						"url": "https://t.co/xggcvakV9c",
+						"display_url": "pic.twitter.com/xggcvakV9c",
+						"expanded_url": "https://twitter.com/OroAnnM/status/927664619111567361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7486272,
+				"id_str": "7486272",
+				"name": "Ann Oro",
+				"screen_name": "OroAnnM",
+				"location": "New Jersey",
+				"description": "Director of K12 Instructional Technology, EdCampNYC, EdCamp RCAN, M.Ed. Leadership. Twitter chats:  @iAnnOro Writer: @rcaninst Google Certified Trainer",
+				"url": "https://t.co/PKUfzZT0BI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PKUfzZT0BI",
+								"expanded_url": "http://www.annoroteaches.com/",
+								"display_url": "annoroteaches.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4653,
+				"friends_count": 2533,
+				"listed_count": 436,
+				"created_at": "Sun Jul 15 13:07:37 +0000 2007",
+				"favourites_count": 908,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAF216",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2652681/crayons.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2652681/crayons.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877555736934580224/VRlJN-Rd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877555736934580224/VRlJN-Rd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7486272/1498059525",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 22:32:34 +0000 2017",
+		"id": 927665036797018100,
+		"id_str": "927665036797018113",
+		"text": "If only he was the only one who felt this way. https://t.co/7nzwjqrzm7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7nzwjqrzm7",
+					"expanded_url": "https://twitter.com/gsiemens/status/927659940369584128",
+					"display_url": "twitter.com/gsiemens/statu…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35926,
+			"friends_count": 6431,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 651,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736041940035063808/6HpLtt-Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e6610919d60bcae1",
+			"url": "https://api.twitter.com/1.1/geo/id/e6610919d60bcae1.json",
+			"place_type": "city",
+			"name": "Berkeley",
+			"full_name": "Berkeley, MO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-90.386457,
+							38.719559
+						],
+						[
+							-90.309531,
+							38.719559
+						],
+						[
+							-90.309531,
+							38.7741541
+						],
+						[
+							-90.386457,
+							38.7741541
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927659940369584100,
+		"quoted_status_id_str": "927659940369584128",
+		"quoted_status": {
+			"created_at": "Mon Nov 06 22:12:19 +0000 2017",
+			"id": 927659940369584100,
+			"id_str": "927659940369584128",
+			"text": "@shareski Well, Twitter appears neutral, but then I see your name and I find myself getting angry. I don't know why.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 927646288677625900,
+			"in_reply_to_status_id_str": "927646288677625861",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 18613,
+				"id_str": "18613",
+				"name": "George Siemens",
+				"screen_name": "gsiemens",
+				"location": "Texas, Alberta, Airports",
+				"description": "remaining ignorant of the future is hardly a recipe for progress.",
+				"url": "https://t.co/UBRyQjlShq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UBRyQjlShq",
+								"expanded_url": "http://www.elearnspace.org/blog",
+								"display_url": "elearnspace.org/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22291,
+				"friends_count": 1416,
+				"listed_count": 1688,
+				"created_at": "Thu Nov 23 18:45:36 +0000 2006",
+				"favourites_count": 1671,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2354,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14732/ppt_background_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/14732/ppt_background_1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451036825637761025/7_0RawE8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451036825637761025/7_0RawE8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18613/1440198491",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 06 21:18:29 +0000 2017",
 		"id": 927646391224143900,
 		"id_str": "927646391224143873",
