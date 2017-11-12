@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 12 22:53:39 +0000 2017",
+		"id": 929844670519283700,
+		"id_str": "929844670519283712",
+		"text": "@Scotteach @jonsamuelson @ecsaibel @ChristinaMLuce @bribriggs @LS_Karl @brentcoley @TracyEdmisten @gruffcorn13 @THEREALAPOLLOS @tbed63 Done",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Scotteach",
+					"name": "Scott Bedley",
+					"id": 2464984081,
+					"id_str": "2464984081",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jonsamuelson",
+					"name": "Jon Samuelson",
+					"id": 20746042,
+					"id_str": "20746042",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "ecsaibel",
+					"name": "Eric Saibel",
+					"id": 755765743,
+					"id_str": "755765743",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "ChristinaMLuce",
+					"name": "Christina Luce",
+					"id": 567581408,
+					"id_str": "567581408",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"screen_name": "bribriggs",
+					"name": "Brian Briggs",
+					"id": 108097126,
+					"id_str": "108097126",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "LS_Karl",
+					"name": "Karl Lindgren-Streicher",
+					"id": 269116561,
+					"id_str": "269116561",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"screen_name": "brentcoley",
+					"name": "Brent Coley",
+					"id": 20567460,
+					"id_str": "20567460",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "TracyEdmisten",
+					"name": "Tracy Edmisten",
+					"id": 50707832,
+					"id_str": "50707832",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "gruffcorn13",
+					"name": "Gina Ruffcorn",
+					"id": 2288604360,
+					"id_str": "2288604360",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"screen_name": "THEREALAPOLLOS",
+					"name": "Apollos Hester",
+					"id": 2849595361,
+					"id_str": "2849595361",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"screen_name": "tbed63",
+					"name": "Tim Bedley",
+					"id": 46023810,
+					"id_str": "46023810",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 929511702118285300,
+		"in_reply_to_status_id_str": "929511702118285312",
+		"in_reply_to_user_id": 2464984081,
+		"in_reply_to_user_id_str": "2464984081",
+		"in_reply_to_screen_name": "Scotteach",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36017,
+			"friends_count": 6446,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 12 22:27:45 +0000 2017",
+		"id": 929838150968664000,
+		"id_str": "929838150968664064",
+		"text": "@MarriottRewards @NFL #RewardPoints 11.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RewardPoints",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarriottRewards",
+					"name": "Marriott Rewards",
+					"id": 41582924,
+					"id_str": "41582924",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NFL",
+					"name": "NFL",
+					"id": 19426551,
+					"id_str": "19426551",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 929770890518134800,
+		"in_reply_to_status_id_str": "929770890518134784",
+		"in_reply_to_user_id": 41582924,
+		"in_reply_to_user_id_str": "41582924",
+		"in_reply_to_screen_name": "MarriottRewards",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36017,
+			"friends_count": 6446,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Nov 12 21:52:36 +0000 2017",
 		"id": 929829306167152600,
 		"id_str": "929829306167152642",
