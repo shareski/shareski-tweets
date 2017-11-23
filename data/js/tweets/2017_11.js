@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 22:44:45 +0000 2017",
+		"id": 933828695864746000,
+		"id_str": "933828695864745984",
+		"text": "RT @pattonoswalt: Happy Thanksgiving. Be helpful to someone who's awkward and annoying. https://t.co/ymvzi4yVni",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pattonoswalt",
+					"name": "Patton Oswalt",
+					"id": 139162440,
+					"id_str": "139162440",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 933802771999899600,
+					"id_str": "933802771999899648",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+					"url": "https://t.co/ymvzi4yVni",
+					"display_url": "pic.twitter.com/ymvzi4yVni",
+					"expanded_url": "https://twitter.com/pattonoswalt/status/933802802400206848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933802802400206800,
+					"source_status_id_str": "933802802400206848",
+					"source_user_id": 139162440,
+					"source_user_id_str": "139162440"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933802771999899600,
+					"id_str": "933802771999899648",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+					"url": "https://t.co/ymvzi4yVni",
+					"display_url": "pic.twitter.com/ymvzi4yVni",
+					"expanded_url": "https://twitter.com/pattonoswalt/status/933802802400206848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933802802400206800,
+					"source_status_id_str": "933802802400206848",
+					"source_user_id": 139162440,
+					"source_user_id_str": "139162440"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36158,
+			"friends_count": 6479,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 21:01:51 +0000 2017",
+			"id": 933802802400206800,
+			"id_str": "933802802400206848",
+			"text": "Happy Thanksgiving. Be helpful to someone who's awkward and annoying. https://t.co/ymvzi4yVni",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933802771999899600,
+						"id_str": "933802771999899648",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+						"url": "https://t.co/ymvzi4yVni",
+						"display_url": "pic.twitter.com/ymvzi4yVni",
+						"expanded_url": "https://twitter.com/pattonoswalt/status/933802802400206848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933802771999899600,
+						"id_str": "933802771999899648",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPWIrHNUQAAV-_X.jpg",
+						"url": "https://t.co/ymvzi4yVni",
+						"display_url": "pic.twitter.com/ymvzi4yVni",
+						"expanded_url": "https://twitter.com/pattonoswalt/status/933802802400206848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139162440,
+				"id_str": "139162440",
+				"name": "Patton Oswalt",
+				"screen_name": "pattonoswalt",
+				"location": "Los Angeles",
+				"description": "Mr. Oswalt is a former wedding deejay from Northern Virginia.",
+				"url": "http://t.co/HKcoZHbxiG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HKcoZHbxiG",
+								"expanded_url": "http://www.pattonoswalt.com",
+								"display_url": "pattonoswalt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4337163,
+				"friends_count": 2828,
+				"listed_count": 26882,
+				"created_at": "Sat May 01 19:00:10 +0000 2010",
+				"favourites_count": 21169,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1C5741",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97647521/glow-y.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866556637/teatime__normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139162440/1508278122",
+				"profile_link_color": "BF1238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1130,
+			"favorite_count": 6952,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1130,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 22:34:41 +0000 2017",
+		"id": 933826162777878500,
+		"id_str": "933826162777878533",
+		"text": "Here's a chance for Edmonton area leaders to check out one of the newest most innovative schools, learn and network… https://t.co/Um4wUuLB6T",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Um4wUuLB6T",
+					"expanded_url": "https://twitter.com/i/web/status/933826162777878533",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36158,
+			"friends_count": 6479,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 18:29:23 +0000 2017",
 		"id": 933764431779070000,
 		"id_str": "933764431779069953",
