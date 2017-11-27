@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 27 05:56:24 +0000 2017",
+		"id": 935024488021758000,
+		"id_str": "935024488021757952",
+		"text": "RT @rondorland: Time to join the best Christmas Project. Connect your class. \n#christmaswhereweare\n\nhttps://t.co/bmC2S5cAeD\n\n@ChrisWejr @co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "christmaswhereweare",
+					"indices": [
+						78,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rondorland",
+					"name": "Ron Dorland",
+					"id": 756005598,
+					"id_str": "756005598",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ChrisWejr",
+					"name": "Chris Wejr",
+					"id": 23236909,
+					"id_str": "23236909",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bmC2S5cAeD",
+					"expanded_url": "http://bit.ly/2zEZRge",
+					"display_url": "bit.ly/2zEZRge",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36169,
+			"friends_count": 6481,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111418,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 26 21:14:13 +0000 2017",
+			"id": 934893075071090700,
+			"id_str": "934893075071090688",
+			"text": "Time to join the best Christmas Project. Connect your class. \n#christmaswhereweare\n\nhttps://t.co/bmC2S5cAeD… https://t.co/Huze4HvgJI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "christmaswhereweare",
+						"indices": [
+							62,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bmC2S5cAeD",
+						"expanded_url": "http://bit.ly/2zEZRge",
+						"display_url": "bit.ly/2zEZRge",
+						"indices": [
+							84,
+							107
+						]
+					},
+					{
+						"url": "https://t.co/Huze4HvgJI",
+						"expanded_url": "https://twitter.com/i/web/status/934893075071090688",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 756005598,
+				"id_str": "756005598",
+				"name": "Ron Dorland",
+				"screen_name": "rondorland",
+				"location": "Langley, British Columbia",
+				"description": "K-5 vice principal, teacher. Passionate about relationships, engagement, leadership, motivation, innovation. #7thchat co-founder. https://t.co/uYBUFer5Mi",
+				"url": "https://t.co/D9YDrCc0cR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D9YDrCc0cR",
+								"expanded_url": "http://www.mrdorland.weebly.com/my-blog",
+								"display_url": "mrdorland.weebly.com/my-blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uYBUFer5Mi",
+								"expanded_url": "http://about.me/rondorland",
+								"display_url": "about.me/rondorland",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3173,
+				"friends_count": 1771,
+				"listed_count": 202,
+				"created_at": "Mon Aug 13 23:08:03 +0000 2012",
+				"favourites_count": 6574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12503,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825172177284534272/acHUcKiK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825172177284534272/acHUcKiK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/756005598/1453669096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 27 01:39:56 +0000 2017",
 		"id": 934959943999938600,
 		"id_str": "934959943999938561",
