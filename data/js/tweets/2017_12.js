@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 05:07:37 +0000 2017",
+		"id": 936461763272376300,
+		"id_str": "936461763272376320",
+		"text": "RT @OrganicLeaderVB: @alexkjerulf #VBHasJoy #JoyfulLeaders Check out What's JOY Got to Do with It? (via https://t.co/6AOQ5nTo0T) https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VBHasJoy",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "JoyfulLeaders",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OrganicLeaderVB",
+					"name": "Akilah Ellison🌼",
+					"id": 2883202407,
+					"id_str": "2883202407",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "alexkjerulf",
+					"name": "Alexander Kjerulf",
+					"id": 47430937,
+					"id_str": "47430937",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6AOQ5nTo0T",
+					"expanded_url": "http://www.smore.com",
+					"display_url": "smore.com",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36204,
+			"friends_count": 6497,
+			"listed_count": 1416,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 04:05:09 +0000 2017",
+			"id": 936446041678925800,
+			"id_str": "936446041678925829",
+			"text": "@alexkjerulf #VBHasJoy #JoyfulLeaders Check out What's JOY Got to Do with It? (via https://t.co/6AOQ5nTo0T) https://t.co/8EnaxeuWp2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VBHasJoy",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"text": "JoyfulLeaders",
+						"indices": [
+							23,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alexkjerulf",
+						"name": "Alexander Kjerulf",
+						"id": 47430937,
+						"id_str": "47430937",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6AOQ5nTo0T",
+						"expanded_url": "http://www.smore.com",
+						"display_url": "smore.com",
+						"indices": [
+							83,
+							106
+						]
+					},
+					{
+						"url": "https://t.co/8EnaxeuWp2",
+						"expanded_url": "https://www.smore.com/07b4p-what-s-joy-got-to-do-with-it",
+						"display_url": "smore.com/07b4p-what-s-j…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 47430937,
+			"in_reply_to_user_id_str": "47430937",
+			"in_reply_to_screen_name": "alexkjerulf",
+			"user": {
+				"id": 2883202407,
+				"id_str": "2883202407",
+				"name": "Akilah Ellison🌼",
+				"screen_name": "OrganicLeaderVB",
+				"location": "Hampton Roads, VA",
+				"description": "Professional Learning Specialist, #joymatters for Ss,Tt & #leadership. #equity,#VBHasJoy🌻, Doctoral Candidate, leader, educator, mom. Opinions my own",
+				"url": "https://t.co/NArYXkS7lr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NArYXkS7lr",
+								"expanded_url": "http://joyisrevolutionary.blogspot.com/",
+								"display_url": "joyisrevolutionary.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5077,
+				"friends_count": 4492,
+				"listed_count": 209,
+				"created_at": "Tue Nov 18 22:19:56 +0000 2014",
+				"favourites_count": 59870,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838196891926073344/GYS5OOI-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838196891926073344/GYS5OOI-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2883202407/1488676429",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 03:33:14 +0000 2017",
 		"id": 936438010509439000,
 		"id_str": "936438010509438976",
