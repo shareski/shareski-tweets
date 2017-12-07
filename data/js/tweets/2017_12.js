@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 07 20:33:21 +0000 2017",
+		"id": 938869058853851100,
+		"id_str": "938869058853851141",
+		"text": "Lovely. https://t.co/u75eeKbARF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u75eeKbARF",
+					"expanded_url": "https://twitter.com/LisaRead/status/938868031312216064",
+					"display_url": "twitter.com/LisaRead/statu…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36255,
+			"friends_count": 6516,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 938868031312216000,
+		"quoted_status_id_str": "938868031312216064",
+		"quoted_status": {
+			"created_at": "Thu Dec 07 20:29:16 +0000 2017",
+			"id": 938868031312216000,
+			"id_str": "938868031312216064",
+			"text": "\"... @gposey79 is a great leader because he recognizes where my strengths complement where there are gaps, and supp… https://t.co/KqmVTn698x",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gposey79",
+						"name": "Glen Posey",
+						"id": 50063695,
+						"id_str": "50063695",
+						"indices": [
+							5,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KqmVTn698x",
+						"expanded_url": "https://twitter.com/i/web/status/938868031312216064",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17010143,
+				"id_str": "17010143",
+				"name": "|*LisaRead*|",
+				"screen_name": "LisaRead",
+				"location": "Vancouver Island",
+				"description": "Teacher, mommy, friend, creatively manic",
+				"url": "https://t.co/uNpjAPBWuI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uNpjAPBWuI",
+								"expanded_url": "http://readlisaread.edublogs.org/",
+								"display_url": "readlisaread.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 915,
+				"friends_count": 816,
+				"listed_count": 59,
+				"created_at": "Mon Oct 27 23:48:20 +0000 2008",
+				"favourites_count": 2306,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/104650141/twilk_background_4bfa942628b70.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/104650141/twilk_background_4bfa942628b70.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819920202263457792/3CYatbQ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819920202263457792/3CYatbQ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17010143/1397003173",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6e62d289c1553afd",
+				"url": "https://api.twitter.com/1.1/geo/id/6e62d289c1553afd.json",
+				"place_type": "city",
+				"name": "North Cowichan",
+				"full_name": "North Cowichan, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.78366,
+								48.755077
+							],
+							[
+								-123.555247,
+								48.755077
+							],
+							[
+								-123.555247,
+								48.937092
+							],
+							[
+								-123.78366,
+								48.937092
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 938779883961905200,
+			"quoted_status_id_str": "938779883961905154",
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 17:08:18 +0000 2017",
 		"id": 938817457254535200,
 		"id_str": "938817457254535170",
