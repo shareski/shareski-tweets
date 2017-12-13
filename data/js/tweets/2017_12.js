@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 20:48:01 +0000 2017",
+		"id": 941047077936578600,
+		"id_str": "941047077936578560",
+		"text": "Always good stuff happening at #prescottpsd70 https://t.co/esigjT84kq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "prescottpsd70",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/esigjT84kq",
+					"expanded_url": "https://twitter.com/kstridegoudie/status/941038552158212096",
+					"display_url": "twitter.com/kstridegoudie/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36312,
+			"friends_count": 6528,
+			"listed_count": 1415,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111541,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "06fa737d271983ea",
+			"url": "https://api.twitter.com/1.1/geo/id/06fa737d271983ea.json",
+			"place_type": "city",
+			"name": "Spruce Grove",
+			"full_name": "Spruce Grove, Alberta",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-113.959228,
+							53.519488
+						],
+						[
+							-113.847894,
+							53.519488
+						],
+						[
+							-113.847894,
+							53.5713758
+						],
+						[
+							-113.959228,
+							53.5713758
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 941038552158212100,
+		"quoted_status_id_str": "941038552158212096",
+		"quoted_status": {
+			"created_at": "Wed Dec 13 20:14:09 +0000 2017",
+			"id": 941038552158212100,
+			"id_str": "941038552158212096",
+			"text": "So GREAT to have @shareski @JasonBuccheri @DiscoveryEd on site #prescottpsd70 @KelliHolden @MrAndersonPLC2 #DEPD https://t.co/jYPGp3eUeS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "prescottpsd70",
+						"indices": [
+							63,
+							77
+						]
+					},
+					{
+						"text": "DEPD",
+						"indices": [
+							107,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							17,
+							26
+						]
+					},
+					{
+						"screen_name": "JasonBuccheri",
+						"name": "Jason J. Buccheri",
+						"id": 292741552,
+						"id_str": "292741552",
+						"indices": [
+							27,
+							41
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"screen_name": "KelliHolden",
+						"name": "Kelli Holden",
+						"id": 299916676,
+						"id_str": "299916676",
+						"indices": [
+							78,
+							90
+						]
+					},
+					{
+						"screen_name": "MrAndersonPLC2",
+						"name": "Justin Anderson",
+						"id": 2773667665,
+						"id_str": "2773667665",
+						"indices": [
+							91,
+							106
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 941038547716460500,
+						"id_str": "941038547716460544",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ89ksSW0AAkv6r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ89ksSW0AAkv6r.jpg",
+						"url": "https://t.co/jYPGp3eUeS",
+						"display_url": "pic.twitter.com/jYPGp3eUeS",
+						"expanded_url": "https://twitter.com/kstridegoudie/status/941038552158212096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941038547716460500,
+						"id_str": "941038547716460544",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DQ89ksSW0AAkv6r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQ89ksSW0AAkv6r.jpg",
+						"url": "https://t.co/jYPGp3eUeS",
+						"display_url": "pic.twitter.com/jYPGp3eUeS",
+						"expanded_url": "https://twitter.com/kstridegoudie/status/941038552158212096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 191121266,
+				"id_str": "191121266",
+				"name": "Karen Stride-Goudie",
+				"screen_name": "kstridegoudie",
+				"location": "",
+				"description": "Passionate educator & Principal of Prescott Learning Centre",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 767,
+				"friends_count": 714,
+				"listed_count": 63,
+				"created_at": "Wed Sep 15 17:16:47 +0000 2010",
+				"favourites_count": 1779,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3072,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430387610200989697/hhPvlvOP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430387610200989697/hhPvlvOP_normal.jpeg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 13 19:06:33 +0000 2017",
 		"id": 941021541352874000,
 		"id_str": "941021541352873984",
