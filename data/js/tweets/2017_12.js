@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 16 18:42:32 +0000 2017",
+		"id": 942102660974440400,
+		"id_str": "942102660974440448",
+		"text": "RT @Mchechile: https://t.co/syKQFMygmj @LBPSB #lbpsb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lbpsb",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mchechile",
+					"name": "Michael Chechile",
+					"id": 167392219,
+					"id_str": "167392219",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "LBPSB",
+					"name": "lbpsb",
+					"id": 40468955,
+					"id_str": "40468955",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/syKQFMygmj",
+					"expanded_url": "http://www.cbc.ca/beta/news/canada/montreal/pierrefonds-students-knit-gifts-for-homeless-youth-at-christmas-1.4449608",
+					"display_url": "cbc.ca/beta/news/cana…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36327,
+			"friends_count": 6533,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 04:21:45 +0000 2017",
+			"id": 941886038091489300,
+			"id_str": "941886038091489282",
+			"text": "https://t.co/syKQFMygmj @LBPSB #lbpsb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lbpsb",
+						"indices": [
+							31,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LBPSB",
+						"name": "lbpsb",
+						"id": 40468955,
+						"id_str": "40468955",
+						"indices": [
+							24,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/syKQFMygmj",
+						"expanded_url": "http://www.cbc.ca/beta/news/canada/montreal/pierrefonds-students-knit-gifts-for-homeless-youth-at-christmas-1.4449608",
+						"display_url": "cbc.ca/beta/news/cana…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 167392219,
+				"id_str": "167392219",
+				"name": "Michael Chechile",
+				"screen_name": "Mchechile",
+				"location": "MONTREAL, QC",
+				"description": "#Father-Husband-#Teacher-#LifelongLearner-#studentvoice- @LBPSB #LBPSB #DirectorGeneral- @Concordia #EdTech Lecturer",
+				"url": "https://t.co/IESoIH8PXd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IESoIH8PXd",
+								"expanded_url": "http://www.lbpsb.qc.ca/eng/home.asp",
+								"display_url": "lbpsb.qc.ca/eng/home.asp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 869,
+				"friends_count": 499,
+				"listed_count": 39,
+				"created_at": "Fri Jul 16 13:34:18 +0000 2010",
+				"favourites_count": 2581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1832,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000573644274/95615da5f6e514c75673076bce5de9a0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000573644274/95615da5f6e514c75673076bce5de9a0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167392219/1509758022",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "36775d842cbec509",
+				"url": "https://api.twitter.com/1.1/geo/id/36775d842cbec509.json",
+				"place_type": "city",
+				"name": "Montréal",
+				"full_name": "Montréal, Québec",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.972965,
+								45.410095
+							],
+							[
+								-73.473085,
+								45.410095
+							],
+							[
+								-73.473085,
+								45.705566
+							],
+							[
+								-73.972965,
+								45.705566
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Dec 16 17:17:32 +0000 2017",
 		"id": 942081268174307300,
 		"id_str": "942081268174307329",
