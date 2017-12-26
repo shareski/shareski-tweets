@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 05:44:12 +0000 2017",
+		"id": 945530665390485500,
+		"id_str": "945530665390485504",
+		"text": "The #deanie for gracious @DiscoveryEdUk host goes to ... @chrisnash01 https://t.co/JwOBHEdWBl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEdUk",
+					"name": "Discovery Ed UK",
+					"id": 61462485,
+					"id_str": "61462485",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "chrisnash01",
+					"name": "Chris Nash",
+					"id": 14718252,
+					"id_str": "14718252",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JwOBHEdWBl",
+					"expanded_url": "https://twitter.com/chrisnash01/status/874185207376523264",
+					"display_url": "twitter.com/chrisnash01/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36389,
+			"friends_count": 6543,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 874185207376523300,
+		"quoted_status_id_str": "874185207376523264",
+		"quoted_status": {
+			"created_at": "Mon Jun 12 08:42:49 +0000 2017",
+			"id": 874185207376523300,
+			"id_str": "874185207376523264",
+			"text": "Getting ready for fun, learning sharing and meeting at #DoDStratford @DiscoveryEdUk #ukdenchat https://t.co/erMNo1nvMb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoDStratford",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"text": "ukdenchat",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEdUk",
+						"name": "Discovery Ed UK",
+						"id": 61462485,
+						"id_str": "61462485",
+						"indices": [
+							69,
+							83
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 874185183678931000,
+						"id_str": "874185183678930944",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DCG6yv0XoAAGt3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCG6yv0XoAAGt3D.jpg",
+						"url": "https://t.co/erMNo1nvMb",
+						"display_url": "pic.twitter.com/erMNo1nvMb",
+						"expanded_url": "https://twitter.com/chrisnash01/status/874185207376523264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874185183678931000,
+						"id_str": "874185183678930944",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DCG6yv0XoAAGt3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCG6yv0XoAAGt3D.jpg",
+						"url": "https://t.co/erMNo1nvMb",
+						"display_url": "pic.twitter.com/erMNo1nvMb",
+						"expanded_url": "https://twitter.com/chrisnash01/status/874185207376523264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14718252,
+				"id_str": "14718252",
+				"name": "Chris Nash",
+				"screen_name": "chrisnash01",
+				"location": "London",
+				"description": "Head of Community Discovery Education\nPassionate educator and innovator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 320,
+				"friends_count": 355,
+				"listed_count": 8,
+				"created_at": "Fri May 09 21:23:35 +0000 2008",
+				"favourites_count": 554,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915562346168377344/Am9kSJd1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915562346168377344/Am9kSJd1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14718252/1490114545",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "695b360b8171c433",
+				"url": "https://api.twitter.com/1.1/geo/id/695b360b8171c433.json",
+				"place_type": "city",
+				"name": "Stratford",
+				"full_name": "Stratford, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.0194808,
+								51.525469
+							],
+							[
+								0.0694732,
+								51.525469
+							],
+							[
+								0.0694732,
+								51.564174
+							],
+							[
+								-0.0194808,
+								51.564174
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 05:30:02 +0000 2017",
+		"id": 945527101377138700,
+		"id_str": "945527101377138688",
+		"text": "@EDUtalkr the #deanie for good discussion and pushback of my blog post goes to ... @EDUtalkr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUtalkr",
+					"name": "Radio EDUtalk",
+					"id": 77933462,
+					"id_str": "77933462",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "EDUtalkr",
+					"name": "Radio EDUtalk",
+					"id": 77933462,
+					"id_str": "77933462",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 862529024651911200,
+		"in_reply_to_status_id_str": "862529024651911168",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36389,
+			"friends_count": 6543,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 05:15:32 +0000 2017",
+		"id": 945523453347749900,
+		"id_str": "945523453347749888",
+		"text": "@hatcherelli I'll give her mine. Wife got me a size too small.Merry Christmas to you too.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatcherelli",
+					"name": "Derek Hatch",
+					"id": 22322516,
+					"id_str": "22322516",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 945505816844501000,
+		"in_reply_to_status_id_str": "945505816844500992",
+		"in_reply_to_user_id": 22322516,
+		"in_reply_to_user_id_str": "22322516",
+		"in_reply_to_screen_name": "hatcherelli",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36389,
+			"friends_count": 6543,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 26 05:07:06 +0000 2017",
 		"id": 945521329935212500,
 		"id_str": "945521329935212544",
