@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 27 19:12:08 +0000 2017",
+		"id": 946096376194072600,
+		"id_str": "946096376194072577",
+		"text": "@rrodgers Plays that you rarely see that include more than one player. More passing type plays for hockey and socce… https://t.co/pEx8evl2NO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rrodgers",
+					"name": "Randy Rodgers",
+					"id": 7664032,
+					"id_str": "7664032",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pEx8evl2NO",
+					"expanded_url": "https://twitter.com/i/web/status/946096376194072577",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 946092844954955800,
+		"in_reply_to_status_id_str": "946092844954955778",
+		"in_reply_to_user_id": 7664032,
+		"in_reply_to_user_id_str": "7664032",
+		"in_reply_to_screen_name": "rrodgers",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36400,
+			"friends_count": 6549,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 27 18:21:00 +0000 2017",
+		"id": 946083508333588500,
+		"id_str": "946083508333588481",
+		"text": "Mirrors should be banned. https://t.co/SZ5jAUBPGq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZ5jAUBPGq",
+					"expanded_url": "https://twitter.com/JimGaffigan/status/946078294285475842",
+					"display_url": "twitter.com/JimGaffigan/st…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working everyday to bring a little more joy into the world. Building community for Discovery Education. Founder of #napchat FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36400,
+			"friends_count": 6549,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 946078294285475800,
+		"quoted_status_id_str": "946078294285475842",
+		"quoted_status": {
+			"created_at": "Wed Dec 27 18:00:17 +0000 2017",
+			"id": 946078294285475800,
+			"id_str": "946078294285475842",
+			"text": "Every time https://t.co/btCYCPaQ0K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 946077238964969500,
+						"id_str": "946077238964969472",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/946077238964969472/pu/img/7VG2sNqZ_IVAHXIU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/946077238964969472/pu/img/7VG2sNqZ_IVAHXIU.jpg",
+						"url": "https://t.co/btCYCPaQ0K",
+						"display_url": "pic.twitter.com/btCYCPaQ0K",
+						"expanded_url": "https://twitter.com/JimGaffigan/status/946078294285475842/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 946077238964969500,
+						"id_str": "946077238964969472",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/946077238964969472/pu/img/7VG2sNqZ_IVAHXIU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/946077238964969472/pu/img/7VG2sNqZ_IVAHXIU.jpg",
+						"url": "https://t.co/btCYCPaQ0K",
+						"display_url": "pic.twitter.com/btCYCPaQ0K",
+						"expanded_url": "https://twitter.com/JimGaffigan/status/946078294285475842/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 13514,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/946077238964969472/pu/vid/480x480/4ti1a1dRMMDA0o5p.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/946077238964969472/pu/vid/720x720/lU0j1dPzd-19kKwe.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/946077238964969472/pu/vid/240x240/Z3un-cVw6werYD5N.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/946077238964969472/pu/pl/kceuHVqpPZfN7-60.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6539592,
+				"id_str": "6539592",
+				"name": "Jim Gaffigan",
+				"screen_name": "JimGaffigan",
+				"location": "New Tour - Noble Ape",
+				"description": "Male Model. \"Ignorant and Unstable\" My first wife is @jeanniegaffigan. Touring NOBLE APE TOUR. All new material 30 cities.",
+				"url": "https://t.co/cp02zQzqdN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cp02zQzqdN",
+								"expanded_url": "http://jimgaffigan.com",
+								"display_url": "jimgaffigan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3098808,
+				"friends_count": 2400,
+				"listed_count": 25610,
+				"created_at": "Sun Jun 03 11:09:19 +0000 2007",
+				"favourites_count": 12048,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15305,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6699CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439852338585411584/b310r0WT.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439852338585411584/b310r0WT.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810111809806094336/GN-CiCn7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810111809806094336/GN-CiCn7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6539592/1497548229",
+				"profile_link_color": "B4C2EE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "5F7CD3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 129,
+			"favorite_count": 522,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 27 18:00:03 +0000 2017",
 		"id": 946078237205123100,
 		"id_str": "946078237205123072",
@@ -341,7 +776,7 @@ Grailbird.data.tweets_2017_12 =
 			"created_at": "Wed Dec 27 17:38:04 +0000 2017",
 			"id": 946072703785717800,
 			"id_str": "946072703785717760",
-			"text": "Nailed it, @shareski 👩🏽‍🎨👨🏼‍🎨👩🏽‍🎨 https://t.co/ZcOR0n9yOi",
+			"text": "Nailed it, @shareski 👩🏽🎨👨🏼🎨👩🏽🎨 https://t.co/ZcOR0n9yOi",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
