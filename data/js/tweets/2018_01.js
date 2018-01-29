@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 29 17:29:38 +0000 2018",
+		"id": 958029383435890700,
+		"id_str": "958029383435890688",
+		"text": "You folks are lucky. @_MADLaT https://t.co/jzxcBEltXV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_MADLaT",
+					"name": "MADLaT",
+					"id": 705045458024923100,
+					"id_str": "705045458024923137",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jzxcBEltXV",
+					"expanded_url": "https://twitter.com/_MADLaT/status/958026982612258816",
+					"display_url": "twitter.com/_MADLaT/status…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36639,
+			"friends_count": 6581,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 958026982612258800,
+		"quoted_status_id_str": "958026982612258816",
+		"quoted_status": {
+			"created_at": "Mon Jan 29 17:20:06 +0000 2018",
+			"id": 958026982612258800,
+			"id_str": "958026982612258816",
+			"text": "Save the Date - May 3&amp;4, 2018 for MADLaT Conference! Join @bonstewart &amp; #Manitoba #edtech community to discuss inno… https://t.co/yBSevfqyr2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Manitoba",
+						"indices": [
+							80,
+							89
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							90,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bonstewart",
+						"name": "Bonnie Stewart",
+						"id": 6532522,
+						"id_str": "6532522",
+						"indices": [
+							62,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yBSevfqyr2",
+						"expanded_url": "https://twitter.com/i/web/status/958026982612258816",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705045458024923100,
+				"id_str": "705045458024923137",
+				"name": "MADLaT",
+				"screen_name": "_MADLaT",
+				"location": "Winnipeg, Manitoba",
+				"description": "Manitoba Association for Distributed Learning and Training - An interdisciplinary forum for educators, trainers & technology specialists",
+				"url": "https://t.co/MMo2zGL49I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MMo2zGL49I",
+								"expanded_url": "http://www.madlat.ca",
+								"display_url": "madlat.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12,
+				"friends_count": 36,
+				"listed_count": 3,
+				"created_at": "Wed Mar 02 15:01:51 +0000 2016",
+				"favourites_count": 37,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957698931525169152/-wkkjds8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957698931525169152/-wkkjds8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/705045458024923137/1517167791",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 29 16:59:43 +0000 2018",
 		"id": 958021852571484200,
 		"id_str": "958021852571484162",
