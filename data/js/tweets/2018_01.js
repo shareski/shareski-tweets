@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 21:32:51 +0000 2018",
+		"id": 958452977018155000,
+		"id_str": "958452977018155008",
+		"text": "There was entire ecosystem happening on the back of my MacBook. https://t.co/2YX5NWpJph",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2YX5NWpJph",
+					"expanded_url": "https://twitter.com/bengrey/status/958449838823301120",
+					"display_url": "twitter.com/bengrey/status…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36654,
+			"friends_count": 6587,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09efd2065c8ce28e",
+			"url": "https://api.twitter.com/1.1/geo/id/09efd2065c8ce28e.json",
+			"place_type": "city",
+			"name": "Surrey",
+			"full_name": "Surrey, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.958937,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.221117
+						],
+						[
+							-122.958937,
+							49.221117
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 958449838823301100,
+		"quoted_status_id_str": "958449838823301120",
+		"quoted_status": {
+			"created_at": "Tue Jan 30 21:20:23 +0000 2018",
+			"id": 958449838823301100,
+			"id_str": "958449838823301120",
+			"text": "@shareski I should have given you a 5 gallon bucket of that cleaner. And a power washer.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 958446904261492700,
+			"in_reply_to_status_id_str": "958446904261492736",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 14527970,
+				"id_str": "14527970",
+				"name": "Ben Grey",
+				"screen_name": "bengrey",
+				"location": "Arlington Heights, IL",
+				"description": "Assistant Superintendent for Innovative Learning and Communication, Photo Hobbyist, Proud Papa and Husband.",
+				"url": "http://t.co/qRJXP7OdLP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qRJXP7OdLP",
+								"expanded_url": "http://bengrey.com/blog",
+								"display_url": "bengrey.com/blog",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6085,
+				"friends_count": 1141,
+				"listed_count": 509,
+				"created_at": "Fri Apr 25 15:39:30 +0000 2008",
+				"favourites_count": 48,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20748,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2794227/twitter_logo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2794227/twitter_logo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2385857004/fx6yk474cfvae8gdvja1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2385857004/fx6yk474cfvae8gdvja1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14527970/1351725242",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A8A8A8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 30 21:08:43 +0000 2018",
 		"id": 958446904261492700,
 		"id_str": "958446904261492736",
