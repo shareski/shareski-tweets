@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 31 00:55:31 +0000 2018",
+		"id": 958503980253892600,
+		"id_str": "958503980253892609",
+		"text": "Big day for Canada. @DiscoveryEd https://t.co/Lz3yLao7Xg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lz3yLao7Xg",
+					"expanded_url": "https://twitter.com/djrteacher/status/958489977461051393",
+					"display_url": "twitter.com/djrteacher/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36655,
+			"friends_count": 6587,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09efd2065c8ce28e",
+			"url": "https://api.twitter.com/1.1/geo/id/09efd2065c8ce28e.json",
+			"place_type": "city",
+			"name": "Surrey",
+			"full_name": "Surrey, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.958937,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.221117
+						],
+						[
+							-122.958937,
+							49.221117
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 958489977461051400,
+		"quoted_status_id_str": "958489977461051393",
+		"quoted_status": {
+			"created_at": "Tue Jan 30 23:59:53 +0000 2018",
+			"id": 958489977461051400,
+			"id_str": "958489977461051393",
+			"text": "So excited @DiscoveryEd just launched its #DEN online community in #Canada with @Surrey_Schools! #DEPD @shareski https://t.co/9yhAc8q4R5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DEN",
+						"indices": [
+							42,
+							46
+						]
+					},
+					{
+						"text": "Canada",
+						"indices": [
+							67,
+							74
+						]
+					},
+					{
+						"text": "DEPD",
+						"indices": [
+							97,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							11,
+							23
+						]
+					},
+					{
+						"screen_name": "Surrey_Schools",
+						"name": "Surrey Schools",
+						"id": 382336460,
+						"id_str": "382336460",
+						"indices": [
+							80,
+							95
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							103,
+							112
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 958489959366737900,
+						"id_str": "958489959366737920",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DU09iizVQAA_gad.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU09iizVQAA_gad.jpg",
+						"url": "https://t.co/9yhAc8q4R5",
+						"display_url": "pic.twitter.com/9yhAc8q4R5",
+						"expanded_url": "https://twitter.com/DJRTeacher/status/958489977461051393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958489959366737900,
+						"id_str": "958489959366737920",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DU09iizVQAA_gad.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU09iizVQAA_gad.jpg",
+						"url": "https://t.co/9yhAc8q4R5",
+						"display_url": "pic.twitter.com/9yhAc8q4R5",
+						"expanded_url": "https://twitter.com/DJRTeacher/status/958489977461051393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 958489959375097900,
+						"id_str": "958489959375097856",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DU09ii1U0AAcHzi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU09ii1U0AAcHzi.jpg",
+						"url": "https://t.co/9yhAc8q4R5",
+						"display_url": "pic.twitter.com/9yhAc8q4R5",
+						"expanded_url": "https://twitter.com/DJRTeacher/status/958489977461051393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21046376,
+				"id_str": "21046376",
+				"name": "David Robbins",
+				"screen_name": "DJRTeacher",
+				"location": "Baltimore, Maryland",
+				"description": "Ed Tech Educator for over 15 years. Working with students, teachers across North America to create technology rich classroom environments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 382,
+				"friends_count": 678,
+				"listed_count": 29,
+				"created_at": "Tue Feb 17 00:11:41 +0000 2009",
+				"favourites_count": 449,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4526,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831207177591349250/hyYvqJ5Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831207177591349250/hyYvqJ5Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21046376/1493051927",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 00:50:21 +0000 2018",
+		"id": 958502677494693900,
+		"id_str": "958502677494693888",
+		"text": "@ijohnpederson  https://t.co/6fZwmxpbz5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ijohnpederson",
+					"name": "Stone Cold John Pederson 🥌",
+					"id": 71123,
+					"id_str": "71123",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 958502657492074500,
+					"id_str": "958502657492074496",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DU1JFrAVQAA0zU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DU1JFrAVQAA0zU_.jpg",
+					"url": "https://t.co/6fZwmxpbz5",
+					"display_url": "pic.twitter.com/6fZwmxpbz5",
+					"expanded_url": "https://twitter.com/shareski/status/958502677494693888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958502657492074500,
+					"id_str": "958502657492074496",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DU1JFrAVQAA0zU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DU1JFrAVQAA0zU_.jpg",
+					"url": "https://t.co/6fZwmxpbz5",
+					"display_url": "pic.twitter.com/6fZwmxpbz5",
+					"expanded_url": "https://twitter.com/shareski/status/958502677494693888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DU1JFrAVQAA0zU_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 958494184574541800,
+		"in_reply_to_status_id_str": "958494184574541824",
+		"in_reply_to_user_id": 71123,
+		"in_reply_to_user_id_str": "71123",
+		"in_reply_to_screen_name": "ijohnpederson",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36655,
+			"friends_count": 6587,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09efd2065c8ce28e",
+			"url": "https://api.twitter.com/1.1/geo/id/09efd2065c8ce28e.json",
+			"place_type": "city",
+			"name": "Surrey",
+			"full_name": "Surrey, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.958937,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.221117
+						],
+						[
+							-122.958937,
+							49.221117
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jan 30 21:32:51 +0000 2018",
 		"id": 958452977018155000,
 		"id_str": "958452977018155008",
