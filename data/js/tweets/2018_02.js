@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 10 06:34:50 +0000 2018",
+		"id": 962213251042947100,
+		"id_str": "962213251042947074",
+		"text": "Thanks my friend https://t.co/DBCLwGF1wn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DBCLwGF1wn",
+					"expanded_url": "https://twitter.com/chriswejr/status/962204046210752512",
+					"display_url": "twitter.com/chriswejr/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36749,
+			"friends_count": 6596,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00dc41d1ef797d1a",
+			"url": "https://api.twitter.com/1.1/geo/id/00dc41d1ef797d1a.json",
+			"place_type": "city",
+			"name": "Moose Jaw",
+			"full_name": "Moose Jaw, Saskatchewan",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.626384,
+							50.35293
+						],
+						[
+							-105.465886,
+							50.35293
+						],
+						[
+							-105.465886,
+							50.43446
+						],
+						[
+							-105.626384,
+							50.43446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 962204046210752500,
+		"quoted_status_id_str": "962204046210752512",
+		"quoted_status": {
+			"created_at": "Sat Feb 10 05:58:16 +0000 2018",
+			"id": 962204046210752500,
+			"id_str": "962204046210752512",
+			"text": "@shareski I think you need a combo of a few. Instagram gets the most views but a blog is the best way to share the… https://t.co/Tehcre17g5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tehcre17g5",
+						"expanded_url": "https://twitter.com/i/web/status/962204046210752512",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 962075508472127500,
+			"in_reply_to_status_id_str": "962075508472127488",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 23236909,
+				"id_str": "23236909",
+				"name": "Chris Wejr",
+				"screen_name": "ChrisWejr",
+				"location": "Langley, BC",
+				"description": "K-5 principal, teacher, learner, sports fan, father of 3. Passionate about strengths-based education and leadership, assessment, and motivation.",
+				"url": "http://t.co/N6sDjH4L4O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/N6sDjH4L4O",
+								"expanded_url": "http://chriswejr.com",
+								"display_url": "chriswejr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21713,
+				"friends_count": 5105,
+				"listed_count": 880,
+				"created_at": "Sat Mar 07 21:28:21 +0000 2009",
+				"favourites_count": 463,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725573023252631553/HE78qgOb.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725573023252631553/HE78qgOb.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790749092846538752/xO5IsfdI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790749092846538752/xO5IsfdI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23236909/1354075652",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 04:31:28 +0000 2018",
 		"id": 962182203638722600,
 		"id_str": "962182203638722560",
