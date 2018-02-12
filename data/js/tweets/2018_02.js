@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 12 12:59:12 +0000 2018",
+		"id": 963034754739200000,
+		"id_str": "963034754739200000",
+		"text": "Really great ideas here. Thanks @plugusin https://t.co/jxJN4TijbM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plugusin",
+					"name": "Bill Ferriter",
+					"id": 12165362,
+					"id_str": "12165362",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jxJN4TijbM",
+					"expanded_url": "https://twitter.com/plugusin/status/963016107115401216",
+					"display_url": "twitter.com/plugusin/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36763,
+			"friends_count": 6597,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112296,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2c1be03622fe39b8",
+			"url": "https://api.twitter.com/1.1/geo/id/2c1be03622fe39b8.json",
+			"place_type": "city",
+			"name": "Regina",
+			"full_name": "Regina, Saskatchewan",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.778398,
+							50.39659
+						],
+						[
+							-104.50339,
+							50.39659
+						],
+						[
+							-104.50339,
+							50.513682
+						],
+						[
+							-104.778398,
+							50.513682
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 963016107115401200,
+		"quoted_status_id_str": "963016107115401216",
+		"quoted_status": {
+			"created_at": "Mon Feb 12 11:45:06 +0000 2018",
+			"id": 963016107115401200,
+			"id_str": "963016107115401216",
+			"text": "From the Radical Archives:  Three Tips for Novice Bloggers - https://t.co/sA7zxDTNx1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sA7zxDTNx1",
+						"expanded_url": "http://bit.ly/2EBq1Q6",
+						"display_url": "bit.ly/2EBq1Q6",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12165362,
+				"id_str": "12165362",
+				"name": "Bill Ferriter",
+				"screen_name": "plugusin",
+				"location": "Raleigh NC",
+				"description": "I'm a full time classroom teacher with a ton of #edtech and #atplc expertise.",
+				"url": "http://t.co/rOz56I3eKl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rOz56I3eKl",
+								"expanded_url": "http://blog.williamferriter.com",
+								"display_url": "blog.williamferriter.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25237,
+				"friends_count": 1439,
+				"listed_count": 1121,
+				"created_at": "Sat Jan 12 22:40:10 +0000 2008",
+				"favourites_count": 1825,
+				"utc_offset": -18000,
+				"time_zone": "America/New_York",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40723,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/382234168/xdd04fe68e605c42ab9ec483176b97fe.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/382234168/xdd04fe68e605c42ab9ec483176b97fe.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896532478093139969/7jXmMPP0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896532478093139969/7jXmMPP0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12165362/1489693638",
+				"profile_link_color": "07346F",
+				"profile_sidebar_border_color": "464E52",
+				"profile_sidebar_fill_color": "171B1C",
+				"profile_text_color": "BAB6B1",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 11 20:00:45 +0000 2018",
 		"id": 962778451534143500,
 		"id_str": "962778451534143494",
