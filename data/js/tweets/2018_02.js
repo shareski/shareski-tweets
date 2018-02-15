@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 17:55:46 +0000 2018",
+		"id": 964196553060581400,
+		"id_str": "964196553060581376",
+		"text": "Awesome https://t.co/ylykrebE6h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ylykrebE6h",
+					"expanded_url": "https://twitter.com/busybeakers/status/964194953365614592",
+					"display_url": "twitter.com/busybeakers/st…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36802,
+			"friends_count": 6606,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964194953365614600,
+		"quoted_status_id_str": "964194953365614592",
+		"quoted_status": {
+			"created_at": "Thu Feb 15 17:49:25 +0000 2018",
+			"id": 964194953365614600,
+			"id_str": "964194953365614592",
+			"text": "@APMaBennett @shareski When I worked with @ateachersaurus I laughed all day every day 😜 https://t.co/vmd4d9WBhD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "APMaBennett",
+						"name": "Melanie Bennett",
+						"id": 3318278948,
+						"id_str": "3318278948",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"screen_name": "ateachersaurus",
+						"name": "Mr. Erickson",
+						"id": 903436471918399500,
+						"id_str": "903436471918399490",
+						"indices": [
+							42,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 964194933878894600,
+						"id_str": "964194933878894592",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DWGCLxAVMAAEYO5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWGCLxAVMAAEYO5.jpg",
+						"url": "https://t.co/vmd4d9WBhD",
+						"display_url": "pic.twitter.com/vmd4d9WBhD",
+						"expanded_url": "https://twitter.com/BusyBeakers/status/964194953365614592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 769,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 769,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964194933878894600,
+						"id_str": "964194933878894592",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DWGCLxAVMAAEYO5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWGCLxAVMAAEYO5.jpg",
+						"url": "https://t.co/vmd4d9WBhD",
+						"display_url": "pic.twitter.com/vmd4d9WBhD",
+						"expanded_url": "https://twitter.com/BusyBeakers/status/964194953365614592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 769,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 769,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 964189198759505900,
+			"in_reply_to_status_id_str": "964189198759505920",
+			"in_reply_to_user_id": 3318278948,
+			"in_reply_to_user_id_str": "3318278948",
+			"in_reply_to_screen_name": "APMaBennett",
+			"user": {
+				"id": 2177299068,
+				"id_str": "2177299068",
+				"name": "Mrs. Watson",
+				"screen_name": "BusyBeakers",
+				"location": "Alberta, Canada",
+				"description": "Was a K teacher now a Gr 9 Math/Sci teacher - also nature enthusiast, happy mom, cyclist, thinker of happy thoughts & UofC MEd student (tweets are my own).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 877,
+				"friends_count": 1450,
+				"listed_count": 38,
+				"created_at": "Wed Nov 06 03:57:20 +0000 2013",
+				"favourites_count": 4654,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3773,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718981578261573633/LQgbWHrR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718981578261573633/LQgbWHrR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177299068/1489128048",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 15 04:35:05 +0000 2018",
 		"id": 963995052337807400,
 		"id_str": "963995052337807360",
