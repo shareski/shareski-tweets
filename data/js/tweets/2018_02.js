@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 21:23:01 +0000 2018",
+		"id": 966423037179383800,
+		"id_str": "966423037179383809",
+		"text": "@gsiemens But what if I suffered as a result? Isn’t that referenced somewhere in Hezakiah?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 966422628000043000,
+		"in_reply_to_status_id_str": "966422628000043008",
+		"in_reply_to_user_id": 18613,
+		"in_reply_to_user_id_str": "18613",
+		"in_reply_to_screen_name": "gsiemens",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36851,
+			"friends_count": 6617,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4265ece9285a2872",
+			"url": "https://api.twitter.com/1.1/geo/id/4265ece9285a2872.json",
+			"place_type": "city",
+			"name": "Palm Springs",
+			"full_name": "Palm Springs, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-116.5677878,
+							33.7794258
+						],
+						[
+							-116.466791,
+							33.7794258
+						],
+						[
+							-116.466791,
+							33.8707332
+						],
+						[
+							-116.5677878,
+							33.8707332
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 21 21:19:51 +0000 2018",
+		"id": 966422236398870500,
+		"id_str": "966422236398870528",
+		"text": "Good read. Also @gcouros your blog is nice. https://t.co/6EAOtcz5cz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6EAOtcz5cz",
+					"expanded_url": "https://twitter.com/gcouros/status/966310288856375296",
+					"display_url": "twitter.com/gcouros/status…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36851,
+			"friends_count": 6617,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4265ece9285a2872",
+			"url": "https://api.twitter.com/1.1/geo/id/4265ece9285a2872.json",
+			"place_type": "city",
+			"name": "Palm Springs",
+			"full_name": "Palm Springs, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-116.5677878,
+							33.7794258
+						],
+						[
+							-116.466791,
+							33.7794258
+						],
+						[
+							-116.466791,
+							33.8707332
+						],
+						[
+							-116.5677878,
+							33.8707332
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 966310288856375300,
+		"quoted_status_id_str": "966310288856375296",
+		"quoted_status": {
+			"created_at": "Wed Feb 21 13:55:00 +0000 2018",
+			"id": 966310288856375300,
+			"id_str": "966310288856375296",
+			"text": "Hope is Not a Strategy https://t.co/Rej1h7aR53 https://t.co/V3gXqGEZUS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Rej1h7aR53",
+						"expanded_url": "https://georgecouros.ca/blog/archives/8088",
+						"display_url": "georgecouros.ca/blog/archives/…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 966139375678623700,
+						"id_str": "966139375678623744",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DWhqpLLXkAA9OYB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWhqpLLXkAA9OYB.jpg",
+						"url": "https://t.co/V3gXqGEZUS",
+						"display_url": "pic.twitter.com/V3gXqGEZUS",
+						"expanded_url": "https://twitter.com/gcouros/status/966310288856375296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 685,
+								"h": 513,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 685,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966139375678623700,
+						"id_str": "966139375678623744",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DWhqpLLXkAA9OYB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWhqpLLXkAA9OYB.jpg",
+						"url": "https://t.co/V3gXqGEZUS",
+						"display_url": "pic.twitter.com/V3gXqGEZUS",
+						"expanded_url": "https://twitter.com/gcouros/status/966310288856375296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 685,
+								"h": 513,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 685,
+								"h": 513,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18368680,
+				"id_str": "18368680",
+				"name": "George Couros",
+				"screen_name": "gcouros",
+				"location": "Edmonton",
+				"description": "The best educators change the trajectories of those they serve. Through learning, teaching, writing, & speaking, I continue to aspire to this. I also love dogs.",
+				"url": "http://t.co/QGNUYorOJ0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QGNUYorOJ0",
+								"expanded_url": "http://georgecouros.ca",
+								"display_url": "georgecouros.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 209002,
+				"friends_count": 48741,
+				"listed_count": 4167,
+				"created_at": "Thu Dec 25 01:58:12 +0000 2008",
+				"favourites_count": 27383,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725034983392350208/L9XvJ3hx.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725034983392350208/L9XvJ3hx.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936272621808664582/IUL53lxh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936272621808664582/IUL53lxh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18368680/1403624569",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 105,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 21 21:08:41 +0000 2018",
 		"id": 966419428387840000,
 		"id_str": "966419428387840000",
