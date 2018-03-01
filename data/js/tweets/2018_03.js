@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 01 16:14:36 +0000 2018",
+		"id": 969244523670003700,
+		"id_str": "969244523670003712",
+		"text": "This girl is cra. I'm not responsible for anything she does. https://t.co/IROfnOC8IT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IROfnOC8IT",
+					"expanded_url": "https://twitter.com/prettysqueaky/status/969242897164972032",
+					"display_url": "twitter.com/prettysqueaky/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36951,
+			"friends_count": 6633,
+			"listed_count": 1415,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 655,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112479,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 969242897164972000,
+		"quoted_status_id_str": "969242897164972032",
+		"quoted_status": {
+			"created_at": "Thu Mar 01 16:08:09 +0000 2018",
+			"id": 969242897164972000,
+			"id_str": "969242897164972032",
+			"text": "@tech_shelby Hey Shelby Struthers I found @pNabbie @apsitjen @beckyg314 and the real Canadian Grandpa!!!! @shareski… https://t.co/bZonEluALI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tech_shelby",
+						"name": "Shelby Graves",
+						"id": 112493164,
+						"id_str": "112493164",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "pNabbie",
+						"name": "Pam Inabinett",
+						"id": 295468023,
+						"id_str": "295468023",
+						"indices": [
+							42,
+							50
+						]
+					},
+					{
+						"screen_name": "apsitjen",
+						"name": "Jennifer Hall, NBCT",
+						"id": 67994691,
+						"id_str": "67994691",
+						"indices": [
+							51,
+							60
+						]
+					},
+					{
+						"screen_name": "beckyg314",
+						"name": "Becky Goddard, NBCT",
+						"id": 288557585,
+						"id_str": "288557585",
+						"indices": [
+							61,
+							71
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							106,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bZonEluALI",
+						"expanded_url": "https://twitter.com/i/web/status/969242897164972032",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 112493164,
+			"in_reply_to_user_id_str": "112493164",
+			"in_reply_to_screen_name": "tech_shelby",
+			"user": {
+				"id": 19206974,
+				"id_str": "19206974",
+				"name": "Squeaky Altman-Lewis",
+				"screen_name": "prettysqueaky",
+				"location": "NC",
+				"description": "Educator, @kenanfellow Class of 2012, #ncdlcn, NCSLA Fellow, Super Sigma #SGRho, and new to this Twitter thing.",
+				"url": "https://t.co/kxOJO7ehUW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kxOJO7ehUW",
+								"expanded_url": "http://altman-lewis.weebly.com",
+								"display_url": "altman-lewis.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1172,
+				"friends_count": 1076,
+				"listed_count": 82,
+				"created_at": "Mon Jan 19 22:55:09 +0000 2009",
+				"favourites_count": 11346,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4022,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919260976779849728/FLOa8XVo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919260976779849728/FLOa8XVo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19206974/1431911607",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 01 15:40:17 +0000 2018",
 		"id": 969235884972367900,
 		"id_str": "969235884972367872",
