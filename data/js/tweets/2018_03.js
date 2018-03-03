@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 03 02:45:32 +0000 2018",
+		"id": 969765691690807300,
+		"id_str": "969765691690807297",
+		"text": "@mrbadura @korytellers @dschoening @sbehmer @micwalker @chaaven @mgaukler  https://t.co/m3gNXwFXfk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "korytellers",
+					"name": "Kory Graham",
+					"id": 25602418,
+					"id_str": "25602418",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "dschoening",
+					"name": "Devin Schoening",
+					"id": 16873753,
+					"id_str": "16873753",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "sbehmer",
+					"name": "Stacy Behmer",
+					"id": 19199868,
+					"id_str": "19199868",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"screen_name": "micwalker",
+					"name": "Michael Walker",
+					"id": 10010202,
+					"id_str": "10010202",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "chaaven",
+					"name": "Carla Haaven",
+					"id": 15842148,
+					"id_str": "15842148",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"screen_name": "mgaukler",
+					"name": "Monte Gaukler",
+					"id": 15294776,
+					"id_str": "15294776",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 969765680739319800,
+					"id_str": "969765680739319808",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DXVMv6PVAAA7beh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DXVMv6PVAAA7beh.jpg",
+					"url": "https://t.co/m3gNXwFXfk",
+					"display_url": "pic.twitter.com/m3gNXwFXfk",
+					"expanded_url": "https://twitter.com/shareski/status/969765691690807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969765680739319800,
+					"id_str": "969765680739319808",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DXVMv6PVAAA7beh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DXVMv6PVAAA7beh.jpg",
+					"url": "https://t.co/m3gNXwFXfk",
+					"display_url": "pic.twitter.com/m3gNXwFXfk",
+					"expanded_url": "https://twitter.com/shareski/status/969765691690807297/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 290,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							38,
+							29
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DXVMv6PVAAA7beh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 969765225728741400,
+		"in_reply_to_status_id_str": "969765225728741376",
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36961,
+			"friends_count": 6638,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 655,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Mar 03 01:55:13 +0000 2018",
 		"id": 969753027803480000,
 		"id_str": "969753027803480064",
