@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 07 19:37:21 +0000 2018",
+		"id": 971469873057620000,
+		"id_str": "971469873057619968",
+		"text": "If you're wondering what a great Supt does, listen to @jordantinney share the work at #sd36learn he constantly poin… https://t.co/sFGT3d2xEA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd36learn",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jordantinney",
+					"name": "Jordan Tinney",
+					"id": 67921017,
+					"id_str": "67921017",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sFGT3d2xEA",
+					"expanded_url": "https://twitter.com/i/web/status/971469873057619968",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37005,
+			"friends_count": 6656,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 07 19:22:38 +0000 2018",
+		"id": 971466168665018400,
+		"id_str": "971466168665018369",
+		"text": "he's right. https://t.co/YmdMiYKy76",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YmdMiYKy76",
+					"expanded_url": "https://twitter.com/hughtheteacher/status/971423616444215296",
+					"display_url": "twitter.com/hughtheteacher…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37005,
+			"friends_count": 6656,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 971423616444215300,
+		"quoted_status_id_str": "971423616444215296",
+		"quoted_status": {
+			"created_at": "Wed Mar 07 16:33:32 +0000 2018",
+			"id": 971423616444215300,
+			"id_str": "971423616444215296",
+			"text": "Learn-Share-Connect! I encourage you to apply to Discovery Education Network Summer Institute @DiscoveryEd… https://t.co/Wk6Usm6nY6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Wk6Usm6nY6",
+						"expanded_url": "https://twitter.com/i/web/status/971423616444215296",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 334500742,
+				"id_str": "334500742",
+				"name": "Hugh McDonald",
+				"screen_name": "hughtheteacher",
+				"location": "Surrey, British Columbia",
+				"description": "Husband/Dad, Gr. 7 Teacher/Learner @mcdclassroom try things, meaningful learning, youth sports, DENstar, DEN LC, #geniushour #mysteryskype #sd36learn",
+				"url": "https://t.co/J3WpwQPQ3J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J3WpwQPQ3J",
+								"expanded_url": "http://hughtheteacher.wordpress.com/",
+								"display_url": "hughtheteacher.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8539,
+				"friends_count": 4241,
+				"listed_count": 367,
+				"created_at": "Wed Jul 13 05:56:48 +0000 2011",
+				"favourites_count": 8614,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24906,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334500742/1500510762",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 07 14:36:16 +0000 2018",
 		"id": 971394101840154600,
 		"id_str": "971394101840154628",
