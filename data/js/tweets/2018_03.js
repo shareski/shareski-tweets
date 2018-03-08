@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 08 16:07:45 +0000 2018",
+		"id": 971779512798269400,
+		"id_str": "971779512798269441",
+		"text": "Just correcting an error. I did not have #allthebbq I didn't have any. :( https://t.co/qjNA8Nfq8u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "allthebbq",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qjNA8Nfq8u",
+					"expanded_url": "https://twitter.com/winniekwoksays/status/971759711560388610",
+					"display_url": "twitter.com/winniekwoksays…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37025,
+			"friends_count": 6657,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 971759711560388600,
+		"quoted_status_id_str": "971759711560388610",
+		"quoted_status": {
+			"created_at": "Thu Mar 08 14:49:04 +0000 2018",
+			"id": 971759711560388600,
+			"id_str": "971759711560388610",
+			"text": "Excited to be in St Louis w/ @kellyhines &amp; @shareski #allthebbq #metcpd #depd @EducPlus @DiscoveryEd https://t.co/2t9toLJGpc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "allthebbq",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"text": "metcpd",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "depd",
+						"indices": [
+							76,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kellyhines",
+						"name": "Kelly Hines",
+						"id": 17100825,
+						"id_str": "17100825",
+						"indices": [
+							29,
+							40
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "EducPlus",
+						"name": "EducationPlus",
+						"id": 148064284,
+						"id_str": "148064284",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							92,
+							104
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 971759703335174100,
+						"id_str": "971759703335174144",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DXxiTTRVAAAnYXU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXxiTTRVAAAnYXU.jpg",
+						"url": "https://t.co/2t9toLJGpc",
+						"display_url": "pic.twitter.com/2t9toLJGpc",
+						"expanded_url": "https://twitter.com/winniekwoksays/status/971759711560388610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 937,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 937,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971759703335174100,
+						"id_str": "971759703335174144",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DXxiTTRVAAAnYXU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXxiTTRVAAAnYXU.jpg",
+						"url": "https://t.co/2t9toLJGpc",
+						"display_url": "pic.twitter.com/2t9toLJGpc",
+						"expanded_url": "https://twitter.com/winniekwoksays/status/971759711560388610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 937,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 937,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4786315828,
+				"id_str": "4786315828",
+				"name": "Winnie Kwok",
+				"screen_name": "winniekwoksays",
+				"location": "Washington, DC",
+				"description": "Helping educators connect & engage @DiscoveryED. Former Corgi Lover @TrackMaven. Love sunsets, brunch, and naps. #MarylandTerps alum.\n(All opinions my own.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 188,
+				"friends_count": 613,
+				"listed_count": 7,
+				"created_at": "Tue Jan 12 17:37:14 +0000 2016",
+				"favourites_count": 3023,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687844423489687552/oftyEyFw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687844423489687552/oftyEyFw_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 14:17:06 +0000 2018",
 		"id": 971751667946451000,
 		"id_str": "971751667946450944",
