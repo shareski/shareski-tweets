@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 21:57:37 +0000 2018",
+		"id": 983826358882025500,
+		"id_str": "983826358882025472",
+		"text": "This is funny. https://t.co/U48Caa5if9 https://t.co/E2aDCOkXGw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U48Caa5if9",
+					"expanded_url": "http://shareski.ca/y/catfishing",
+					"display_url": "shareski.ca/y/catfishing",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/E2aDCOkXGw",
+					"expanded_url": "https://twitter.com/NevSchulman/status/983802391039442944",
+					"display_url": "twitter.com/NevSchulman/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37306,
+			"friends_count": 6702,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 657,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 983802391039443000,
+		"quoted_status_id_str": "983802391039442944",
+		"quoted_status": {
+			"created_at": "Tue Apr 10 20:22:22 +0000 2018",
+			"id": 983802391039443000,
+			"id_str": "983802391039442944",
+			"text": "#Zuckerberg: “You’re not allowed to have fake profiles on Facebook.”\n\nMe: 😂",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Zuckerberg",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 165552004,
+				"id_str": "165552004",
+				"name": "Nev Schulman",
+				"screen_name": "NevSchulman",
+				"location": "",
+				"description": "☝🏼 It's pronounced Neeev - Host @catfishmtv - Writer @attn - In love with @LauraPerlongo snapchat/instagram/facebook: nevschulman",
+				"url": "https://t.co/AO7iADEbrf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AO7iADEbrf",
+								"expanded_url": "http://www.nevschulman.com",
+								"display_url": "nevschulman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1150469,
+				"friends_count": 430,
+				"listed_count": 1533,
+				"created_at": "Sun Jul 11 22:45:28 +0000 2010",
+				"favourites_count": 13209,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4280,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/184714433/Grass.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/184714433/Grass.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837353903339470849/XQnDJXzB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837353903339470849/XQnDJXzB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165552004/1515021029",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2609,
+			"favorite_count": 11068,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 10 20:04:05 +0000 2018",
 		"id": 983797789254672400,
 		"id_str": "983797789254672384",
