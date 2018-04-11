@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 11 03:18:10 +0000 2018",
+		"id": 983907029122248700,
+		"id_str": "983907029122248705",
+		"text": "RT @VanCollegeNews: Grade 2s participating in #leaveyoursticksout in support of Humboldt. #HumboldtStrong https://t.co/o1EQqUXTYk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leaveyoursticksout",
+					"indices": [
+						46,
+						65
+					]
+				},
+				{
+					"text": "HumboldtStrong",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VanCollegeNews",
+					"name": "Vancouver College",
+					"id": 1721538320,
+					"id_str": "1721538320",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983760586856063000,
+					"id_str": "983760586856062976",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+					"url": "https://t.co/o1EQqUXTYk",
+					"display_url": "pic.twitter.com/o1EQqUXTYk",
+					"expanded_url": "https://twitter.com/VanCollegeNews/status/983761117909434368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1512,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983761117909434400,
+					"source_status_id_str": "983761117909434368",
+					"source_user_id": 1721538320,
+					"source_user_id_str": "1721538320"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983760586856063000,
+					"id_str": "983760586856062976",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+					"url": "https://t.co/o1EQqUXTYk",
+					"display_url": "pic.twitter.com/o1EQqUXTYk",
+					"expanded_url": "https://twitter.com/VanCollegeNews/status/983761117909434368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1512,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983761117909434400,
+					"source_status_id_str": "983761117909434368",
+					"source_user_id": 1721538320,
+					"source_user_id_str": "1721538320"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37306,
+			"friends_count": 6703,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 657,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 17:38:22 +0000 2018",
+			"id": 983761117909434400,
+			"id_str": "983761117909434368",
+			"text": "Grade 2s participating in #leaveyoursticksout in support of Humboldt. #HumboldtStrong https://t.co/o1EQqUXTYk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "leaveyoursticksout",
+						"indices": [
+							26,
+							45
+						]
+					},
+					{
+						"text": "HumboldtStrong",
+						"indices": [
+							70,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983760586856063000,
+						"id_str": "983760586856062976",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+						"url": "https://t.co/o1EQqUXTYk",
+						"display_url": "pic.twitter.com/o1EQqUXTYk",
+						"expanded_url": "https://twitter.com/VanCollegeNews/status/983761117909434368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1512,
+								"h": 2016,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983760586856063000,
+						"id_str": "983760586856062976",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DacFCqOV4AAxz3I.jpg",
+						"url": "https://t.co/o1EQqUXTYk",
+						"display_url": "pic.twitter.com/o1EQqUXTYk",
+						"expanded_url": "https://twitter.com/VanCollegeNews/status/983761117909434368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1512,
+								"h": 2016,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1721538320,
+				"id_str": "1721538320",
+				"name": "Vancouver College",
+				"screen_name": "VanCollegeNews",
+				"location": "Vancouver, BC, Canada",
+				"description": "Established in 1922, Vancouver College is the only all boys, independent Catholic school in British Columbia.",
+				"url": "http://t.co/EY3fgF5oRQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EY3fgF5oRQ",
+								"expanded_url": "http://www.vc.bc.ca",
+								"display_url": "vc.bc.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 793,
+				"friends_count": 88,
+				"listed_count": 11,
+				"created_at": "Mon Sep 02 07:30:35 +0000 2013",
+				"favourites_count": 609,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "843179",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065056351/4193ab263bc77ac79c3234bb03da786e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065056351/4193ab263bc77ac79c3234bb03da786e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439081221440540672/bhlSjxGs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439081221440540672/bhlSjxGs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1721538320/1396978878",
+				"profile_link_color": "DAA520",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 11 03:08:27 +0000 2018",
 		"id": 983904584186855400,
 		"id_str": "983904584186855425",
