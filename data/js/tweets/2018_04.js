@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 15:43:44 +0000 2018",
+		"id": 990617639545258000,
+		"id_str": "990617639545257984",
+		"text": "RT @cjmarczak: Thank You @DiscoveryEd for investing in @MauryCoSchools teachers!  @rwarren42 @aimeectait @tosstn1975 @TSBATammy @TNedu #gro…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjmarczak",
+					"name": "Dr. Chris Marczak",
+					"id": 2189886021,
+					"id_str": "2189886021",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "MauryCoSchools",
+					"name": "MauryCoPublicSchools",
+					"id": 4708408600,
+					"id_str": "4708408600",
+					"indices": [
+						55,
+						70
+					]
+				},
+				{
+					"screen_name": "rwarren42",
+					"name": "Rob Warren",
+					"id": 247499959,
+					"id_str": "247499959",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"screen_name": "aimeectait",
+					"name": "Aimee Tait",
+					"id": 281267537,
+					"id_str": "281267537",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "tosstn1975",
+					"name": "TOSS",
+					"id": 3957361335,
+					"id_str": "3957361335",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"screen_name": "TSBATammy",
+					"name": "Tammy",
+					"id": 97744061,
+					"id_str": "97744061",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "TNedu",
+					"name": "TN Dept of Education",
+					"id": 188060534,
+					"id_str": "188060534",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37384,
+			"friends_count": 6727,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 29 02:21:26 +0000 2018",
+			"id": 990415731253809200,
+			"id_str": "990415731253809153",
+			"text": "Thank You @DiscoveryEd for investing in @MauryCoSchools teachers!  @rwarren42 @aimeectait @tosstn1975 @TSBATammy… https://t.co/BD98d4yNdf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"screen_name": "MauryCoSchools",
+						"name": "MauryCoPublicSchools",
+						"id": 4708408600,
+						"id_str": "4708408600",
+						"indices": [
+							40,
+							55
+						]
+					},
+					{
+						"screen_name": "rwarren42",
+						"name": "Rob Warren",
+						"id": 247499959,
+						"id_str": "247499959",
+						"indices": [
+							67,
+							77
+						]
+					},
+					{
+						"screen_name": "aimeectait",
+						"name": "Aimee Tait",
+						"id": 281267537,
+						"id_str": "281267537",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"screen_name": "tosstn1975",
+						"name": "TOSS",
+						"id": 3957361335,
+						"id_str": "3957361335",
+						"indices": [
+							90,
+							101
+						]
+					},
+					{
+						"screen_name": "TSBATammy",
+						"name": "Tammy",
+						"id": 97744061,
+						"id_str": "97744061",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BD98d4yNdf",
+						"expanded_url": "https://twitter.com/i/web/status/990415731253809153",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2189886021,
+				"id_str": "2189886021",
+				"name": "Dr. Chris Marczak",
+				"screen_name": "cjmarczak",
+				"location": "Columbia, TN",
+				"description": "Superintendent of Schools, Maury County Public Schools; Adjunct Professor Trevecca Nazarene & Lipscomb University; Governor Peay; NSBA '20 to Watch' 2017",
+				"url": "https://t.co/cBkFBNpyVL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cBkFBNpyVL",
+								"expanded_url": "http://www.mauryk12.org",
+								"display_url": "mauryk12.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7366,
+				"friends_count": 1447,
+				"listed_count": 223,
+				"created_at": "Thu Nov 21 12:58:23 +0000 2013",
+				"favourites_count": 17605,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19445,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952041364929302530/D0XgrcRj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952041364929302530/D0XgrcRj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2189886021/1515819325",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "25e3e6ab4a0452ec",
+				"url": "https://api.twitter.com/1.1/geo/id/25e3e6ab4a0452ec.json",
+				"place_type": "city",
+				"name": "Columbia",
+				"full_name": "Columbia, TN",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.140081,
+								35.571743
+							],
+							[
+								-86.954623,
+								35.571743
+							],
+							[
+								-86.954623,
+								35.701884
+							],
+							[
+								-87.140081,
+								35.701884
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 15:28:42 +0000 2018",
+		"id": 990613857495171100,
+		"id_str": "990613857495171072",
+		"text": "@SusanCampo @aforgrave @cogdog Nope. My issue is with the wifi toggle button.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SusanCampo",
+					"name": "Susan Campo",
+					"id": 38973451,
+					"id_str": "38973451",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "aforgrave",
+					"name": "☻ Andrew Forgrave",
+					"id": 15282466,
+					"id_str": "15282466",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 990553185960915000,
+		"in_reply_to_status_id_str": "990553185960914944",
+		"in_reply_to_user_id": 38973451,
+		"in_reply_to_user_id_str": "38973451",
+		"in_reply_to_screen_name": "SusanCampo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37384,
+			"friends_count": 6727,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 29 00:33:46 +0000 2018",
 		"id": 990388638440505300,
 		"id_str": "990388638440505344",
