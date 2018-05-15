@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 15 02:37:44 +0000 2018",
+		"id": 996218041464696800,
+		"id_str": "996218041464696833",
+		"text": "Love what these ladies do! @DiscoveryEd https://t.co/XLyTdJuvv1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XLyTdJuvv1",
+					"expanded_url": "https://twitter.com/JennETatum/status/996204383821094912",
+					"display_url": "twitter.com/JennETatum/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37462,
+			"friends_count": 6745,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113030,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 996204383821094900,
+		"quoted_status_id_str": "996204383821094912",
+		"quoted_status": {
+			"created_at": "Tue May 15 01:43:28 +0000 2018",
+			"id": 996204383821094900,
+			"id_str": "996204383821094912",
+			"text": "DE Motivator Monday Episode 11 Smashup: #SpotlightOnStrategies @DiscoveryEd @BuncombeSchools @Fagan5th #DENLC #DEPD https://t.co/tbCBOugyN2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpotlightOnStrategies",
+						"indices": [
+							40,
+							62
+						]
+					},
+					{
+						"text": "DENLC",
+						"indices": [
+							103,
+							109
+						]
+					},
+					{
+						"text": "DEPD",
+						"indices": [
+							110,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"screen_name": "BuncombeSchools",
+						"name": "Buncombe Schools",
+						"id": 462539577,
+						"id_str": "462539577",
+						"indices": [
+							76,
+							92
+						]
+					},
+					{
+						"screen_name": "Fagan5th",
+						"name": "EFagan",
+						"id": 429776800,
+						"id_str": "429776800",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 996203507328979000,
+						"id_str": "996203507328978944",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/996203507328978944/pu/img/rkLMLvvNPPI1Czrf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/996203507328978944/pu/img/rkLMLvvNPPI1Czrf.jpg",
+						"url": "https://t.co/tbCBOugyN2",
+						"display_url": "pic.twitter.com/tbCBOugyN2",
+						"expanded_url": "https://twitter.com/JennETatum/status/996204383821094912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 996203507328979000,
+						"id_str": "996203507328978944",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/996203507328978944/pu/img/rkLMLvvNPPI1Czrf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/996203507328978944/pu/img/rkLMLvvNPPI1Czrf.jpg",
+						"url": "https://t.co/tbCBOugyN2",
+						"display_url": "pic.twitter.com/tbCBOugyN2",
+						"expanded_url": "https://twitter.com/JennETatum/status/996204383821094912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 57832,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/996203507328978944/pu/vid/1280x720/aGIpXaFAXY7nT7-2.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/996203507328978944/pu/vid/640x360/GIbKHGgff6lWM2hZ.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/996203507328978944/pu/pl/ZTTX9ORNGRjv4LIn.m3u8?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/996203507328978944/pu/vid/320x180/ivumogkX43s48rsP.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1669381963,
+				"id_str": "1669381963",
+				"name": "Jennifer Tatum, NBCT",
+				"screen_name": "JennETatum",
+				"location": "",
+				"description": "Grade 5 Teach|MA Instructional Tech|BEST Presenter|DEN Ambassador|DENSI 2017",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61,
+				"friends_count": 79,
+				"listed_count": 1,
+				"created_at": "Wed Aug 14 03:06:51 +0000 2013",
+				"favourites_count": 209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897589857068998656/5fDKjU3Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897589857068998656/5fDKjU3Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1669381963/1497750868",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 15 01:28:13 +0000 2018",
 		"id": 996200545705758700,
 		"id_str": "996200545705758720",
