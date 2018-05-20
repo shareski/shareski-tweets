@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 20 01:00:28 +0000 2018",
+		"id": 998005504432459800,
+		"id_str": "998005504432459776",
+		"text": "@TopKnotsNLattes I've got a couple of moves for that https://t.co/39m9kBZE4M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TopKnotsNLattes",
+					"name": "Lauren Taylor",
+					"id": 2269398338,
+					"id_str": "2269398338",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 998005488510894100,
+					"id_str": "998005488510894080",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdmgtEKVAAAVFIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdmgtEKVAAAVFIW.jpg",
+					"url": "https://t.co/39m9kBZE4M",
+					"display_url": "pic.twitter.com/39m9kBZE4M",
+					"expanded_url": "https://twitter.com/shareski/status/998005504432459776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998005488510894100,
+					"id_str": "998005488510894080",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdmgtEKVAAAVFIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdmgtEKVAAAVFIW.jpg",
+					"url": "https://t.co/39m9kBZE4M",
+					"display_url": "pic.twitter.com/39m9kBZE4M",
+					"expanded_url": "https://twitter.com/shareski/status/998005504432459776/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdmgtEKVAAAVFIW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 998002949178740700,
+		"in_reply_to_status_id_str": "998002949178740736",
+		"in_reply_to_user_id": 2269398338,
+		"in_reply_to_user_id_str": "2269398338",
+		"in_reply_to_screen_name": "TopKnotsNLattes",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37509,
+			"friends_count": 6759,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 20 00:42:29 +0000 2018",
+		"id": 998000977180586000,
+		"id_str": "998000977180585985",
+		"text": "@bluebomber6 @gsiemens can I interest either of you? https://t.co/t0rAHs2XG6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluebomber6",
+					"name": "Jeff Hoeppner",
+					"id": 301855786,
+					"id_str": "301855786",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 998000970146566100,
+					"id_str": "998000970146566144",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DdmcmD8U0AAvYe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdmcmD8U0AAvYe6.jpg",
+					"url": "https://t.co/t0rAHs2XG6",
+					"display_url": "pic.twitter.com/t0rAHs2XG6",
+					"expanded_url": "https://twitter.com/shareski/status/998000977180585985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998000970146566100,
+					"id_str": "998000970146566144",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DdmcmD8U0AAvYe6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdmcmD8U0AAvYe6.jpg",
+					"url": "https://t.co/t0rAHs2XG6",
+					"display_url": "pic.twitter.com/t0rAHs2XG6",
+					"expanded_url": "https://twitter.com/shareski/status/998000977180585985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 301855786,
+		"in_reply_to_user_id_str": "301855786",
+		"in_reply_to_screen_name": "bluebomber6",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37509,
+			"friends_count": 6759,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 20 00:37:35 +0000 2018",
+		"id": 997999744495603700,
+		"id_str": "997999744495603712",
+		"text": "@TopKnotsNLattes  https://t.co/TU2TkXmnKi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TopKnotsNLattes",
+					"name": "Lauren Taylor",
+					"id": 2269398338,
+					"id_str": "2269398338",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997999738044624900,
+					"id_str": "997999738044624897",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdmbeWAVMAEjzpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdmbeWAVMAEjzpg.jpg",
+					"url": "https://t.co/TU2TkXmnKi",
+					"display_url": "pic.twitter.com/TU2TkXmnKi",
+					"expanded_url": "https://twitter.com/shareski/status/997999744495603712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997999738044624900,
+					"id_str": "997999738044624897",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdmbeWAVMAEjzpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdmbeWAVMAEjzpg.jpg",
+					"url": "https://t.co/TU2TkXmnKi",
+					"display_url": "pic.twitter.com/TU2TkXmnKi",
+					"expanded_url": "https://twitter.com/shareski/status/997999744495603712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 234,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							39
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdmbeWAVMAEjzpg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 997995504243040300,
+		"in_reply_to_status_id_str": "997995504243040256",
+		"in_reply_to_user_id": 2269398338,
+		"in_reply_to_user_id_str": "2269398338",
+		"in_reply_to_screen_name": "TopKnotsNLattes",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Building community for @DiscoveryED . Founder of #napchat FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37509,
+			"friends_count": 6759,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Saskatchewan",
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5436963/twitterback.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat May 19 22:34:05 +0000 2018",
 		"id": 997968664631697400,
 		"id_str": "997968664631697413",
