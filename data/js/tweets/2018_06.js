@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 00:42:55 +0000 2018",
+		"id": 1003436905579638800,
+		"id_str": "1003436905579638784",
+		"text": "This looks fun. https://t.co/uJD8vspckR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uJD8vspckR",
+					"expanded_url": "https://twitter.com/matthew_arend/status/1000363768457637888",
+					"display_url": "twitter.com/matthew_arend/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37651,
+			"friends_count": 6768,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1000363768457637900,
+		"quoted_status_id_str": "1000363768457637888",
+		"quoted_status": {
+			"created_at": "Sat May 26 13:11:22 +0000 2018",
+			"id": 1000363768457637900,
+			"id_str": "1000363768457637888",
+			"text": "Welcome to the 3rd Annual #SummerSelfieBingo Challenge! https://t.co/rG7JQYMTnS #culutre #leadership https://t.co/VlMio3BgJk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SummerSelfieBingo",
+						"indices": [
+							26,
+							44
+						]
+					},
+					{
+						"text": "culutre",
+						"indices": [
+							80,
+							88
+						]
+					},
+					{
+						"text": "leadership",
+						"indices": [
+							89,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rG7JQYMTnS",
+						"expanded_url": "http://matthewarend.com/2018/05/26/still-building/",
+						"display_url": "matthewarend.com/2018/05/26/sti…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1000363763772489700,
+						"id_str": "1000363763772489729",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DeIBiwHVAAEHyFt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeIBiwHVAAEHyFt.jpg",
+						"url": "https://t.co/VlMio3BgJk",
+						"display_url": "pic.twitter.com/VlMio3BgJk",
+						"expanded_url": "https://twitter.com/matthew_arend/status/1000363768457637888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000363763772489700,
+						"id_str": "1000363763772489729",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DeIBiwHVAAEHyFt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeIBiwHVAAEHyFt.jpg",
+						"url": "https://t.co/VlMio3BgJk",
+						"display_url": "pic.twitter.com/VlMio3BgJk",
+						"expanded_url": "https://twitter.com/matthew_arend/status/1000363768457637888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156417523,
+				"id_str": "156417523",
+				"name": "Matthew Arend",
+				"screen_name": "matthew_arend",
+				"location": "Mckinney, TX",
+				"description": "Christian, husband, father, principal of #SiglerNation creating opportunities & experiences for all students. Marathoner & triathlete (once) #schoolsisasnap",
+				"url": "https://t.co/T9mTk8OS6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T9mTk8OS6c",
+								"expanded_url": "http://about.me/matthewarend",
+								"display_url": "about.me/matthewarend",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9724,
+				"friends_count": 2992,
+				"listed_count": 427,
+				"created_at": "Wed Jun 16 22:15:38 +0000 2010",
+				"favourites_count": 17381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42091,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788570071874404353/POKoyt2R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788570071874404353/POKoyt2R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156417523/1496948890",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 03 17:59:20 +0000 2018",
 		"id": 1003335338520137700,
 		"id_str": "1003335338520137728",
