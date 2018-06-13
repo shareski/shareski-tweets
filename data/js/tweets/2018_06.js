@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 13 13:09:03 +0000 2018",
+		"id": 1006886167176884200,
+		"id_str": "1006886167176884226",
+		"text": "But If I had both nights I get 8 hours. https://t.co/dkglPdRa7a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006886162718339100,
+					"id_str": "1006886162718339073",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DfktoVoVMAE6YeN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfktoVoVMAE6YeN.jpg",
+					"url": "https://t.co/dkglPdRa7a",
+					"display_url": "pic.twitter.com/dkglPdRa7a",
+					"expanded_url": "https://twitter.com/shareski/status/1006886167176884226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006886162718339100,
+					"id_str": "1006886162718339073",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DfktoVoVMAE6YeN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfktoVoVMAE6YeN.jpg",
+					"url": "https://t.co/dkglPdRa7a",
+					"display_url": "pic.twitter.com/dkglPdRa7a",
+					"expanded_url": "https://twitter.com/shareski/status/1006886167176884226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 383,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1006886162781229000,
+					"id_str": "1006886162781229059",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DfktoV3U0AM3GpC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfktoV3U0AM3GpC.jpg",
+					"url": "https://t.co/dkglPdRa7a",
+					"display_url": "pic.twitter.com/dkglPdRa7a",
+					"expanded_url": "https://twitter.com/shareski/status/1006886167176884226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1006886160436613100,
+		"in_reply_to_status_id_str": "1006886160436613121",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37729,
+			"friends_count": 6779,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 13 13:09:02 +0000 2018",
+		"id": 1006886160436613100,
+		"id_str": "1006886160436613121",
+		"text": "https://t.co/CPGe6e3J3Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006886156489781200,
+					"id_str": "1006886156489781254",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfktn-bU8AYWNUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfktn-bU8AYWNUE.jpg",
+					"url": "https://t.co/CPGe6e3J3Q",
+					"display_url": "pic.twitter.com/CPGe6e3J3Q",
+					"expanded_url": "https://twitter.com/shareski/status/1006886160436613121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006886156489781200,
+					"id_str": "1006886156489781254",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfktn-bU8AYWNUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfktn-bU8AYWNUE.jpg",
+					"url": "https://t.co/CPGe6e3J3Q",
+					"display_url": "pic.twitter.com/CPGe6e3J3Q",
+					"expanded_url": "https://twitter.com/shareski/status/1006886160436613121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37729,
+			"friends_count": 6779,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jun 13 12:21:52 +0000 2018",
+		"id": 1006874291525148700,
+		"id_str": "1006874291525148672",
+		"text": "@LisaRead I’ll be wearing pants and everything",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LisaRead",
+					"name": "|*LisaRead*|",
+					"id": 17010143,
+					"id_str": "17010143",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1006768354974158800,
+		"in_reply_to_status_id_str": "1006768354974158854",
+		"in_reply_to_user_id": 17010143,
+		"in_reply_to_user_id_str": "17010143",
+		"in_reply_to_screen_name": "LisaRead",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37729,
+			"friends_count": 6779,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 12 22:31:18 +0000 2018",
 		"id": 1006665273657749500,
 		"id_str": "1006665273657749505",
