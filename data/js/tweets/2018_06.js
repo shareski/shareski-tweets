@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 14 00:11:59 +0000 2018",
+		"id": 1007052996415348700,
+		"id_str": "1007052996415348736",
+		"text": "Great to hear the #sd79learn story https://t.co/mgWZlXaNdl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd79learn",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mgWZlXaNdl",
+					"expanded_url": "https://twitter.com/lisaread/status/1007031657235296256",
+					"display_url": "twitter.com/lisaread/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37741,
+			"friends_count": 6782,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1007031657235296300,
+		"quoted_status_id_str": "1007031657235296256",
+		"quoted_status": {
+			"created_at": "Wed Jun 13 22:47:11 +0000 2018",
+			"id": 1007031657235296300,
+			"id_str": "1007031657235296256",
+			"text": "Hey! Thanks for visiting @shareski and @JasonBuccheri #sd79learn  #discoveryEd https://t.co/fFTwMqdBWn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sd79learn",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"text": "discoveryEd",
+						"indices": [
+							66,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"screen_name": "JasonBuccheri",
+						"name": "Jason J. Buccheri",
+						"id": 292741552,
+						"id_str": "292741552",
+						"indices": [
+							39,
+							53
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1007031656065056800,
+						"id_str": "1007031656065056768",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfmx9KlUwAAh3dp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfmx9KlUwAAh3dp.jpg",
+						"url": "https://t.co/fFTwMqdBWn",
+						"display_url": "pic.twitter.com/fFTwMqdBWn",
+						"expanded_url": "https://twitter.com/LisaRead/status/1007031657235296256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1007031656065056800,
+						"id_str": "1007031656065056768",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfmx9KlUwAAh3dp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfmx9KlUwAAh3dp.jpg",
+						"url": "https://t.co/fFTwMqdBWn",
+						"display_url": "pic.twitter.com/fFTwMqdBWn",
+						"expanded_url": "https://twitter.com/LisaRead/status/1007031657235296256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17010143,
+				"id_str": "17010143",
+				"name": "|*LisaRead*|",
+				"screen_name": "LisaRead",
+				"location": "Vancouver Island",
+				"description": "Teacher, mommy, friend, creatively manic",
+				"url": "https://t.co/uNpjAPBWuI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uNpjAPBWuI",
+								"expanded_url": "http://readlisaread.edublogs.org/",
+								"display_url": "readlisaread.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 970,
+				"friends_count": 877,
+				"listed_count": 61,
+				"created_at": "Mon Oct 27 23:48:20 +0000 2008",
+				"favourites_count": 3472,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7842,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997490104032636928/8ie4bRdY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997490104032636928/8ie4bRdY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17010143/1397003173",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 13 21:27:13 +0000 2018",
 		"id": 1007011534407491600,
 		"id_str": "1007011534407491584",
