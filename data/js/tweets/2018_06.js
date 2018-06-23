@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 19:17:07 +0000 2018",
+		"id": 1010602672142061600,
+		"id_str": "1010602672142061568",
+		"text": "RT @DaneSadownyk: Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey @johnkor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "trisharoffey",
+					"name": "Trisha Roffey",
+					"id": 459903904,
+					"id_str": "459903904",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8PWBVzKeB",
+					"expanded_url": "https://conference.iste.org/2018/program/search/detail_session.php?id=110815594",
+					"display_url": "conference.iste.org/2018/program/s…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37785,
+			"friends_count": 6799,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 13:58:09 +0000 2018",
+			"id": 1010522402231668700,
+			"id_str": "1010522402231668736",
+			"text": "Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey… https://t.co/4VxBXrAVPn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "trisharoffey",
+						"name": "Trisha Roffey",
+						"id": 459903904,
+						"id_str": "459903904",
+						"indices": [
+							99,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/E8PWBVzKeB",
+						"expanded_url": "https://conference.iste.org/2018/program/search/detail_session.php?id=110815594",
+						"display_url": "conference.iste.org/2018/program/s…",
+						"indices": [
+							75,
+							98
+						]
+					},
+					{
+						"url": "https://t.co/4VxBXrAVPn",
+						"expanded_url": "https://twitter.com/i/web/status/1010522402231668736",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2401850311,
+				"id_str": "2401850311",
+				"name": "Dane Sadownyk",
+				"screen_name": "DaneSadownyk",
+				"location": "",
+				"description": "Ed Tech Consultant. I enjoy learning and empowering others with their tech goals. Google Cert Level 1 & 2, DENny Award Winner, DEN Star. #yeg #ECSD CAN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 540,
+				"friends_count": 537,
+				"listed_count": 44,
+				"created_at": "Fri Mar 21 16:47:43 +0000 2014",
+				"favourites_count": 659,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1068,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2401850311/1449545129",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 23 19:11:51 +0000 2018",
 		"id": 1010601347434143700,
 		"id_str": "1010601347434143747",
