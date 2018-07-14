@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 14 00:01:45 +0000 2018",
+		"id": 1017922060243423200,
+		"id_str": "1017922060243423233",
+		"text": "@tltrieu @dhortonGHM I just threw up in my mouth a little.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tltrieu",
+					"name": "Tu Loan Trieu",
+					"id": 388679034,
+					"id_str": "388679034",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dhortonGHM",
+					"name": "Dexter Horton",
+					"id": 336039567,
+					"id_str": "336039567",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1017913459076411400,
+		"in_reply_to_status_id_str": "1017913459076411393",
+		"in_reply_to_user_id": 388679034,
+		"in_reply_to_user_id_str": "388679034",
+		"in_reply_to_screen_name": "tltrieu",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37419,
+			"friends_count": 6829,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 13 23:20:14 +0000 2018",
+		"id": 1017911609707126800,
+		"id_str": "1017911609707126789",
+		"text": "That group is way too good looking for me. Well everyone except @dhortonGHM https://t.co/0mNVjb8U4b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dhortonGHM",
+					"name": "Dexter Horton",
+					"id": 336039567,
+					"id_str": "336039567",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0mNVjb8U4b",
+					"expanded_url": "https://twitter.com/tltrieu/status/1017910916166414338",
+					"display_url": "twitter.com/tltrieu/status…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37419,
+			"friends_count": 6829,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1017910916166414300,
+		"quoted_status_id_str": "1017910916166414338",
+		"quoted_status": {
+			"created_at": "Fri Jul 13 23:17:28 +0000 2018",
+			"id": 1017910916166414300,
+			"id_str": "1017910916166414338",
+			"text": "#Canadian representation at #DENSI2018 @DiscoveryEd where are you @shareski ?! @dhortonGHM @MiKEHAiRE @AbbotsfordSD… https://t.co/szymKuY7yD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Canadian",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "DENSI2018",
+						"indices": [
+							28,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							39,
+							51
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							66,
+							75
+						]
+					},
+					{
+						"screen_name": "dhortonGHM",
+						"name": "Dexter Horton",
+						"id": 336039567,
+						"id_str": "336039567",
+						"indices": [
+							79,
+							90
+						]
+					},
+					{
+						"screen_name": "MiKEHAiRE",
+						"name": "Mike Haire",
+						"id": 25073272,
+						"id_str": "25073272",
+						"indices": [
+							91,
+							101
+						]
+					},
+					{
+						"screen_name": "AbbotsfordSD",
+						"name": "Abbotsford Schools",
+						"id": 70832268,
+						"id_str": "70832268",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/szymKuY7yD",
+						"expanded_url": "https://twitter.com/i/web/status/1017910916166414338",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 388679034,
+				"id_str": "388679034",
+				"name": "Tu Loan Trieu",
+				"screen_name": "tltrieu",
+				"location": "Vancouver",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174,
+				"friends_count": 155,
+				"listed_count": 6,
+				"created_at": "Tue Oct 11 04:48:40 +0000 2011",
+				"favourites_count": 594,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/594657495957708800/HTaKfsqK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/594657495957708800/HTaKfsqK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/388679034/1414159239",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 13 21:53:33 +0000 2018",
 		"id": 1017889797229211600,
 		"id_str": "1017889797229211648",
