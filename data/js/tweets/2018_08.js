@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 15:07:05 +0000 2018",
+		"id": 1027209590793023500,
+		"id_str": "1027209590793023488",
+		"text": "@brynmw @wmchamberlain I've seen Pink's reference to this before but have not looked deeply at it. https://t.co/o7UC4c3mwE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brynmw",
+					"name": "Bryn Morgan Williams",
+					"id": 55373712,
+					"id_str": "55373712",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "wmchamberlain",
+					"name": "William Chamberlain",
+					"id": 10314482,
+					"id_str": "10314482",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o7UC4c3mwE",
+					"expanded_url": "https://www.scientificamerican.com/article/timing-is-everything1/",
+					"display_url": "scientificamerican.com/article/timing…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1027209219211030500,
+		"in_reply_to_status_id_str": "1027209219211030528",
+		"in_reply_to_user_id": 55373712,
+		"in_reply_to_user_id_str": "55373712",
+		"in_reply_to_screen_name": "brynmw",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37595,
+			"friends_count": 6882,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 08 14:59:24 +0000 2018",
+		"id": 1027207656732352500,
+		"id_str": "1027207656732352512",
+		"text": "@amandacdykes @michellek107 That Carry on Song by Fun. That's new right?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "michellek107",
+					"name": "Michelle Baldwin",
+					"id": 14528703,
+					"id_str": "14528703",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16285501,
+		"in_reply_to_user_id_str": "16285501",
+		"in_reply_to_screen_name": "amandacdykes",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37595,
+			"friends_count": 6882,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 08 14:50:47 +0000 2018",
+		"id": 1027205489183088600,
+		"id_str": "1027205489183088640",
+		"text": "The research is interesting. The fact it’s linked to test scores is not. Using this to simply increase test scores… https://t.co/tnA3BNexsL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tnA3BNexsL",
+					"expanded_url": "https://twitter.com/i/web/status/1027205489183088640",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37595,
+			"friends_count": 6882,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1027204315784667100,
+		"quoted_status_id_str": "1027204315784667136",
+		"quoted_status": {
+			"created_at": "Wed Aug 08 14:46:08 +0000 2018",
+			"id": 1027204315784667100,
+			"id_str": "1027204315784667136",
+			"text": "Look at the research. Think about our schedule for our kids.  @tneitzke #ensure18 https://t.co/HPXtZSPf3x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ensure18",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tneitzke",
+						"name": "Ted Neitzke IV",
+						"id": 20876619,
+						"id_str": "20876619",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027204297283387400,
+						"id_str": "1027204297283387392",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DkFc3bNUwAATufo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkFc3bNUwAATufo.jpg",
+						"url": "https://t.co/HPXtZSPf3x",
+						"display_url": "pic.twitter.com/HPXtZSPf3x",
+						"expanded_url": "https://twitter.com/sldschultz/status/1027204315784667136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1166,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027204297283387400,
+						"id_str": "1027204297283387392",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DkFc3bNUwAATufo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkFc3bNUwAATufo.jpg",
+						"url": "https://t.co/HPXtZSPf3x",
+						"display_url": "pic.twitter.com/HPXtZSPf3x",
+						"expanded_url": "https://twitter.com/sldschultz/status/1027204315784667136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1166,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1027204297287557100,
+						"id_str": "1027204297287557120",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DkFc3bOUYAAPdIp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkFc3bOUYAAPdIp.jpg",
+						"url": "https://t.co/HPXtZSPf3x",
+						"display_url": "pic.twitter.com/HPXtZSPf3x",
+						"expanded_url": "https://twitter.com/sldschultz/status/1027204315784667136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1343289565,
+				"id_str": "1343289565",
+				"name": "Shannon Schultz",
+				"screen_name": "sldschultz",
+				"location": "Fond du Lac, WI",
+				"description": "mom of two amazing boys (Alex and Max), married to Kevin Schultz, special education instructional coach",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 283,
+				"friends_count": 461,
+				"listed_count": 6,
+				"created_at": "Thu Apr 11 01:41:18 +0000 2013",
+				"favourites_count": 890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897651245929910276/2zUVj6NF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897651245929910276/2zUVj6NF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343289565/1529719881",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9f32055c83001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9f32055c83001.json",
+				"place_type": "poi",
+				"name": "Cardinal Stritch University",
+				"full_name": "Cardinal Stritch University",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.90856712499938,
+								43.139502767763126
+							],
+							[
+								-87.90856712499938,
+								43.139502767763126
+							],
+							[
+								-87.90856712499938,
+								43.139502767763126
+							],
+							[
+								-87.90856712499938,
+								43.139502767763126
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 01:57:33 +0000 2018",
 		"id": 1027010898219753500,
 		"id_str": "1027010898219753473",
