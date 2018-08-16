@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 04:04:26 +0000 2018",
+		"id": 1029941932372488200,
+		"id_str": "1029941932372488192",
+		"text": "I feel like there's some element of \"forced fun\" going on here. cc @srmkennedy https://t.co/2JFBmj0t08",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srmkennedy",
+					"name": "Stephanie Kennedy",
+					"id": 2819811,
+					"id_str": "2819811",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2JFBmj0t08",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1029939059357958145",
+					"display_url": "twitter.com/chrkennedy/sta…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37671,
+			"friends_count": 6898,
+			"listed_count": 1407,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113909,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1029939059357958100,
+		"quoted_status_id_str": "1029939059357958145",
+		"quoted_status": {
+			"created_at": "Thu Aug 16 03:53:01 +0000 2018",
+			"id": 1029939059357958100,
+			"id_str": "1029939059357958145",
+			"text": "Leadership team meeting tonight to get plans in place for @WestVanSchools for the fall.  Yes we are at @White_Spot,… https://t.co/ost5Q6ka4S",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WestVanSchools",
+						"name": "WestVanSchools",
+						"id": 55673055,
+						"id_str": "55673055",
+						"indices": [
+							58,
+							73
+						]
+					},
+					{
+						"screen_name": "White_Spot",
+						"name": "White Spot",
+						"id": 17199858,
+						"id_str": "17199858",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ost5Q6ka4S",
+						"expanded_url": "https://twitter.com/i/web/status/1029939059357958145",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2056741,
+				"id_str": "2056741",
+				"name": "Chris Kennedy",
+				"screen_name": "chrkennedy",
+				"location": "ÜT: 49.120583,-123.165359",
+				"description": "I am the Superintendent of Schools of the West Vancouver School District in British Columbia and serve on the Board of the Canadian Education Association (CEA).",
+				"url": "https://t.co/gp9Rz6Rj2T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gp9Rz6Rj2T",
+								"expanded_url": "http://cultureofyes.ca/",
+								"display_url": "cultureofyes.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11708,
+				"friends_count": 1950,
+				"listed_count": 474,
+				"created_at": "Fri Mar 23 22:00:07 +0000 2007",
+				"favourites_count": 5213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/543463187505369088/RRE5vZZs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/543463187505369088/RRE5vZZs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2056741/1398824805",
+				"profile_link_color": "0900FF",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 15 20:14:52 +0000 2018",
 		"id": 1029823760650518500,
 		"id_str": "1029823760650518528",
