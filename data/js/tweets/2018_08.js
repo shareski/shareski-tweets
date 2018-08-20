@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 20:55:04 +0000 2018",
+		"id": 1031645815490531300,
+		"id_str": "1031645815490531329",
+		"text": "I vaguely remember these. https://t.co/rj1l7DnLcq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rj1l7DnLcq",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1031535497477156864",
+					"display_url": "twitter.com/chrkennedy/sta…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37704,
+			"friends_count": 6913,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1031535497477156900,
+		"quoted_status_id_str": "1031535497477156864",
+		"quoted_status": {
+			"created_at": "Mon Aug 20 13:36:42 +0000 2018",
+			"id": 1031535497477156900,
+			"id_str": "1031535497477156864",
+			"text": "NEW on Culture of Yes - Save Your Books #bced #suptchat  https://t.co/OSVm8yY3w0 https://t.co/LFd5F9VUDG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bced",
+						"indices": [
+							40,
+							45
+						]
+					},
+					{
+						"text": "suptchat",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OSVm8yY3w0",
+						"expanded_url": "https://cultureofyes.ca/2018/08/20/save-your-books/",
+						"display_url": "cultureofyes.ca/2018/08/20/sav…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1031535464040128500,
+						"id_str": "1031535464040128512",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DlDACgtUYAAlq1X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlDACgtUYAAlq1X.jpg",
+						"url": "https://t.co/LFd5F9VUDG",
+						"display_url": "pic.twitter.com/LFd5F9VUDG",
+						"expanded_url": "https://twitter.com/chrkennedy/status/1031535497477156864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1028,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1362,
+								"h": 1590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031535464040128500,
+						"id_str": "1031535464040128512",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DlDACgtUYAAlq1X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlDACgtUYAAlq1X.jpg",
+						"url": "https://t.co/LFd5F9VUDG",
+						"display_url": "pic.twitter.com/LFd5F9VUDG",
+						"expanded_url": "https://twitter.com/chrkennedy/status/1031535497477156864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1028,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1362,
+								"h": 1590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2056741,
+				"id_str": "2056741",
+				"name": "Chris Kennedy",
+				"screen_name": "chrkennedy",
+				"location": "ÜT: 49.120583,-123.165359",
+				"description": "I am the Superintendent of Schools of the West Vancouver School District in British Columbia and serve on the Board of the Canadian Education Association (CEA).",
+				"url": "https://t.co/gp9Rz6Rj2T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gp9Rz6Rj2T",
+								"expanded_url": "http://cultureofyes.ca/",
+								"display_url": "cultureofyes.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11718,
+				"friends_count": 1952,
+				"listed_count": 474,
+				"created_at": "Fri Mar 23 22:00:07 +0000 2007",
+				"favourites_count": 5228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8714,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/543463187505369088/RRE5vZZs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/543463187505369088/RRE5vZZs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2056741/1398824805",
+				"profile_link_color": "0900FF",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 20 19:34:55 +0000 2018",
 		"id": 1031625647406297100,
 		"id_str": "1031625647406297091",
