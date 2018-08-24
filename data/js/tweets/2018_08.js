@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 24 22:23:06 +0000 2018",
+		"id": 1033117523451867100,
+		"id_str": "1033117523451867136",
+		"text": "Nothing to see here. Just a tiger drinking out of the faucet https://t.co/8HcNUbBYlq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8HcNUbBYlq",
+					"expanded_url": "https://twitter.com/amazlngnature/status/1033116174756663296",
+					"display_url": "twitter.com/amazlngnature/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37729,
+			"friends_count": 6915,
+			"listed_count": 1407,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1033116174756663300,
+		"quoted_status_id_str": "1033116174756663296",
+		"quoted_status": {
+			"created_at": "Fri Aug 24 22:17:45 +0000 2018",
+			"id": 1033116174756663300,
+			"id_str": "1033116174756663296",
+			"text": "Normal day in Russia https://t.co/IMLNnmlv7n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033116106574032900,
+						"id_str": "1033116106574032896",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033116106574032896/pu/img/Pc-Vrc8GcZlyNBtn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033116106574032896/pu/img/Pc-Vrc8GcZlyNBtn.jpg",
+						"url": "https://t.co/IMLNnmlv7n",
+						"display_url": "pic.twitter.com/IMLNnmlv7n",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1033116174756663296/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033116106574032900,
+						"id_str": "1033116106574032896",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1033116106574032896/pu/img/Pc-Vrc8GcZlyNBtn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1033116106574032896/pu/img/Pc-Vrc8GcZlyNBtn.jpg",
+						"url": "https://t.co/IMLNnmlv7n",
+						"display_url": "pic.twitter.com/IMLNnmlv7n",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1033116174756663296/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 17769,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033116106574032896/pu/vid/360x450/QWcQLawqOCH1uryc.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033116106574032896/pu/vid/180x224/YE9RhDJs5AL79RlA.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1033116106574032896/pu/pl/yJ7-dNfqGXGWY1hF.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1033116106574032896/pu/vid/640x800/iHayxiWGXo1wuc8w.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828212668,
+				"id_str": "2828212668",
+				"name": "Nature is Amazing 🌴",
+				"screen_name": "AMAZlNGNATURE",
+				"location": "🌍",
+				"description": "Animals 🐆 Nature 🐠 Discovery 🌋          ©Photos/Videos belong to credited owners  \n    *we own no content posted*    DM for credit/removal",
+				"url": "https://t.co/aD7MSH7D3N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aD7MSH7D3N",
+								"expanded_url": "http://Instagram.com/amaziingnature",
+								"display_url": "Instagram.com/amaziingnature",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738188,
+				"friends_count": 6,
+				"listed_count": 3729,
+				"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1523314160",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 926,
+			"favorite_count": 2696,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 24 18:32:48 +0000 2018",
 		"id": 1033059566747930600,
 		"id_str": "1033059566747930624",
