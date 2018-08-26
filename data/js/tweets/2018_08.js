@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 26 01:14:11 +0000 2018",
+		"id": 1033522963298046000,
+		"id_str": "1033522963298045952",
+		"text": "She made me go see it. (@ Rainbow Cinemas - @rainbowyqr in Regina, SK) https://t.co/x3nJPXinKM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rainbowyqr",
+					"name": "Rainbow Cinemas",
+					"id": 1463192916,
+					"id_str": "1463192916",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x3nJPXinKM",
+					"expanded_url": "https://www.swarmapp.com/c/43Tx889BfQj",
+					"display_url": "swarmapp.com/c/43Tx889BfQj",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37748,
+			"friends_count": 6918,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.41725516,
+				-104.62031364
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-104.62031364,
+				50.41725516
+			]
+		},
+		"place": {
+			"id": "2c1be03622fe39b8",
+			"url": "https://api.twitter.com/1.1/geo/id/2c1be03622fe39b8.json",
+			"place_type": "city",
+			"name": "Regina",
+			"full_name": "Regina, Saskatchewan",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.778398,
+							50.39659
+						],
+						[
+							-104.50339,
+							50.39659
+						],
+						[
+							-104.50339,
+							50.513682
+						],
+						[
+							-104.778398,
+							50.513682
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 20:21:18 +0000 2018",
 		"id": 1033449259222351900,
 		"id_str": "1033449259222351872",
