@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 12 23:50:25 +0000 2018",
+		"id": 1040024867683356700,
+		"id_str": "1040024867683356673",
+		"text": "@garystager That's a great tweet to write a blog post or article on if you haven't already.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garystager",
+					"name": "Gary Stager, Ph.D.",
+					"id": 8870632,
+					"id_str": "8870632",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1040024067846197200,
+		"in_reply_to_status_id_str": "1040024067846197248",
+		"in_reply_to_user_id": 8870632,
+		"in_reply_to_user_id_str": "8870632",
+		"in_reply_to_screen_name": "garystager",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37860,
+			"friends_count": 6969,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 12 23:39:26 +0000 2018",
+		"id": 1040022101896425500,
+		"id_str": "1040022101896425473",
+		"text": "Pretty much. https://t.co/vCUFmhcdGD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vCUFmhcdGD",
+					"expanded_url": "https://twitter.com/garystager/status/1040021362344058880",
+					"display_url": "twitter.com/garystager/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37860,
+			"friends_count": 6969,
+			"listed_count": 1408,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1040021362344058900,
+		"quoted_status_id_str": "1040021362344058880",
+		"quoted_status": {
+			"created_at": "Wed Sep 12 23:36:30 +0000 2018",
+			"id": 1040021362344058900,
+			"id_str": "1040021362344058880",
+			"text": "@roseteachmaths @stephaniejonesa . Reasons why this \"research\" is nauseating. 1) Defining common decency downward b… https://t.co/qqs4GCobTA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "roseteachmaths",
+						"name": "Rosalie Miller",
+						"id": 892922005560807400,
+						"id_str": "892922005560807429",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "stephaniejonesa",
+						"name": "Stephanie Jones",
+						"id": 375212042,
+						"id_str": "375212042",
+						"indices": [
+							16,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qqs4GCobTA",
+						"expanded_url": "https://twitter.com/i/web/status/1040021362344058880",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1040013726831730700,
+			"in_reply_to_status_id_str": "1040013726831730688",
+			"in_reply_to_user_id": 892922005560807400,
+			"in_reply_to_user_id_str": "892922005560807429",
+			"in_reply_to_screen_name": "roseteachmaths",
+			"user": {
+				"id": 8870632,
+				"id_str": "8870632",
+				"name": "Gary Stager, Ph.D.",
+				"screen_name": "garystager",
+				"location": "iPhone: 33.836876,-118.351767",
+				"description": "Progressive educator, journalist, speaker, university professor – http://stager.tv/blog -Expertise = edtech, 1:1 computing, online teaching, school reform, jazz",
+				"url": "https://t.co/n7beHj1qWh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7beHj1qWh",
+								"expanded_url": "http://www.cmkfutures.com/gary",
+								"display_url": "cmkfutures.com/gary",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23348,
+				"friends_count": 12789,
+				"listed_count": 1316,
+				"created_at": "Fri Sep 14 07:35:56 +0000 2007",
+				"favourites_count": 3711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 12 22:38:26 +0000 2018",
 		"id": 1040006751196594200,
 		"id_str": "1040006751196594176",
