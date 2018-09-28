@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 28 14:38:01 +0000 2018",
+		"id": 1045684054396473300,
+		"id_str": "1045684054396473344",
+		"text": "@mrjtyler @MsLaineAnderson @tammyhartmann @JohnMann08 @davison_carol @lkristmanson @tarazielinski @tyurkowski… https://t.co/MVf5Jf7bE0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjtyler",
+					"name": "John Tyler",
+					"id": 52319551,
+					"id_str": "52319551",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MsLaineAnderson",
+					"name": "Laine Anderson",
+					"id": 2246627882,
+					"id_str": "2246627882",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "tammyhartmann",
+					"name": "Tammy Hartmann",
+					"id": 418293855,
+					"id_str": "418293855",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "JohnMann08",
+					"name": "John Mann",
+					"id": 254384386,
+					"id_str": "254384386",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "davison_carol",
+					"name": "Carol Davison",
+					"id": 30167925,
+					"id_str": "30167925",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "lkristmanson",
+					"name": "Lee Anne Kristmanson",
+					"id": 69157026,
+					"id_str": "69157026",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "tarazielinski",
+					"name": "Tara Zielinski",
+					"id": 238773874,
+					"id_str": "238773874",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "tyurkowski",
+					"name": "Tricia Yurkowski",
+					"id": 101818080,
+					"id_str": "101818080",
+					"indices": [
+						98,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MVf5Jf7bE0",
+					"expanded_url": "https://twitter.com/i/web/status/1045684054396473344",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1045666926674960400,
+		"in_reply_to_status_id_str": "1045666926674960386",
+		"in_reply_to_user_id": 52319551,
+		"in_reply_to_user_id_str": "52319551",
+		"in_reply_to_screen_name": "mrjtyler",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37943,
+			"friends_count": 7035,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 28 05:41:38 +0000 2018",
 		"id": 1045549069509283800,
 		"id_str": "1045549069509283840",
