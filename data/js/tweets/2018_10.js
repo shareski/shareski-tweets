@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 01:26:22 +0000 2018",
+		"id": 1047659158143733800,
+		"id_str": "1047659158143733760",
+		"text": "@jessicajmhall @DiscoveryEd @ecole_PJ @ecole_PJLFI @ecolepjpac @tarazielinski @WestVanSchools @JasonBuccheri @tyurkowski Awesome!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessicajmhall",
+					"name": "Jessica Hall",
+					"id": 491420202,
+					"id_str": "491420202",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "ecole_PJ",
+					"name": "École PJ",
+					"id": 921098942091112400,
+					"id_str": "921098942091112448",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "ecole_PJLFI",
+					"name": "Late French Immersion",
+					"id": 989181530663600100,
+					"id_str": "989181530663600133",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "ecolepjpac",
+					"name": "Ecole PJPAC",
+					"id": 246453301,
+					"id_str": "246453301",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "tarazielinski",
+					"name": "Tara Zielinski",
+					"id": 238773874,
+					"id_str": "238773874",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "WestVanSchools",
+					"name": "WestVanSchools",
+					"id": 55673055,
+					"id_str": "55673055",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"screen_name": "JasonBuccheri",
+					"name": "Jason J. Buccheri",
+					"id": 292741552,
+					"id_str": "292741552",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "tyurkowski",
+					"name": "Tricia Yurkowski",
+					"id": 101818080,
+					"id_str": "101818080",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1047628629985787900,
+		"in_reply_to_status_id_str": "1047628629985787904",
+		"in_reply_to_user_id": 491420202,
+		"in_reply_to_user_id_str": "491420202",
+		"in_reply_to_screen_name": "jessicajmhall",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37994,
+			"friends_count": 7039,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 03 04:15:50 +0000 2018",
 		"id": 1047339418116186100,
 		"id_str": "1047339418116186113",
