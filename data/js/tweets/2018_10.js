@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 09 22:45:52 +0000 2018",
+		"id": 1049793092759498800,
+		"id_str": "1049793092759498754",
+		"text": "Not the first. He seems nice. https://t.co/W7sHqC3ouV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W7sHqC3ouV",
+					"expanded_url": "https://twitter.com/suewaters/status/1049782883831803904",
+					"display_url": "twitter.com/suewaters/stat…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38021,
+			"friends_count": 7042,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1049782883831803900,
+		"quoted_status_id_str": "1049782883831803904",
+		"quoted_status": {
+			"created_at": "Tue Oct 09 22:05:18 +0000 2018",
+			"id": 1049782883831803900,
+			"id_str": "1049782883831803904",
+			"text": "@shareski Is this some one using your photo as their twitter profile pic? https://t.co/B51DpslYWA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049782873195130900,
+						"id_str": "1049782873195130881",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DpGT9hAVsAErQaJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpGT9hAVsAErQaJ.jpg",
+						"url": "https://t.co/B51DpslYWA",
+						"display_url": "pic.twitter.com/B51DpslYWA",
+						"expanded_url": "https://twitter.com/suewaters/status/1049782883831803904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049782873195130900,
+						"id_str": "1049782873195130881",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DpGT9hAVsAErQaJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpGT9hAVsAErQaJ.jpg",
+						"url": "https://t.co/B51DpslYWA",
+						"display_url": "pic.twitter.com/B51DpslYWA",
+						"expanded_url": "https://twitter.com/suewaters/status/1049782883831803904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 5550062,
+				"id_str": "5550062",
+				"name": "Sue Waters",
+				"screen_name": "suewaters",
+				"location": "Perth, Australia ",
+				"description": "Helping others with technology Support Manager - https://t.co/brJ0kMPXnA , https://t.co/uGy9voPPit & WPMU DEV Hosting.Passionate about Ed Tech & WordPress",
+				"url": "http://t.co/J3NwPECp7L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J3NwPECp7L",
+								"expanded_url": "http://theedublogger.com",
+								"display_url": "theedublogger.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/brJ0kMPXnA",
+								"expanded_url": "https://edublogs.org",
+								"display_url": "edublogs.org",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/uGy9voPPit",
+								"expanded_url": "https://campuspress.com/",
+								"display_url": "campuspress.com",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21480,
+				"friends_count": 13013,
+				"listed_count": 1167,
+				"created_at": "Fri Apr 27 10:22:14 +0000 2007",
+				"favourites_count": 636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53721,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798516149767938050/hudCZUpZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798516149767938050/hudCZUpZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5550062/1474358880",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFF0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 09 16:22:34 +0000 2018",
 		"id": 1049696632802082800,
 		"id_str": "1049696632802082817",
