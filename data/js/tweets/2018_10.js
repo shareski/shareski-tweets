@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 16:44:33 +0000 2018",
+		"id": 1050426940803469300,
+		"id_str": "1050426940803469313",
+		"full_text": "I'll bet it was this image that made folks cry. https://t.co/w7R1dgiI7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w7R1dgiI7F",
+					"expanded_url": "https://twitter.com/ZeliaMCT/status/1050421732253884418",
+					"display_url": "twitter.com/ZeliaMCT/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38075,
+			"friends_count": 7043,
+			"listed_count": 1411,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050421732253884400,
+		"quoted_status_id_str": "1050421732253884418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w7R1dgiI7F",
+			"expanded": "https://twitter.com/ZeliaMCT/status/1050421732253884418",
+			"display": "twitter.com/ZeliaMCT/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 11 16:23:51 +0000 2018",
+			"id": 1050421732253884400,
+			"id_str": "1050421732253884418",
+			"full_text": "@shareski @thomascmurray @All4Ed @FutureReady @UTM @voicEdcanada No tickling but Tom brought the room to tears and smiles with his keynote! https://t.co/CekDLLcr1O",
+			"truncated": false,
+			"display_text_range": [
+				65,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "thomascmurray",
+						"name": "Tom Murray",
+						"id": 50447280,
+						"id_str": "50447280",
+						"indices": [
+							10,
+							24
+						]
+					},
+					{
+						"screen_name": "All4Ed",
+						"name": "All4Ed",
+						"id": 140964213,
+						"id_str": "140964213",
+						"indices": [
+							25,
+							32
+						]
+					},
+					{
+						"screen_name": "FutureReady",
+						"name": "Future Ready",
+						"id": 2786883008,
+						"id_str": "2786883008",
+						"indices": [
+							33,
+							45
+						]
+					},
+					{
+						"screen_name": "UTM",
+						"name": "U of T Mississauga",
+						"id": 18922472,
+						"id_str": "18922472",
+						"indices": [
+							46,
+							50
+						]
+					},
+					{
+						"screen_name": "voicEdcanada",
+						"name": "voicEd.ca",
+						"id": 514144436,
+						"id_str": "514144436",
+						"indices": [
+							51,
+							64
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050420927836475400,
+						"id_str": "1050420927836475394",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/DpPYRLxUUAIYrl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpPYRLxUUAIYrl3.jpg",
+						"url": "https://t.co/CekDLLcr1O",
+						"display_url": "pic.twitter.com/CekDLLcr1O",
+						"expanded_url": "https://twitter.com/ZeliaMCT/status/1050421732253884418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050420927836475400,
+						"id_str": "1050420927836475394",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/DpPYRLxUUAIYrl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpPYRLxUUAIYrl3.jpg",
+						"url": "https://t.co/CekDLLcr1O",
+						"display_url": "pic.twitter.com/CekDLLcr1O",
+						"expanded_url": "https://twitter.com/ZeliaMCT/status/1050421732253884418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1050409170460176400,
+			"in_reply_to_status_id_str": "1050409170460176385",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 389467544,
+				"id_str": "389467544",
+				"name": "Zélia",
+				"screen_name": "ZeliaMCT",
+				"location": "bit.ly/ZeliaMCT Class:@McM_MsT @mcmbusinessday",
+				"description": "Artist | Mom | M.Ed. | Hybrid Teacher - Digital Lead @TDSB | #tdsbdll | #MIEExpert | #FDSinnovates Certified | Google Certified Innovator #TOR16",
+				"url": "https://t.co/tNjG83q1H9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tNjG83q1H9",
+								"expanded_url": "http://zeliacapitaotavares.blogspot.ca/",
+								"display_url": "zeliacapitaotavares.blogspot.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2333,
+				"friends_count": 885,
+				"listed_count": 343,
+				"created_at": "Wed Oct 12 13:37:22 +0000 2011",
+				"favourites_count": 12989,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16703,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049747600029704192/ibj861QV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049747600029704192/ibj861QV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389467544/1521595320",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll bet it was this image that made folks cry. https://t.co/w7R1dgiI7F"
+	},
+	{
 		"created_at": "Thu Oct 11 15:33:56 +0000 2018",
 		"id": 1050409170460176400,
 		"id_str": "1050409170460176385",
