@@ -145,6 +145,198 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 375926,
+			"friends_count": 7563,
+			"listed_count": 4904,
+			"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+			"favourites_count": 5581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1539362146",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"How will you, based on your experiences, redefine your issue to create change? How will you encourage students to Become a Defender? #SpeakTruthToPower\nhttps://t.co/vbsIMto4i8\" https://t.co/mYyF44Rr6T"
+	},
+	{
+		"created_at": "Sun Oct 14 20:15:05 +0000 2018",
+		"id": 1051567087829872600,
+		"id_str": "1051567087829872640",
+		"full_text": "\"How will you, based on your experiences, redefine your issue to create change? How will you encourage students to Become a Defender? #SpeakTruthToPower\nhttps://t.co/vbsIMto4i8\" https://t.co/mYyF44Rr6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpeakTruthToPower",
+					"indices": [
+						134,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vbsIMto4i8",
+					"expanded_url": "https://bit.ly/2MDZiZE",
+					"display_url": "bit.ly/2MDZiZE",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051567085787086800,
+					"id_str": "1051567085787086848",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfqsW3VAAAh4UK.png",
+					"media_url_https": "https://pbs.twimg.com/media/DpfqsW3VAAAh4UK.png",
+					"url": "https://t.co/mYyF44Rr6T",
+					"display_url": "pic.twitter.com/mYyF44Rr6T",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1051567087829872640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051567085787086800,
+					"id_str": "1051567085787086848",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfqsW3VAAAh4UK.png",
+					"media_url_https": "https://pbs.twimg.com/media/DpfqsW3VAAAh4UK.png",
+					"url": "https://t.co/mYyF44Rr6T",
+					"display_url": "pic.twitter.com/mYyF44Rr6T",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1051567087829872640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1665531,
+			"id_str": "1665531",
+			"name": "Discovery Education",
+			"screen_name": "DiscoveryEd",
+			"location": "Global",
+			"description": "The global leader in standards-based digital content for K-12.",
+			"url": "https://t.co/X3GaFiYvXQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3GaFiYvXQ",
+							"expanded_url": "http://DiscoveryEducation.com",
+							"display_url": "DiscoveryEducation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 375928,
 			"friends_count": 7563,
 			"listed_count": 4905,
