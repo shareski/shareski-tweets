@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 17:08:22 +0000 2018",
+		"id": 1053332038550413300,
+		"id_str": "1053332038550413313",
+		"full_text": "Watching ⁦@daveski61⁩ getting folks at #dEPD ⁦@DiscoveryEd⁩ #sd36learn excited about our online community https://t.co/DHZusR8oMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dEPD",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "sd36learn",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daveski61",
+					"name": "David Tchozewski",
+					"id": 25282643,
+					"id_str": "25282643",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053332032346943500,
+					"id_str": "1053332032346943488",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4v5xKUcAAsF_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4v5xKUcAAsF_i.jpg",
+					"url": "https://t.co/DHZusR8oMl",
+					"display_url": "pic.twitter.com/DHZusR8oMl",
+					"expanded_url": "https://twitter.com/shareski/status/1053332038550413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053332032346943500,
+					"id_str": "1053332032346943488",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4v5xKUcAAsF_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4v5xKUcAAsF_i.jpg",
+					"url": "https://t.co/DHZusR8oMl",
+					"display_url": "pic.twitter.com/DHZusR8oMl",
+					"expanded_url": "https://twitter.com/shareski/status/1053332038550413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38116,
+			"friends_count": 7051,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114376,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching ⁦@daveski61⁩ getting folks at #dEPD ⁦@DiscoveryEd⁩ #sd36learn excited about our online community https://t.co/DHZusR8oMl"
+	},
+	{
+		"created_at": "Fri Oct 19 15:56:34 +0000 2018",
+		"id": 1053313970998661100,
+		"id_str": "1053313970998661120",
+		"full_text": "#DEPD in action at the Surrey DOD @shareski https://t.co/7FIdv2vOSj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEPD",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053313967110553600,
+					"id_str": "1053313967110553600",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4feO6VAAANdSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4feO6VAAANdSF.jpg",
+					"url": "https://t.co/7FIdv2vOSj",
+					"display_url": "pic.twitter.com/7FIdv2vOSj",
+					"expanded_url": "https://twitter.com/JasonBuccheri/status/1053313970998661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053313967110553600,
+					"id_str": "1053313967110553600",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4feO6VAAANdSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4feO6VAAANdSF.jpg",
+					"url": "https://t.co/7FIdv2vOSj",
+					"display_url": "pic.twitter.com/7FIdv2vOSj",
+					"expanded_url": "https://twitter.com/JasonBuccheri/status/1053313970998661120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 292741552,
+			"id_str": "292741552",
+			"name": "Jason J. Buccheri",
+			"screen_name": "JasonBuccheri",
+			"location": "Toronto",
+			"description": "An info hunter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 705,
+			"listed_count": 21,
+			"created_at": "Wed May 04 04:31:56 +0000 2011",
+			"favourites_count": 1663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368485024/IMG_0316_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368485024/IMG_0316_normal.JPG",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09efd2065c8ce28e",
+			"url": "https://api.twitter.com/1.1/geo/id/09efd2065c8ce28e.json",
+			"place_type": "city",
+			"name": "Surrey",
+			"full_name": "Surrey, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.958937,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.001921
+						],
+						[
+							-122.678035,
+							49.221117
+						],
+						[
+							-122.958937,
+							49.221117
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#DEPD in action at the Surrey DOD @shareski https://t.co/7FIdv2vOSj"
+	},
+	{
+		"created_at": "Fri Oct 19 15:51:20 +0000 2018",
+		"id": 1053312650673840100,
+		"id_str": "1053312650673840128",
+		"full_text": "A buzz of excitement is in the air. T-10 before we kick off the largest #DEPD session on the planet! #sd36learn https://t.co/qy3ATHhiAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEPD",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "sd36learn",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053312496629698600,
+					"id_str": "1053312496629698561",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1053312496629698561/pu/img/sRiMpd7F0Tdr5SfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1053312496629698561/pu/img/sRiMpd7F0Tdr5SfQ.jpg",
+					"url": "https://t.co/qy3ATHhiAg",
+					"display_url": "pic.twitter.com/qy3ATHhiAg",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1053312650673840128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053312496629698600,
+					"id_str": "1053312496629698561",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1053312496629698561/pu/img/sRiMpd7F0Tdr5SfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1053312496629698561/pu/img/sRiMpd7F0Tdr5SfQ.jpg",
+					"url": "https://t.co/qy3ATHhiAg",
+					"display_url": "pic.twitter.com/qy3ATHhiAg",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1053312650673840128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15965,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053312496629698561/pu/vid/180x320/eqXSSp8q6tA5ea-I.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1053312496629698561/pu/pl/VNbr17rb7wRs1PIG.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053312496629698561/pu/vid/360x640/2s_uTSahr9vrbsvk.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053312496629698561/pu/vid/720x1280/1_JzB3NkVp1y9_BJ.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1665531,
+			"id_str": "1665531",
+			"name": "Discovery Education",
+			"screen_name": "DiscoveryEd",
+			"location": "Global",
+			"description": "The global leader in standards-based digital content for K-12.",
+			"url": "https://t.co/X3GaFiYvXQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3GaFiYvXQ",
+							"expanded_url": "http://DiscoveryEducation.com",
+							"display_url": "DiscoveryEducation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376143,
+			"friends_count": 7564,
+			"listed_count": 4908,
+			"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+			"favourites_count": 5785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32957,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1539963867",
+			"profile_link_color": "3277B3",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A buzz of excitement is in the air. T-10 before we kick off the largest #DEPD session on the planet! #sd36learn https://t.co/qy3ATHhiAg"
+	},
+	{
 		"created_at": "Fri Oct 19 15:51:20 +0000 2018",
 		"id": 1053312650673840100,
 		"id_str": "1053312650673840128",
