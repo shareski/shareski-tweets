@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 19:12:01 +0000 2018",
+		"id": 1055537482291445800,
+		"id_str": "1055537482291445761",
+		"full_text": "@mayorofthenet Sleep over? https://t.co/2zTVjGNBaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayorofthenet",
+					"name": "John Pederson",
+					"id": 996775249654857700,
+					"id_str": "996775249654857733",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2zTVjGNBaq",
+					"expanded_url": "https://twitter.com/dailyjaw/status/1055535782738436096",
+					"display_url": "twitter.com/dailyjaw/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 996775249654857700,
+		"in_reply_to_user_id_str": "996775249654857733",
+		"in_reply_to_screen_name": "mayorofthenet",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38171,
+			"friends_count": 7078,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055535782738436100,
+		"quoted_status_id_str": "1055535782738436096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2zTVjGNBaq",
+			"expanded": "https://twitter.com/dailyjaw/status/1055535782738436096",
+			"display": "twitter.com/dailyjaw/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 19:05:16 +0000 2018",
+			"id": 1055535782738436100,
+			"id_str": "1055535782738436096",
+			"full_text": "FULL STORY: https://t.co/ln9pBXhqJD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ln9pBXhqJD",
+						"expanded_url": "https://www.dailyjaw.com/2018/10/25/moose-jaw-wins-bid-to-host-the-2020-scotties/",
+						"display_url": "dailyjaw.com/2018/10/25/moo…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1055513772863832000,
+			"in_reply_to_status_id_str": "1055513772863832064",
+			"in_reply_to_user_id": 4883980416,
+			"in_reply_to_user_id_str": "4883980416",
+			"in_reply_to_screen_name": "DailyJaw",
+			"user": {
+				"id": 4883980416,
+				"id_str": "4883980416",
+				"name": "Daily Jaw",
+				"screen_name": "DailyJaw",
+				"location": "Moose Jaw, Saskatchewan",
+				"description": "The latest news, breaking news, investigative reporting, feature and business stories from https://t.co/eDHJkS3c0N. #CityMJ",
+				"url": "https://t.co/eDHJkS3c0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eDHJkS3c0N",
+								"expanded_url": "http://www.dailyjaw.com",
+								"display_url": "dailyjaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eDHJkS3c0N",
+								"expanded_url": "http://www.dailyjaw.com",
+								"display_url": "dailyjaw.com",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 371,
+				"friends_count": 207,
+				"listed_count": 2,
+				"created_at": "Tue Feb 09 17:32:57 +0000 2016",
+				"favourites_count": 105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 368,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987459294730866688/0Va560qa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987459294730866688/0Va560qa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4883980416/1529196666",
+				"profile_link_color": "F8F8FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mayorofthenet Sleep over? https://t.co/2zTVjGNBaq"
+	},
+	{
 		"created_at": "Thu Oct 25 02:15:49 +0000 2018",
 		"id": 1055281746135048200,
 		"id_str": "1055281746135048193",
