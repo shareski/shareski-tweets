@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 16:46:04 +0000 2018",
+		"id": 1055863141026984000,
+		"id_str": "1055863141026983936",
+		"full_text": "I wanna give these teachers and Mr. James a hug. https://t.co/1GA2LDVwXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1GA2LDVwXV",
+					"expanded_url": "https://twitter.com/NyleDiMarco/status/1055274520380993536",
+					"display_url": "twitter.com/NyleDiMarco/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38182,
+			"friends_count": 7077,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055274520380993500,
+		"quoted_status_id_str": "1055274520380993536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1GA2LDVwXV",
+			"expanded": "https://twitter.com/NyleDiMarco/status/1055274520380993536",
+			"display": "twitter.com/NyleDiMarco/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 01:47:06 +0000 2018",
+			"id": 1055274520380993500,
+			"id_str": "1055274520380993536",
+			"full_text": "Kindergarteners learned to sign “Happy Birthday” song to Deaf custodian, Mr. James.\n\nAnd he was surprised 😭 https://t.co/cVhthZDYlh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055274444246024200,
+						"id_str": "1055274444246024193",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055274444246024193/pu/img/ho-MawdULKVE35Is.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055274444246024193/pu/img/ho-MawdULKVE35Is.jpg",
+						"url": "https://t.co/cVhthZDYlh",
+						"display_url": "pic.twitter.com/cVhthZDYlh",
+						"expanded_url": "https://twitter.com/NyleDiMarco/status/1055274520380993536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055274444246024200,
+						"id_str": "1055274444246024193",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1055274444246024193/pu/img/ho-MawdULKVE35Is.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1055274444246024193/pu/img/ho-MawdULKVE35Is.jpg",
+						"url": "https://t.co/cVhthZDYlh",
+						"display_url": "pic.twitter.com/cVhthZDYlh",
+						"expanded_url": "https://twitter.com/NyleDiMarco/status/1055274520380993536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 27731,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1055274444246024193/pu/vid/640x360/JXGLYd0O-28i9k0u.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1055274444246024193/pu/pl/zzOkOws8YudGIuNJ.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1055274444246024193/pu/vid/320x180/8La8ZLXY52K05QpK.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375837200,
+				"id_str": "375837200",
+				"name": "Nyle DiMarco",
+				"screen_name": "NyleDiMarco",
+				"location": "\n",
+				"description": "🤟🏽 Deaf Artist • DWTS & ANTM WINNER! • Activist for 466m Deaf worldwide - @nyledfoundation • CLICK HERE 👇🏽👇🏽👇🏽",
+				"url": "https://t.co/wxV3OZp0Uj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wxV3OZp0Uj",
+								"expanded_url": "http://Instagram.com/nyledimarco",
+								"display_url": "Instagram.com/nyledimarco",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 319952,
+				"friends_count": 1120,
+				"listed_count": 1091,
+				"created_at": "Sun Sep 18 20:34:43 +0000 2011",
+				"favourites_count": 20183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777722457423613952/po5Dam6h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777722457423613952/po5Dam6h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375837200/1501710088",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124823,
+			"favorite_count": 433614,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wanna give these teachers and Mr. James a hug. https://t.co/1GA2LDVwXV"
+	},
+	{
 		"created_at": "Fri Oct 26 15:20:18 +0000 2018",
 		"id": 1055841556303896600,
 		"id_str": "1055841556303896577",
