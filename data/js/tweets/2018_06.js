@@ -4,8 +4,12 @@ Grailbird.data.tweets_2018_06 =
 		"created_at": "Sat Jun 30 21:22:34 +0000 2018",
 		"id": 1013170955747721200,
 		"id_str": "1013170955747721217",
-		"text": "@wmchamberlain Best gift I ever got was a handwritten note.",
+		"full_text": "@wmchamberlain Best gift I ever got was a handwritten note.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			59
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -66,16 +70,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37851,
-			"friends_count": 6819,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113505,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -106,17 +110,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@wmchamberlain Best gift I ever got was a handwritten note."
 	},
 	{
 		"created_at": "Sat Jun 30 19:44:23 +0000 2018",
 		"id": 1013146247681708000,
 		"id_str": "1013146247681708033",
-		"text": "@WatsonChristie @EdtechEbr https://t.co/JwMpnengCY Just choose passcode and in the comments ask for the 60 day tria… https://t.co/vdPrjcgooc",
-		"truncated": true,
+		"full_text": "@WatsonChristie @EdtechEbr https://t.co/JwMpnengCY Just choose passcode and in the comments ask for the 60 day trial. Let me know if this works.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			144
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -150,15 +159,6 @@ Grailbird.data.tweets_2018_06 =
 					"indices": [
 						27,
 						50
-					]
-				},
-				{
-					"url": "https://t.co/vdPrjcgooc",
-					"expanded_url": "https://twitter.com/i/web/status/1013146247681708033",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
 					]
 				}
 			]
@@ -206,16 +206,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37850,
-			"friends_count": 6819,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113504,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -250,14 +250,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@WatsonChristie @EdtechEbr https://t.co/JwMpnengCY Just choose passcode and in the comments ask for the 60 day trial. Let me know if this works."
 	},
 	{
 		"created_at": "Sat Jun 30 19:11:31 +0000 2018",
 		"id": 1013137978347130900,
 		"id_str": "1013137978347130881",
-		"text": "I trust you all did this for your children’s teacher this year.  https://t.co/8IUHyORBhG",
+		"full_text": "I trust you all did this for your children’s teacher this year.  https://t.co/8IUHyORBhG",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -317,16 +322,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37850,
-			"friends_count": 6819,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113503,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -356,19 +361,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 10,
+		"favorite_count": 37,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I trust you all did this for your children’s teacher this year.  https://t.co/8IUHyORBhG"
 	},
 	{
 		"created_at": "Sat Jun 30 16:33:44 +0000 2018",
 		"id": 1013098269713498100,
 		"id_str": "1013098269713498113",
-		"text": "@TopKnotsNLattes That’s some cuteness right there.",
+		"full_text": "@TopKnotsNLattes That’s some cuteness right there.",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -429,16 +439,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37852,
-			"friends_count": 6819,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113502,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -472,14 +482,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TopKnotsNLattes That’s some cuteness right there."
 	},
 	{
 		"created_at": "Sat Jun 30 03:43:12 +0000 2018",
 		"id": 1012904358168711200,
 		"id_str": "1012904358168711168",
-		"text": "Robberies are funnier in Canada. https://t.co/zxGZfct23d",
+		"full_text": "Robberies are funnier in Canada. https://t.co/zxGZfct23d",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -539,16 +554,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37850,
-			"friends_count": 6819,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113501,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -579,18 +594,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Robberies are funnier in Canada. https://t.co/zxGZfct23d"
 	},
 	{
 		"created_at": "Sat Jun 30 01:11:32 +0000 2018",
 		"id": 1012866188580458500,
 		"id_str": "1012866188580458496",
-		"text": "The rise and fall of the Trajan font in movie posters. https://t.co/zd9Rkq1aiV",
+		"full_text": "The rise and fall of the Trajan font in movie posters. https://t.co/zd9Rkq1aiV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -650,16 +670,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37846,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113500,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -694,14 +714,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The rise and fall of the Trajan font in movie posters. https://t.co/zd9Rkq1aiV"
 	},
 	{
 		"created_at": "Sat Jun 30 00:25:31 +0000 2018",
 		"id": 1012854611588370400,
 		"id_str": "1012854611588370432",
-		"text": "@spencerideas @wmchamberlain I read it. But not every week. Seems like a big commitment.",
+		"full_text": "@spencerideas @wmchamberlain I read it. But not every week. Seems like a big commitment.",
 		"truncated": false,
+		"display_text_range": [
+			29,
+			88
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -772,16 +797,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37846,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113500,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -815,14 +840,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@spencerideas @wmchamberlain I read it. But not every week. Seems like a big commitment."
 	},
 	{
 		"created_at": "Sat Jun 30 00:12:16 +0000 2018",
 		"id": 1012851274277163000,
 		"id_str": "1012851274277163009",
-		"text": "@wmchamberlain @spencerideas This is a few years old but I wrote it about this very topic. https://t.co/OzGgnQQWIF",
+		"full_text": "@wmchamberlain @spencerideas This is a few years old but I wrote it about this very topic. https://t.co/OzGgnQQWIF",
 		"truncated": false,
+		"display_text_range": [
+			29,
+			114
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -903,16 +933,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37845,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113498,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -943,18 +973,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@wmchamberlain @spencerideas This is a few years old but I wrote it about this very topic. https://t.co/OzGgnQQWIF"
 	},
 	{
 		"created_at": "Fri Jun 29 21:45:46 +0000 2018",
 		"id": 1012814405543788500,
 		"id_str": "1012814405543788549",
-		"text": "@LaytonsHistory @DiscoveryEd Glad you were part of it.",
+		"full_text": "@LaytonsHistory @DiscoveryEd Glad you were part of it.",
 		"truncated": false,
+		"display_text_range": [
+			29,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1025,16 +1060,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37843,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113497,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1068,29 +1103,24 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@LaytonsHistory @DiscoveryEd Glad you were part of it."
 	},
 	{
 		"created_at": "Fri Jun 29 20:53:14 +0000 2018",
 		"id": 1012801187249311700,
 		"id_str": "1012801187249311744",
-		"text": "Congrats to all my Canadian teacher friends who are closing up shop today. Thank you for what you do for children a… https://t.co/JBGj2braLD",
-		"truncated": true,
+		"full_text": "Congrats to all my Canadian teacher friends who are closing up shop today. Thank you for what you do for children and be sure to work on your resting and relaxing skills in the next couple of months.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/JBGj2braLD",
-					"expanded_url": "https://twitter.com/i/web/status/1012801187249311744",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
@@ -1135,16 +1165,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37842,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113496,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1174,18 +1204,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 14,
+		"retweet_count": 14,
+		"favorite_count": 143,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Congrats to all my Canadian teacher friends who are closing up shop today. Thank you for what you do for children and be sure to work on your resting and relaxing skills in the next couple of months."
 	},
 	{
 		"created_at": "Fri Jun 29 20:42:23 +0000 2018",
 		"id": 1012798454437957600,
 		"id_str": "1012798454437957633",
-		"text": "They called the police because he cut their grass. What's wrong with people? https://t.co/uJ8x8O3azu",
+		"full_text": "They called the police because he cut their grass. What's wrong with people? https://t.co/uJ8x8O3azu",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1245,16 +1280,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37842,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113496,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1285,18 +1320,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "They called the police because he cut their grass. What's wrong with people? https://t.co/uJ8x8O3azu"
 	},
 	{
 		"created_at": "Fri Jun 29 18:39:59 +0000 2018",
 		"id": 1012767652060647400,
 		"id_str": "1012767652060647424",
-		"text": "@WatsonChristie Head over to https://t.co/umgYkIj4S9 and sign up for a 60 day trial.",
+		"full_text": "@WatsonChristie Head over to https://t.co/umgYkIj4S9 and sign up for a 60 day trial.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1367,16 +1407,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37842,
-			"friends_count": 6815,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113494,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1411,14 +1451,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@WatsonChristie Head over to https://t.co/umgYkIj4S9 and sign up for a 60 day trial."
 	},
 	{
 		"created_at": "Fri Jun 29 01:34:50 +0000 2018",
 		"id": 1012509664066428900,
 		"id_str": "1012509664066428928",
-		"text": "@bharrisonp Thanks for the shout out pal! Have a great summer. Let’s be sure to connect soon.",
+		"full_text": "@bharrisonp Thanks for the shout out pal! Have a great summer. Let’s be sure to connect soon.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			93
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1479,16 +1524,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37837,
-			"friends_count": 6815,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113493,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1519,17 +1564,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@bharrisonp Thanks for the shout out pal! Have a great summer. Let’s be sure to connect soon."
 	},
 	{
 		"created_at": "Thu Jun 28 22:07:14 +0000 2018",
 		"id": 1012457423175585800,
 		"id_str": "1012457423175585792",
-		"text": "My diaper changing skills need work https://t.co/NKmkIYHHLj",
+		"full_text": "My diaper changing skills need work https://t.co/NKmkIYHHLj",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1657,16 +1707,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37837,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113492,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1697,18 +1747,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My diaper changing skills need work https://t.co/NKmkIYHHLj"
 	},
 	{
 		"created_at": "Thu Jun 28 20:27:29 +0000 2018",
 		"id": 1012432318026436600,
 		"id_str": "1012432318026436608",
-		"text": "@teach42 Better.",
+		"full_text": "@teach42 Better.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1769,16 +1824,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37837,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113491,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1812,14 +1867,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@teach42 Better."
 	},
 	{
 		"created_at": "Thu Jun 28 18:22:31 +0000 2018",
 		"id": 1012400870326186000,
 		"id_str": "1012400870326185984",
-		"text": "@TeachaKidd Also, editable.",
+		"full_text": "@TeachaKidd Also, editable.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1880,16 +1940,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37833,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113490,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1923,14 +1983,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "es"
+		"lang": "es",
+		"text": "@TeachaKidd Also, editable."
 	},
 	{
 		"created_at": "Thu Jun 28 17:47:34 +0000 2018",
 		"id": 1012392075676061700,
 		"id_str": "1012392075676061696",
-		"text": "@EduQuinn That’s better",
+		"full_text": "@EduQuinn That’s better",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1991,16 +2056,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37833,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113489,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2034,14 +2099,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@EduQuinn That’s better"
 	},
 	{
 		"created_at": "Thu Jun 28 17:19:31 +0000 2018",
 		"id": 1012385016742142000,
 		"id_str": "1012385016742141952",
-		"text": "Pro tip: If your speech or talk ends with “so yeah”. You may want to do a bit more editing.",
+		"full_text": "Pro tip: If your speech or talk ends with “so yeah”. You may want to do a bit more editing.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2091,16 +2161,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37833,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113489,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2130,18 +2200,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 9,
+		"retweet_count": 2,
+		"favorite_count": 40,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Pro tip: If your speech or talk ends with “so yeah”. You may want to do a bit more editing."
 	},
 	{
 		"created_at": "Thu Jun 28 02:22:28 +0000 2018",
 		"id": 1012159265149030400,
 		"id_str": "1012159265149030400",
-		"text": "Tale of 2 nines. https://t.co/oESTpsltIE #yourbestgolf https://t.co/0fSlVSt9HR",
+		"full_text": "Tale of 2 nines. https://t.co/oESTpsltIE #yourbestgolf https://t.co/0fSlVSt9HR",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2287,16 +2362,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37835,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113487,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2331,14 +2406,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Tale of 2 nines. https://t.co/oESTpsltIE #yourbestgolf https://t.co/0fSlVSt9HR"
 	},
 	{
 		"created_at": "Thu Jun 28 00:57:44 +0000 2018",
 		"id": 1012137943467679700,
 		"id_str": "1012137943467679745",
-		"text": "When you’re golfing and say “It smells like skunk” and you’re playing partner says “it’s me” https://t.co/bFO2JzkHWN",
+		"full_text": "When you’re golfing and say “It smells like skunk” and you’re playing partner says “it’s me” https://t.co/bFO2JzkHWN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2479,16 +2559,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37837,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113486,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2519,18 +2599,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you’re golfing and say “It smells like skunk” and you’re playing partner says “it’s me” https://t.co/bFO2JzkHWN"
 	},
 	{
 		"created_at": "Thu Jun 28 00:56:04 +0000 2018",
 		"id": 1012137521562583000,
 		"id_str": "1012137521562583040",
-		"text": "@CityofMooseJaw do us South Hillers get reimbursed for the water we have to buy now that our water is contaminated?",
+		"full_text": "@CityofMooseJaw do us South Hillers get reimbursed for the water we have to buy now that our water is contaminated?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2591,16 +2676,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37837,
-			"friends_count": 6816,
-			"listed_count": 1403,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113486,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2634,27 +2719,126 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@CityofMooseJaw do us South Hillers get reimbursed for the water we have to buy now that our water is contaminated?"
 	},
 	{
 		"created_at": "Wed Jun 27 17:43:14 +0000 2018",
 		"id": 1012028594191847400,
 		"id_str": "1012028594191847431",
-		"text": "How to make Twitter Better.              1. Use Tweetdeck                                2. Find a really cute baby… https://t.co/aJFb6QdBBj",
-		"truncated": true,
+		"full_text": "How to make Twitter Better.              1. Use Tweetdeck                                2. Find a really cute baby.                  3. Play peek-a-boo https://t.co/T7uRoYT4uN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/aJFb6QdBBj",
-					"expanded_url": "https://twitter.com/i/web/status/1012028594191847431",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1012028522938785800,
+					"id_str": "1012028522938785793",
 					"indices": [
-						117,
-						140
-					]
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012028522938785793/pu/img/LX0PXH6JaziAy19m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012028522938785793/pu/img/LX0PXH6JaziAy19m.jpg",
+					"url": "https://t.co/T7uRoYT4uN",
+					"display_url": "pic.twitter.com/T7uRoYT4uN",
+					"expanded_url": "https://twitter.com/shareski/status/1012028594191847431/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1012028522938785800,
+					"id_str": "1012028522938785793",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1012028522938785793/pu/img/LX0PXH6JaziAy19m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1012028522938785793/pu/img/LX0PXH6JaziAy19m.jpg",
+					"url": "https://t.co/T7uRoYT4uN",
+					"display_url": "pic.twitter.com/T7uRoYT4uN",
+					"expanded_url": "https://twitter.com/shareski/status/1012028594191847431/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1012028522938785793/pu/pl/29meN49mgFeeocFy.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1012028522938785793/pu/vid/640x360/v4tEmJKCRyK6B4m1.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1012028522938785793/pu/vid/320x180/I0S6xge1w0-zrhmm.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
 				}
 			]
 		},
@@ -2701,16 +2885,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6815,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113484,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2740,65 +2924,59 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 12,
+		"retweet_count": 4,
+		"favorite_count": 50,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "How to make Twitter Better.              1. Use Tweetdeck                                2. Find a really cute baby.                  3. Play peek-a-boo https://t.co/T7uRoYT4uN"
 	},
 	{
-		"created_at": "Wed Jun 27 16:39:14 +0000 2018",
-		"id": 1012012489389822000,
-		"id_str": "1012012489389821956",
-		"text": "RT @SeinfeldTV: When you look annoyed all the time, people think that you’re busy. #WednesdayWisdom",
+		"created_at": "Wed Jun 27 16:36:18 +0000 2018",
+		"id": 1012011750932140000,
+		"id_str": "1012011750932140035",
+		"full_text": "When you look annoyed all the time, people think that you’re busy. #WednesdayWisdom",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "WednesdayWisdom",
 					"indices": [
-						83,
-						99
+						67,
+						83
 					]
 				}
 			],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "SeinfeldTV",
-					"name": "Seinfeld",
-					"id": 239505770,
-					"id_str": "239505770",
-					"indices": [
-						3,
-						14
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 239505770,
+			"id_str": "239505770",
+			"name": "Seinfeld",
+			"screen_name": "SeinfeldTV",
+			"location": "129 W. 81st Street, NY. Apt 5A",
+			"description": "The official Twitter for a show about nothing. Check the link in our bio to find your local listing.",
+			"url": "https://t.co/TTaMt202Gt",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/TTaMt202Gt",
+							"expanded_url": "http://bit.ly/Seinfeld-Watch",
+							"display_url": "bit.ly/Seinfeld-Watch",
 							"indices": [
 								0,
 								23
@@ -2807,50 +2985,40 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37841,
-			"friends_count": 6814,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"followers_count": 150077,
+			"friends_count": 10490,
+			"listed_count": 690,
+			"created_at": "Mon Jan 17 19:47:17 +0000 2011",
+			"favourites_count": 21213,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113483,
+			"statuses_count": 13393,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017540320748171264/3cm-lBza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017540320748171264/3cm-lBza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239505770/1531435476",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -2859,117 +3027,24 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jun 27 16:36:18 +0000 2018",
-			"id": 1012011750932140000,
-			"id_str": "1012011750932140035",
-			"text": "When you look annoyed all the time, people think that you’re busy. #WednesdayWisdom",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "WednesdayWisdom",
-						"indices": [
-							67,
-							83
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 239505770,
-				"id_str": "239505770",
-				"name": "Seinfeld",
-				"screen_name": "SeinfeldTV",
-				"location": "129 W. 81st Street, NY. Apt 5A",
-				"description": "Tune-in to Seinfeld tonight! #Seinfeld #SeinfeldTV",
-				"url": "http://t.co/40Vq8nM6uF",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/40Vq8nM6uF",
-								"expanded_url": "http://www.facebook.com/Seinfeld",
-								"display_url": "facebook.com/Seinfeld",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 139603,
-				"friends_count": 10615,
-				"listed_count": 678,
-				"created_at": "Mon Jan 17 19:47:17 +0000 2011",
-				"favourites_count": 21473,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 13311,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/459127174314725376/Iz3lL5FP_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459127174314725376/Iz3lL5FP_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239505770/1398299339",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 112,
-			"favorite_count": 247,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 112,
-		"favorite_count": 0,
+		"retweet_count": 279,
+		"favorite_count": 783,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you look annoyed all the time, people think that you’re busy. #WednesdayWisdom"
 	},
 	{
 		"created_at": "Wed Jun 27 15:33:07 +0000 2018",
 		"id": 1011995850040463400,
 		"id_str": "1011995850040463360",
-		"text": "@JamesHudyma maybe",
+		"full_text": "@JamesHudyma maybe",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			18
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3030,16 +3105,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37841,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113482,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3073,14 +3148,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JamesHudyma maybe"
 	},
 	{
 		"created_at": "Wed Jun 27 14:54:50 +0000 2018",
 		"id": 1011986215602720800,
 		"id_str": "1011986215602720768",
-		"text": "@annmic @courosa I wish.",
+		"full_text": "@annmic @courosa I wish.",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			24
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3151,16 +3231,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37844,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113481,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3190,18 +3270,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@annmic @courosa I wish."
 	},
 	{
 		"created_at": "Wed Jun 27 14:46:07 +0000 2018",
 		"id": 1011984023529369600,
 		"id_str": "1011984023529369605",
-		"text": "@HallDavidson @teach42 he's not wearing pants?",
+		"full_text": "@HallDavidson @teach42 he's not wearing pants?",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3272,16 +3357,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37844,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113481,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3315,14 +3400,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@HallDavidson @teach42 he's not wearing pants?"
 	},
 	{
 		"created_at": "Wed Jun 27 04:09:41 +0000 2018",
 		"id": 1011823859631259600,
 		"id_str": "1011823859631259649",
-		"text": "@winniekwoksays Keep trying. Also pro tip: change your iPhone name before you play",
+		"full_text": "@winniekwoksays Keep trying. Also pro tip: change your iPhone name before you play",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			82
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3383,16 +3473,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37840,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113479,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3426,14 +3516,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@winniekwoksays Keep trying. Also pro tip: change your iPhone name before you play"
 	},
 	{
 		"created_at": "Tue Jun 26 23:20:34 +0000 2018",
 		"id": 1011751101090222100,
 		"id_str": "1011751101090222080",
-		"text": "@michellek107 @amandacdykes  https://t.co/cUvw7P5cGP",
+		"full_text": "@michellek107 @amandacdykes  https://t.co/cUvw7P5cGP",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3595,16 +3690,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37840,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113478,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3639,14 +3734,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@michellek107 @amandacdykes  https://t.co/cUvw7P5cGP"
 	},
 	{
 		"created_at": "Tue Jun 26 23:18:42 +0000 2018",
 		"id": 1011750629079965700,
 		"id_str": "1011750629079965698",
-		"text": "@amandacdykes @michellek107 New?  https://t.co/8UPHPcth23",
+		"full_text": "@amandacdykes @michellek107 New?  https://t.co/8UPHPcth23",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3727,16 +3827,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37840,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113478,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3771,14 +3871,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@amandacdykes @michellek107 New?  https://t.co/8UPHPcth23"
 	},
 	{
 		"created_at": "Tue Jun 26 22:43:38 +0000 2018",
 		"id": 1011741805279432700,
 		"id_str": "1011741805279432705",
-		"text": "@LisaRead @courosa You saw me. That’s all that counts.",
+		"full_text": "@LisaRead @courosa You saw me. That’s all that counts.",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3849,16 +3954,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37839,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113476,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3889,29 +3994,34 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@LisaRead @courosa You saw me. That’s all that counts."
 	},
 	{
 		"created_at": "Tue Jun 26 22:35:41 +0000 2018",
 		"id": 1011739805028438000,
 		"id_str": "1011739805028438016",
-		"text": "This is a legit service. Did you know that you can get paid for a delayed/cancelled flight? Put Service to work. $2… https://t.co/qm0iVn7HTQ",
-		"truncated": true,
+		"full_text": "This is a legit service. Did you know that you can get paid for a delayed/cancelled flight? Put Service to work. $20 off your first claim: https://t.co/3m9gwzNbEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/qm0iVn7HTQ",
-					"expanded_url": "https://twitter.com/i/web/status/1011739805028438016",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/3m9gwzNbEa",
+					"expanded_url": "https://referrals.getservice.com/IPRz/C0LEySaG4N",
+					"display_url": "referrals.getservice.com/IPRz/C0LEySaG4N",
 					"indices": [
-						117,
-						140
+						139,
+						162
 					]
 				}
 			]
@@ -3959,16 +4069,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37839,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113476,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4003,14 +4113,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This is a legit service. Did you know that you can get paid for a delayed/cancelled flight? Put Service to work. $20 off your first claim: https://t.co/3m9gwzNbEa"
 	},
 	{
 		"created_at": "Tue Jun 26 22:02:14 +0000 2018",
 		"id": 1011731387420958700,
 		"id_str": "1011731387420958727",
-		"text": "2 flights today. 2 delays.  Both flights with @courosa You do the math.",
+		"full_text": "2 flights today. 2 delays.  Both flights with @courosa You do the math.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4071,16 +4186,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113475,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4111,17 +4226,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 18,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "2 flights today. 2 delays.  Both flights with @courosa You do the math."
 	},
 	{
 		"created_at": "Tue Jun 26 21:19:01 +0000 2018",
 		"id": 1011720510869262300,
 		"id_str": "1011720510869262338",
-		"text": "At least he wore pants. https://t.co/CBrzCUWuHv",
+		"full_text": "At least he wore pants. https://t.co/CBrzCUWuHv",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4249,16 +4369,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113475,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4289,18 +4409,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 7,
+		"favorite_count": 34,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "At least he wore pants. https://t.co/CBrzCUWuHv"
 	},
 	{
 		"created_at": "Tue Jun 26 21:17:02 +0000 2018",
 		"id": 1011720013160632300,
 		"id_str": "1011720013160632321",
-		"text": "@CandiceBergenMP @MichelleRempel Soft serve?",
+		"full_text": "@CandiceBergenMP @MichelleRempel Soft serve?",
 		"truncated": false,
+		"display_text_range": [
+			33,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4371,16 +4496,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113475,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4414,14 +4539,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@CandiceBergenMP @MichelleRempel Soft serve?"
 	},
 	{
 		"created_at": "Tue Jun 26 21:16:37 +0000 2018",
 		"id": 1011719908449759200,
 		"id_str": "1011719908449759232",
-		"text": "@teach42 @JMGubbins I feel the same https://t.co/WID29lV1ji",
+		"full_text": "@teach42 @JMGubbins I feel the same https://t.co/WID29lV1ji",
 		"truncated": false,
+		"display_text_range": [
+			20,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4583,16 +4713,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113475,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4627,14 +4757,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@teach42 @JMGubbins I feel the same https://t.co/WID29lV1ji"
 	},
 	{
 		"created_at": "Tue Jun 26 21:13:47 +0000 2018",
 		"id": 1011719192830242800,
 		"id_str": "1011719192830242817",
-		"text": "@teach42 @slaleman @andrewtwallace @AskAdam3 How did the session go? Was it stupid?",
+		"full_text": "@teach42 @slaleman @andrewtwallace @AskAdam3 How did the session go? Was it stupid?",
 		"truncated": false,
+		"display_text_range": [
+			45,
+			83
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4725,16 +4860,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113475,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4765,43 +4900,182 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@teach42 @slaleman @andrewtwallace @AskAdam3 How did the session go? Was it stupid?"
 	},
 	{
-		"created_at": "Tue Jun 26 21:12:38 +0000 2018",
-		"id": 1011718903557447700,
-		"id_str": "1011718903557447680",
-		"text": "RT @VinceCTV: BREAKING: Fredericton native, Mr. Willie Eldon O’Ree professional hockey’s first black athlete to play in the @NHL January 18…",
+		"created_at": "Tue Jun 26 19:05:45 +0000 2018",
+		"id": 1011686972346298400,
+		"id_str": "1011686972346298371",
+		"full_text": "BREAKING: Fredericton native, Mr. Willie Eldon O’Ree professional hockey’s first black athlete to play in the @NHL January 18, 1958 vs the @CanadiensMTL has been named to the @HockeyHallFame as a builder. @CTVAtlantic https://t.co/z02AYgVf5t",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "VinceCTV",
-					"name": "Vincent M Williams",
-					"id": 2748163925,
-					"id_str": "2748163925",
-					"indices": [
-						3,
-						12
-					]
-				},
 				{
 					"screen_name": "NHL",
 					"name": "NHL",
 					"id": 50004938,
 					"id_str": "50004938",
 					"indices": [
-						124,
-						128
+						110,
+						114
+					]
+				},
+				{
+					"screen_name": "CanadiensMTL",
+					"name": "Canadiens Montréal",
+					"id": 19678937,
+					"id_str": "19678937",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"screen_name": "HockeyHallFame",
+					"name": "Hockey Hall of Fame",
+					"id": 33599115,
+					"id_str": "33599115",
+					"indices": [
+						175,
+						190
+					]
+				},
+				{
+					"screen_name": "CTVAtlantic",
+					"name": "CTV Atlantic",
+					"id": 25287690,
+					"id_str": "25287690",
+					"indices": [
+						205,
+						217
 					]
 				}
 			],
-			"urls": []
+			"urls": [],
+			"media": [
+				{
+					"id": 1011686963529670700,
+					"id_str": "1011686963529670656",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Dgo77uUUYAATLq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dgo77uUUYAATLq_.jpg",
+					"url": "https://t.co/z02AYgVf5t",
+					"display_url": "pic.twitter.com/z02AYgVf5t",
+					"expanded_url": "https://twitter.com/VinceCTV/status/1011686972346298371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011686963529670700,
+					"id_str": "1011686963529670656",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Dgo77uUUYAATLq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dgo77uUUYAATLq_.jpg",
+					"url": "https://t.co/z02AYgVf5t",
+					"display_url": "pic.twitter.com/z02AYgVf5t",
+					"expanded_url": "https://twitter.com/VinceCTV/status/1011686972346298371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1011686963437449200,
+					"id_str": "1011686963437449216",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/Dgo77t-VMAAuaai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dgo77t-VMAAuaai.jpg",
+					"url": "https://t.co/z02AYgVf5t",
+					"display_url": "pic.twitter.com/z02AYgVf5t",
+					"expanded_url": "https://twitter.com/VinceCTV/status/1011686972346298371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -4810,20 +5084,20 @@ Grailbird.data.tweets_2018_06 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 2748163925,
+			"id_str": "2748163925",
+			"name": "Vincent M Williams",
+			"screen_name": "VinceCTV",
+			"location": "Halifax, NS",
+			"description": "@CTVAtlantic Broadcast/Production Assistant - @hfxhurricanes @DalTigers @fibetv1 PxP Commentator/Analyst - Africville, NS Vince.Williams@bellmedia.ca 🇹🇹",
+			"url": "https://t.co/kagDZeDLyR",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/kagDZeDLyR",
+							"expanded_url": "http://www.atlantic.ctvnews.ca",
+							"display_url": "atlantic.ctvnews.ca",
 							"indices": [
 								0,
 								23
@@ -4832,47 +5106,37 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37838,
-			"friends_count": 6814,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"followers_count": 680,
+			"friends_count": 855,
+			"listed_count": 11,
+			"created_at": "Wed Aug 20 16:32:20 +0000 2014",
+			"favourites_count": 2178,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113475,
+			"verified": false,
+			"statuses_count": 9126,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/590948538906972162/cICfdZ5U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/590948538906972162/cICfdZ5U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2748163925/1470921468",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -4882,166 +5146,60 @@ Grailbird.data.tweets_2018_06 =
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Jun 26 19:05:45 +0000 2018",
-			"id": 1011686972346298400,
-			"id_str": "1011686972346298371",
-			"text": "BREAKING: Fredericton native, Mr. Willie Eldon O’Ree professional hockey’s first black athlete to play in the @NHL… https://t.co/20osUxP9MK",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "NHL",
-						"name": "NHL",
-						"id": 50004938,
-						"id_str": "50004938",
-						"indices": [
-							110,
-							114
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/20osUxP9MK",
-						"expanded_url": "https://twitter.com/i/web/status/1011686972346298371",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							116,
-							139
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2748163925,
-				"id_str": "2748163925",
-				"name": "Vincent M Williams",
-				"screen_name": "VinceCTV",
-				"location": "Halifax, NS",
-				"description": "Broadcast/Production Assistant @CTVMorningATL sometimes Reporter @CTVAtlantic & @TV1_Atlantic PXP commentator. Africville, NS  Vince.Williams@bellmedia.ca 🇹🇹",
-				"url": "https://t.co/kagDZeDLyR",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/kagDZeDLyR",
-								"expanded_url": "http://www.atlantic.ctvnews.ca",
-								"display_url": "atlantic.ctvnews.ca",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 658,
-				"friends_count": 790,
-				"listed_count": 9,
-				"created_at": "Wed Aug 20 16:32:20 +0000 2014",
-				"favourites_count": 1833,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 8626,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/590948538906972162/cICfdZ5U_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590948538906972162/cICfdZ5U_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2748163925/1470921468",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "5d058f2e9fe1516c",
-				"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json",
-				"place_type": "city",
-				"name": "Halifax",
-				"full_name": "Halifax, Nova Scotia",
-				"country_code": "CA",
-				"country": "Canada",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "5d058f2e9fe1516c",
+			"url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json",
+			"place_type": "city",
+			"name": "Halifax",
+			"full_name": "Halifax, Nova Scotia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								-64.237659,
-								43.366298
-							],
-							[
-								-59.385802,
-								43.366298
-							],
-							[
-								-59.385802,
-								45.27617
-							],
-							[
-								-64.237659,
-								45.27617
-							]
+							-64.237659,
+							43.366298
+						],
+						[
+							-59.385802,
+							43.366298
+						],
+						[
+							-59.385802,
+							45.27617
+						],
+						[
+							-64.237659,
+							45.27617
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 30,
-			"favorite_count": 85,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 30,
-		"favorite_count": 0,
+		"retweet_count": 49,
+		"favorite_count": 179,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: Fredericton native, Mr. Willie Eldon O’Ree professional hockey’s first black athlete to play in the @NHL January 18, 1958 vs the @CanadiensMTL has been named to the @HockeyHallFame as a builder. @CTVAtlantic https://t.co/z02AYgVf5t"
 	},
 	{
 		"created_at": "Tue Jun 26 21:11:09 +0000 2018",
 		"id": 1011718533489872900,
 		"id_str": "1011718533489872898",
-		"text": "@LisaRead But where’s his own phone? Unless he was making crank calls.",
+		"full_text": "@LisaRead But where’s his own phone? Unless he was making crank calls.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			70
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5102,16 +5260,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37836,
-			"friends_count": 6814,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113468,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5142,17 +5300,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@LisaRead But where’s his own phone? Unless he was making crank calls."
 	},
 	{
 		"created_at": "Tue Jun 26 20:06:06 +0000 2018",
 		"id": 1011702162555105300,
 		"id_str": "1011702162555105284",
-		"text": "Business man/frequent traveller using the lounge phone. Discuss. https://t.co/Sj3ViTAVla",
+		"full_text": "Business man/frequent traveller using the lounge phone. Discuss. https://t.co/Sj3ViTAVla",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5280,16 +5443,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37834,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113467,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5320,18 +5483,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Business man/frequent traveller using the lounge phone. Discuss. https://t.co/Sj3ViTAVla"
 	},
 	{
 		"created_at": "Tue Jun 26 19:55:57 +0000 2018",
 		"id": 1011699607494160400,
 		"id_str": "1011699607494160388",
-		"text": "@courosa I mentioned I knew you and she told me to leave.",
+		"full_text": "@courosa I mentioned I knew you and she told me to leave.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5392,16 +5560,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37834,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113467,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5432,39 +5600,52 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@courosa I mentioned I knew you and she told me to leave."
 	},
 	{
-		"created_at": "Tue Jun 26 19:14:52 +0000 2018",
-		"id": 1011689269784645600,
-		"id_str": "1011689269784645633",
-		"text": "RT @A_Kinard: Thank you @kellyhines for providing such concrete, readily-actionable strategies for getting started with stations ...really…",
+		"created_at": "Tue Jun 26 16:19:09 +0000 2018",
+		"id": 1011645049241788400,
+		"id_str": "1011645049241788416",
+		"full_text": "Thank you @kellyhines for providing such concrete, readily-actionable strategies for getting started with stations ...really appreciate walking away with those ready-to-implement strategies! #ISTE18 @DiscoveryEd",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "ISTE18",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "A_Kinard",
-					"name": "Anna Katt",
-					"id": 719305082,
-					"id_str": "719305082",
-					"indices": [
-						3,
-						12
-					]
-				},
 				{
 					"screen_name": "kellyhines",
 					"name": "Kelly Hines",
 					"id": 17100825,
 					"id_str": "17100825",
 					"indices": [
-						24,
-						35
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						199,
+						211
 					]
 				}
 			],
@@ -5477,69 +5658,46 @@ Grailbird.data.tweets_2018_06 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 719305082,
+			"id_str": "719305082",
+			"name": "Anna Katt",
+			"screen_name": "A_Kinard",
+			"location": "Washington, DC",
+			"description": "Educator in Ward 8, retired swimmer, novice triathlete and runner, avid reader, sports fan",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37834,
-			"friends_count": 6813,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"followers_count": 192,
+			"friends_count": 568,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 03:07:50 +0000 2012",
+			"favourites_count": 1090,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113467,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1250,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055267399237287936/pWX-j130_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055267399237287936/pWX-j130_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719305082/1506042928",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -5551,117 +5709,24 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Jun 26 16:19:09 +0000 2018",
-			"id": 1011645049241788400,
-			"id_str": "1011645049241788416",
-			"text": "Thank you @kellyhines for providing such concrete, readily-actionable strategies for getting started with stations… https://t.co/EkFvTryRqo",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "kellyhines",
-						"name": "Kelly Hines",
-						"id": 17100825,
-						"id_str": "17100825",
-						"indices": [
-							10,
-							21
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/EkFvTryRqo",
-						"expanded_url": "https://twitter.com/i/web/status/1011645049241788416",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							116,
-							139
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 719305082,
-				"id_str": "719305082",
-				"name": "Anna Katt",
-				"screen_name": "A_Kinard",
-				"location": "Washington, DC",
-				"description": "Educator in Ward 8, retired swimmer, novice triathlete and runner, avid reader, sports fan",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 174,
-				"friends_count": 521,
-				"listed_count": 5,
-				"created_at": "Fri Jul 27 03:07:50 +0000 2012",
-				"favourites_count": 940,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 1197,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "131516",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/794560490135519234/5v7TTx_o_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794560490135519234/5v7TTx_o_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/719305082/1506042928",
-				"profile_link_color": "009999",
-				"profile_sidebar_border_color": "EEEEEE",
-				"profile_sidebar_fill_color": "EFEFEF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 6,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 0,
+		"retweet_count": 5,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thank you @kellyhines for providing such concrete, readily-actionable strategies for getting started with stations ...really appreciate walking away with those ready-to-implement strategies! #ISTE18 @DiscoveryEd"
 	},
 	{
 		"created_at": "Tue Jun 26 18:34:24 +0000 2018",
 		"id": 1011679083447685100,
 		"id_str": "1011679083447685121",
-		"text": "@courosa I knew both of us on the same flight was trouble.",
+		"full_text": "@courosa I knew both of us on the same flight was trouble.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			58
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5722,16 +5787,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37831,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113464,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5762,17 +5827,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@courosa I knew both of us on the same flight was trouble."
 	},
 	{
 		"created_at": "Tue Jun 26 17:44:00 +0000 2018",
 		"id": 1011666402619592700,
 		"id_str": "1011666402619592705",
-		"text": "@prettysqueaky Are you behaving?",
+		"full_text": "@prettysqueaky Are you behaving?",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5833,16 +5903,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37830,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113463,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5876,14 +5946,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@prettysqueaky Are you behaving?"
 	},
 	{
 		"created_at": "Tue Jun 26 17:42:28 +0000 2018",
 		"id": 1011666015510462500,
 		"id_str": "1011666015510462464",
-		"text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Figures.",
+		"full_text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Figures.",
 		"truncated": false,
+		"display_text_range": [
+			67,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5984,16 +6059,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37830,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113463,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6027,26 +6102,39 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Figures."
 	},
 	{
 		"created_at": "Tue Jun 26 17:26:05 +0000 2018",
 		"id": 1011661892379725800,
 		"id_str": "1011661892379725825",
-		"text": "Been trying for 3 years to get to talk about stupid stuff and finally get it accepted and I have to leave early. Le… https://t.co/ZDJYXVA5Hu",
-		"truncated": true,
+		"full_text": "Been trying for 3 years to get to talk about stupid stuff and finally get it accepted and I have to leave early. Let’s hope they’re as stupid as me. #iste18 https://t.co/TllzKtx1PQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "iste18",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/ZDJYXVA5Hu",
-					"expanded_url": "https://twitter.com/i/web/status/1011661892379725825",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/TllzKtx1PQ",
+					"expanded_url": "https://twitter.com/htheijsmeijer/status/1011660657933025282",
+					"display_url": "twitter.com/htheijsmeijer/…",
 					"indices": [
-						117,
-						140
+						157,
+						180
 					]
 				}
 			]
@@ -6094,16 +6182,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37830,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113463,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6135,12 +6223,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1011660657933025300,
 		"quoted_status_id_str": "1011660657933025282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TllzKtx1PQ",
+			"expanded": "https://twitter.com/htheijsmeijer/status/1011660657933025282",
+			"display": "twitter.com/htheijsmeijer/…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 26 17:21:11 +0000 2018",
 			"id": 1011660657933025300,
 			"id_str": "1011660657933025282",
-			"text": "Getting a blast of edtech trends with these gents at #iste18 https://t.co/RunoBZtJLa",
+			"full_text": "Getting a blast of edtech trends with these gents at #iste18 https://t.co/RunoBZtJLa",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -6244,8 +6341,8 @@ Grailbird.data.tweets_2018_06 =
 				"id_str": "313680864",
 				"name": "Heather Theijsmeijer",
 				"screen_name": "HTheijsmeijer",
-				"location": "Manitoulin Island, Canada",
-				"description": "Renewed Math Strategy Co-ordinator with #RainbowDSB. Singer, Runner, Nerd, Connector. #2018IGNITEd #RDSBmath",
+				"location": "Mnidoo Mnising (Manitoulin Island), Canada",
+				"description": "Program Co-ordinator: K-12 Mathematics, with #RainbowDSB. Singer, Runner, Nerd, Connector. #2018IGNITEd #RDSBmath",
 				"url": "https://t.co/XRboghuRbg",
 				"entities": {
 					"url": {
@@ -6266,16 +6363,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2466,
-				"friends_count": 1699,
-				"listed_count": 295,
+				"followers_count": 2581,
+				"friends_count": 1800,
+				"listed_count": 294,
 				"created_at": "Thu Jun 09 01:42:28 +0000 2011",
-				"favourites_count": 10989,
+				"favourites_count": 11472,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 20135,
+				"statuses_count": 20488,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6313,18 +6410,23 @@ Grailbird.data.tweets_2018_06 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Been trying for 3 years to get to talk about stupid stuff and finally get it accepted and I have to leave early. Let’s hope they’re as stupid as me. #iste18 https://t.co/TllzKtx1PQ"
 	},
 	{
 		"created_at": "Tue Jun 26 17:15:08 +0000 2018",
 		"id": 1011659134763257900,
 		"id_str": "1011659134763257856",
-		"text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Did he leave out the part about how much he loves me?",
+		"full_text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Did he leave out the part about how much he loves me?",
 		"truncated": false,
+		"display_text_range": [
+			67,
+			120
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6425,16 +6527,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37830,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113463,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6468,14 +6570,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@PrincipalStager @gcouros @HornetPrincipal @KirkEvenson @apschukow Did he leave out the part about how much he loves me?"
 	},
 	{
 		"created_at": "Tue Jun 26 17:12:29 +0000 2018",
 		"id": 1011658469278191600,
 		"id_str": "1011658469278191617",
-		"text": "@JMGubbins @teach42 That’s a lot of stupid.",
+		"full_text": "@JMGubbins @teach42 That’s a lot of stupid.",
 		"truncated": false,
+		"display_text_range": [
+			20,
+			43
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6546,16 +6653,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37830,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113463,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6589,52 +6696,46 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@JMGubbins @teach42 That’s a lot of stupid."
 	},
 	{
-		"created_at": "Tue Jun 26 15:11:08 +0000 2018",
-		"id": 1011627929158086700,
-		"id_str": "1011627929158086658",
-		"text": "RT @XplodingUnicorn: Wife: Do you know what I'm going to say?\n\nMe: You're not mad, just disappointed.\n\nWife: No. I can do both.",
+		"created_at": "Tue Jun 26 15:07:58 +0000 2018",
+		"id": 1011627135423967200,
+		"id_str": "1011627135423967237",
+		"full_text": "Wife: Do you know what I'm going to say?\n\nMe: You're not mad, just disappointed.\n\nWife: No. I can do both.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "XplodingUnicorn",
-					"name": "James Breakwell",
-					"id": 780104972,
-					"id_str": "780104972",
-					"indices": [
-						3,
-						19
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 780104972,
+			"id_str": "780104972",
+			"name": "\"Bare Minimum Parenting\" comes out in 6 days",
+			"screen_name": "XplodingUnicorn",
+			"location": "Indianapolis, IN",
+			"description": "I'm James Breakwell, a comedy writer raising 4 daughters, ages 8 and under, and one pig, age 2. My new book proves lazy parents rock:\nhttps://t.co/9FTZcgDlbG",
+			"url": "https://t.co/derWeN1lvw",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/derWeN1lvw",
+							"expanded_url": "http://ExplodingUnicorn.com",
+							"display_url": "ExplodingUnicorn.com",
 							"indices": [
 								0,
 								23
@@ -6645,48 +6746,48 @@ Grailbird.data.tweets_2018_06 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
+							"url": "https://t.co/9FTZcgDlbG",
+							"expanded_url": "https://bit.ly/2nu1nck",
+							"display_url": "bit.ly/2nu1nck",
 							"indices": [
-								127,
-								150
+								134,
+								157
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 37824,
-			"friends_count": 6813,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"followers_count": 1087636,
+			"friends_count": 1439,
+			"listed_count": 5124,
+			"created_at": "Sat Aug 25 11:13:24 +0000 2012",
+			"favourites_count": 134468,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 113458,
+			"statuses_count": 18385,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "7FBDC9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832458833951805443/7bYXKvgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832458833951805443/7bYXKvgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780104972/1513229274",
+			"profile_link_color": "4B4F88",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "91D0DC",
+			"profile_text_color": "CF5736",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -6695,119 +6796,24 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Jun 26 15:07:58 +0000 2018",
-			"id": 1011627135423967200,
-			"id_str": "1011627135423967237",
-			"text": "Wife: Do you know what I'm going to say?\n\nMe: You're not mad, just disappointed.\n\nWife: No. I can do both.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 780104972,
-				"id_str": "780104972",
-				"name": "James Breakwell",
-				"screen_name": "XplodingUnicorn",
-				"location": "Indianapolis, IN",
-				"description": "Comedy writer. Pig owner. Dad of 4 girls ages 8 and under. Internet famous. Real-life nobody. My book saves lives: https://t.co/TGTAL3PsIV…",
-				"url": "https://t.co/derWeN1lvw",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/derWeN1lvw",
-								"expanded_url": "http://ExplodingUnicorn.com",
-								"display_url": "ExplodingUnicorn.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/TGTAL3PsIV",
-								"expanded_url": "http://explodingunicorn.com/onlydeadonthei",
-								"display_url": "explodingunicorn.com/onlydeadonthei",
-								"indices": [
-									115,
-									138
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 1068554,
-				"friends_count": 1622,
-				"listed_count": 4971,
-				"created_at": "Sat Aug 25 11:13:24 +0000 2012",
-				"favourites_count": 135020,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 17711,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "7FBDC9",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/832458833951805443/7bYXKvgR_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832458833951805443/7bYXKvgR_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/780104972/1513229274",
-				"profile_link_color": "4B4F88",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "91D0DC",
-				"profile_text_color": "CF5736",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 30,
-			"favorite_count": 264,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 30,
-		"favorite_count": 0,
+		"retweet_count": 385,
+		"favorite_count": 4798,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Wife: Do you know what I'm going to say?\n\nMe: You're not mad, just disappointed.\n\nWife: No. I can do both."
 	},
 	{
 		"created_at": "Tue Jun 26 13:53:42 +0000 2018",
 		"id": 1011608444107935700,
 		"id_str": "1011608444107935744",
-		"text": "@mrbadura That should be your new move.",
+		"full_text": "@mrbadura That should be your new move.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6868,16 +6874,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37823,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113457,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6911,14 +6917,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mrbadura That should be your new move."
 	},
 	{
 		"created_at": "Tue Jun 26 13:29:17 +0000 2018",
 		"id": 1011602300652093400,
 		"id_str": "1011602300652093450",
-		"text": "@mrbadura ever heard of this guy? https://t.co/EhK28416st",
+		"full_text": "@mrbadura ever heard of this guy? https://t.co/EhK28416st",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6989,16 +7000,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37823,
-			"friends_count": 6813,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113457,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7030,12 +7041,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1011375851714342900,
 		"quoted_status_id_str": "1011375851714342914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EhK28416st",
+			"expanded": "https://twitter.com/skratch/status/1011375851714342914",
+			"display": "twitter.com/skratch/status…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 25 22:29:28 +0000 2018",
 			"id": 1011375851714342900,
 			"id_str": "1011375851714342914",
-			"text": "Hosung Choi in all of his glory. https://t.co/rWpWkOTNjA",
+			"full_text": "Hosung Choi in all of his glory. https://t.co/rWpWkOTNjA",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -7187,16 +7207,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 60250,
-				"friends_count": 543,
-				"listed_count": 478,
+				"followers_count": 72504,
+				"friends_count": 540,
+				"listed_count": 545,
 				"created_at": "Thu Jan 15 22:18:23 +0000 2015",
-				"favourites_count": 2957,
+				"favourites_count": 2905,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 3438,
+				"statuses_count": 3792,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -7226,8 +7246,8 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 638,
-			"favorite_count": 2149,
+			"retweet_count": 837,
+			"favorite_count": 2793,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -7238,21 +7258,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mrbadura ever heard of this guy? https://t.co/EhK28416st"
 	},
 	{
 		"created_at": "Tue Jun 26 12:35:28 +0000 2018",
 		"id": 1011588755487182800,
 		"id_str": "1011588755487182848",
-		"text": "@pdakean The gist of the research showed that yes, it’s complicated. Poverty and early childhood issues can’t be ov… https://t.co/BrxAeRt0Yb",
-		"truncated": true,
+		"full_text": "@pdakean The gist of the research showed that yes, it’s complicated. Poverty and early childhood issues can’t be overcome simply with “better” teachers.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			152
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "pdakean",
-					"name": "Dr. Pam Davis-Kean",
+					"name": "Pam Davis-Kean, PhD",
 					"id": 93653664,
 					"id_str": "93653664",
 					"indices": [
@@ -7261,17 +7286,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/BrxAeRt0Yb",
-					"expanded_url": "https://twitter.com/i/web/status/1011588755487182848",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1011588070934765600,
@@ -7316,16 +7331,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113455,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7355,18 +7370,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
+		"retweet_count": 1,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@pdakean The gist of the research showed that yes, it’s complicated. Poverty and early childhood issues can’t be overcome simply with “better” teachers."
 	},
 	{
 		"created_at": "Tue Jun 26 12:33:50 +0000 2018",
 		"id": 1011588345166745600,
 		"id_str": "1011588345166745601",
-		"text": "@stringer_andrea I didn’t even wear pants.  But I will if I come back your way. Would love to return.  Miss people… https://t.co/gomsMtLNeN",
-		"truncated": true,
+		"full_text": "@stringer_andrea I didn’t even wear pants.  But I will if I come back your way. Would love to return.  Miss people like you. But @tina_p went out of her way to represent and share a bit of Aussie love and a gift for my grandbaby.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			229
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7380,19 +7400,19 @@ Grailbird.data.tweets_2018_06 =
 						0,
 						16
 					]
-				}
-			],
-			"urls": [
+				},
 				{
-					"url": "https://t.co/gomsMtLNeN",
-					"expanded_url": "https://twitter.com/i/web/status/1011588345166745601",
-					"display_url": "twitter.com/i/web/status/1…",
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
 					"indices": [
-						116,
-						139
+						129,
+						136
 					]
 				}
-			]
+			],
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1011587327842385900,
@@ -7437,16 +7457,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113455,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7477,17 +7497,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@stringer_andrea I didn’t even wear pants.  But I will if I come back your way. Would love to return.  Miss people like you. But @tina_p went out of her way to represent and share a bit of Aussie love and a gift for my grandbaby."
 	},
 	{
 		"created_at": "Tue Jun 26 12:31:22 +0000 2018",
 		"id": 1011587723931586600,
 		"id_str": "1011587723931586560",
-		"text": "@jenorr @rbuckhoff Pretty much.",
+		"full_text": "@jenorr @rbuckhoff Pretty much.",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7558,16 +7583,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113455,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7598,17 +7623,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jenorr @rbuckhoff Pretty much."
 	},
 	{
 		"created_at": "Tue Jun 26 12:29:18 +0000 2018",
 		"id": 1011587202554396700,
 		"id_str": "1011587202554396672",
-		"text": "@jenorr @rbuckhoff Everyone enjoys a train wreck. https://t.co/vc1NSMQcAW",
+		"full_text": "@jenorr @rbuckhoff Everyone enjoys a train wreck. https://t.co/vc1NSMQcAW",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			49
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7770,16 +7800,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113455,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7810,18 +7840,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jenorr @rbuckhoff Everyone enjoys a train wreck. https://t.co/vc1NSMQcAW"
 	},
 	{
 		"created_at": "Tue Jun 26 12:28:16 +0000 2018",
 		"id": 1011586944650932200,
 		"id_str": "1011586944650932225",
-		"text": "@stumpteacher I found our discussion on balls enlightening",
+		"full_text": "@stumpteacher I found our discussion on balls enlightening",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			58
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7882,16 +7917,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113455,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7922,17 +7957,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@stumpteacher I found our discussion on balls enlightening"
 	},
 	{
 		"created_at": "Tue Jun 26 11:47:44 +0000 2018",
 		"id": 1011576742476214300,
 		"id_str": "1011576742476214273",
-		"text": "Leaving #iste18 early this morning. Excited to get home. The only downside is too many awesome people I didn’t get… https://t.co/QCmzQwuqxn",
-		"truncated": true,
+		"full_text": "Leaving #iste18 early this morning. Excited to get home. The only downside is too many awesome people I didn’t get to see. You know who you are. Also thanks to @mrhooker for doing your thang. https://t.co/ejyZJjJ0jg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -7944,16 +7984,108 @@ Grailbird.data.tweets_2018_06 =
 				}
 			],
 			"symbols": [],
-			"user_mentions": [],
-			"urls": [
+			"user_mentions": [
 				{
-					"url": "https://t.co/QCmzQwuqxn",
-					"expanded_url": "https://twitter.com/i/web/status/1011576742476214273",
-					"display_url": "twitter.com/i/web/status/1…",
+					"screen_name": "mrhooker",
+					"name": "Carl Hooker",
+					"id": 9890872,
+					"id_str": "9890872",
 					"indices": [
-						116,
-						139
+						160,
+						169
 					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1011576725111803900,
+					"id_str": "1011576725111803905",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgnXrANXkAEwkUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgnXrANXkAEwkUm.jpg",
+					"url": "https://t.co/ejyZJjJ0jg",
+					"display_url": "pic.twitter.com/ejyZJjJ0jg",
+					"expanded_url": "https://twitter.com/shareski/status/1011576742476214273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011576725111803900,
+					"id_str": "1011576725111803905",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DgnXrANXkAEwkUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DgnXrANXkAEwkUm.jpg",
+					"url": "https://t.co/ejyZJjJ0jg",
+					"display_url": "pic.twitter.com/ejyZJjJ0jg",
+					"expanded_url": "https://twitter.com/shareski/status/1011576742476214273/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DgnXrANXkAEwkUm.mp4"
+							}
+						]
+					}
 				}
 			]
 		},
@@ -8000,16 +8132,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113450,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8040,18 +8172,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Leaving #iste18 early this morning. Excited to get home. The only downside is too many awesome people I didn’t get to see. You know who you are. Also thanks to @mrhooker for doing your thang. https://t.co/ejyZJjJ0jg"
 	},
 	{
 		"created_at": "Tue Jun 26 11:40:05 +0000 2018",
 		"id": 1011574818456719400,
 		"id_str": "1011574818456719360",
-		"text": "@rbuckhoff @jenorr  https://t.co/kD0wyp0N3I",
+		"full_text": "@rbuckhoff @jenorr  https://t.co/kD0wyp0N3I",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8213,16 +8350,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113450,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8257,14 +8394,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@rbuckhoff @jenorr  https://t.co/kD0wyp0N3I"
 	},
 	{
 		"created_at": "Tue Jun 26 11:39:27 +0000 2018",
 		"id": 1011574656959221800,
 		"id_str": "1011574656959221761",
-		"text": "@millerpEDU  https://t.co/um3glR8ZAE",
+		"full_text": "@millerpEDU  https://t.co/um3glR8ZAE",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8416,16 +8558,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6811,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113450,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8456,18 +8598,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@millerpEDU  https://t.co/um3glR8ZAE"
 	},
 	{
 		"created_at": "Tue Jun 26 06:06:59 +0000 2018",
 		"id": 1011490989998002200,
 		"id_str": "1011490989998002176",
-		"text": "@agility2girl I don’t have a problem with it.",
+		"full_text": "@agility2girl I don’t have a problem with it.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8528,16 +8675,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37819,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113447,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8571,26 +8718,31 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@agility2girl I don’t have a problem with it."
 	},
 	{
 		"created_at": "Tue Jun 26 03:51:13 +0000 2018",
 		"id": 1011456823256379400,
 		"id_str": "1011456823256379392",
-		"text": "Many feel like there’s enough free stuff and networks to connect to. A culture sharing should be the norm. But othe… https://t.co/XltHxEF3xB",
-		"truncated": true,
+		"full_text": "Many feel like there’s enough free stuff and networks to connect to. A culture sharing should be the norm. But others may have different arguments. https://t.co/lu1WnSitj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/XltHxEF3xB",
-					"expanded_url": "https://twitter.com/i/web/status/1011456823256379392",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/lu1WnSitj8",
+					"expanded_url": "https://twitter.com/brettdawnette/status/1011454199949914112",
+					"display_url": "twitter.com/brettdawnette/…",
 					"indices": [
-						117,
-						140
+						148,
+						171
 					]
 				}
 			]
@@ -8638,16 +8790,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37816,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113446,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8679,12 +8831,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1011454199949914100,
 		"quoted_status_id_str": "1011454199949914112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lu1WnSitj8",
+			"expanded": "https://twitter.com/brettdawnette/status/1011454199949914112",
+			"display": "twitter.com/brettdawnette/…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 26 03:40:47 +0000 2018",
 			"id": 1011454199949914100,
 			"id_str": "1011454199949914112",
-			"text": "@shareski I’m curious as to what you dislike about teachers pay teachers?",
+			"full_text": "@shareski I’m curious as to what you dislike about teachers pay teachers?",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				73
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -8723,15 +8884,15 @@ Grailbird.data.tweets_2018_06 =
 				},
 				"protected": false,
 				"followers_count": 73,
-				"friends_count": 73,
+				"friends_count": 76,
 				"listed_count": 3,
 				"created_at": "Fri Oct 25 16:54:15 +0000 2013",
-				"favourites_count": 63,
+				"favourites_count": 69,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 421,
+				"statuses_count": 435,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8766,19 +8927,24 @@ Grailbird.data.tweets_2018_06 =
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 1,
+		"favorite_count": 14,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Many feel like there’s enough free stuff and networks to connect to. A culture sharing should be the norm. But others may have different arguments. https://t.co/lu1WnSitj8"
 	},
 	{
 		"created_at": "Tue Jun 26 03:10:43 +0000 2018",
 		"id": 1011446631387091000,
 		"id_str": "1011446631387090944",
-		"text": "@michellek107 @kmishmael Shhhh",
+		"full_text": "@michellek107 @kmishmael Shhhh",
 		"truncated": false,
+		"display_text_range": [
+			25,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8849,16 +9015,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8889,17 +9055,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@michellek107 @kmishmael Shhhh"
 	},
 	{
 		"created_at": "Tue Jun 26 03:10:05 +0000 2018",
 		"id": 1011446470627733500,
 		"id_str": "1011446470627733506",
-		"text": "@teach42 doing a curling #pechaflickr @mayorofthenet https://t.co/rhUX67ja6y",
+		"full_text": "@teach42 doing a curling #pechaflickr @mayorofthenet https://t.co/rhUX67ja6y",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9087,16 +9258,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9127,18 +9298,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@teach42 doing a curling #pechaflickr @mayorofthenet https://t.co/rhUX67ja6y"
 	},
 	{
 		"created_at": "Tue Jun 26 02:48:04 +0000 2018",
 		"id": 1011440931344613400,
 		"id_str": "1011440931344613377",
-		"text": "@brynmw  https://t.co/oTstA20txN",
+		"full_text": "@brynmw  https://t.co/oTstA20txN",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			8
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9290,16 +9466,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9330,18 +9506,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@brynmw  https://t.co/oTstA20txN"
 	},
 	{
 		"created_at": "Tue Jun 26 02:35:17 +0000 2018",
 		"id": 1011437714640719900,
 		"id_str": "1011437714640719872",
-		"text": "@brynmw Cole Harbour",
+		"full_text": "@brynmw Cole Harbour",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			20
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9402,16 +9583,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9445,14 +9626,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@brynmw Cole Harbour"
 	},
 	{
 		"created_at": "Tue Jun 26 02:14:48 +0000 2018",
 		"id": 1011432559891361800,
 		"id_str": "1011432559891361793",
-		"text": "@jenorr You didn’t miss much.",
+		"full_text": "@jenorr You didn’t miss much.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			29
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9513,16 +9699,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9556,14 +9742,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jenorr You didn’t miss much."
 	},
 	{
 		"created_at": "Tue Jun 26 02:14:31 +0000 2018",
 		"id": 1011432490400088000,
 		"id_str": "1011432490400088064",
-		"text": "Fun game. I open up airdrop in crowded spaces and send out this photo and see who accepts. For a treat. https://t.co/qGo80iNFyC",
+		"full_text": "Fun game. I open up airdrop in crowded spaces and send out this photo and see who accepts. For a treat. https://t.co/qGo80iNFyC",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9691,16 +9882,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113445,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9730,19 +9921,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 8,
+		"retweet_count": 2,
+		"favorite_count": 44,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Fun game. I open up airdrop in crowded spaces and send out this photo and see who accepts. For a treat. https://t.co/qGo80iNFyC"
 	},
 	{
 		"created_at": "Tue Jun 26 01:52:33 +0000 2018",
 		"id": 1011426960772345900,
 		"id_str": "1011426960772345856",
-		"text": "To all those who voted for me:\nI hate you all. #edtechpoetryslam",
+		"full_text": "To all those who voted for me:\nI hate you all. #edtechpoetryslam",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9800,16 +9996,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113440,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9840,17 +10036,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "To all those who voted for me:\nI hate you all. #edtechpoetryslam"
 	},
 	{
 		"created_at": "Tue Jun 26 01:10:44 +0000 2018",
 		"id": 1011416435225133000,
 		"id_str": "1011416435225133056",
-		"text": "T-10 until I embarrass myself. #edtechpoetryslam",
+		"full_text": "T-10 until I embarrass myself. #edtechpoetryslam",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -9908,16 +10109,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37819,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113439,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9948,17 +10149,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "T-10 until I embarrass myself. #edtechpoetryslam"
 	},
 	{
 		"created_at": "Mon Jun 25 20:31:49 +0000 2018",
 		"id": 1011346246659960800,
 		"id_str": "1011346246659960835",
-		"text": "@mrpasz @iste Thank you David.",
+		"full_text": "@mrpasz @iste Thank you David.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10029,16 +10235,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37822,
-			"friends_count": 6810,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113437,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10072,14 +10278,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mrpasz @iste Thank you David."
 	},
 	{
 		"created_at": "Mon Jun 25 19:19:07 +0000 2018",
 		"id": 1011327951114252300,
 		"id_str": "1011327951114252289",
-		"text": "@afitzgerald Sorry no jumping. But in case you missed it. https://t.co/3fwYTcW2mM",
+		"full_text": "@afitzgerald Sorry no jumping. But in case you missed it. https://t.co/3fwYTcW2mM",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10218,16 +10429,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10262,14 +10473,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@afitzgerald Sorry no jumping. But in case you missed it. https://t.co/3fwYTcW2mM"
 	},
 	{
 		"created_at": "Mon Jun 25 19:17:48 +0000 2018",
 		"id": 1011327617721565200,
 		"id_str": "1011327617721565185",
-		"text": "@j_allen @wmchamberlain I’ve not had that happen yet.",
+		"full_text": "@j_allen @wmchamberlain I’ve not had that happen yet.",
 		"truncated": false,
+		"display_text_range": [
+			24,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10340,16 +10556,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10383,14 +10599,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@j_allen @wmchamberlain I’ve not had that happen yet."
 	},
 	{
 		"created_at": "Mon Jun 25 19:15:38 +0000 2018",
 		"id": 1011327072122363900,
 		"id_str": "1011327072122363909",
-		"text": "@mhuki1 Thank you Michelle.",
+		"full_text": "@mhuki1 Thank you Michelle.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10451,16 +10672,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10494,14 +10715,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mhuki1 Thank you Michelle."
 	},
 	{
 		"created_at": "Mon Jun 25 19:15:18 +0000 2018",
 		"id": 1011326990992003100,
 		"id_str": "1011326990992003072",
-		"text": "I love people adding to my session. Thanks Ed. #iste18 https://t.co/l3JtBXAxwx",
+		"full_text": "I love people adding to my session. Thanks Ed. #iste18 https://t.co/l3JtBXAxwx",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10569,16 +10795,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10610,12 +10836,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1011297381109915600,
 		"quoted_status_id_str": "1011297381109915650",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l3JtBXAxwx",
+			"expanded": "https://twitter.com/ecasey77/status/1011297381109915650",
+			"display": "twitter.com/ecasey77/statu…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 25 17:17:39 +0000 2018",
 			"id": 1011297381109915600,
 			"id_str": "1011297381109915650",
-			"text": "Even news programs can fall for fake video mentioned by @shareski in his Real or Fake #ISTE2018 session https://t.co/ov8SqtMmVP",
+			"full_text": "Even news programs can fall for fake video mentioned by @shareski in his Real or Fake #ISTE2018 session https://t.co/ov8SqtMmVP",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -10684,16 +10919,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3659,
+				"followers_count": 3867,
 				"friends_count": 5001,
-				"listed_count": 172,
+				"listed_count": 169,
 				"created_at": "Wed Feb 06 01:31:53 +0000 2013",
-				"favourites_count": 61576,
+				"favourites_count": 64470,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 11526,
+				"statuses_count": 12650,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -10764,18 +10999,23 @@ Grailbird.data.tweets_2018_06 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I love people adding to my session. Thanks Ed. #iste18 https://t.co/l3JtBXAxwx"
 	},
 	{
 		"created_at": "Mon Jun 25 19:14:17 +0000 2018",
 		"id": 1011326731612053500,
 		"id_str": "1011326731612053507",
-		"text": "@duke_lines Thanks for coming.",
+		"full_text": "@duke_lines Thanks for coming.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10836,16 +11076,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10879,21 +11119,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@duke_lines Thanks for coming."
 	},
 	{
 		"created_at": "Mon Jun 25 19:13:25 +0000 2018",
 		"id": 1011326513445310500,
 		"id_str": "1011326513445310464",
-		"text": "@FlintHillLMC @ITEFSTL Thanks Julie.",
+		"full_text": "@FlintHillLMC @ITEFSTL Thanks Julie.",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "FlintHillLMC",
-					"name": "𝙅𝙪𝙡𝙞𝙚 𝙅𝙖𝙢𝙞𝙚𝙨𝙤𝙣",
+					"name": "Julie Jamieson",
 					"id": 761730593457483800,
 					"id_str": "761730593457483777",
 					"indices": [
@@ -10957,16 +11202,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37821,
-			"friends_count": 6809,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113436,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11000,14 +11245,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@FlintHillLMC @ITEFSTL Thanks Julie."
 	},
 	{
 		"created_at": "Mon Jun 25 19:09:36 +0000 2018",
 		"id": 1011325555306827800,
 		"id_str": "1011325555306827776",
-		"text": "@amandacdykes @michellek107 1. Is that “stand there and watch me burn” new? 2. Is it appropriate if I sing it?",
+		"full_text": "@amandacdykes @michellek107 1. Is that “stand there and watch me burn” new? 2. Is it appropriate if I sing it?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11078,16 +11328,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37818,
-			"friends_count": 6802,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113430,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11118,17 +11368,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes @michellek107 1. Is that “stand there and watch me burn” new? 2. Is it appropriate if I sing it?"
 	},
 	{
 		"created_at": "Mon Jun 25 15:59:22 +0000 2018",
 		"id": 1011277679214125000,
 		"id_str": "1011277679214125058",
-		"text": "One session at #ISTE18 This is it. https://t.co/g7t2UEAufy",
+		"full_text": "One session at #ISTE18 This is it. https://t.co/g7t2UEAufy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -11196,16 +11451,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37793,
-			"friends_count": 6802,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113429,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11237,12 +11492,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1011272854996996100,
 		"quoted_status_id_str": "1011272854996996104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g7t2UEAufy",
+			"expanded": "https://twitter.com/DiscoveryEd/status/1011272854996996104",
+			"display": "twitter.com/DiscoveryEd/st…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 25 15:40:11 +0000 2018",
 			"id": 1011272854996996100,
 			"id_str": "1011272854996996104",
-			"text": "@ISTE18 - Media: Manipulated or Modified? Real or Fake? Are your learners becoming critical thinkers? Join… https://t.co/jvCa1WlVUS",
-			"truncated": true,
+			"full_text": "@ISTE18 - Media: Manipulated or Modified? Real or Fake? Are your learners becoming critical thinkers? Join @Shareski in rm W183c for practical strategies and activities around media and pedagogy https://t.co/YUlbsMq4Sn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -11256,17 +11520,95 @@ Grailbird.data.tweets_2018_06 =
 							0,
 							7
 						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							107,
+							116
+						]
 					}
 				],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/jvCa1WlVUS",
-						"expanded_url": "https://twitter.com/i/web/status/1011272854996996104",
-						"display_url": "twitter.com/i/web/status/1…",
+						"id": 1011272852748881900,
+						"id_str": "1011272852748881920",
 						"indices": [
-							108,
-							131
-						]
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/DgjDTTcX0AAZpAN.png",
+						"media_url_https": "https://pbs.twimg.com/media/DgjDTTcX0AAZpAN.png",
+						"url": "https://t.co/YUlbsMq4Sn",
+						"display_url": "pic.twitter.com/YUlbsMq4Sn",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/1011272854996996104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1833,
+								"h": 917,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1011272852748881900,
+						"id_str": "1011272852748881920",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/DgjDTTcX0AAZpAN.png",
+						"media_url_https": "https://pbs.twimg.com/media/DgjDTTcX0AAZpAN.png",
+						"url": "https://t.co/YUlbsMq4Sn",
+						"display_url": "pic.twitter.com/YUlbsMq4Sn",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/1011272854996996104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1833,
+								"h": 917,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
 					}
 				]
 			},
@@ -11282,7 +11624,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Discovery Education",
 				"screen_name": "DiscoveryEd",
 				"location": "Global",
-				"description": "Connecting teachers to their most powerful resources… Each other.",
+				"description": "The global leader in standards-based digital content for K-12.",
 				"url": "https://t.co/X3GaFiYvXQ",
 				"entities": {
 					"url": {
@@ -11303,16 +11645,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 373037,
-				"friends_count": 7534,
-				"listed_count": 4866,
+				"followers_count": 376791,
+				"friends_count": 7563,
+				"listed_count": 4917,
 				"created_at": "Tue Mar 20 20:07:27 +0000 2007",
-				"favourites_count": 5203,
+				"favourites_count": 6019,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 32091,
+				"statuses_count": 33203,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -11323,8 +11665,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1529419841",
-				"profile_link_color": "0000FF",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1541000041",
+				"profile_link_color": "3277B3",
 				"profile_sidebar_border_color": "87BC44",
 				"profile_sidebar_fill_color": "E0FF92",
 				"profile_text_color": "000000",
@@ -11342,26 +11684,31 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 2,
+			"retweet_count": 3,
+			"favorite_count": 5,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 1,
-		"favorite_count": 3,
+		"retweet_count": 3,
+		"favorite_count": 23,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "One session at #ISTE18 This is it. https://t.co/g7t2UEAufy"
 	},
 	{
 		"created_at": "Mon Jun 25 05:48:57 +0000 2018",
 		"id": 1011124066168770600,
 		"id_str": "1011124066168770560",
-		"text": "50 mothers and their 50 children with Down Syndrome sing to overthrow prejudices https://t.co/dQvs4icHcB",
+		"full_text": "50 mothers and their 50 children with Down Syndrome sing to overthrow prejudices https://t.co/dQvs4icHcB",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11421,16 +11768,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37790,
-			"friends_count": 6802,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113428,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11460,19 +11807,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 3,
+		"retweet_count": 9,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "50 mothers and their 50 children with Down Syndrome sing to overthrow prejudices https://t.co/dQvs4icHcB"
 	},
 	{
 		"created_at": "Sun Jun 24 23:52:33 +0000 2018",
 		"id": 1011034374412951600,
 		"id_str": "1011034374412951553",
-		"text": "@DanikaTipping Yep.",
+		"full_text": "@DanikaTipping Yep.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11533,16 +11885,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37786,
-			"friends_count": 6802,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113427,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11576,14 +11928,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@DanikaTipping Yep."
 	},
 	{
 		"created_at": "Sun Jun 24 23:09:42 +0000 2018",
 		"id": 1011023591373262800,
 		"id_str": "1011023591373262848",
-		"text": "I'm amazed and intrigued by the number of my students who use Teachers Pay Teachers.",
+		"full_text": "I'm amazed and intrigued by the number of my students who use Teachers Pay Teachers.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11633,16 +11990,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37785,
-			"friends_count": 6801,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113426,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11672,18 +12029,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
+		"retweet_count": 2,
+		"favorite_count": 18,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I'm amazed and intrigued by the number of my students who use Teachers Pay Teachers."
 	},
 	{
 		"created_at": "Sun Jun 24 23:03:06 +0000 2018",
 		"id": 1011021930219044900,
 		"id_str": "1011021930219044864",
-		"text": "@HallDavidson I'm impressed!",
+		"full_text": "@HallDavidson I'm impressed!",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11744,16 +12106,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37785,
-			"friends_count": 6801,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113426,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11784,17 +12146,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@HallDavidson I'm impressed!"
 	},
 	{
 		"created_at": "Sun Jun 24 19:20:53 +0000 2018",
 		"id": 1010966005663912000,
 		"id_str": "1010966005663911936",
-		"text": "\"'An Expensive Experiment': Gates Teacher-Effectiveness Program Shows No Gains for Students\" https://t.co/TVIyORmQgS",
+		"full_text": "\"'An Expensive Experiment': Gates Teacher-Effectiveness Program Shows No Gains for Students\" https://t.co/TVIyORmQgS",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11854,16 +12221,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37788,
-			"friends_count": 6800,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113424,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11893,57 +12260,129 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 1,
+		"retweet_count": 13,
+		"favorite_count": 14,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "\"'An Expensive Experiment': Gates Teacher-Effectiveness Program Shows No Gains for Students\" https://t.co/TVIyORmQgS"
 	},
 	{
-		"created_at": "Sun Jun 24 18:05:18 +0000 2018",
-		"id": 1010946984847532000,
-		"id_str": "1010946984847532033",
-		"text": "RT @Super70sSports: Bill Buckner is out at second moments before he and Phil Garner realize they were separated at birth. https://t.co/n9N1…",
+		"created_at": "Sun Jun 24 18:05:00 +0000 2018",
+		"id": 1010946910889365500,
+		"id_str": "1010946910889365508",
+		"full_text": "Bill Buckner is out at second moments before he and Phil Garner realize they were separated at birth. https://t.co/n9N1jrzEWq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "Super70sSports",
-					"name": "Super 70s Sports",
-					"id": 2259809232,
-					"id_str": "2259809232",
+					"id": 1010946907387170800,
+					"id_str": "1010946907387170816",
 					"indices": [
-						3,
-						18
-					]
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
+					"url": "https://t.co/n9N1jrzEWq",
+					"display_url": "pic.twitter.com/n9N1jrzEWq",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1010946910889365508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1122,
+							"h": 766,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010946907387170800,
+					"id_str": "1010946907387170816",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
+					"url": "https://t.co/n9N1jrzEWq",
+					"display_url": "pic.twitter.com/n9N1jrzEWq",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1010946910889365508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1122,
+							"h": 766,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 2259809232,
+			"id_str": "2259809232",
+			"name": "Super 70s Sports",
+			"screen_name": "Super70sSports",
+			"location": "Chicago, IL",
+			"description": "The Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
+			"url": "https://t.co/CRdgNzLuBm",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/CRdgNzLuBm",
+							"expanded_url": "http://www.therickycobb.com",
+							"display_url": "therickycobb.com",
 							"indices": [
 								0,
 								23
@@ -11954,48 +12393,48 @@ Grailbird.data.tweets_2018_06 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
+							"url": "https://t.co/kcxbZba1Ss",
+							"expanded_url": "http://www.Super70sSports.com",
+							"display_url": "Super70sSports.com",
 							"indices": [
-								127,
-								150
+								39,
+								62
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 37787,
-			"friends_count": 6800,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"followers_count": 203233,
+			"friends_count": 735,
+			"listed_count": 1328,
+			"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+			"favourites_count": 154966,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113423,
+			"verified": false,
+			"statuses_count": 19031,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -12004,198 +12443,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Jun 24 18:05:00 +0000 2018",
-			"id": 1010946910889365500,
-			"id_str": "1010946910889365508",
-			"text": "Bill Buckner is out at second moments before he and Phil Garner realize they were separated at birth. https://t.co/n9N1jrzEWq",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1010946907387170800,
-						"id_str": "1010946907387170816",
-						"indices": [
-							102,
-							125
-						],
-						"media_url": "http://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
-						"url": "https://t.co/n9N1jrzEWq",
-						"display_url": "pic.twitter.com/n9N1jrzEWq",
-						"expanded_url": "https://twitter.com/Super70sSports/status/1010946910889365508/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 1122,
-								"h": 766,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1122,
-								"h": 766,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 464,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1010946907387170800,
-						"id_str": "1010946907387170816",
-						"indices": [
-							102,
-							125
-						],
-						"media_url": "http://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/Dgea2yWXkAA25d5.jpg",
-						"url": "https://t.co/n9N1jrzEWq",
-						"display_url": "pic.twitter.com/n9N1jrzEWq",
-						"expanded_url": "https://twitter.com/Super70sSports/status/1010946910889365508/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 1122,
-								"h": 766,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1122,
-								"h": 766,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 464,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2259809232,
-				"id_str": "2259809232",
-				"name": "Super 70s Sports",
-				"screen_name": "Super70sSports",
-				"location": "Chicago, IL",
-				"description": "Subscribe to the Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
-				"url": "https://t.co/CRdgNzLuBm",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/CRdgNzLuBm",
-								"expanded_url": "http://www.therickycobb.com",
-								"display_url": "therickycobb.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/kcxbZba1Ss",
-								"expanded_url": "http://www.Super70sSports.com",
-								"display_url": "Super70sSports.com",
-								"indices": [
-									52,
-									75
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 173913,
-				"friends_count": 697,
-				"listed_count": 1190,
-				"created_at": "Tue Dec 24 04:55:10 +0000 2013",
-				"favourites_count": 156645,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 17278,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "ABB8C2",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
-				"profile_link_color": "3B94D9",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 40,
-			"favorite_count": 136,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 40,
-		"favorite_count": 0,
+		"retweet_count": 623,
+		"favorite_count": 2424,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bill Buckner is out at second moments before he and Phil Garner realize they were separated at birth. https://t.co/n9N1jrzEWq"
 	},
 	{
 		"created_at": "Sun Jun 24 18:04:10 +0000 2018",
 		"id": 1010946700234690600,
 		"id_str": "1010946700234690562",
-		"text": "@TheWeirdTeacher yes.",
+		"full_text": "@TheWeirdTeacher yes.",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			21
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12256,16 +12522,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37787,
-			"friends_count": 6800,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113423,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12296,17 +12562,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@TheWeirdTeacher yes."
 	},
 	{
 		"created_at": "Sun Jun 24 15:44:29 +0000 2018",
 		"id": 1010911548863369200,
 		"id_str": "1010911548863369216",
-		"text": "@bengrey @stumpteacher Gone early Tuesday. You guys will have to be idiots without me.",
+		"full_text": "@bengrey @stumpteacher Gone early Tuesday. You guys will have to be idiots without me.",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			86
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12377,16 +12648,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37785,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113421,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12420,14 +12691,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@bengrey @stumpteacher Gone early Tuesday. You guys will have to be idiots without me."
 	},
 	{
 		"created_at": "Sun Jun 24 03:15:16 +0000 2018",
 		"id": 1010723002248548400,
 		"id_str": "1010723002248548353",
-		"text": "This looks good. https://t.co/i4hLNfIAeY cc @budtheteacher",
+		"full_text": "This looks good. https://t.co/i4hLNfIAeY cc @budtheteacher",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12498,16 +12774,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37781,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113420,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12538,18 +12814,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This looks good. https://t.co/i4hLNfIAeY cc @budtheteacher"
 	},
 	{
 		"created_at": "Sun Jun 24 01:38:29 +0000 2018",
 		"id": 1010698643958100000,
 		"id_str": "1010698643958099968",
-		"text": "@timstahmer That'd be nice. It's a short one for me. Out early Tuesday.",
+		"full_text": "@timstahmer That'd be nice. It's a short one for me. Out early Tuesday.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			71
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12610,16 +12891,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37781,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113419,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12653,14 +12934,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@timstahmer That'd be nice. It's a short one for me. Out early Tuesday."
 	},
 	{
 		"created_at": "Sun Jun 24 01:22:46 +0000 2018",
 		"id": 1010694690423705600,
 		"id_str": "1010694690423705600",
-		"text": "@dannymaas https://t.co/kmmusZHVoY",
+		"full_text": "@dannymaas https://t.co/kmmusZHVoY",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12731,16 +13017,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37781,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113419,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12772,12 +13058,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1010322568023289900,
 		"quoted_status_id_str": "1010322568023289862",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kmmusZHVoY",
+			"expanded": "https://twitter.com/alyssaacorrine/status/1010322568023289862",
+			"display": "twitter.com/alyssaacorrine…"
+		},
 		"quoted_status": {
 			"created_at": "Sat Jun 23 00:44:05 +0000 2018",
 			"id": 1010322568023289900,
 			"id_str": "1010322568023289862",
-			"text": "When you realize you’re gonna be an Oiler https://t.co/BwwLY6eKXA",
+			"full_text": "When you realize you’re gonna be an Oiler https://t.co/BwwLY6eKXA",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -12905,7 +13200,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "alyssa",
 				"screen_name": "alyssaacorrine",
 				"location": "Chicago",
-				"description": "editor and contributor for @puckitupblog",
+				"description": "Editor and contributor for @puckitupblog",
 				"url": "https://t.co/e0Ji6xANpW",
 				"entities": {
 					"url": {
@@ -12926,16 +13221,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2061,
-				"friends_count": 472,
-				"listed_count": 56,
+				"followers_count": 2012,
+				"friends_count": 460,
+				"listed_count": 54,
 				"created_at": "Wed Nov 30 01:14:42 +0000 2011",
-				"favourites_count": 30289,
+				"favourites_count": 31204,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 94388,
+				"statuses_count": 94988,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -12944,8 +13239,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1000140319994798080/dVkHT2jw_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000140319994798080/dVkHT2jw_normal.jpg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026175259760893952/-o4mC-be_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026175259760893952/-o4mC-be_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/424648587/1490478615",
 				"profile_link_color": "4717E6",
 				"profile_sidebar_border_color": "FFFFFF",
@@ -12965,8 +13260,8 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 671,
-			"favorite_count": 2382,
+			"retweet_count": 740,
+			"favorite_count": 2739,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -12977,14 +13272,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@dannymaas https://t.co/kmmusZHVoY"
 	},
 	{
 		"created_at": "Sun Jun 24 01:05:26 +0000 2018",
 		"id": 1010690329174052900,
 		"id_str": "1010690329174052864",
-		"text": "@timstahmer I’m here. Hoping for the best.",
+		"full_text": "@timstahmer I’m here. Hoping for the best.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13045,16 +13345,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113417,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13088,14 +13388,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@timstahmer I’m here. Hoping for the best."
 	},
 	{
 		"created_at": "Sun Jun 24 01:02:56 +0000 2018",
 		"id": 1010689697834823700,
 		"id_str": "1010689697834823680",
-		"text": "What #iste18 sessions seem most interesting? Ones that aren’t filled with cliches and platitudes but that actually… https://t.co/wlPXLfprkY",
-		"truncated": true,
+		"full_text": "What #iste18 sessions seem most interesting? Ones that aren’t filled with cliches and platitudes but that actually might change your thinking? A session that will rattle around your brain for a while before it settles? I’m curious.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13108,17 +13413,7 @@ Grailbird.data.tweets_2018_06 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/wlPXLfprkY",
-					"expanded_url": "https://twitter.com/i/web/status/1010689697834823680",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -13163,16 +13458,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113417,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13202,18 +13497,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 4,
+		"retweet_count": 2,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What #iste18 sessions seem most interesting? Ones that aren’t filled with cliches and platitudes but that actually might change your thinking? A session that will rattle around your brain for a while before it settles? I’m curious."
 	},
 	{
 		"created_at": "Sun Jun 24 00:36:29 +0000 2018",
 		"id": 1010683042892075000,
 		"id_str": "1010683042892075008",
-		"text": "@stumpteacher @bengrey Sure.",
+		"full_text": "@stumpteacher @bengrey Sure.",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13284,16 +13584,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113417,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13327,14 +13627,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@stumpteacher @bengrey Sure."
 	},
 	{
 		"created_at": "Sun Jun 24 00:34:19 +0000 2018",
 		"id": 1010682496156160000,
 		"id_str": "1010682496156160002",
-		"text": "@hollorans I’m stupid in love with that kid.",
+		"full_text": "@hollorans I’m stupid in love with that kid.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13395,16 +13700,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113417,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13438,14 +13743,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@hollorans I’m stupid in love with that kid."
 	},
 	{
 		"created_at": "Sun Jun 24 00:28:33 +0000 2018",
 		"id": 1010681043865817100,
 		"id_str": "1010681043865817088",
-		"text": "I’m thinkin Shake Shack. #ISTE18",
+		"full_text": "I’m thinkin Shake Shack. #ISTE18",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13503,16 +13813,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113417,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13543,17 +13853,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’m thinkin Shake Shack. #ISTE18"
 	},
 	{
 		"created_at": "Sat Jun 23 21:31:24 +0000 2018",
 		"id": 1010636464588279800,
 		"id_str": "1010636464588279809",
-		"text": "This is why FaceTime was invented #harriethasmyheart https://t.co/Il9lyaQhgi",
+		"full_text": "This is why FaceTime was invented #harriethasmyheart https://t.co/Il9lyaQhgi",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13689,16 +14004,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37784,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113412,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13729,30 +14044,35 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 12,
+		"favorite_count": 76,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This is why FaceTime was invented #harriethasmyheart https://t.co/Il9lyaQhgi"
 	},
 	{
 		"created_at": "Sat Jun 23 20:37:18 +0000 2018",
 		"id": 1010622850862964700,
 		"id_str": "1010622850862964737",
-		"text": "I see way more of this in my travels. Sadly it’s a few, often powerful chuckleheads, who  promote and highlight div… https://t.co/77VJbJnKVW",
-		"truncated": true,
+		"full_text": "I see way more of this in my travels. Sadly it’s a few, often powerful chuckleheads, who  promote and highlight divisions among folks. https://t.co/AmpkrzRsti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/77VJbJnKVW",
-					"expanded_url": "https://twitter.com/i/web/status/1010622850862964737",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/AmpkrzRsti",
+					"expanded_url": "https://twitter.com/cultofpedagogy/status/1010287443143266304",
+					"display_url": "twitter.com/cultofpedagogy…",
 					"indices": [
-						117,
-						140
+						135,
+						158
 					]
 				}
 			]
@@ -13800,16 +14120,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37784,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113411,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13841,24 +14161,33 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1010287443143266300,
 		"quoted_status_id_str": "1010287443143266304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AmpkrzRsti",
+			"expanded": "https://twitter.com/cultofpedagogy/status/1010287443143266304",
+			"display": "twitter.com/cultofpedagogy…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jun 22 22:24:31 +0000 2018",
 			"id": 1010287443143266300,
 			"id_str": "1010287443143266304",
-			"text": "Need some good news. Please share photos and stories of people being good to each other. This is a start, but now I… https://t.co/N1EpdQFGjU",
-			"truncated": true,
+			"full_text": "Need some good news. Please share photos and stories of people being good to each other. This is a start, but now I want more. \nhttps://t.co/qJNIuWoUG4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/N1EpdQFGjU",
-						"expanded_url": "https://twitter.com/i/web/status/1010287443143266304",
-						"display_url": "twitter.com/i/web/status/1…",
+						"url": "https://t.co/qJNIuWoUG4",
+						"expanded_url": "http://thechive.com/2018/06/21/americans-from-all-walks-of-life-being-awesome-to-each-other-30-photos/",
+						"display_url": "thechive.com/2018/06/21/ame…",
 						"indices": [
-							117,
-							140
+							128,
+							151
 						]
 					}
 				]
@@ -13875,7 +14204,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Jennifer Gonzalez",
 				"screen_name": "cultofpedagogy",
 				"location": "Kentucky, USA",
-				"description": "I help teachers crush it in the classroom. CrossFit maniac. Find my courses at https://t.co/Qb99SWDEiH",
+				"description": "I help teachers crush it in the classroom. Love my family and CrossFit. Find my courses at https://t.co/Qb99SWDEiH",
 				"url": "http://t.co/B8cgBB9bin",
 				"entities": {
 					"url": {
@@ -13898,24 +14227,24 @@ Grailbird.data.tweets_2018_06 =
 								"expanded_url": "http://cultofpedagogy.teachable.com/",
 								"display_url": "cultofpedagogy.teachable.com",
 								"indices": [
-									79,
-									102
+									91,
+									114
 								]
 							}
 						]
 					}
 				},
 				"protected": false,
-				"followers_count": 58560,
-				"friends_count": 14524,
-				"listed_count": 1231,
+				"followers_count": 71871,
+				"friends_count": 17201,
+				"listed_count": 1320,
 				"created_at": "Thu Sep 19 00:23:44 +0000 2013",
-				"favourites_count": 24090,
+				"favourites_count": 30257,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 15448,
+				"statuses_count": 17161,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -13926,8 +14255,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_tile": true,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1881304950/1484712575",
-				"profile_link_color": "C92747",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1881304950/1532740814",
+				"profile_link_color": "847462",
 				"profile_sidebar_border_color": "EEEEEE",
 				"profile_sidebar_fill_color": "EFEFEF",
 				"profile_text_color": "333333",
@@ -13945,8 +14274,8 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 144,
-			"favorite_count": 481,
+			"retweet_count": 175,
+			"favorite_count": 577,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -13957,36 +14286,49 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I see way more of this in my travels. Sadly it’s a few, often powerful chuckleheads, who  promote and highlight divisions among folks. https://t.co/AmpkrzRsti"
 	},
 	{
-		"created_at": "Sat Jun 23 19:17:07 +0000 2018",
-		"id": 1010602672142061600,
-		"id_str": "1010602672142061568",
-		"text": "RT @DaneSadownyk: Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey @johnkor…",
+		"created_at": "Sat Jun 23 13:58:09 +0000 2018",
+		"id": 1010522402231668700,
+		"id_str": "1010522402231668736",
+		"full_text": "Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey @johnkorassa #ISTE18 https://t.co/5f9AyHu1uJ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "ISTE18",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "DaneSadownyk",
-					"name": "Dane Sadownyk",
-					"id": 2401850311,
-					"id_str": "2401850311",
-					"indices": [
-						3,
-						16
-					]
-				},
 				{
 					"screen_name": "trisharoffey",
 					"name": "Trisha Roffey",
 					"id": 459903904,
 					"id_str": "459903904",
 					"indices": [
-						117,
-						130
+						99,
+						112
+					]
+				},
+				{
+					"screen_name": "johnkorassa",
+					"name": "John",
+					"id": 294948071,
+					"id_str": "294948071",
+					"indices": [
+						113,
+						125
 					]
 				}
 			],
@@ -13996,85 +14338,140 @@ Grailbird.data.tweets_2018_06 =
 					"expanded_url": "https://conference.iste.org/2018/program/search/detail_session.php?id=110815594",
 					"display_url": "conference.iste.org/2018/program/s…",
 					"indices": [
-						93,
-						116
+						75,
+						98
 					]
+				}
+			],
+			"media": [
+				{
+					"id": 1010522031551602700,
+					"id_str": "1010522031551602689",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DgYYbwhW4AEgSKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgYYbwhW4AEgSKO.jpg",
+					"url": "https://t.co/5f9AyHu1uJ",
+					"display_url": "pic.twitter.com/5f9AyHu1uJ",
+					"expanded_url": "https://twitter.com/DaneSadownyk/status/1010522402231668736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010522031551602700,
+					"id_str": "1010522031551602689",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DgYYbwhW4AEgSKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgYYbwhW4AEgSKO.jpg",
+					"url": "https://t.co/5f9AyHu1uJ",
+					"display_url": "pic.twitter.com/5f9AyHu1uJ",
+					"expanded_url": "https://twitter.com/DaneSadownyk/status/1010522402231668736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 2401850311,
+			"id_str": "2401850311",
+			"name": "Dane Sadownyk",
+			"screen_name": "DaneSadownyk",
+			"location": "",
+			"description": "Ed Tech Consultant. I enjoy learning and empowering others with their tech goals. Google Cert Level 1 & 2, DENny Award Winner, DEN Star. #yeg #ECSD CAN",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37785,
-			"friends_count": 6799,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"followers_count": 650,
+			"friends_count": 630,
+			"listed_count": 44,
+			"created_at": "Fri Mar 21 16:47:43 +0000 2014",
+			"favourites_count": 945,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113410,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1217,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2401850311/1449545129",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -14083,128 +14480,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Jun 23 13:58:09 +0000 2018",
-			"id": 1010522402231668700,
-			"id_str": "1010522402231668736",
-			"text": "Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey… https://t.co/4VxBXrAVPn",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "trisharoffey",
-						"name": "Trisha Roffey",
-						"id": 459903904,
-						"id_str": "459903904",
-						"indices": [
-							99,
-							112
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/E8PWBVzKeB",
-						"expanded_url": "https://conference.iste.org/2018/program/search/detail_session.php?id=110815594",
-						"display_url": "conference.iste.org/2018/program/s…",
-						"indices": [
-							75,
-							98
-						]
-					},
-					{
-						"url": "https://t.co/4VxBXrAVPn",
-						"expanded_url": "https://twitter.com/i/web/status/1010522402231668736",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							114,
-							137
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2401850311,
-				"id_str": "2401850311",
-				"name": "Dane Sadownyk",
-				"screen_name": "DaneSadownyk",
-				"location": "",
-				"description": "Ed Tech Consultant. I enjoy learning and empowering others with their tech goals. Google Cert Level 1 & 2, DENny Award Winner, DEN Star. #yeg #ECSD CAN",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 540,
-				"friends_count": 537,
-				"listed_count": 44,
-				"created_at": "Fri Mar 21 16:47:43 +0000 2014",
-				"favourites_count": 659,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 1068,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2401850311/1449545129",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 9,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 13,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Coming to ISTE? Come check out our poster session on formative assessment! https://t.co/E8PWBVzKeB @trisharoffey @johnkorassa #ISTE18 https://t.co/5f9AyHu1uJ"
 	},
 	{
 		"created_at": "Sat Jun 23 19:11:51 +0000 2018",
 		"id": 1010601347434143700,
 		"id_str": "1010601347434143747",
-		"text": "@KtBkr4 @BeckyHare26 not quite. Still in NYC. My time at #iste18 will be brief hope to see you both.",
+		"full_text": "@KtBkr4 @BeckyHare26 not quite. Still in NYC. My time at #iste18 will be brief hope to see you both.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			100
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -14283,16 +14577,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37786,
-			"friends_count": 6799,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113409,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14323,17 +14617,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@KtBkr4 @BeckyHare26 not quite. Still in NYC. My time at #iste18 will be brief hope to see you both."
 	},
 	{
 		"created_at": "Sat Jun 23 16:05:09 +0000 2018",
 		"id": 1010554359740944400,
 		"id_str": "1010554359740944384",
-		"text": "Spending the morning shadowing my wife as she scours flea markets in #nyc https://t.co/oQDylhY5xa",
+		"full_text": "Spending the morning shadowing my wife as she scours flea markets in #nyc https://t.co/oQDylhY5xa",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -14469,16 +14768,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37787,
-			"friends_count": 6798,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113408,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14509,18 +14808,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Spending the morning shadowing my wife as she scours flea markets in #nyc https://t.co/oQDylhY5xa"
 	},
 	{
 		"created_at": "Sat Jun 23 15:17:28 +0000 2018",
 		"id": 1010542359346647000,
 		"id_str": "1010542359346647040",
-		"text": "@wmchamberlain  https://t.co/zY1JKl4nje",
+		"full_text": "@wmchamberlain  https://t.co/zY1JKl4nje",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14672,16 +14976,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37787,
-			"friends_count": 6798,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113408,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14716,14 +15020,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@wmchamberlain  https://t.co/zY1JKl4nje"
 	},
 	{
 		"created_at": "Fri Jun 22 23:37:32 +0000 2018",
 		"id": 1010305819169185800,
 		"id_str": "1010305819169185793",
-		"text": "Showtime https://t.co/iC9NuwSLjK",
+		"full_text": "Showtime https://t.co/iC9NuwSLjK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14851,16 +15160,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37785,
-			"friends_count": 6798,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113406,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14891,18 +15200,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Showtime https://t.co/iC9NuwSLjK"
 	},
 	{
 		"created_at": "Fri Jun 22 17:53:28 +0000 2018",
 		"id": 1010219231915360300,
 		"id_str": "1010219231915360256",
-		"text": "I just called to say I love you. https://t.co/EEMoWWEcVK",
+		"full_text": "I just called to say I love you. https://t.co/EEMoWWEcVK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15030,16 +15344,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6797,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113405,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15070,18 +15384,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 17,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just called to say I love you. https://t.co/EEMoWWEcVK"
 	},
 	{
 		"created_at": "Fri Jun 22 16:42:00 +0000 2018",
 		"id": 1010201247880605700,
 		"id_str": "1010201247880605696",
-		"text": "@marknkilmer Every. Single. Time. https://t.co/b4yMesSs9F",
+		"full_text": "@marknkilmer Every. Single. Time. https://t.co/b4yMesSs9F",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15233,16 +15552,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6797,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113404,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15273,18 +15592,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@marknkilmer Every. Single. Time. https://t.co/b4yMesSs9F"
 	},
 	{
 		"created_at": "Fri Jun 22 15:58:27 +0000 2018",
 		"id": 1010190286838878200,
 		"id_str": "1010190286838878208",
-		"text": "Always remember if a kid hands you a fake telephone, you answer it.  Every time.",
+		"full_text": "Always remember if a kid hands you a fake telephone, you answer it.  Every time.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15334,16 +15658,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6796,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113403,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15373,18 +15697,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 6,
+		"retweet_count": 6,
+		"favorite_count": 68,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Always remember if a kid hands you a fake telephone, you answer it.  Every time."
 	},
 	{
 		"created_at": "Fri Jun 22 15:41:23 +0000 2018",
 		"id": 1010185990168866800,
 		"id_str": "1010185990168866817",
-		"text": "@amandacdykes @michellek107  https://t.co/ibzY7pxGfI",
+		"full_text": "@amandacdykes @michellek107  https://t.co/ibzY7pxGfI",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15546,16 +15875,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6796,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113403,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15590,14 +15919,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@amandacdykes @michellek107  https://t.co/ibzY7pxGfI"
 	},
 	{
 		"created_at": "Fri Jun 22 15:36:37 +0000 2018",
 		"id": 1010184792489496600,
 		"id_str": "1010184792489496576",
-		"text": "@NurseKillam Thanks Laura, that means a lot.",
+		"full_text": "@NurseKillam Thanks Laura, that means a lot.",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15658,16 +15992,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37782,
-			"friends_count": 6796,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113403,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15701,14 +16035,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@NurseKillam Thanks Laura, that means a lot."
 	},
 	{
 		"created_at": "Fri Jun 22 14:57:30 +0000 2018",
 		"id": 1010174946746818600,
 		"id_str": "1010174946746818563",
-		"text": "@amandacdykes @michellek107 Shut it.  Both of you.",
+		"full_text": "@amandacdykes @michellek107 Shut it.  Both of you.",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15779,16 +16118,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15822,14 +16161,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes @michellek107 Shut it.  Both of you."
 	},
 	{
 		"created_at": "Fri Jun 22 14:56:57 +0000 2018",
 		"id": 1010174810700337200,
 		"id_str": "1010174810700337152",
-		"text": "@jkdncn @wmchamberlain Nice.",
+		"full_text": "@jkdncn @wmchamberlain Nice.",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15900,16 +16244,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15940,17 +16284,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jkdncn @wmchamberlain Nice."
 	},
 	{
 		"created_at": "Fri Jun 22 14:56:36 +0000 2018",
 		"id": 1010174721013571600,
 		"id_str": "1010174721013571589",
-		"text": "@wmchamberlain Journalist or PGA professional or rapper. While we’re fantasizing here add male model.",
+		"full_text": "@wmchamberlain Journalist or PGA professional or rapper. While we’re fantasizing here add male model.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16011,16 +16360,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16054,14 +16403,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@wmchamberlain Journalist or PGA professional or rapper. While we’re fantasizing here add male model."
 	},
 	{
 		"created_at": "Fri Jun 22 14:53:47 +0000 2018",
 		"id": 1010174013694533600,
 		"id_str": "1010174013694533633",
-		"text": "@21Tch Congratulations.",
+		"full_text": "@21Tch Congratulations.",
 		"truncated": false,
+		"display_text_range": [
+			7,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16122,16 +16476,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16162,17 +16516,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@21Tch Congratulations."
 	},
 	{
 		"created_at": "Fri Jun 22 14:52:59 +0000 2018",
 		"id": 1010173812158148600,
 		"id_str": "1010173812158148608",
-		"text": "@amandacdykes @michellek107 So new.",
+		"full_text": "@amandacdykes @michellek107 So new.",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16243,16 +16602,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16286,14 +16645,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes @michellek107 So new."
 	},
 	{
 		"created_at": "Fri Jun 22 14:50:56 +0000 2018",
 		"id": 1010173296401420300,
 		"id_str": "1010173296401420288",
-		"text": "@amandacdykes @michellek107 New? Ish? The Way You Move by Outkast Feat. Sleepy Brown. https://t.co/M9rIgDoF8F",
+		"full_text": "@amandacdykes @michellek107 New? Ish? The Way You Move by Outkast Feat. Sleepy Brown. https://t.co/M9rIgDoF8F",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16374,16 +16738,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16418,14 +16782,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes @michellek107 New? Ish? The Way You Move by Outkast Feat. Sleepy Brown. https://t.co/M9rIgDoF8F"
 	},
 	{
 		"created_at": "Fri Jun 22 14:35:50 +0000 2018",
 		"id": 1010169493820248000,
 		"id_str": "1010169493820248064",
-		"text": "@Starbucks I’m in NYC, location services on, shows stores but when i create an order I get this. https://t.co/OQ6TZm8xW9",
+		"full_text": "@Starbucks I’m in NYC, location services on, shows stores but when i create an order I get this. https://t.co/OQ6TZm8xW9",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16564,16 +16933,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37783,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 653,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113400,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16608,14 +16977,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Starbucks I’m in NYC, location services on, shows stores but when i create an order I get this. https://t.co/OQ6TZm8xW9"
 	},
 	{
 		"created_at": "Thu Jun 21 18:27:59 +0000 2018",
 		"id": 1009865530931638300,
 		"id_str": "1009865530931638272",
-		"text": "@amandacdykes  https://t.co/dKbvIiqDVT",
+		"full_text": "@amandacdykes  https://t.co/dKbvIiqDVT",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -16767,16 +17141,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37780,
-			"friends_count": 6795,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113393,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16811,14 +17185,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@amandacdykes  https://t.co/dKbvIiqDVT"
 	},
 	{
 		"created_at": "Thu Jun 21 18:08:45 +0000 2018",
 		"id": 1009860690281140200,
 		"id_str": "1009860690281140224",
-		"text": "Thanks for all you do! #sd36learn @Vendram1n https://t.co/Qy2MkWxKfV",
+		"full_text": "Thanks for all you do! #sd36learn @Vendram1n https://t.co/Qy2MkWxKfV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -16897,16 +17276,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37780,
-			"friends_count": 6794,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113392,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -16938,12 +17317,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1009654414208991200,
 		"quoted_status_id_str": "1009654414208991233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qy2MkWxKfV",
+			"expanded": "https://twitter.com/teachrcybrarian/status/1009654414208991233",
+			"display": "twitter.com/teachrcybraria…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Jun 21 04:29:05 +0000 2018",
 			"id": 1009654414208991200,
 			"id_str": "1009654414208991233",
-			"text": "⁦@shareski⁩ The “ATF” year-end, wind-up meeting. https://t.co/NwYg3BCsGU",
+			"full_text": "⁦@shareski⁩ The “ATF” year-end, wind-up meeting. https://t.co/NwYg3BCsGU",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -17072,16 +17460,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 239,
-				"friends_count": 358,
-				"listed_count": 5,
+				"followers_count": 259,
+				"friends_count": 367,
+				"listed_count": 6,
 				"created_at": "Thu Jun 11 21:22:05 +0000 2015",
-				"favourites_count": 1504,
+				"favourites_count": 1679,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 280,
+				"statuses_count": 305,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -17112,25 +17500,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 2,
+			"favorite_count": 7,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks for all you do! #sd36learn @Vendram1n https://t.co/Qy2MkWxKfV"
 	},
 	{
 		"created_at": "Thu Jun 21 18:07:46 +0000 2018",
 		"id": 1009860441332441100,
 		"id_str": "1009860441332441089",
-		"text": "For an upcoming event I’ve been asked to supply a walk up song. Suggestions?",
+		"full_text": "For an upcoming event I’ve been asked to supply a walk up song. Suggestions?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -17180,16 +17573,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37780,
-			"friends_count": 6794,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113392,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17220,29 +17613,34 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "For an upcoming event I’ve been asked to supply a walk up song. Suggestions?"
 	},
 	{
 		"created_at": "Thu Jun 21 15:31:21 +0000 2018",
 		"id": 1009821078204616700,
 		"id_str": "1009821078204616705",
-		"text": "This preface is exactly how we should frame things “Please read this to challenge me,debate me,offer data to show t… https://t.co/wj8VJzeTmM",
-		"truncated": true,
+		"full_text": "This preface is exactly how we should frame things “Please read this to challenge me,debate me,offer data to show that I’m wrong....we need to get more sophisticated about our thinking,especially in a world where foreign policy is being boiled down to 140” https://t.co/aldSGbyz4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/wj8VJzeTmM",
-					"expanded_url": "https://twitter.com/i/web/status/1009821078204616705",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/aldSGbyz4d",
+					"expanded_url": "https://medium.com/s/trustissues/the-messy-fourth-estate-a42c1586b657",
+					"display_url": "medium.com/s/trustissues/…",
 					"indices": [
-						117,
-						140
+						257,
+						280
 					]
 				}
 			]
@@ -17290,16 +17688,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37779,
-			"friends_count": 6794,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113390,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17329,26 +17727,31 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 2,
+		"retweet_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This preface is exactly how we should frame things “Please read this to challenge me,debate me,offer data to show that I’m wrong....we need to get more sophisticated about our thinking,especially in a world where foreign policy is being boiled down to 140” https://t.co/aldSGbyz4d"
 	},
 	{
 		"created_at": "Thu Jun 21 02:40:30 +0000 2018",
 		"id": 1009627088029089800,
 		"id_str": "1009627088029089794",
-		"text": "@mariagalanis @amandacdykes I would wait a long time to see you.",
+		"full_text": "@mariagalanis @amandacdykes I would wait a long time to see you.",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			64
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "mariagalanis",
-					"name": "Maria Galanis ☮️",
+					"name": "Maria (Galanis) Arfanakis☮️",
 					"id": 39313993,
 					"id_str": "39313993",
 					"indices": [
@@ -17412,16 +17815,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37778,
-			"friends_count": 6794,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113389,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17452,65 +17855,60 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mariagalanis @amandacdykes I would wait a long time to see you."
 	},
 	{
-		"created_at": "Thu Jun 21 01:44:58 +0000 2018",
-		"id": 1009613114168528900,
-		"id_str": "1009613114168528896",
-		"text": "RT @spencerideas: @shareski And sometimes silence is admitting you don’t have an informed opinion rather than not caring.",
+		"created_at": "Thu Jun 21 01:32:51 +0000 2018",
+		"id": 1009610063718338600,
+		"id_str": "1009610063718338561",
+		"full_text": "@shareski And sometimes silence is admitting you don’t have an informed opinion rather than not caring.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "spencerideas",
-					"name": "John Spencer",
-					"id": 18389166,
-					"id_str": "18389166",
-					"indices": [
-						3,
-						16
-					]
-				},
 				{
 					"screen_name": "shareski",
 					"name": "Dean Shareski",
 					"id": 739743,
 					"id_str": "739743",
 					"indices": [
-						18,
-						27
+						0,
+						9
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1009485495011688400,
+		"in_reply_to_status_id_str": "1009485495011688448",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 18389166,
+			"id_str": "18389166",
+			"name": "John Spencer",
+			"screen_name": "spencerideas",
+			"location": "Salem, OR",
+			"description": "I’m a professor and a maker. Sometimes I make things. Sometimes I make a difference. On a good day, I get to do both. Sketch videos at https://t.co/Z9fo6t9IpT",
+			"url": "https://t.co/Oxk869UE6p",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/Oxk869UE6p",
+							"expanded_url": "http://www.spencerauthor.com/about-me/",
+							"display_url": "spencerauthor.com/about-me/",
 							"indices": [
 								0,
 								23
@@ -17521,213 +17919,107 @@ Grailbird.data.tweets_2018_06 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
+							"url": "https://t.co/Z9fo6t9IpT",
+							"expanded_url": "http://spencervideos.com",
+							"display_url": "spencervideos.com",
 							"indices": [
-								127,
-								150
+								135,
+								158
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 37777,
-			"friends_count": 6794,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"followers_count": 36515,
+			"friends_count": 14784,
+			"listed_count": 1082,
+			"created_at": "Fri Dec 26 13:59:34 +0000 2008",
+			"favourites_count": 8257,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113388,
+			"verified": false,
+			"statuses_count": 59503,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039637675500871686/iS5IrbDs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039637675500871686/iS5IrbDs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18389166/1521428932",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jun 21 01:32:51 +0000 2018",
-			"id": 1009610063718338600,
-			"id_str": "1009610063718338561",
-			"text": "@shareski And sometimes silence is admitting you don’t have an informed opinion rather than not caring.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "shareski",
-						"name": "Dean Shareski",
-						"id": 739743,
-						"id_str": "739743",
-						"indices": [
-							0,
-							9
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": 1009485495011688400,
-			"in_reply_to_status_id_str": "1009485495011688448",
-			"in_reply_to_user_id": 739743,
-			"in_reply_to_user_id_str": "739743",
-			"in_reply_to_screen_name": "shareski",
-			"user": {
-				"id": 18389166,
-				"id_str": "18389166",
-				"name": "John Spencer",
-				"screen_name": "spencerideas",
-				"location": "Salem, OR",
-				"description": "I'm a professor who makes stuff. Sometimes I make things. Sometimes I make a difference. On a good day, I get to do both. Check out https://t.co/Z9fo6sS71j",
-				"url": "https://t.co/Oxk86aceXX",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/Oxk86aceXX",
-								"expanded_url": "http://www.spencerauthor.com/about-me/",
-								"display_url": "spencerauthor.com/about-me/",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/Z9fo6sS71j",
-								"expanded_url": "http://spencervideos.com",
-								"display_url": "spencervideos.com",
-								"indices": [
-									132,
-									155
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 34067,
-				"friends_count": 14838,
-				"listed_count": 1071,
-				"created_at": "Fri Dec 26 13:59:34 +0000 2008",
-				"favourites_count": 7375,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 58712,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "131516",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1009533020423053313/8YdHXebC_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009533020423053313/8YdHXebC_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18389166/1521428932",
-				"profile_link_color": "1B95E0",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "EFEFEF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "352cf4e7314da0b4",
-				"url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json",
-				"place_type": "city",
-				"name": "Grapevine",
-				"full_name": "Grapevine, TX",
-				"country_code": "US",
-				"country": "United States",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "352cf4e7314da0b4",
+			"url": "https://api.twitter.com/1.1/geo/id/352cf4e7314da0b4.json",
+			"place_type": "city",
+			"name": "Grapevine",
+			"full_name": "Grapevine, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								-97.129669,
-								32.8785707
-							],
-							[
-								-97.029639,
-								32.8785707
-							],
-							[
-								-97.029639,
-								32.985097
-							],
-							[
-								-97.129669,
-								32.985097
-							]
+							-97.129669,
+							32.8785707
+						],
+						[
+							-97.029639,
+							32.8785707
+						],
+						[
+							-97.029639,
+							32.985097
+						],
+						[
+							-97.129669,
+							32.985097
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 2,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 3,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "@shareski And sometimes silence is admitting you don’t have an informed opinion rather than not caring."
 	},
 	{
 		"created_at": "Thu Jun 21 01:37:01 +0000 2018",
 		"id": 1009611112697028600,
 		"id_str": "1009611112697028609",
-		"text": "This kid. https://t.co/cPlItz4Bws",
+		"full_text": "This kid. https://t.co/cPlItz4Bws",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -17787,16 +18079,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37777,
-			"friends_count": 6794,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113388,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17828,12 +18120,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1009566045559050200,
 		"quoted_status_id_str": "1009566045559050240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cPlItz4Bws",
+			"expanded": "https://twitter.com/Joe_Sanfelippo/status/1009566045559050240",
+			"display": "twitter.com/Joe_Sanfelippo…"
+		},
 		"quoted_status": {
 			"created_at": "Wed Jun 20 22:37:56 +0000 2018",
 			"id": 1009566045559050200,
 			"id_str": "1009566045559050240",
-			"text": "@shareski @rkiker @thomascmurray I tried to tell you... https://t.co/jSbxjD8LZB",
+			"full_text": "@shareski @rkiker @thomascmurray I tried to tell you... https://t.co/jSbxjD8LZB",
 			"truncated": false,
+			"display_text_range": [
+				33,
+				55
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -18023,16 +18324,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 26915,
-				"friends_count": 1584,
-				"listed_count": 711,
+				"followers_count": 30997,
+				"friends_count": 1684,
+				"listed_count": 726,
 				"created_at": "Wed Aug 17 03:54:24 +0000 2011",
-				"favourites_count": 18361,
+				"favourites_count": 20699,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 33912,
+				"statuses_count": 35801,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -18063,25 +18364,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 1,
+			"favorite_count": 4,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This kid. https://t.co/cPlItz4Bws"
 	},
 	{
 		"created_at": "Wed Jun 20 21:45:17 +0000 2018",
 		"id": 1009552795337277400,
 		"id_str": "1009552795337277440",
-		"text": "@Neilstephenson I do know one thing. Periscoping without a shirt can be dangerous. @mr_shortreed",
+		"full_text": "@Neilstephenson I do know one thing. Periscoping without a shirt can be dangerous. @mr_shortreed",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			96
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -18152,16 +18458,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37777,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113385,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18192,17 +18498,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Neilstephenson I do know one thing. Periscoping without a shirt can be dangerous. @mr_shortreed"
 	},
 	{
 		"created_at": "Wed Jun 20 21:12:09 +0000 2018",
 		"id": 1009544458176585700,
 		"id_str": "1009544458176585728",
-		"text": "@Joe_Sanfelippo @rkiker @thomascmurray  https://t.co/gmkTC056ox",
+		"full_text": "@Joe_Sanfelippo @rkiker @thomascmurray  https://t.co/gmkTC056ox",
 		"truncated": false,
+		"display_text_range": [
+			39,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -18374,16 +18685,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18414,40 +18725,35 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@Joe_Sanfelippo @rkiker @thomascmurray  https://t.co/gmkTC056ox"
 	},
 	{
-		"created_at": "Wed Jun 20 20:59:01 +0000 2018",
-		"id": 1009541151001542700,
-		"id_str": "1009541151001542656",
-		"text": "RT @owenpeery: @shareski @ShawnMcCusker That's super important, just don't chime in unless you know or want to know more",
+		"created_at": "Wed Jun 20 20:55:49 +0000 2018",
+		"id": 1009540346424877000,
+		"id_str": "1009540346424877056",
+		"full_text": "@shareski @ShawnMcCusker That's super important, just don't chime in unless you know or want to know more",
 		"truncated": false,
+		"display_text_range": [
+			25,
+			105
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
-					"id": 64242217,
-					"id_str": "64242217",
-					"indices": [
-						3,
-						13
-					]
-				},
 				{
 					"screen_name": "shareski",
 					"name": "Dean Shareski",
 					"id": 739743,
 					"id_str": "739743",
 					"indices": [
-						15,
-						24
+						0,
+						9
 					]
 				},
 				{
@@ -18456,34 +18762,34 @@ Grailbird.data.tweets_2018_06 =
 					"id": 143276350,
 					"id_str": "143276350",
 					"indices": [
-						25,
-						39
+						10,
+						24
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1009539423103520800,
+		"in_reply_to_status_id_str": "1009539423103520768",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 64242217,
+			"id_str": "64242217",
+			"name": "Mr. P.",
+			"screen_name": "owenpeery",
+			"location": "San Francisco, CA",
+			"description": "#nerd #CSinSF SFUSD: K-5 Computer Science Teacher Tweets are my own💡",
+			"url": "https://t.co/9pPWyHywJ4",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/9pPWyHywJ4",
+							"expanded_url": "http://owenpeery.com",
+							"display_url": "owenpeery.com",
 							"indices": [
 								0,
 								23
@@ -18492,215 +18798,99 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"followers_count": 2903,
+			"friends_count": 4979,
+			"listed_count": 161,
+			"created_at": "Sun Aug 09 20:05:47 +0000 2009",
+			"favourites_count": 4529,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113384,
+			"verified": false,
+			"statuses_count": 14974,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
+			"profile_background_color": "000000",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
-			"profile_use_background_image": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024294554814439426/O3sJ4rZh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024294554814439426/O3sJ4rZh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64242217/1509628099",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jun 20 20:55:49 +0000 2018",
-			"id": 1009540346424877000,
-			"id_str": "1009540346424877056",
-			"text": "@shareski @ShawnMcCusker That's super important, just don't chime in unless you know or want to know more",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "shareski",
-						"name": "Dean Shareski",
-						"id": 739743,
-						"id_str": "739743",
-						"indices": [
-							0,
-							9
-						]
-					},
-					{
-						"screen_name": "ShawnMcCusker",
-						"name": "Shawn McCusker",
-						"id": 143276350,
-						"id_str": "143276350",
-						"indices": [
-							10,
-							24
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": 1009539423103520800,
-			"in_reply_to_status_id_str": "1009539423103520768",
-			"in_reply_to_user_id": 739743,
-			"in_reply_to_user_id_str": "739743",
-			"in_reply_to_screen_name": "shareski",
-			"user": {
-				"id": 64242217,
-				"id_str": "64242217",
-				"name": "░O░w░e░n░ ░P░e░e░r░y░",
-				"screen_name": "owenpeery",
-				"location": "San Francisco, CA",
-				"description": "#nerd #CSinSF SFUSD TOSA: K-5 Computer Science Content Specialist Tweets are my own💡",
-				"url": "https://t.co/9pPWyHywJ4",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/9pPWyHywJ4",
-								"expanded_url": "http://owenpeery.com",
-								"display_url": "owenpeery.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2779,
-				"friends_count": 4892,
-				"listed_count": 163,
-				"created_at": "Sun Aug 09 20:05:47 +0000 2009",
-				"favourites_count": 4032,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 13691,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/923584084546166784/l0x4GD6C_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923584084546166784/l0x4GD6C_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64242217/1509628099",
-				"profile_link_color": "FF691F",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "5a110d312052166f",
-				"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
-				"place_type": "city",
-				"name": "San Francisco",
-				"full_name": "San Francisco, CA",
-				"country_code": "US",
-				"country": "United States",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "5a110d312052166f",
+			"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+			"place_type": "city",
+			"name": "San Francisco",
+			"full_name": "San Francisco, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								-122.514926,
-								37.708075
-							],
-							[
-								-122.357031,
-								37.708075
-							],
-							[
-								-122.357031,
-								37.833238
-							],
-							[
-								-122.514926,
-								37.833238
-							]
+							-122.514926,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.833238
+						],
+						[
+							-122.514926,
+							37.833238
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "@shareski @ShawnMcCusker That's super important, just don't chime in unless you know or want to know more"
 	},
 	{
 		"created_at": "Wed Jun 20 20:58:25 +0000 2018",
 		"id": 1009541002221248500,
 		"id_str": "1009541002221248513",
-		"text": "@Joe_Sanfelippo @rkiker @thomascmurray Oh crap, I forgot about her. Isn't she on break or something? Thinking about… https://t.co/N0lyovYy6k",
-		"truncated": true,
+		"full_text": "@Joe_Sanfelippo @rkiker @thomascmurray Oh crap, I forgot about her. Isn't she on break or something? Thinking about that sleeping dogs lie adage.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			145
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -18736,17 +18926,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/N0lyovYy6k",
-					"expanded_url": "https://twitter.com/i/web/status/1009541002221248513",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009540570950357000,
@@ -18791,16 +18971,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18831,24 +19011,29 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Joe_Sanfelippo @rkiker @thomascmurray Oh crap, I forgot about her. Isn't she on break or something? Thinking about that sleeping dogs lie adage."
 	},
 	{
 		"created_at": "Wed Jun 20 20:52:09 +0000 2018",
 		"id": 1009539423103520800,
 		"id_str": "1009539423103520768",
-		"text": "@owenpeery @ShawnMcCusker But we also get to say, \"this is an issue I won't be able to or choose not to investigate… https://t.co/IUj5APjAH3",
-		"truncated": true,
+		"full_text": "@owenpeery @ShawnMcCusker But we also get to say, \"this is an issue I won't be able to or choose not to investigate, therefore I'll not be chiming in\" If only people would admit that there research is limited to social media feeds. That should automatically exclude them from feeling confident.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			294
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -18867,17 +19052,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/IUj5APjAH3",
-					"expanded_url": "https://twitter.com/i/web/status/1009539423103520768",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009538190275825700,
@@ -18922,16 +19097,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18962,17 +19137,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @ShawnMcCusker But we also get to say, \"this is an issue I won't be able to or choose not to investigate, therefore I'll not be chiming in\" If only people would admit that there research is limited to social media feeds. That should automatically exclude them from feeling confident."
 	},
 	{
 		"created_at": "Wed Jun 20 20:46:26 +0000 2018",
 		"id": 1009537984121786400,
 		"id_str": "1009537984121786369",
-		"text": "@ShawnMcCusker @owenpeery That's what a great education looks like",
+		"full_text": "@ShawnMcCusker @owenpeery That's what a great education looks like",
 		"truncated": false,
+		"display_text_range": [
+			26,
+			66
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -18989,7 +19169,7 @@ Grailbird.data.tweets_2018_06 =
 				},
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19043,16 +19223,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19086,21 +19266,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@ShawnMcCusker @owenpeery That's what a great education looks like"
 	},
 	{
 		"created_at": "Wed Jun 20 20:46:00 +0000 2018",
 		"id": 1009537876105842700,
 		"id_str": "1009537876105842688",
-		"text": "@owenpeery @thebenhartman @ShawnMcCusker Exactly. I continue to argue, THIS WAY has so many limitations people igno… https://t.co/3j5FDZ5uRx",
-		"truncated": true,
+		"full_text": "@owenpeery @thebenhartman @ShawnMcCusker Exactly. I continue to argue, THIS WAY has so many limitations people ignore. Technology is not neutral. see: McLuhan, Postman et al",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			173
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19129,17 +19314,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/3j5FDZ5uRx",
-					"expanded_url": "https://twitter.com/i/web/status/1009537876105842688",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009537389813948400,
@@ -19184,16 +19359,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19227,14 +19402,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @thebenhartman @ShawnMcCusker Exactly. I continue to argue, THIS WAY has so many limitations people ignore. Technology is not neutral. see: McLuhan, Postman et al"
 	},
 	{
 		"created_at": "Wed Jun 20 20:40:54 +0000 2018",
 		"id": 1009536591029768200,
 		"id_str": "1009536591029768193",
-		"text": "Brilliant. https://t.co/ttWElPSMwF",
+		"full_text": "Brilliant. https://t.co/ttWElPSMwF",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -19294,16 +19474,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19335,25 +19515,133 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1008916394363248600,
 		"quoted_status_id_str": "1008916394363248640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ttWElPSMwF",
+			"expanded": "https://twitter.com/DrBradJohnson/status/1008916394363248640",
+			"display": "twitter.com/DrBradJohnson/…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 19 03:36:27 +0000 2018",
 			"id": 1008916394363248600,
 			"id_str": "1008916394363248640",
-			"text": "My cousin’s final request at her funeral was Backpacks full of supplies for needy students instead of flowers.  A t… https://t.co/WCFs9Gl3yo",
-			"truncated": true,
+			"full_text": "My cousin’s final request at her funeral was Backpacks full of supplies for needy students instead of flowers.  A teacher to the end. @TeachersNet   @edutopia  @EdWeekTeacher https://t.co/eGig25tYwH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
-				"user_mentions": [],
-				"urls": [
+				"user_mentions": [
 					{
-						"url": "https://t.co/WCFs9Gl3yo",
-						"expanded_url": "https://twitter.com/i/web/status/1008916394363248640",
-						"display_url": "twitter.com/i/web/status/1…",
+						"screen_name": "TeachersNet",
+						"name": "Teachers.Net",
+						"id": 20196266,
+						"id_str": "20196266",
 						"indices": [
-							117,
-							140
+							134,
+							146
 						]
+					},
+					{
+						"screen_name": "edutopia",
+						"name": "edutopia",
+						"id": 35415477,
+						"id_str": "35415477",
+						"indices": [
+							149,
+							158
+						]
+					},
+					{
+						"screen_name": "EdWeekTeacher",
+						"name": "EdWeek Teacher",
+						"id": 21118985,
+						"id_str": "21118985",
+						"indices": [
+							160,
+							174
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1008916385941073900,
+						"id_str": "1008916385941073920",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/DgBkG4gWsAAFUW3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgBkG4gWsAAFUW3.jpg",
+						"url": "https://t.co/eGig25tYwH",
+						"display_url": "pic.twitter.com/eGig25tYwH",
+						"expanded_url": "https://twitter.com/DrBradJohnson/status/1008916394363248640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1008916385941073900,
+						"id_str": "1008916385941073920",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/DgBkG4gWsAAFUW3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgBkG4gWsAAFUW3.jpg",
+						"url": "https://t.co/eGig25tYwH",
+						"display_url": "pic.twitter.com/eGig25tYwH",
+						"expanded_url": "https://twitter.com/DrBradJohnson/status/1008916394363248640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -19366,18 +19654,18 @@ Grailbird.data.tweets_2018_06 =
 			"user": {
 				"id": 257680378,
 				"id_str": "257680378",
-				"name": "Dr. Brad Johnson",
+				"name": "Brad Johnson",
 				"screen_name": "DrBradJohnson",
 				"location": "Atlanta, GA",
-				"description": "Educational & Leadership Author & Speaker. Professor.  Talents + Passions= Purpose. #TeachersFirst",
-				"url": "https://t.co/YNcpItOOX4",
+				"description": "One of the most engaging and entertaining speakers in education. Author of several books including Putting Teachers First. #Teachers1st",
+				"url": "https://t.co/Oc7lMktmyH",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/YNcpItOOX4",
-								"expanded_url": "https://www.amazon.com/School-Administrator-Leader-Maximizing-Leadership/dp/1138903515",
-								"display_url": "amazon.com/School-Adminis…",
+								"url": "https://t.co/Oc7lMktmyH",
+								"expanded_url": "http://www.doctorbradjohnson.com/",
+								"display_url": "doctorbradjohnson.com",
 								"indices": [
 									0,
 									23
@@ -19390,16 +19678,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3576,
-				"friends_count": 3574,
-				"listed_count": 75,
+				"followers_count": 4222,
+				"friends_count": 3792,
+				"listed_count": 76,
 				"created_at": "Fri Feb 25 23:24:37 +0000 2011",
-				"favourites_count": 2610,
+				"favourites_count": 3843,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1969,
+				"statuses_count": 2361,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -19408,10 +19696,10 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/837749071271997441/JEVLCI5a_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837749071271997441/JEVLCI5a_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257680378/1492979955",
-				"profile_link_color": "5BC236",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022142543587291141/1rJN6hkD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022142543587291141/1rJN6hkD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257680378/1536020667",
+				"profile_link_color": "000080",
 				"profile_sidebar_border_color": "000000",
 				"profile_sidebar_fill_color": "000000",
 				"profile_text_color": "000000",
@@ -19429,26 +19717,31 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1839,
-			"favorite_count": 9883,
+			"retweet_count": 3913,
+			"favorite_count": 16247,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 5,
+		"retweet_count": 8,
+		"favorite_count": 45,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Brilliant. https://t.co/ttWElPSMwF"
 	},
 	{
 		"created_at": "Wed Jun 20 20:40:09 +0000 2018",
 		"id": 1009536401405370400,
 		"id_str": "1009536401405370369",
-		"text": "@thebenhartman I think that's the key. We all should be asking more questions and making fewer claims.  What do you… https://t.co/hZVp2nRo8C",
-		"truncated": true,
+		"full_text": "@thebenhartman I think that's the key. We all should be asking more questions and making fewer claims.  What do you think? (see what I did there?)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			146
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -19464,17 +19757,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/hZVp2nRo8C",
-					"expanded_url": "https://twitter.com/i/web/status/1009536401405370369",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009535179352936400,
@@ -19519,16 +19802,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19562,21 +19845,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@thebenhartman I think that's the key. We all should be asking more questions and making fewer claims.  What do you think? (see what I did there?)"
 	},
 	{
 		"created_at": "Wed Jun 20 20:38:08 +0000 2018",
 		"id": 1009535894385233900,
 		"id_str": "1009535894385233927",
-		"text": "@owenpeery @ShawnMcCusker Maybe that's what I'm seeing.",
+		"full_text": "@owenpeery @ShawnMcCusker Maybe that's what I'm seeing.",
 		"truncated": false,
+		"display_text_range": [
+			26,
+			55
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19640,16 +19928,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19683,21 +19971,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @ShawnMcCusker Maybe that's what I'm seeing."
 	},
 	{
 		"created_at": "Wed Jun 20 20:32:15 +0000 2018",
 		"id": 1009534417180741600,
 		"id_str": "1009534417180741632",
-		"text": "@owenpeery @ShawnMcCusker I'm with you,involvement is not the issue, my issue is assuming you have all the answers… https://t.co/5K5aK9JbJn",
-		"truncated": true,
+		"full_text": "@owenpeery @ShawnMcCusker I'm with you,involvement is not the issue, my issue is assuming you have all the answers and anyone opposing is an idiot or evil. I think acknowledging your own ignorance puts you in a better position to advance a conversation and to learn. I question some folks desire to learn.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			305
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19716,17 +20009,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/5K5aK9JbJn",
-					"expanded_url": "https://twitter.com/i/web/status/1009534417180741632",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009533441006698500,
@@ -19771,16 +20054,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19811,24 +20094,29 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @ShawnMcCusker I'm with you,involvement is not the issue, my issue is assuming you have all the answers and anyone opposing is an idiot or evil. I think acknowledging your own ignorance puts you in a better position to advance a conversation and to learn. I question some folks desire to learn."
 	},
 	{
 		"created_at": "Wed Jun 20 20:25:43 +0000 2018",
 		"id": 1009532772283764700,
 		"id_str": "1009532772283764736",
-		"text": "@owenpeery @ShawnMcCusker That's true but even in those 2-3, the gaps in knowledge is pretty great in most people.… https://t.co/wXU2gwv7CA",
-		"truncated": true,
+		"full_text": "@owenpeery @ShawnMcCusker That's true but even in those 2-3, the gaps in knowledge is pretty great in most people. Few acknowledge the complexities and are willing to engage in conversation.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			190
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19847,17 +20135,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/wXU2gwv7CA",
-					"expanded_url": "https://twitter.com/i/web/status/1009532772283764736",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						116,
-						139
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009530208058105900,
@@ -19902,16 +20180,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113384,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -19945,21 +20223,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @ShawnMcCusker That's true but even in those 2-3, the gaps in knowledge is pretty great in most people. Few acknowledge the complexities and are willing to engage in conversation."
 	},
 	{
 		"created_at": "Wed Jun 20 20:10:52 +0000 2018",
 		"id": 1009529034898858000,
 		"id_str": "1009529034898857985",
-		"text": "@owenpeery @ShawnMcCusker Except, how does one decide which issues to research and investigate? Who decides what ma… https://t.co/Mh6K53GqOl",
-		"truncated": true,
+		"full_text": "@owenpeery @ShawnMcCusker Except, how does one decide which issues to research and investigate? Who decides what matters? Environment, economics, race, immigration, education, animal rights.... No one is expert or fully informed on these and the list goes way beyond this.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			272
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "owenpeery",
-					"name": "░O░w░e░n░ ░P░e░e░r░y░",
+					"name": "Mr. P.",
 					"id": 64242217,
 					"id_str": "64242217",
 					"indices": [
@@ -19978,17 +20261,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/Mh6K53GqOl",
-					"expanded_url": "https://twitter.com/i/web/status/1009529034898857985",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1009506682253148200,
@@ -20033,16 +20306,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37776,
-			"friends_count": 6793,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113374,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20076,30 +20349,128 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@owenpeery @ShawnMcCusker Except, how does one decide which issues to research and investigate? Who decides what matters? Environment, economics, race, immigration, education, animal rights.... No one is expert or fully informed on these and the list goes way beyond this."
 	},
 	{
-		"created_at": "Wed Jun 20 17:41:22 +0000 2018",
-		"id": 1009491409269936100,
-		"id_str": "1009491409269936129",
-		"text": "RT @hughtheteacher: Honoured to receive my DENny award in the mail today. Feeling the love of an awesome group of people/friends. Thank you…",
+		"created_at": "Wed Jun 20 03:06:54 +0000 2018",
+		"id": 1009271345958383600,
+		"id_str": "1009271345958383616",
+		"full_text": "Honoured to receive my DENny award in the mail today. Feeling the love of an awesome group of people/friends. Thank you @DiscoveryEd #denchat I look forward to seeing some of you soon at #densi2018 https://t.co/DXShTpARvR",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "hughtheteacher",
-					"name": "Hugh McDonald",
-					"id": 334500742,
-					"id_str": "334500742",
+					"text": "denchat",
 					"indices": [
-						3,
-						18
+						133,
+						141
+					]
+				},
+				{
+					"text": "densi2018",
+					"indices": [
+						187,
+						197
 					]
 				}
 			],
-			"urls": []
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1009271337842438100,
+					"id_str": "1009271337842438144",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/DgGm7zYU8AA0B0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgGm7zYU8AA0B0C.jpg",
+					"url": "https://t.co/DXShTpARvR",
+					"display_url": "pic.twitter.com/DXShTpARvR",
+					"expanded_url": "https://twitter.com/hughtheteacher/status/1009271345958383616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1009271337842438100,
+					"id_str": "1009271337842438144",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/DgGm7zYU8AA0B0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgGm7zYU8AA0B0C.jpg",
+					"url": "https://t.co/DXShTpARvR",
+					"display_url": "pic.twitter.com/DXShTpARvR",
+					"expanded_url": "https://twitter.com/hughtheteacher/status/1009271345958383616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -20108,20 +20479,20 @@ Grailbird.data.tweets_2018_06 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 334500742,
+			"id_str": "334500742",
+			"name": "Hugh McDonald",
+			"screen_name": "hughtheteacher",
+			"location": "Surrey, British Columbia",
+			"description": "Husband/Dad, Grade 6/7 Teacher/Learner @mcdclassroom try things, meaningful learning, youth sports, @discoveryed DENstar & DENLC #geniushour #sd36learn #gra18",
+			"url": "https://t.co/J3WpwR7qVh",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/J3WpwR7qVh",
+							"expanded_url": "http://hughtheteacher.wordpress.com/",
+							"display_url": "hughtheteacher.wordpress.com",
 							"indices": [
 								0,
 								23
@@ -20130,50 +20501,40 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37774,
-			"friends_count": 6792,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"followers_count": 8613,
+			"friends_count": 4402,
+			"listed_count": 362,
+			"created_at": "Wed Jul 13 05:56:48 +0000 2011",
+			"favourites_count": 9400,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113373,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25331,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/334500742/1500510762",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -20182,120 +20543,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jun 20 03:06:54 +0000 2018",
-			"id": 1009271345958383600,
-			"id_str": "1009271345958383616",
-			"text": "Honoured to receive my DENny award in the mail today. Feeling the love of an awesome group of people/friends. Thank… https://t.co/bd10qVkq1r",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/bd10qVkq1r",
-						"expanded_url": "https://twitter.com/i/web/status/1009271345958383616",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 334500742,
-				"id_str": "334500742",
-				"name": "Hugh McDonald",
-				"screen_name": "hughtheteacher",
-				"location": "Surrey, British Columbia",
-				"description": "Husband/Dad, Gr. 7 Teacher/Learner @mcdclassroom try things, meaningful learning, youth sports, DENstar, DEN LC, #geniushour #mysteryskype #sd36learn",
-				"url": "https://t.co/J3WpwQPQ3J",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/J3WpwQPQ3J",
-								"expanded_url": "http://hughtheteacher.wordpress.com/",
-								"display_url": "hughtheteacher.wordpress.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 8582,
-				"friends_count": 4268,
-				"listed_count": 366,
-				"created_at": "Wed Jul 13 05:56:48 +0000 2011",
-				"favourites_count": 8931,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 25056,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "709397",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900164481375846400/kOqpQubv_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334500742/1500510762",
-				"profile_link_color": "FF3300",
-				"profile_sidebar_border_color": "86A4A6",
-				"profile_sidebar_fill_color": "A0C5C7",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 13,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 0,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honoured to receive my DENny award in the mail today. Feeling the love of an awesome group of people/friends. Thank you @DiscoveryEd #denchat I look forward to seeing some of you soon at #densi2018 https://t.co/DXShTpARvR"
 	},
 	{
 		"created_at": "Wed Jun 20 17:37:58 +0000 2018",
 		"id": 1009490557528232000,
 		"id_str": "1009490557528231936",
-		"text": "@mavishoffman Given that challenge there are just some things that I have to say “I don’t know” and be done with it… https://t.co/Xq8eTmIrF4",
-		"truncated": true,
+		"full_text": "@mavishoffman Given that challenge there are just some things that I have to say “I don’t know” and be done with it. Some folks may charge me with ignorance or worse but that’s reality.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			185
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -20311,17 +20577,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/Xq8eTmIrF4",
-					"expanded_url": "https://twitter.com/i/web/status/1009490557528231936",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1009488651003179000,
@@ -20366,16 +20622,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37774,
-			"friends_count": 6792,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113373,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20409,14 +20665,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mavishoffman Given that challenge there are just some things that I have to say “I don’t know” and be done with it. Some folks may charge me with ignorance or worse but that’s reality."
 	},
 	{
 		"created_at": "Wed Jun 20 17:18:53 +0000 2018",
 		"id": 1009485754337148900,
 		"id_str": "1009485754337148928",
-		"text": "@thomascmurray @Joe_Sanfelippo @rkiker At 13 I was not a player nor did I sport a fu Manchu",
+		"full_text": "@thomascmurray @Joe_Sanfelippo @rkiker At 13 I was not a player nor did I sport a fu Manchu",
 		"truncated": false,
+		"display_text_range": [
+			39,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -20497,16 +20758,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37774,
-			"friends_count": 6792,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113373,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20537,32 +20798,27 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@thomascmurray @Joe_Sanfelippo @rkiker At 13 I was not a player nor did I sport a fu Manchu"
 	},
 	{
 		"created_at": "Wed Jun 20 17:17:52 +0000 2018",
 		"id": 1009485495011688400,
 		"id_str": "1009485495011688448",
-		"text": "“I’m not informed enough to have a valid opinion” that’s a statement I’d like more people to make. Given the myriad… https://t.co/GOy6w5xD9L",
-		"truncated": true,
+		"full_text": "“I’m not informed enough to have a valid opinion” that’s a statement I’d like more people to make. Given the myriad of issues, I’m skeptical of most that spew out certainty on complex topics. Doesn’t mean they aren’t right but I acknowledge my own ignorance.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/GOy6w5xD9L",
-					"expanded_url": "https://twitter.com/i/web/status/1009485495011688448",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -20607,16 +20863,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37774,
-			"friends_count": 6792,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113373,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20646,33 +20902,67 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 7,
+		"retweet_count": 17,
+		"favorite_count": 45,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“I’m not informed enough to have a valid opinion” that’s a statement I’d like more people to make. Given the myriad of issues, I’m skeptical of most that spew out certainty on complex topics. Doesn’t mean they aren’t right but I acknowledge my own ignorance."
 	},
 	{
 		"created_at": "Wed Jun 20 17:04:22 +0000 2018",
 		"id": 1009482101291286500,
 		"id_str": "1009482101291286528",
-		"text": "I’m needing to come up with a costume that reflects what I might have worn when I was 13. Looking for suggestions.… https://t.co/pcAha5LZ0H",
-		"truncated": true,
+		"full_text": "I’m needing to come up with a costume that reflects what I might have worn when I was 13. Looking for suggestions. @Joe_Sanfelippo @rkiker @thomascmurray #densi2018",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
+			"hashtags": [
 				{
-					"url": "https://t.co/pcAha5LZ0H",
-					"expanded_url": "https://twitter.com/i/web/status/1009482101291286528",
-					"display_url": "twitter.com/i/web/status/1…",
+					"text": "densi2018",
 					"indices": [
-						116,
-						139
+						154,
+						164
 					]
 				}
-			]
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"screen_name": "rkiker",
+					"name": "Rich Kiker",
+					"id": 19551063,
+					"id_str": "19551063",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"screen_name": "thomascmurray",
+					"name": "Tom Murray",
+					"id": 50447280,
+					"id_str": "50447280",
+					"indices": [
+						139,
+						153
+					]
+				}
+			],
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": null,
@@ -20717,16 +21007,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37774,
-			"friends_count": 6792,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113369,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20760,14 +21050,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’m needing to come up with a costume that reflects what I might have worn when I was 13. Looking for suggestions. @Joe_Sanfelippo @rkiker @thomascmurray #densi2018"
 	},
 	{
 		"created_at": "Wed Jun 20 16:00:35 +0000 2018",
 		"id": 1009466046892462100,
 		"id_str": "1009466046892462083",
-		"text": "I opted to do some work instead. https://t.co/gvlWTwG13b",
+		"full_text": "I opted to do some work instead. https://t.co/gvlWTwG13b",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -20895,16 +21190,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37773,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113368,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -20939,14 +21234,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I opted to do some work instead. https://t.co/gvlWTwG13b"
 	},
 	{
 		"created_at": "Wed Jun 20 01:11:02 +0000 2018",
 		"id": 1009242185965932500,
 		"id_str": "1009242185965932545",
-		"text": "@Afghanistanna My apologies.",
+		"full_text": "@Afghanistanna My apologies.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -21007,16 +21307,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37768,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113367,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21050,14 +21350,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Afghanistanna My apologies."
 	},
 	{
 		"created_at": "Tue Jun 19 20:22:09 +0000 2018",
 		"id": 1009169486870728700,
 		"id_str": "1009169486870728706",
-		"text": "Grateful for folks like @budtheteacher pursuing important ideas like this. https://t.co/uRgNvYGmNz",
+		"full_text": "Grateful for folks like @budtheteacher pursuing important ideas like this. https://t.co/uRgNvYGmNz",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -21128,16 +21433,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113366,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21169,12 +21474,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1009160756405809200,
 		"quoted_status_id_str": "1009160756405809152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uRgNvYGmNz",
+			"expanded": "https://twitter.com/budtheteacher/status/1009160756405809152",
+			"display": "twitter.com/budtheteacher/…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 19 19:47:28 +0000 2018",
 			"id": 1009160756405809200,
 			"id_str": "1009160756405809152",
-			"text": "Fresh podcast episode now available.  Me and @shareski talk about how to talk to each other in social media spaces.… https://t.co/pwO0iNOjNk",
-			"truncated": true,
+			"full_text": "Fresh podcast episode now available.  Me and @shareski talk about how to talk to each other in social media spaces.  Or not. https://t.co/bZUa63nkUu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -21192,12 +21506,12 @@ Grailbird.data.tweets_2018_06 =
 				],
 				"urls": [
 					{
-						"url": "https://t.co/pwO0iNOjNk",
-						"expanded_url": "https://twitter.com/i/web/status/1009160756405809152",
-						"display_url": "twitter.com/i/web/status/1…",
+						"url": "https://t.co/bZUa63nkUu",
+						"expanded_url": "https://twitter.com/MoreCivil/status/1009158196278198272",
+						"display_url": "twitter.com/MoreCivil/stat…",
 						"indices": [
-							117,
-							140
+							125,
+							148
 						]
 					}
 				]
@@ -21235,16 +21549,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12424,
-				"friends_count": 3280,
-				"listed_count": 763,
+				"followers_count": 12359,
+				"friends_count": 3417,
+				"listed_count": 765,
 				"created_at": "Sun Mar 18 16:35:08 +0000 2007",
-				"favourites_count": 7252,
+				"favourites_count": 9399,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 55418,
+				"statuses_count": 56834,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -21253,8 +21567,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000786928081/2e0a6d0982212f82946023169129c4f8_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000786928081/2e0a6d0982212f82946023169129c4f8_normal.jpeg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022503782142246913/v_ebzwI6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022503782142246913/v_ebzwI6_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1424681/1399931072",
 				"profile_link_color": "0000FF",
 				"profile_sidebar_border_color": "87BC44",
@@ -21276,26 +21590,36 @@ Grailbird.data.tweets_2018_06 =
 			"is_quote_status": true,
 			"quoted_status_id": 1009158196278198300,
 			"quoted_status_id_str": "1009158196278198272",
+			"quoted_status_permalink": {
+				"url": "https://t.co/bZUa63nkUu",
+				"expanded": "https://twitter.com/MoreCivil/status/1009158196278198272",
+				"display": "twitter.com/MoreCivil/stat…"
+			},
 			"retweet_count": 1,
-			"favorite_count": 2,
+			"favorite_count": 3,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Grateful for folks like @budtheteacher pursuing important ideas like this. https://t.co/uRgNvYGmNz"
 	},
 	{
 		"created_at": "Tue Jun 19 13:52:59 +0000 2018",
 		"id": 1009071549536563200,
 		"id_str": "1009071549536563200",
-		"text": "How our vacation started. https://t.co/uRHYKHy6Qo",
+		"full_text": "How our vacation started. https://t.co/uRHYKHy6Qo",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -21454,16 +21778,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37767,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113365,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21494,18 +21818,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "How our vacation started. https://t.co/uRHYKHy6Qo"
 	},
 	{
 		"created_at": "Tue Jun 19 03:39:59 +0000 2018",
 		"id": 1008917284126101500,
 		"id_str": "1008917284126101510",
-		"text": "I’m doing an entire session at #ISTE2018 on this tweet. Join me Monday at 11:30am if you’re curious. Loads of pract… https://t.co/bt8Kh513KF",
-		"truncated": true,
+		"full_text": "I’m doing an entire session at #ISTE2018 on this tweet. Join me Monday at 11:30am if you’re curious. Loads of practical take aways. https://t.co/wgjPoXPbqO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -21518,15 +21847,83 @@ Grailbird.data.tweets_2018_06 =
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/bt8Kh513KF",
-					"expanded_url": "https://twitter.com/i/web/status/1008917284126101510",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1008917278090580000,
+					"id_str": "1008917278090579968",
 					"indices": [
-						117,
-						140
-					]
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DgBk60BX0AAIhPe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgBk60BX0AAIhPe.jpg",
+					"url": "https://t.co/wgjPoXPbqO",
+					"display_url": "pic.twitter.com/wgjPoXPbqO",
+					"expanded_url": "https://twitter.com/shareski/status/1008917284126101510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1008917278090580000,
+					"id_str": "1008917278090579968",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DgBk60BX0AAIhPe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgBk60BX0AAIhPe.jpg",
+					"url": "https://t.co/wgjPoXPbqO",
+					"display_url": "pic.twitter.com/wgjPoXPbqO",
+					"expanded_url": "https://twitter.com/shareski/status/1008917284126101510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -21573,16 +21970,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113364,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21612,26 +22009,31 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 4,
+		"retweet_count": 8,
+		"favorite_count": 72,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’m doing an entire session at #ISTE2018 on this tweet. Join me Monday at 11:30am if you’re curious. Loads of practical take aways. https://t.co/wgjPoXPbqO"
 	},
 	{
 		"created_at": "Tue Jun 19 03:11:57 +0000 2018",
 		"id": 1008910225703948300,
 		"id_str": "1008910225703948288",
-		"text": "@AP_KRachel I have 3 skills, this is one of them. Thank you.",
+		"full_text": "@AP_KRachel I have 3 skills, this is one of them. Thank you.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "AP_KRachel",
-					"name": "Kahliah Rachel",
+					"name": "📚Kahliah Rachel💡",
 					"id": 3021261731,
 					"id_str": "3021261731",
 					"indices": [
@@ -21685,16 +22087,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113364,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21728,14 +22130,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@AP_KRachel I have 3 skills, this is one of them. Thank you."
 	},
 	{
 		"created_at": "Tue Jun 19 03:08:47 +0000 2018",
 		"id": 1008909429461475300,
 		"id_str": "1008909429461475329",
-		"text": "Are you mad? Just count to 4. https://t.co/njbqfscfVh",
+		"full_text": "Are you mad? Just count to 4. https://t.co/njbqfscfVh",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -21795,16 +22202,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113363,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21834,19 +22241,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 1,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Are you mad? Just count to 4. https://t.co/njbqfscfVh"
 	},
 	{
 		"created_at": "Tue Jun 19 02:53:39 +0000 2018",
 		"id": 1008905620379095000,
 		"id_str": "1008905620379095040",
-		"text": "Well done Sherri. Thank you. https://t.co/nKuaFoZyqT",
+		"full_text": "Well done Sherri. Thank you. https://t.co/nKuaFoZyqT",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -21906,16 +22318,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113363,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -21947,14 +22359,38 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1008903548329852900,
 		"quoted_status_id_str": "1008903548329852928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nKuaFoZyqT",
+			"expanded": "https://twitter.com/sherriharach/status/1008903548329852928",
+			"display": "twitter.com/sherriharach/s…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 19 02:45:25 +0000 2018",
 			"id": 1008903548329852900,
 			"id_str": "1008903548329852928",
-			"text": "It’s official! Thank you @KelliHolden @shareski @JasonBuccheri for giving me the opportunity to learn how to implem… https://t.co/Ch6HLePFs9",
-			"truncated": true,
+			"full_text": "It’s official! Thank you @KelliHolden @shareski @JasonBuccheri for giving me the opportunity to learn how to implement @DiscoveryEd in my classroom! #psd70 #Prescottpsd70 https://t.co/DaqcvXMqvM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
 			"entities": {
-				"hashtags": [],
+				"hashtags": [
+					{
+						"text": "psd70",
+						"indices": [
+							149,
+							155
+						]
+					},
+					{
+						"text": "Prescottpsd70",
+						"indices": [
+							156,
+							170
+						]
+					}
+				],
 				"symbols": [],
 				"user_mentions": [
 					{
@@ -21986,17 +22422,95 @@ Grailbird.data.tweets_2018_06 =
 							48,
 							62
 						]
+					},
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							119,
+							131
+						]
 					}
 				],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/Ch6HLePFs9",
-						"expanded_url": "https://twitter.com/i/web/status/1008903548329852928",
-						"display_url": "twitter.com/i/web/status/1…",
+						"id": 1008903541598163000,
+						"id_str": "1008903541598162946",
 						"indices": [
-							117,
-							140
-						]
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/DgBYbPmXkAIWRU7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgBYbPmXkAIWRU7.jpg",
+						"url": "https://t.co/DaqcvXMqvM",
+						"display_url": "pic.twitter.com/DaqcvXMqvM",
+						"expanded_url": "https://twitter.com/sherriharach/status/1008903548329852928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1008903541598163000,
+						"id_str": "1008903541598162946",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/DgBYbPmXkAIWRU7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgBYbPmXkAIWRU7.jpg",
+						"url": "https://t.co/DaqcvXMqvM",
+						"display_url": "pic.twitter.com/DaqcvXMqvM",
+						"expanded_url": "https://twitter.com/sherriharach/status/1008903548329852928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -22033,16 +22547,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 113,
-				"friends_count": 144,
+				"followers_count": 119,
+				"friends_count": 156,
 				"listed_count": 0,
 				"created_at": "Wed May 11 16:32:42 +0000 2016",
-				"favourites_count": 369,
+				"favourites_count": 501,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 144,
+				"statuses_count": 172,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -22071,26 +22585,31 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 3,
+			"retweet_count": 3,
+			"favorite_count": 10,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Well done Sherri. Thank you. https://t.co/nKuaFoZyqT"
 	},
 	{
 		"created_at": "Tue Jun 19 02:44:18 +0000 2018",
 		"id": 1008903270625095700,
 		"id_str": "1008903270625095681",
-		"text": "@Trianglemancsd  https://t.co/lfDml0azIU",
+		"full_text": "@Trianglemancsd  https://t.co/lfDml0azIU",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -22242,16 +22761,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113363,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22286,14 +22805,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@Trianglemancsd  https://t.co/lfDml0azIU"
 	},
 	{
 		"created_at": "Tue Jun 19 02:42:32 +0000 2018",
 		"id": 1008902825101922300,
 		"id_str": "1008902825101922304",
-		"text": "@Trianglemancsd I feel like if you heard it, you'd be swept away like she should have been.",
+		"full_text": "@Trianglemancsd I feel like if you heard it, you'd be swept away like she should have been.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -22354,16 +22878,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113363,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22397,29 +22921,24 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Trianglemancsd I feel like if you heard it, you'd be swept away like she should have been."
 	},
 	{
 		"created_at": "Tue Jun 19 02:36:47 +0000 2018",
 		"id": 1008901376859131900,
 		"id_str": "1008901376859131904",
-		"text": "I was whistling the theme to the Andy Griffith show. My wife said it was annoying. I disagreed and called it serena… https://t.co/pwl1hZ8OWD",
-		"truncated": true,
+		"full_text": "I was whistling the theme to the Andy Griffith show. My wife said it was annoying. I disagreed and called it serenading. We seem to be at an impasse.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/pwl1hZ8OWD",
-					"expanded_url": "https://twitter.com/i/web/status/1008901376859131904",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
@@ -22464,16 +22983,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6791,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113363,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22504,17 +23023,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 6,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I was whistling the theme to the Andy Griffith show. My wife said it was annoying. I disagreed and called it serenading. We seem to be at an impasse."
 	},
 	{
 		"created_at": "Tue Jun 19 01:46:28 +0000 2018",
 		"id": 1008888712883826700,
 		"id_str": "1008888712883826688",
-		"text": "Knowing Stuff Still Matters. https://t.co/RLIZKQuKwz Via @chrkennedy",
+		"full_text": "Knowing Stuff Still Matters. https://t.co/RLIZKQuKwz Via @chrkennedy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -22585,16 +23109,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113357,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22625,18 +23149,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Knowing Stuff Still Matters. https://t.co/RLIZKQuKwz Via @chrkennedy"
 	},
 	{
 		"created_at": "Tue Jun 19 00:01:01 +0000 2018",
 		"id": 1008862178273841200,
 		"id_str": "1008862178273841154",
-		"text": "Start spreading’ the news..... #nyc",
+		"full_text": "Start spreading’ the news..... #nyc",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -22694,16 +23223,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113356,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22737,14 +23266,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Start spreading’ the news..... #nyc"
 	},
 	{
 		"created_at": "Mon Jun 18 23:01:45 +0000 2018",
 		"id": 1008847264457089000,
 		"id_str": "1008847264457089024",
-		"text": "@ACAltitude not sure the value of having bags tagged priority when none of the first 25 bags to appear are tagged here at LaGuardia.",
+		"full_text": "@ACAltitude not sure the value of having bags tagged priority when none of the first 25 bags to appear are tagged here at LaGuardia.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -22805,16 +23339,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113355,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22848,14 +23382,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@ACAltitude not sure the value of having bags tagged priority when none of the first 25 bags to appear are tagged here at LaGuardia."
 	},
 	{
 		"created_at": "Mon Jun 18 20:32:06 +0000 2018",
 		"id": 1008809600861311000,
 		"id_str": "1008809600861310977",
-		"text": "@Tauji_ Yeah, that’ll do it. Did you get a nickname? That fainting girl?",
+		"full_text": "@Tauji_ Yeah, that’ll do it. Did you get a nickname? That fainting girl?",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			72
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -22916,16 +23455,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113354,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -22959,14 +23498,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Tauji_ Yeah, that’ll do it. Did you get a nickname? That fainting girl?"
 	},
 	{
 		"created_at": "Mon Jun 18 20:31:13 +0000 2018",
 		"id": 1008809380651982800,
 		"id_str": "1008809380651982850",
-		"text": "So I wasn’t lying. https://t.co/VwvOJViedC",
+		"full_text": "So I wasn’t lying. https://t.co/VwvOJViedC",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23026,16 +23570,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113354,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23067,12 +23611,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1008808724088139800,
 		"quoted_status_id_str": "1008808724088139777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VwvOJViedC",
+			"expanded": "https://twitter.com/schneiderbrandt/status/1008808724088139777",
+			"display": "twitter.com/schneiderbrand…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 18 20:28:37 +0000 2018",
 			"id": 1008808724088139800,
 			"id_str": "1008808724088139777",
-			"text": "@shareski Hey Dean, thanks for all your insightful, life changing tweets but can you share us another Harriet video… https://t.co/l4KVQL8SXU",
-			"truncated": true,
+			"full_text": "@shareski Hey Dean, thanks for all your insightful, life changing tweets but can you share us another Harriet video.  Honestly  I feel I know all of your (and @timlauer) family because of it.  Love watching her grow up.",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				219
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -23086,19 +23639,19 @@ Grailbird.data.tweets_2018_06 =
 							0,
 							9
 						]
-					}
-				],
-				"urls": [
+					},
 					{
-						"url": "https://t.co/l4KVQL8SXU",
-						"expanded_url": "https://twitter.com/i/web/status/1008808724088139777",
-						"display_url": "twitter.com/i/web/status/1…",
+						"screen_name": "timlauer",
+						"name": "Tim Lauer",
+						"id": 673153,
+						"id_str": "673153",
 						"indices": [
-							117,
-							140
+							159,
+							168
 						]
 					}
-				]
+				],
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 			"in_reply_to_status_id": 1008791695197122600,
@@ -23112,7 +23665,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Brandt Schneider",
 				"screen_name": "SchneiderBrandt",
 				"location": "Southbury, CT",
-				"description": "Music teacher at Seymour High School in CT",
+				"description": "",
 				"url": "https://t.co/9MeLb2LCKg",
 				"entities": {
 					"url": {
@@ -23133,16 +23686,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 220,
-				"friends_count": 217,
+				"followers_count": 230,
+				"friends_count": 219,
 				"listed_count": 16,
 				"created_at": "Sun Jan 26 13:36:22 +0000 2014",
-				"favourites_count": 805,
+				"favourites_count": 963,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 4278,
+				"statuses_count": 4405,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -23173,7 +23726,7 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 1,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -23183,27 +23736,131 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "So I wasn’t lying. https://t.co/VwvOJViedC"
 	},
 	{
 		"created_at": "Mon Jun 18 19:20:57 +0000 2018",
 		"id": 1008791695197122600,
 		"id_str": "1008791695197122560",
-		"text": "People say to me all the time...“Hey Dean, thanks for all your insightful, life changing tweets but can you share u… https://t.co/SaA6Njjlu9",
-		"truncated": true,
+		"full_text": "People say to me all the time...“Hey Dean, thanks for all your insightful, life changing tweets but can you share us another Harriet video?” (Okay, no ones ever said that to me but I don’t care) https://t.co/BfBYsAh3kx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/SaA6Njjlu9",
-					"expanded_url": "https://twitter.com/i/web/status/1008791695197122560",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 1008791638326456300,
+					"id_str": "1008791638326456320",
 					"indices": [
-						117,
-						140
-					]
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008791638326456320/pu/img/mmIGbv4IAluiHPd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008791638326456320/pu/img/mmIGbv4IAluiHPd9.jpg",
+					"url": "https://t.co/BfBYsAh3kx",
+					"display_url": "pic.twitter.com/BfBYsAh3kx",
+					"expanded_url": "https://twitter.com/shareski/status/1008791695197122560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1008791638326456300,
+					"id_str": "1008791638326456320",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1008791638326456320/pu/img/mmIGbv4IAluiHPd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1008791638326456320/pu/img/mmIGbv4IAluiHPd9.jpg",
+					"url": "https://t.co/BfBYsAh3kx",
+					"display_url": "pic.twitter.com/BfBYsAh3kx",
+					"expanded_url": "https://twitter.com/shareski/status/1008791695197122560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1008791638326456320/pu/vid/360x640/dwgtwb1fQbGoV2Y3.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1008791638326456320/pu/pl/qAKk0-px0c14SYZv.m3u8?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1008791638326456320/pu/vid/720x1280/OKMDsPs3gA-qCo4Q.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1008791638326456320/pu/vid/180x320/O7QXNmLfLyX_DcG7.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
 				}
 			]
 		},
@@ -23250,16 +23907,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113352,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23290,18 +23947,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 28,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "People say to me all the time...“Hey Dean, thanks for all your insightful, life changing tweets but can you share us another Harriet video?” (Okay, no ones ever said that to me but I don’t care) https://t.co/BfBYsAh3kx"
 	},
 	{
 		"created_at": "Mon Jun 18 19:15:25 +0000 2018",
 		"id": 1008790305414565900,
 		"id_str": "1008790305414565889",
-		"text": "@courosa Probably not.",
+		"full_text": "@courosa Probably not.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			22
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23362,16 +24024,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113352,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23405,14 +24067,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@courosa Probably not."
 	},
 	{
 		"created_at": "Mon Jun 18 18:52:56 +0000 2018",
 		"id": 1008784644920299500,
 		"id_str": "1008784644920299520",
-		"text": "@courosa Nope. https://t.co/yhDk7kXbUU",
+		"full_text": "@courosa Nope. https://t.co/yhDk7kXbUU",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23564,16 +24231,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37767,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113350,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23604,18 +24271,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@courosa Nope. https://t.co/yhDk7kXbUU"
 	},
 	{
 		"created_at": "Mon Jun 18 16:37:38 +0000 2018",
 		"id": 1008750598215237600,
 		"id_str": "1008750598215237632",
-		"text": "@amandacdykes But he's going to eventually tag along with someone who likes to shop. Train 'em young.",
+		"full_text": "@amandacdykes But he's going to eventually tag along with someone who likes to shop. Train 'em young.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23676,16 +24348,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113349,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23719,14 +24391,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes But he's going to eventually tag along with someone who likes to shop. Train 'em young."
 	},
 	{
 		"created_at": "Mon Jun 18 16:30:31 +0000 2018",
 		"id": 1008748804613390300,
 		"id_str": "1008748804613390336",
-		"text": "@amandacdykes Moo's just trying to oblige. Pat him on the back and show him where the bored husbands hang out.",
+		"full_text": "@amandacdykes Moo's just trying to oblige. Pat him on the back and show him where the bored husbands hang out.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			110
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23787,16 +24464,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113349,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23830,14 +24507,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes Moo's just trying to oblige. Pat him on the back and show him where the bored husbands hang out."
 	},
 	{
 		"created_at": "Mon Jun 18 16:20:51 +0000 2018",
 		"id": 1008746370843361300,
 		"id_str": "1008746370843361280",
-		"text": "@amandacdykes He'll make a fine husband one day.",
+		"full_text": "@amandacdykes He'll make a fine husband one day.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -23898,16 +24580,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113349,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -23941,14 +24623,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amandacdykes He'll make a fine husband one day."
 	},
 	{
 		"created_at": "Mon Jun 18 15:12:32 +0000 2018",
 		"id": 1008729179066527700,
 		"id_str": "1008729179066527744",
-		"text": "@gsiemens It saddens me to think this is how you begin a work week. I’m here seeking joy and silliness. Please choose joy.",
+		"full_text": "@gsiemens It saddens me to think this is how you begin a work week. I’m here seeking joy and silliness. Please choose joy.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			122
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24009,16 +24696,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37770,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113346,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24052,14 +24739,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gsiemens It saddens me to think this is how you begin a work week. I’m here seeking joy and silliness. Please choose joy."
 	},
 	{
 		"created_at": "Mon Jun 18 15:11:32 +0000 2018",
 		"id": 1008728929228607500,
 		"id_str": "1008728929228607489",
-		"text": "@mrhaydon14 Hope it’s been a great day! #depd",
+		"full_text": "@mrhaydon14 Hope it’s been a great day! #depd",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			45
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -24128,16 +24820,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113345,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24171,14 +24863,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mrhaydon14 Hope it’s been a great day! #depd"
 	},
 	{
 		"created_at": "Mon Jun 18 15:08:34 +0000 2018",
 		"id": 1008728182185386000,
 		"id_str": "1008728182185385984",
-		"text": "On a flight with @courosa who I called out for this violation.  https://t.co/nh3hiRTiFE",
+		"full_text": "On a flight with @courosa who I called out for this violation.  https://t.co/nh3hiRTiFE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24249,16 +24946,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113345,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24289,18 +24986,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "On a flight with @courosa who I called out for this violation.  https://t.co/nh3hiRTiFE"
 	},
 	{
 		"created_at": "Mon Jun 18 14:13:21 +0000 2018",
 		"id": 1008714288247255000,
 		"id_str": "1008714288247255041",
-		"text": "@tinapeji_21 @mcleod Appreciate that Tina. Thanks.",
+		"full_text": "@tinapeji_21 @mcleod Appreciate that Tina. Thanks.",
 		"truncated": false,
+		"display_text_range": [
+			21,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24371,16 +25073,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37769,
-			"friends_count": 6790,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113345,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24411,17 +25113,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tinapeji_21 @mcleod Appreciate that Tina. Thanks."
 	},
 	{
 		"created_at": "Sun Jun 17 21:06:50 +0000 2018",
 		"id": 1008455955237961700,
 		"id_str": "1008455955237961728",
-		"text": "If I was Tommy Fleetwood https://t.co/RZ6m5fLnA1",
+		"full_text": "If I was Tommy Fleetwood https://t.co/RZ6m5fLnA1",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24562,16 +25269,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113342,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24602,18 +25309,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "If I was Tommy Fleetwood https://t.co/RZ6m5fLnA1"
 	},
 	{
 		"created_at": "Sun Jun 17 18:18:33 +0000 2018",
 		"id": 1008413606315114500,
 		"id_str": "1008413606315114496",
-		"text": "Ive noticed homeless men generally have very good hair.",
+		"full_text": "Ive noticed homeless men generally have very good hair.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24663,16 +25375,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37763,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113341,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24706,14 +25418,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Ive noticed homeless men generally have very good hair."
 	},
 	{
 		"created_at": "Sun Jun 17 17:11:40 +0000 2018",
 		"id": 1008396774615199700,
 		"id_str": "1008396774615199745",
-		"text": "@dschoening I like him. They all have their styles. I think Faldo is the least provocative.",
+		"full_text": "@dschoening I like him. They all have their styles. I think Faldo is the least provocative.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24774,16 +25491,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113340,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24817,14 +25534,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@dschoening I like him. They all have their styles. I think Faldo is the least provocative."
 	},
 	{
 		"created_at": "Sun Jun 17 16:22:24 +0000 2018",
 		"id": 1008384372981092400,
 		"id_str": "1008384372981092352",
-		"text": "@budtheteacher Sadly, the answer is yes.",
+		"full_text": "@budtheteacher Sadly, the answer is yes.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			40
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24885,16 +25607,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113340,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -24928,14 +25650,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@budtheteacher Sadly, the answer is yes."
 	},
 	{
 		"created_at": "Sun Jun 17 16:07:54 +0000 2018",
 		"id": 1008380725618503700,
 		"id_str": "1008380725618503681",
-		"text": "@dschoening For sure. Make short sidiing particularly penal. And with the wide fairways, missing them should cost you a stroke.",
+		"full_text": "@dschoening For sure. Make short sidiing particularly penal. And with the wide fairways, missing them should cost you a stroke.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			127
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -24996,16 +25723,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113338,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25039,14 +25766,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@dschoening For sure. Make short sidiing particularly penal. And with the wide fairways, missing them should cost you a stroke."
 	},
 	{
 		"created_at": "Sun Jun 17 16:02:58 +0000 2018",
 		"id": 1008379483529850900,
 		"id_str": "1008379483529850880",
-		"text": "@dschoening I hope it truly allows us to identity the best players. Problem is they are manipulating a classic cour… https://t.co/kChXzXSOmo",
-		"truncated": true,
+		"full_text": "@dschoening I hope it truly allows us to identity the best players. Problem is they are manipulating a classic course that wasn’t designed to have greens that fast. When the best players in the world are putting balls off the green, that’s messed up.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			250
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -25062,17 +25794,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/kChXzXSOmo",
-					"expanded_url": "https://twitter.com/i/web/status/1008379483529850880",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1008378253139169300,
@@ -25117,16 +25839,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113338,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25160,14 +25882,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@dschoening I hope it truly allows us to identity the best players. Problem is they are manipulating a classic course that wasn’t designed to have greens that fast. When the best players in the world are putting balls off the green, that’s messed up."
 	},
 	{
 		"created_at": "Sun Jun 17 15:43:35 +0000 2018",
 		"id": 1008374605516542000,
 		"id_str": "1008374605516541952",
-		"text": "@gcouros Can you include a #glamshot as part of the posts? I would like that.",
+		"full_text": "@gcouros Can you include a #glamshot as part of the posts? I would like that.",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			77
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -25236,16 +25963,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113338,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25276,17 +26003,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gcouros Can you include a #glamshot as part of the posts? I would like that."
 	},
 	{
 		"created_at": "Sun Jun 17 15:40:19 +0000 2018",
 		"id": 1008373785169408000,
 		"id_str": "1008373785169408000",
-		"text": "This is a different golf course than we saw yesterday afternoon. Be interesting to see if it gets away from them again.  #USOpengolf",
+		"full_text": "This is a different golf course than we saw yesterday afternoon. Be interesting to see if it gets away from them again.  #USOpengolf",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -25344,16 +26076,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113338,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25384,17 +26116,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This is a different golf course than we saw yesterday afternoon. Be interesting to see if it gets away from them again.  #USOpengolf"
 	},
 	{
 		"created_at": "Sun Jun 17 15:35:50 +0000 2018",
 		"id": 1008372657593700400,
 		"id_str": "1008372657593700354",
-		"text": "@janeteacher2  https://t.co/E69l61LeKH",
+		"full_text": "@janeteacher2  https://t.co/E69l61LeKH",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -25546,16 +26283,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37765,
-			"friends_count": 6789,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113338,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25590,14 +26327,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@janeteacher2  https://t.co/E69l61LeKH"
 	},
 	{
 		"created_at": "Sun Jun 17 15:00:53 +0000 2018",
 		"id": 1008363861525848000,
 		"id_str": "1008363861525848064",
-		"text": "@korytellers Not the Flex 2",
+		"full_text": "@korytellers Not the Flex 2",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -25658,16 +26400,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6788,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113333,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25698,17 +26440,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@korytellers Not the Flex 2"
 	},
 	{
 		"created_at": "Sun Jun 17 14:40:18 +0000 2018",
 		"id": 1008358680595714000,
 		"id_str": "1008358680595714048",
-		"text": "@korytellers I don’t have that fancy feature.",
+		"full_text": "@korytellers I don’t have that fancy feature.",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -25769,16 +26516,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6788,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113333,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25812,14 +26559,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@korytellers I don’t have that fancy feature."
 	},
 	{
 		"created_at": "Sun Jun 17 14:15:32 +0000 2018",
 		"id": 1008352445737693200,
 		"id_str": "1008352445737693186",
-		"text": "I wish I liked soccer. #WorldCup2018",
+		"full_text": "I wish I liked soccer. #WorldCup2018",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -25877,16 +26629,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37766,
-			"friends_count": 6788,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113333,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -25917,29 +26669,34 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I wish I liked soccer. #WorldCup2018"
 	},
 	{
 		"created_at": "Sun Jun 17 01:18:16 +0000 2018",
 		"id": 1008156843317710800,
 		"id_str": "1008156843317710848",
-		"text": "My recording of today's 3rd round of the US Open didn't work. Can anyone find me a recording online? This is the be… https://t.co/HVt5hOyK1c",
-		"truncated": true,
+		"full_text": "My recording of today's 3rd round of the US Open didn't work. Can anyone find me a recording online? This is the best I found. https://t.co/2xgm1y0NKn If you could find it, you'd be my best friend.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/HVt5hOyK1c",
-					"expanded_url": "https://twitter.com/i/web/status/1008156843317710848",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/2xgm1y0NKn",
+					"expanded_url": "https://www.youtube.com/watch?v=UytuWgDXKic",
+					"display_url": "youtube.com/watch?v=UytuWg…",
 					"indices": [
-						117,
-						140
+						127,
+						150
 					]
 				}
 			]
@@ -25987,16 +26744,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37763,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113330,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26026,19 +26783,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My recording of today's 3rd round of the US Open didn't work. Can anyone find me a recording online? This is the best I found. https://t.co/2xgm1y0NKn If you could find it, you'd be my best friend."
 	},
 	{
 		"created_at": "Sat Jun 16 19:04:19 +0000 2018",
 		"id": 1008062736641585200,
 		"id_str": "1008062736641585152",
-		"text": "@jonbecker DJ.",
+		"full_text": "@jonbecker DJ.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26099,16 +26861,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26142,14 +26904,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@jonbecker DJ."
 	},
 	{
 		"created_at": "Sat Jun 16 19:02:02 +0000 2018",
 		"id": 1008062159119515600,
 		"id_str": "1008062159119515649",
-		"text": "@jonbecker I like to be concise.",
+		"full_text": "@jonbecker I like to be concise.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26210,16 +26977,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26253,14 +27020,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker I like to be concise."
 	},
 	{
 		"created_at": "Sat Jun 16 18:54:12 +0000 2018",
 		"id": 1008060188287328300,
 		"id_str": "1008060188287328256",
-		"text": "@jonbecker What else? He wasn't trying to cheat. He got frustrated and let his emotions get the best of it.",
+		"full_text": "@jonbecker What else? He wasn't trying to cheat. He got frustrated and let his emotions get the best of it.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26321,16 +27093,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26364,14 +27136,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker What else? He wasn't trying to cheat. He got frustrated and let his emotions get the best of it."
 	},
 	{
 		"created_at": "Sat Jun 16 18:51:03 +0000 2018",
 		"id": 1008059397820407800,
 		"id_str": "1008059397820407808",
-		"text": "@jonbecker I think he'll chalk it up as a brain fart.",
+		"full_text": "@jonbecker I think he'll chalk it up as a brain fart.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26432,16 +27209,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26475,14 +27252,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker I think he'll chalk it up as a brain fart."
 	},
 	{
 		"created_at": "Sat Jun 16 18:45:47 +0000 2018",
 		"id": 1008058070771982300,
 		"id_str": "1008058070771982337",
-		"text": "I just got scolded for the tone I used with Alexa.",
+		"full_text": "I just got scolded for the tone I used with Alexa.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26532,16 +27314,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26572,17 +27354,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just got scolded for the tone I used with Alexa."
 	},
 	{
 		"created_at": "Sat Jun 16 18:44:30 +0000 2018",
 		"id": 1008057749651902500,
 		"id_str": "1008057749651902464",
-		"text": "Phil lost it. #USOpen2018",
+		"full_text": "Phil lost it. #USOpen2018",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -26640,16 +27427,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113329,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26683,14 +27470,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Phil lost it. #USOpen2018"
 	},
 	{
 		"created_at": "Sat Jun 16 17:50:15 +0000 2018",
 		"id": 1008044094935822300,
 		"id_str": "1008044094935822337",
-		"text": "@Taralson @Flipgrid @kimberou @MrsJHartman Can I give students the ability to create topics?",
+		"full_text": "@Taralson @Flipgrid @kimberou @MrsJHartman Can I give students the ability to create topics?",
 		"truncated": false,
+		"display_text_range": [
+			43,
+			92
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -26781,16 +27573,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113323,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26824,16 +27616,29 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Taralson @Flipgrid @kimberou @MrsJHartman Can I give students the ability to create topics?"
 	},
 	{
 		"created_at": "Sat Jun 16 17:33:43 +0000 2018",
 		"id": 1008039934446338000,
 		"id_str": "1008039934446338049",
-		"text": "I want to use @Flipgrid as a way for my students to introduce themselves to my online course. Just using the free a… https://t.co/YRbIpr8COe",
-		"truncated": true,
+		"full_text": "I want to use @Flipgrid as a way for my students to introduce themselves to my online course. Just using the free account, any suggestions/instructions/tutorials I need to share with my students? #FlipgridFever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
 				{
@@ -26847,17 +27652,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/YRbIpr8COe",
-					"expanded_url": "https://twitter.com/i/web/status/1008039934446338049",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
@@ -26902,16 +27697,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37764,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113323,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -26942,17 +27737,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 4,
+		"favorite_count": 21,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I want to use @Flipgrid as a way for my students to introduce themselves to my online course. Just using the free account, any suggestions/instructions/tutorials I need to share with my students? #FlipgridFever"
 	},
 	{
 		"created_at": "Fri Jun 15 22:40:50 +0000 2018",
 		"id": 1007754833003081700,
 		"id_str": "1007754833003081728",
-		"text": "@MaxBrooks1 @DiscoveryEd @monjan @discoverylinds @ktschutt @lrougeux @scott_kinney @GoodwynBill @KB_DiscoveryEd… https://t.co/i7l9uMAmeZ",
-		"truncated": true,
+		"full_text": "@MaxBrooks1 @DiscoveryEd @monjan @discoverylinds @ktschutt @lrougeux @scott_kinney @GoodwynBill @KB_DiscoveryEd @javaris_powell @RicoDiscovery @RechnerConi You wil be missed my friend. I so enjoyed the times we worked together. All the best and don't be a stranger.",
+		"truncated": false,
+		"display_text_range": [
+			156,
+			265
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -27046,19 +27846,39 @@ Grailbird.data.tweets_2018_06 =
 						96,
 						111
 					]
-				}
-			],
-			"urls": [
+				},
 				{
-					"url": "https://t.co/i7l9uMAmeZ",
-					"expanded_url": "https://twitter.com/i/web/status/1007754833003081728",
-					"display_url": "twitter.com/i/web/status/1…",
+					"screen_name": "javaris_powell",
+					"name": "Javaris Powell",
+					"id": 762482833638076400,
+					"id_str": "762482833638076416",
 					"indices": [
-						113,
-						136
+						112,
+						127
+					]
+				},
+				{
+					"screen_name": "RicoDiscovery",
+					"name": "Ricardo U Garcia",
+					"id": 765249542405193700,
+					"id_str": "765249542405193728",
+					"indices": [
+						128,
+						142
+					]
+				},
+				{
+					"screen_name": "RechnerConi",
+					"name": "Coni Rechner",
+					"id": 1228487509,
+					"id_str": "1228487509",
+					"indices": [
+						143,
+						155
 					]
 				}
-			]
+			],
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1007753535130427400,
@@ -27103,16 +27923,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37760,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113321,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27146,14 +27966,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MaxBrooks1 @DiscoveryEd @monjan @discoverylinds @ktschutt @lrougeux @scott_kinney @GoodwynBill @KB_DiscoveryEd @javaris_powell @RicoDiscovery @RechnerConi You wil be missed my friend. I so enjoyed the times we worked together. All the best and don't be a stranger."
 	},
 	{
 		"created_at": "Fri Jun 15 20:30:53 +0000 2018",
 		"id": 1007722131625406500,
 		"id_str": "1007722131625406464",
-		"text": "I just gave my wife cash. She kissed me. cc @MrMacnology",
+		"full_text": "I just gave my wife cash. She kissed me. cc @MrMacnology",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -27214,16 +28039,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37759,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113320,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27254,17 +28079,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just gave my wife cash. She kissed me. cc @MrMacnology"
 	},
 	{
 		"created_at": "Fri Jun 15 00:16:31 +0000 2018",
 		"id": 1007416525798572000,
 		"id_str": "1007416525798572032",
-		"text": "A1 Today’s joy was getting on an earlier flight home #DENChat",
+		"full_text": "A1 Today’s joy was getting on an earlier flight home #DENChat",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -27322,16 +28152,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37751,
-			"friends_count": 6785,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113319,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27362,17 +28192,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 9,
+		"favorite_count": 17,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "A1 Today’s joy was getting on an earlier flight home #DENChat"
 	},
 	{
 		"created_at": "Thu Jun 14 21:26:56 +0000 2018",
 		"id": 1007373850567299100,
 		"id_str": "1007373850567299072",
-		"text": "If you like a fancy inspirational quote you’ll like these 40 in 2 minutes.  https://t.co/AdUALPuMMK",
+		"full_text": "If you like a fancy inspirational quote you’ll like these 40 in 2 minutes.  https://t.co/AdUALPuMMK",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -27432,16 +28267,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37751,
-			"friends_count": 6783,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113318,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27476,37 +28311,31 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "If you like a fancy inspirational quote you’ll like these 40 in 2 minutes.  https://t.co/AdUALPuMMK"
 	},
 	{
 		"created_at": "Thu Jun 14 21:25:50 +0000 2018",
 		"id": 1007373572170383400,
 		"id_str": "1007373572170383360",
-		"text": "@harvfw 3 days in a row of 6am flights.",
+		"full_text": "@harvfw 3 days in a row of 6am flights.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "harvfw",
-					"name": "the harv",
-					"id": 3171533130,
-					"id_str": "3171533130",
-					"indices": [
-						0,
-						7
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": 1007367101684670500,
-		"in_reply_to_status_id_str": "1007367101684670465",
-		"in_reply_to_user_id": 3171533130,
-		"in_reply_to_user_id_str": "3171533130",
-		"in_reply_to_screen_name": "harvfw",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
 		"user": {
 			"id": 739743,
 			"id_str": "739743",
@@ -27544,16 +28373,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37751,
-			"friends_count": 6783,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113318,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27587,14 +28416,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@harvfw 3 days in a row of 6am flights."
 	},
 	{
 		"created_at": "Thu Jun 14 19:50:27 +0000 2018",
 		"id": 1007349568843870200,
 		"id_str": "1007349568843870208",
-		"text": "Let’s talk about this week’s sleep sitch. Can anyone say #napchat? https://t.co/u2ANvHHP4n",
+		"full_text": "Let’s talk about this week’s sleep sitch. Can anyone say #napchat? https://t.co/u2ANvHHP4n",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -27730,16 +28564,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37747,
-			"friends_count": 6783,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113316,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27770,18 +28604,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Let’s talk about this week’s sleep sitch. Can anyone say #napchat? https://t.co/u2ANvHHP4n"
 	},
 	{
 		"created_at": "Thu Jun 14 19:43:01 +0000 2018",
 		"id": 1007347697378922500,
 		"id_str": "1007347697378922501",
-		"text": "Thanks. FYI. I know a 12 year old who could build you an app. https://t.co/9kd0Ag2S4t",
+		"full_text": "Thanks. FYI. I know a 12 year old who could build you an app. https://t.co/9kd0Ag2S4t",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -27841,16 +28680,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37747,
-			"friends_count": 6783,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113316,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -27882,12 +28721,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1007281818624618500,
 		"quoted_status_id_str": "1007281818624618496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9kd0Ag2S4t",
+			"expanded": "https://twitter.com/pacificcoastal/status/1007281818624618496",
+			"display": "twitter.com/pacificcoastal…"
+		},
 		"quoted_status": {
 			"created_at": "Thu Jun 14 15:21:14 +0000 2018",
 			"id": 1007281818624618500,
 			"id_str": "1007281818624618496",
-			"text": "@shareski At this time, we don't offer online check-in. All the details you need to know for check-in is on our web… https://t.co/cenLRr2lbQ",
-			"truncated": true,
+			"full_text": "@shareski At this time, we don't offer online check-in. All the details you need to know for check-in is on our website here: https://t.co/fsClXh6RTe.",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				150
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -27905,12 +28753,12 @@ Grailbird.data.tweets_2018_06 =
 				],
 				"urls": [
 					{
-						"url": "https://t.co/cenLRr2lbQ",
-						"expanded_url": "https://twitter.com/i/web/status/1007281818624618496",
-						"display_url": "twitter.com/i/web/status/1…",
+						"url": "https://t.co/fsClXh6RTe",
+						"expanded_url": "http://www.pacificcoastal.com/check-in/",
+						"display_url": "pacificcoastal.com/check-in/",
 						"indices": [
-							117,
-							140
+							126,
+							149
 						]
 					}
 				]
@@ -27948,16 +28796,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2612,
-				"friends_count": 640,
+				"followers_count": 2622,
+				"friends_count": 639,
 				"listed_count": 95,
 				"created_at": "Mon Jul 20 21:52:34 +0000 2009",
-				"favourites_count": 2087,
+				"favourites_count": 2253,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 3007,
+				"statuses_count": 3070,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -27995,18 +28843,23 @@ Grailbird.data.tweets_2018_06 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thanks. FYI. I know a 12 year old who could build you an app. https://t.co/9kd0Ag2S4t"
 	},
 	{
 		"created_at": "Thu Jun 14 16:35:41 +0000 2018",
 		"id": 1007300554555453400,
 		"id_str": "1007300554555453440",
-		"text": "235 pitches. Think about that for a while.  https://t.co/tPZ17nuMvf",
+		"full_text": "235 pitches. Think about that for a while.  https://t.co/tPZ17nuMvf",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -28066,16 +28919,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37747,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113314,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28110,52 +28963,124 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "235 pitches. Think about that for a while.  https://t.co/tPZ17nuMvf"
 	},
 	{
-		"created_at": "Thu Jun 14 16:27:20 +0000 2018",
-		"id": 1007298453636960300,
-		"id_str": "1007298453636960257",
-		"text": "RT @Super70sSports: Today in 1974, Nolan Ryan throws 235 pitches while walking 10 batters and striking out 19 over 13 innings. He was immed…",
+		"created_at": "Thu Jun 14 16:25:40 +0000 2018",
+		"id": 1007298034709954600,
+		"id_str": "1007298034709954560",
+		"full_text": "Today in 1974, Nolan Ryan throws 235 pitches while walking 10 batters and striking out 19 over 13 innings. He was immediately scheduled for season-ending elbow surgery. Just kidding, he made his next start on three days rest and won. https://t.co/5XrG6CKzyE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "Super70sSports",
-					"name": "Super 70s Sports",
-					"id": 2259809232,
-					"id_str": "2259809232",
+					"id": 1007297809849180200,
+					"id_str": "1007297809849180160",
 					"indices": [
-						3,
-						18
-					]
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/DfqkBWsW4AA6pnj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfqkBWsW4AA6pnj.jpg",
+					"url": "https://t.co/5XrG6CKzyE",
+					"display_url": "pic.twitter.com/5XrG6CKzyE",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1007298034709954560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1007297809849180200,
+					"id_str": "1007297809849180160",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/DfqkBWsW4AA6pnj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfqkBWsW4AA6pnj.jpg",
+					"url": "https://t.co/5XrG6CKzyE",
+					"display_url": "pic.twitter.com/5XrG6CKzyE",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1007298034709954560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 2259809232,
+			"id_str": "2259809232",
+			"name": "Super 70s Sports",
+			"screen_name": "Super70sSports",
+			"location": "Chicago, IL",
+			"description": "The Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
+			"url": "https://t.co/CRdgNzLuBm",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/CRdgNzLuBm",
+							"expanded_url": "http://www.therickycobb.com",
+							"display_url": "therickycobb.com",
 							"indices": [
 								0,
 								23
@@ -28166,48 +29091,48 @@ Grailbird.data.tweets_2018_06 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
+							"url": "https://t.co/kcxbZba1Ss",
+							"expanded_url": "http://www.Super70sSports.com",
+							"display_url": "Super70sSports.com",
 							"indices": [
-								127,
-								150
+								39,
+								62
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 37747,
-			"friends_count": 6782,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 203233,
+			"friends_count": 735,
+			"listed_count": 1328,
+			"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+			"favourites_count": 154966,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113314,
+			"verified": false,
+			"statuses_count": 19031,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -28216,130 +29141,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Jun 14 16:25:40 +0000 2018",
-			"id": 1007298034709954600,
-			"id_str": "1007298034709954560",
-			"text": "Today in 1974, Nolan Ryan throws 235 pitches while walking 10 batters and striking out 19 over 13 innings. He was i… https://t.co/iWKMe6IPFJ",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/iWKMe6IPFJ",
-						"expanded_url": "https://twitter.com/i/web/status/1007298034709954560",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2259809232,
-				"id_str": "2259809232",
-				"name": "Super 70s Sports",
-				"screen_name": "Super70sSports",
-				"location": "Chicago, IL",
-				"description": "Subscribe to the Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
-				"url": "https://t.co/CRdgNzLuBm",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/CRdgNzLuBm",
-								"expanded_url": "http://www.therickycobb.com",
-								"display_url": "therickycobb.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/kcxbZba1Ss",
-								"expanded_url": "http://www.Super70sSports.com",
-								"display_url": "Super70sSports.com",
-								"indices": [
-									52,
-									75
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 171519,
-				"friends_count": 697,
-				"listed_count": 1187,
-				"created_at": "Tue Dec 24 04:55:10 +0000 2013",
-				"favourites_count": 156617,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 17166,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "ABB8C2",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741502638798168065/DPyDgMGd_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
-				"profile_link_color": "3B94D9",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 418,
-			"favorite_count": 989,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 418,
-		"favorite_count": 0,
+		"retweet_count": 3111,
+		"favorite_count": 7841,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in 1974, Nolan Ryan throws 235 pitches while walking 10 batters and striking out 19 over 13 innings. He was immediately scheduled for season-ending elbow surgery. Just kidding, he made his next start on three days rest and won. https://t.co/5XrG6CKzyE"
 	},
 	{
 		"created_at": "Thu Jun 14 13:52:20 +0000 2018",
 		"id": 1007259447125729300,
 		"id_str": "1007259447125729280",
-		"text": "It’s a bit tight. https://t.co/6uIQBYO0Co",
+		"full_text": "It’s a bit tight. https://t.co/6uIQBYO0Co",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -28467,16 +29287,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37746,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113312,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28506,31 +29326,47 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 1,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "It’s a bit tight. https://t.co/6uIQBYO0Co"
 	},
 	{
 		"created_at": "Thu Jun 14 13:42:42 +0000 2018",
 		"id": 1007257023476576300,
 		"id_str": "1007257023476576256",
-		"text": "When you check into your flight and the gate agent reminds you there’s no bathroom on board. (@ Victoria Internatio… https://t.co/92FkfUSrO6",
-		"truncated": true,
+		"full_text": "When you check into your flight and the gate agent reminds you there’s no bathroom on board. (@ Victoria International Airport (YYJ) - @fly_yyj in Sidney, BC) https://t.co/f6oO96BNKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fly_YYJ",
+					"name": "Victoria Int Airport",
+					"id": 733657308,
+					"id_str": "733657308",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
 			"urls": [
 				{
-					"url": "https://t.co/92FkfUSrO6",
-					"expanded_url": "https://twitter.com/i/web/status/1007257023476576256",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/f6oO96BNKw",
+					"expanded_url": "https://www.swarmapp.com/c/1HA55jUhTjt",
+					"display_url": "swarmapp.com/c/1HA55jUhTjt",
 					"indices": [
-						117,
-						140
+						159,
+						182
 					]
 				}
 			]
@@ -28578,16 +29414,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37746,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113312,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28663,18 +29499,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you check into your flight and the gate agent reminds you there’s no bathroom on board. (@ Victoria International Airport (YYJ) - @fly_yyj in Sidney, BC) https://t.co/f6oO96BNKw"
 	},
 	{
 		"created_at": "Thu Jun 14 00:11:59 +0000 2018",
 		"id": 1007052996415348700,
 		"id_str": "1007052996415348736",
-		"text": "Great to hear the #sd79learn story https://t.co/mgWZlXaNdl",
+		"full_text": "Great to hear the #sd79learn story https://t.co/mgWZlXaNdl",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -28742,16 +29583,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37741,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113310,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -28783,12 +29624,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1007031657235296300,
 		"quoted_status_id_str": "1007031657235296256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mgWZlXaNdl",
+			"expanded": "https://twitter.com/lisaread/status/1007031657235296256",
+			"display": "twitter.com/lisaread/statu…"
+		},
 		"quoted_status": {
 			"created_at": "Wed Jun 13 22:47:11 +0000 2018",
 			"id": 1007031657235296300,
 			"id_str": "1007031657235296256",
-			"text": "Hey! Thanks for visiting @shareski and @JasonBuccheri #sd79learn  #discoveryEd https://t.co/fFTwMqdBWn",
+			"full_text": "Hey! Thanks for visiting @shareski and @JasonBuccheri #sd79learn  #discoveryEd https://t.co/fFTwMqdBWn",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -28942,16 +29792,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 970,
-				"friends_count": 877,
+				"followers_count": 992,
+				"friends_count": 890,
 				"listed_count": 61,
 				"created_at": "Mon Oct 27 23:48:20 +0000 2008",
-				"favourites_count": 3472,
+				"favourites_count": 4162,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 7842,
+				"statuses_count": 8141,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -28982,25 +29832,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 4,
+			"favorite_count": 8,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Great to hear the #sd79learn story https://t.co/mgWZlXaNdl"
 	},
 	{
 		"created_at": "Wed Jun 13 21:27:13 +0000 2018",
 		"id": 1007011534407491600,
 		"id_str": "1007011534407491584",
-		"text": "I may have struck a nerve. https://t.co/ZVmAQP0G9t",
+		"full_text": "I may have struck a nerve. https://t.co/ZVmAQP0G9t",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -29128,16 +29983,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37737,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113309,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29168,25 +30023,30 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 13,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I may have struck a nerve. https://t.co/ZVmAQP0G9t"
 	},
 	{
 		"created_at": "Wed Jun 13 18:24:03 +0000 2018",
 		"id": 1006965439472078800,
 		"id_str": "1006965439472078848",
-		"text": "@NynDK Oh. My. https://t.co/Q3SfsImGX8",
+		"full_text": "@NynDK Oh. My. https://t.co/Q3SfsImGX8",
 		"truncated": false,
+		"display_text_range": [
+			7,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "NynDK",
-					"name": "Nina Newman",
+					"name": "Nina",
 					"id": 4717234949,
 					"id_str": "4717234949",
 					"indices": [
@@ -29331,16 +30191,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37739,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113308,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29371,18 +30231,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@NynDK Oh. My. https://t.co/Q3SfsImGX8"
 	},
 	{
 		"created_at": "Wed Jun 13 17:38:35 +0000 2018",
 		"id": 1006953994202181600,
 		"id_str": "1006953994202181632",
-		"text": "@PacificCoastal how do I check in and get a boarding pass online?",
+		"full_text": "@PacificCoastal how do I check in and get a boarding pass online?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -29443,16 +30308,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37737,
-			"friends_count": 6782,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113307,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29486,36 +30351,31 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@PacificCoastal how do I check in and get a boarding pass online?"
 	},
 	{
-		"created_at": "Wed Jun 13 16:36:02 +0000 2018",
-		"id": 1006938254048784400,
-		"id_str": "1006938254048784384",
-		"text": "RT @HallDavidson: @shareski William Shackteon, antarctic.  Total failure at ice breaking. https://t.co/MPfqcRjDGL",
+		"created_at": "Wed Jun 13 16:27:17 +0000 2018",
+		"id": 1006936053549133800,
+		"id_str": "1006936053549133826",
+		"full_text": "@shareski William Shackteon, antarctic.  Total failure at ice breaking. https://t.co/MPfqcRjDGL",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			95
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "HallDavidson",
-					"name": "HallDavidson",
-					"id": 7882162,
-					"id_str": "7882162",
-					"indices": [
-						3,
-						16
-					]
-				},
 				{
 					"screen_name": "shareski",
 					"name": "Dean Shareski",
 					"id": 739743,
 					"id_str": "739743",
 					"indices": [
-						18,
-						27
+						0,
+						9
 					]
 				}
 			],
@@ -29525,219 +30385,102 @@ Grailbird.data.tweets_2018_06 =
 					"expanded_url": "https://www.coolantarctica.com/Antarctica%20fact%20file/History/Shackleton-Endurance-Trans-Antarctic_expedition2.php",
 					"display_url": "coolantarctica.com/Antarctica%20f…",
 					"indices": [
-						90,
-						113
+						72,
+						95
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1006605796329775100,
+		"in_reply_to_status_id_str": "1006605796329775105",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 7882162,
+			"id_str": "7882162",
+			"name": "HallDavidson",
+			"screen_name": "HallDavidson",
+			"location": "Los Angeles",
+			"description": "40 years in education technology. Taught middle/high/college.Worked building teacher network for Discovery (DEN). Now Global ed.Hopeless ed tech geek since '73.",
+			"url": "http://t.co/xKY0xCclOV",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "http://t.co/xKY0xCclOV",
+							"expanded_url": "http://www.discoveryeducation.com/speakers-bureau/index.cfm",
+							"display_url": "discoveryeducation.com/speakers-burea…",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37733,
-			"friends_count": 6782,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 10953,
+			"friends_count": 847,
+			"listed_count": 431,
+			"created_at": "Wed Aug 01 14:32:50 +0000 2007",
+			"favourites_count": 395,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113306,
+			"verified": false,
+			"statuses_count": 6348,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7882162/1402421527",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
-			"notifications": false,
+			"notifications": true,
 			"translator_type": "none"
 		},
 		"geo": null,
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jun 13 16:27:17 +0000 2018",
-			"id": 1006936053549133800,
-			"id_str": "1006936053549133826",
-			"text": "@shareski William Shackteon, antarctic.  Total failure at ice breaking. https://t.co/MPfqcRjDGL",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "shareski",
-						"name": "Dean Shareski",
-						"id": 739743,
-						"id_str": "739743",
-						"indices": [
-							0,
-							9
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/MPfqcRjDGL",
-						"expanded_url": "https://www.coolantarctica.com/Antarctica%20fact%20file/History/Shackleton-Endurance-Trans-Antarctic_expedition2.php",
-						"display_url": "coolantarctica.com/Antarctica%20f…",
-						"indices": [
-							72,
-							95
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": 1006605796329775100,
-			"in_reply_to_status_id_str": "1006605796329775105",
-			"in_reply_to_user_id": 739743,
-			"in_reply_to_user_id_str": "739743",
-			"in_reply_to_screen_name": "shareski",
-			"user": {
-				"id": 7882162,
-				"id_str": "7882162",
-				"name": "HallDavidson",
-				"screen_name": "HallDavidson",
-				"location": "Los Angeles",
-				"description": "40 years in education technology. Taught middle/high/college.Worked building teacher network for Discovery (DEN). Now Global ed.Hopeless ed tech geek since '73.",
-				"url": "http://t.co/xKY0xCclOV",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/xKY0xCclOV",
-								"expanded_url": "http://www.discoveryeducation.com/speakers-bureau/index.cfm",
-								"display_url": "discoveryeducation.com/speakers-burea…",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 10847,
-				"friends_count": 814,
-				"listed_count": 429,
-				"created_at": "Wed Aug 01 14:32:50 +0000 2007",
-				"favourites_count": 296,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 6133,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "9AE4E8",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000851981908/314c39cb9bca69b2ed41c6d6830bc107_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7882162/1402421527",
-				"profile_link_color": "0000FF",
-				"profile_sidebar_border_color": "87BC44",
-				"profile_sidebar_fill_color": "E0FF92",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": true,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 2,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@shareski William Shackteon, antarctic.  Total failure at ice breaking. https://t.co/MPfqcRjDGL"
 	},
 	{
 		"created_at": "Wed Jun 13 13:40:18 +0000 2018",
 		"id": 1006894030871937000,
 		"id_str": "1006894030871937025",
-		"text": "@MrBrettClark @stumpteacher Was he referencing your lack of Seinfeld knowledge?",
+		"full_text": "@MrBrettClark @stumpteacher Was he referencing your lack of Seinfeld knowledge?",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			79
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -29808,16 +30551,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113305,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29851,14 +30594,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrBrettClark @stumpteacher Was he referencing your lack of Seinfeld knowledge?"
 	},
 	{
 		"created_at": "Wed Jun 13 13:26:46 +0000 2018",
 		"id": 1006890625080234000,
 		"id_str": "1006890625080233984",
-		"text": "@MrBrettClark Didn’t you also say you #napchatted during @stumpteacher last keynote?",
+		"full_text": "@MrBrettClark Didn’t you also say you #napchatted during @stumpteacher last keynote?",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			84
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -29937,16 +30685,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113305,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -29980,14 +30728,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrBrettClark Didn’t you also say you #napchatted during @stumpteacher last keynote?"
 	},
 	{
 		"created_at": "Wed Jun 13 13:15:18 +0000 2018",
 		"id": 1006887739059363800,
 		"id_str": "1006887739059363841",
-		"text": "What’s the earliest time you can have a nap? Asking for a friend. #napchat",
+		"full_text": "What’s the earliest time you can have a nap? Asking for a friend. #napchat",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -30045,16 +30798,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113305,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30085,17 +30838,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 6,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What’s the earliest time you can have a nap? Asking for a friend. #napchat"
 	},
 	{
 		"created_at": "Wed Jun 13 13:09:03 +0000 2018",
 		"id": 1006886167176884200,
 		"id_str": "1006886167176884226",
-		"text": "But If I had both nights I get 8 hours. https://t.co/dkglPdRa7a",
+		"full_text": "But If I had both nights I get 8 hours. https://t.co/dkglPdRa7a",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30259,16 +31017,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113302,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30303,14 +31061,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "But If I had both nights I get 8 hours. https://t.co/dkglPdRa7a"
 	},
 	{
 		"created_at": "Wed Jun 13 13:09:02 +0000 2018",
 		"id": 1006886160436613100,
 		"id_str": "1006886160436613121",
-		"text": "https://t.co/CPGe6e3J3Q",
+		"full_text": "https://t.co/CPGe6e3J3Q",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30438,16 +31201,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113302,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30482,14 +31245,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/CPGe6e3J3Q"
 	},
 	{
 		"created_at": "Wed Jun 13 12:21:52 +0000 2018",
 		"id": 1006874291525148700,
 		"id_str": "1006874291525148672",
-		"text": "@LisaRead I’ll be wearing pants and everything",
+		"full_text": "@LisaRead I’ll be wearing pants and everything",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30550,16 +31318,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113302,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30593,14 +31361,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@LisaRead I’ll be wearing pants and everything"
 	},
 	{
 		"created_at": "Tue Jun 12 22:31:18 +0000 2018",
 		"id": 1006665273657749500,
 		"id_str": "1006665273657749505",
-		"text": "@kirs10i @maribsilly At least in Canada we got rid of pennies.",
+		"full_text": "@kirs10i @maribsilly At least in Canada we got rid of pennies.",
 		"truncated": false,
+		"display_text_range": [
+			21,
+			62
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30671,16 +31444,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113299,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30711,17 +31484,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 10,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@kirs10i @maribsilly At least in Canada we got rid of pennies."
 	},
 	{
 		"created_at": "Tue Jun 12 21:41:09 +0000 2018",
 		"id": 1006652651860254700,
 		"id_str": "1006652651860254721",
-		"text": "Manbun + right hand drive + magnet letters on the car= must be in Vancouver. https://t.co/hJxdtAI3cb",
+		"full_text": "Manbun + right hand drive + magnet letters on the car= must be in Vancouver. https://t.co/hJxdtAI3cb",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30849,16 +31627,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6779,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113298,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -30889,18 +31667,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 6,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Manbun + right hand drive + magnet letters on the car= must be in Vancouver. https://t.co/hJxdtAI3cb"
 	},
 	{
 		"created_at": "Tue Jun 12 21:01:22 +0000 2018",
 		"id": 1006642638995406800,
 		"id_str": "1006642638995406848",
-		"text": "@kilgoretech @wmchamberlain Smelling games are rarely fun.",
+		"full_text": "@kilgoretech @wmchamberlain Smelling games are rarely fun.",
 		"truncated": false,
+		"display_text_range": [
+			28,
+			58
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -30971,16 +31754,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31010,118 +31793,102 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@kilgoretech @wmchamberlain Smelling games are rarely fun."
 	},
 	{
-		"created_at": "Tue Jun 12 20:54:22 +0000 2018",
-		"id": 1006640877865848800,
-		"id_str": "1006640877865848832",
-		"text": "RT @dweinberger: Still looking for an \"Injured in a trust fall\" T shirt. Icebreakers make my insides curdle. https://t.co/LldVdogEah",
+		"created_at": "Tue Jun 12 20:42:31 +0000 2018",
+		"id": 1006637894952419300,
+		"id_str": "1006637894952419328",
+		"full_text": "Still looking for an \"Injured in a trust fall\" T shirt. Icebreakers make my insides curdle. https://t.co/LldVdogEah",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "dweinberger",
-					"name": "De-ICE America",
-					"id": 1285451,
-					"id_str": "1285451",
-					"indices": [
-						3,
-						15
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/LldVdogEah",
 					"expanded_url": "https://twitter.com/shareski/status/1006633577193209856",
 					"display_url": "twitter.com/shareski/statu…",
 					"indices": [
-						109,
-						132
+						92,
+						115
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 1285451,
+			"id_str": "1285451",
+			"name": "Vote and keep voting until Trump is gone.",
+			"screen_name": "dweinberger",
+			"location": "Boston, MA",
+			"description": "I mainly write about the effect of tech - esp. Net & AI -  on our ideas. Still breathing the clean air of the Open Internet",
+			"url": "http://t.co/p8ubihV4m1",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "http://t.co/p8ubihV4m1",
+							"expanded_url": "http://www.johotheblog.com",
+							"display_url": "johotheblog.com",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 27669,
+			"friends_count": 1030,
+			"listed_count": 2704,
+			"created_at": "Fri Mar 16 13:27:30 +0000 2007",
+			"favourites_count": 1453,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113297,
+			"verified": false,
+			"statuses_count": 12821,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927191867258744832/qc1ZKSHK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927191867258744832/qc1ZKSHK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285451/1509290337",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -31130,91 +31897,113 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Jun 12 20:42:31 +0000 2018",
-			"id": 1006637894952419300,
-			"id_str": "1006637894952419328",
-			"text": "Still looking for an \"Injured in a trust fall\" T shirt. Icebreakers make my insides curdle. https://t.co/LldVdogEah",
+		"is_quote_status": true,
+		"quoted_status_id": 1006633577193209900,
+		"quoted_status_id_str": "1006633577193209856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LldVdogEah",
+			"expanded": "https://twitter.com/shareski/status/1006633577193209856",
+			"display": "twitter.com/shareski/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 12 20:25:21 +0000 2018",
+			"id": 1006633577193209900,
+			"id_str": "1006633577193209856",
+			"full_text": "Pretty much. If I ever ask folks to interact I give them all an out clause to check their email. https://t.co/xAKbj5ADg3",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/LldVdogEah",
-						"expanded_url": "https://twitter.com/shareski/status/1006633577193209856",
-						"display_url": "twitter.com/shareski/statu…",
+						"url": "https://t.co/xAKbj5ADg3",
+						"expanded_url": "https://twitter.com/SimonBlairTrain/status/1006614001428713472",
+						"display_url": "twitter.com/SimonBlairTrai…",
 						"indices": [
-							92,
-							115
+							97,
+							120
 						]
 					}
 				]
 			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 1285451,
-				"id_str": "1285451",
-				"name": "De-ICE America",
-				"screen_name": "dweinberger",
-				"location": "Boston, MA",
-				"description": "I mainly write about the effect of tech - esp. Net & AI -  on our ideas.  Berkman Klein'er. Old & Webby.",
-				"url": "http://t.co/p8ubihV4m1",
+				"id": 739743,
+				"id_str": "739743",
+				"name": "Dean Shareski",
+				"screen_name": "shareski",
+				"location": "Moose Jaw, SK",
+				"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+				"url": "https://t.co/xNwidZoCqU",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "http://t.co/p8ubihV4m1",
-								"expanded_url": "http://www.johotheblog.com",
-								"display_url": "johotheblog.com",
+								"url": "https://t.co/xNwidZoCqU",
+								"expanded_url": "http://about.me/shareski",
+								"display_url": "about.me/shareski",
 								"indices": [
 									0,
-									22
+									23
 								]
 							}
 						]
 					},
 					"description": {
-						"urls": []
+						"urls": [
+							{
+								"url": "https://t.co/GsJVzEeMpH",
+								"expanded_url": "http://shareski.ca/y/followme",
+								"display_url": "shareski.ca/y/followme",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
 					}
 				},
 				"protected": false,
-				"followers_count": 28237,
-				"friends_count": 1003,
-				"listed_count": 2716,
-				"created_at": "Fri Mar 16 13:27:30 +0000 2007",
-				"favourites_count": 1106,
+				"followers_count": 38272,
+				"friends_count": 7080,
+				"listed_count": 1414,
+				"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+				"favourites_count": 663,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 12547,
+				"verified": true,
+				"statuses_count": 114493,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "9AE4E8",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/927191867258744832/qc1ZKSHK_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927191867258744832/qc1ZKSHK_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285451/1509290337",
-				"profile_link_color": "0000FF",
-				"profile_sidebar_border_color": "87BC44",
-				"profile_sidebar_fill_color": "E0FF92",
-				"profile_text_color": "000000",
+				"profile_background_color": "666BFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+				"profile_link_color": "384D3A",
+				"profile_sidebar_border_color": "CCC333",
+				"profile_sidebar_fill_color": "1DB2D7",
+				"profile_text_color": "362720",
 				"profile_use_background_image": true,
-				"has_extended_profile": false,
+				"has_extended_profile": true,
 				"default_profile": false,
 				"default_profile_image": false,
-				"following": true,
+				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
 				"translator_type": "none"
@@ -31224,144 +32013,38 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": true,
-			"quoted_status_id": 1006633577193209900,
-			"quoted_status_id_str": "1006633577193209856",
-			"quoted_status": {
-				"created_at": "Tue Jun 12 20:25:21 +0000 2018",
-				"id": 1006633577193209900,
-				"id_str": "1006633577193209856",
-				"text": "Pretty much. If I ever ask folks to interact I give them all an out clause to check their email. https://t.co/xAKbj5ADg3",
-				"truncated": false,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": [
-						{
-							"url": "https://t.co/xAKbj5ADg3",
-							"expanded_url": "https://twitter.com/SimonBlairTrain/status/1006614001428713472",
-							"display_url": "twitter.com/SimonBlairTrai…",
-							"indices": [
-								97,
-								120
-							]
-						}
-					]
-				},
-				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 739743,
-					"id_str": "739743",
-					"name": "Dean Shareski",
-					"screen_name": "shareski",
-					"location": "Moose Jaw, SK",
-					"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-					"url": "https://t.co/xNwidZoCqU",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "https://t.co/xNwidZoCqU",
-									"expanded_url": "http://about.me/shareski",
-									"display_url": "about.me/shareski",
-									"indices": [
-										0,
-										23
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": [
-								{
-									"url": "https://t.co/GsJVzEeMpH",
-									"expanded_url": "http://shareski.ca/y/followme",
-									"display_url": "shareski.ca/y/followme",
-									"indices": [
-										127,
-										150
-									]
-								}
-							]
-						}
-					},
-					"protected": false,
-					"followers_count": 37726,
-					"friends_count": 6778,
-					"listed_count": 1404,
-					"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-					"favourites_count": 650,
-					"utc_offset": null,
-					"time_zone": null,
-					"geo_enabled": true,
-					"verified": true,
-					"statuses_count": 113297,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "666BFF",
-					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-					"profile_background_tile": false,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-					"profile_link_color": "384D3A",
-					"profile_sidebar_border_color": "CCC333",
-					"profile_sidebar_fill_color": "1DB2D7",
-					"profile_text_color": "362720",
-					"profile_use_background_image": true,
-					"has_extended_profile": true,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": true,
-				"quoted_status_id": 1006614001428713500,
-				"quoted_status_id_str": "1006614001428713472",
-				"retweet_count": 0,
-				"favorite_count": 1,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "en"
+			"quoted_status_id": 1006614001428713500,
+			"quoted_status_id_str": "1006614001428713472",
+			"quoted_status_permalink": {
+				"url": "https://t.co/xAKbj5ADg3",
+				"expanded": "https://twitter.com/SimonBlairTrain/status/1006614001428713472",
+				"display": "twitter.com/SimonBlairTrai…"
 			},
-			"retweet_count": 1,
-			"favorite_count": 0,
+			"retweet_count": 0,
+			"favorite_count": 2,
 			"favorited": false,
-			"retweeted": true,
+			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"is_quote_status": true,
-		"quoted_status_id": 1006633577193209900,
-		"quoted_status_id_str": "1006633577193209856",
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Still looking for an \"Injured in a trust fall\" T shirt. Icebreakers make my insides curdle. https://t.co/LldVdogEah"
 	},
 	{
 		"created_at": "Tue Jun 12 20:42:16 +0000 2018",
 		"id": 1006637831563800600,
 		"id_str": "1006637831563800576",
-		"text": "@jennifer_spain Which to me, is not necessarily a \"cutesy\" ice breaker but a relevant conversation to have with another educator.",
+		"full_text": "@jennifer_spain Which to me, is not necessarily a \"cutesy\" ice breaker but a relevant conversation to have with another educator.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			129
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -31422,16 +32105,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31462,17 +32145,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jennifer_spain Which to me, is not necessarily a \"cutesy\" ice breaker but a relevant conversation to have with another educator."
 	},
 	{
 		"created_at": "Tue Jun 12 20:37:41 +0000 2018",
 		"id": 1006636677656264700,
 		"id_str": "1006636677656264704",
-		"text": "@jennifer_spain The only thing I wrestle with is if folks are going to have to interact, what, if any, barriers nee… https://t.co/kZrZLrcJHu",
-		"truncated": true,
+		"full_text": "@jennifer_spain The only thing I wrestle with is if folks are going to have to interact, what, if any, barriers need to be removed in order for that to be effective? Not sure ice breakers are the answer but something that says \"we're not strangers\"",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			248
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -31488,17 +32176,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/kZrZLrcJHu",
-					"expanded_url": "https://twitter.com/i/web/status/1006636677656264704",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1006636112322809900,
@@ -31543,16 +32221,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31583,17 +32261,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jennifer_spain The only thing I wrestle with is if folks are going to have to interact, what, if any, barriers need to be removed in order for that to be effective? Not sure ice breakers are the answer but something that says \"we're not strangers\""
 	},
 	{
 		"created_at": "Tue Jun 12 20:33:20 +0000 2018",
 		"id": 1006635586059317200,
 		"id_str": "1006635586059317249",
-		"text": "@woscholar @wmchamberlain It's rank alright.",
+		"full_text": "@woscholar @wmchamberlain It's rank alright.",
 		"truncated": false,
+		"display_text_range": [
+			26,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -31664,16 +32347,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31704,17 +32387,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 18,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@woscholar @wmchamberlain It's rank alright."
 	},
 	{
 		"created_at": "Tue Jun 12 20:28:27 +0000 2018",
 		"id": 1006634355454664700,
 		"id_str": "1006634355454664705",
-		"text": "@gcouros #SpanishTeachersHashtag",
+		"full_text": "@gcouros #SpanishTeachersHashtag",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			32
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -31783,16 +32471,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31826,14 +32514,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@gcouros #SpanishTeachersHashtag"
 	},
 	{
 		"created_at": "Tue Jun 12 20:26:48 +0000 2018",
 		"id": 1006633939652337700,
 		"id_str": "1006633939652337664",
-		"text": "@tiffadami That presenter should be punished.",
+		"full_text": "@tiffadami That presenter should be punished.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -31894,16 +32587,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -31934,17 +32627,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@tiffadami That presenter should be punished."
 	},
 	{
 		"created_at": "Tue Jun 12 20:26:15 +0000 2018",
 		"id": 1006633801789759500,
 		"id_str": "1006633801789759488",
-		"text": "@KarMa_C4 Grading just makes everything worse.",
+		"full_text": "@KarMa_C4 Grading just makes everything worse.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32005,16 +32703,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32045,17 +32743,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 3,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@KarMa_C4 Grading just makes everything worse."
 	},
 	{
 		"created_at": "Tue Jun 12 20:25:43 +0000 2018",
 		"id": 1006633669014970400,
 		"id_str": "1006633669014970368",
-		"text": "@AmandaByrum1 on a hot day in Texas.",
+		"full_text": "@AmandaByrum1 on a hot day in Texas.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32116,16 +32819,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32156,17 +32859,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@AmandaByrum1 on a hot day in Texas."
 	},
 	{
 		"created_at": "Tue Jun 12 20:25:21 +0000 2018",
 		"id": 1006633577193209900,
 		"id_str": "1006633577193209856",
-		"text": "Pretty much. If I ever ask folks to interact I give them all an out clause to check their email. https://t.co/xAKbj5ADg3",
+		"full_text": "Pretty much. If I ever ask folks to interact I give them all an out clause to check their email. https://t.co/xAKbj5ADg3",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32226,16 +32934,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32267,12 +32975,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1006614001428713500,
 		"quoted_status_id_str": "1006614001428713472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xAKbj5ADg3",
+			"expanded": "https://twitter.com/SimonBlairTrain/status/1006614001428713472",
+			"display": "twitter.com/SimonBlairTrai…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 12 19:07:34 +0000 2018",
 			"id": 1006614001428713500,
 			"id_str": "1006614001428713472",
-			"text": "@dhudgins @shareski Am I the only one who imagines the conversation going like this?\nExtrovert: \"Let's add a fun ic… https://t.co/Bq7QQrQNTI",
-			"truncated": true,
+			"full_text": "@dhudgins @shareski Am I the only one who imagines the conversation going like this?\nExtrovert: \"Let's add a fun icebreaker.\"\nIntrovert: \"Let's not. We're not here to mingle.\"",
+			"truncated": false,
+			"display_text_range": [
+				20,
+				175
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -32298,17 +33015,7 @@ Grailbird.data.tweets_2018_06 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/Bq7QQrQNTI",
-						"expanded_url": "https://twitter.com/i/web/status/1006614001428713472",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
 			"in_reply_to_status_id": 1006610370507624400,
@@ -32322,13 +33029,13 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Simon Blair",
 				"screen_name": "SimonBlairTrain",
 				"location": "Ontario, Canada",
-				"description": "Trainer, software developer, and all-around great guy. These days, I work mostly on #eLearning. Speaking at #DevLearn 2017.",
-				"url": "https://t.co/iDvTrtJPFM",
+				"description": "Trainer, software developer, and all-around great guy. These days, I work mostly on #eLearning. Attending #DevLearn 2018.",
+				"url": "https://t.co/iDvTrtseOe",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/iDvTrtJPFM",
+								"url": "https://t.co/iDvTrtseOe",
 								"expanded_url": "http://www.simonblairtraining.com",
 								"display_url": "simonblairtraining.com",
 								"indices": [
@@ -32343,16 +33050,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1025,
-				"friends_count": 661,
-				"listed_count": 74,
+				"followers_count": 1185,
+				"friends_count": 742,
+				"listed_count": 77,
 				"created_at": "Sun Feb 24 15:34:10 +0000 2013",
-				"favourites_count": 2750,
+				"favourites_count": 3752,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 4497,
+				"statuses_count": 5344,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -32382,25 +33089,30 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 2,
+			"retweet_count": 1,
+			"favorite_count": 28,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Pretty much. If I ever ask folks to interact I give them all an out clause to check their email. https://t.co/xAKbj5ADg3"
 	},
 	{
 		"created_at": "Tue Jun 12 20:23:28 +0000 2018",
 		"id": 1006633102490255400,
 		"id_str": "1006633102490255360",
-		"text": "@woscholar @wmchamberlain maybe pull it instead of smell it.",
+		"full_text": "@woscholar @wmchamberlain maybe pull it instead of smell it.",
 		"truncated": false,
+		"display_text_range": [
+			26,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32471,16 +33183,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32511,17 +33223,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@woscholar @wmchamberlain maybe pull it instead of smell it."
 	},
 	{
 		"created_at": "Tue Jun 12 20:22:03 +0000 2018",
 		"id": 1006632744263172100,
 		"id_str": "1006632744263172096",
-		"text": "Also yikes. https://t.co/3J1rWaIN5k",
+		"full_text": "Also yikes. https://t.co/3J1rWaIN5k",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32581,16 +33298,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32622,12 +33339,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1006615409372647400,
 		"quoted_status_id_str": "1006615409372647424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3J1rWaIN5k",
+			"expanded": "https://twitter.com/Phil_Smith/status/1006615409372647424",
+			"display": "twitter.com/Phil_Smith/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 12 19:13:10 +0000 2018",
 			"id": 1006615409372647400,
 			"id_str": "1006615409372647424",
-			"text": "@shareski Our PD Director asked us all to play a game of I’ve Never. It got real ugly, real fast.",
+			"full_text": "@shareski Our PD Director asked us all to play a game of I’ve Never. It got real ugly, real fast.",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				97
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -32657,7 +33383,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Rambler",
 				"screen_name": "Phil_Smith",
 				"location": "614",
-				"description": "On the road to nowhere. Arriving daily.",
+				"description": "Dancing on my own",
 				"url": null,
 				"entities": {
 					"description": {
@@ -32665,16 +33391,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 384,
-				"friends_count": 832,
-				"listed_count": 7,
+				"followers_count": 376,
+				"friends_count": 842,
+				"listed_count": 6,
 				"created_at": "Sat Apr 05 02:58:23 +0000 2008",
-				"favourites_count": 7263,
+				"favourites_count": 7968,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 11344,
+				"statuses_count": 11376,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -32683,8 +33409,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/984921226052358144/0w9Fsrkc_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984921226052358144/0w9Fsrkc_normal.jpg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050440674779246593/iX_FMq9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050440674779246593/iX_FMq9e_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14308100/1398799061",
 				"profile_link_color": "0000FF",
 				"profile_sidebar_border_color": "87BC44",
@@ -32705,7 +33431,7 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 6,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -32715,14 +33441,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Also yikes. https://t.co/3J1rWaIN5k"
 	},
 	{
 		"created_at": "Tue Jun 12 20:21:44 +0000 2018",
 		"id": 1006632667805175800,
 		"id_str": "1006632667805175809",
-		"text": "@woscholar what about @wmchamberlain suggesting of smell my finger?",
+		"full_text": "@woscholar what about @wmchamberlain suggesting of smell my finger?",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32793,16 +33524,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32833,17 +33564,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@woscholar what about @wmchamberlain suggesting of smell my finger?"
 	},
 	{
 		"created_at": "Tue Jun 12 20:21:11 +0000 2018",
 		"id": 1006632527187009500,
 		"id_str": "1006632527187009536",
-		"text": "@anneshillolo yikes",
+		"full_text": "@anneshillolo yikes",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -32904,16 +33640,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -32944,17 +33680,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@anneshillolo yikes"
 	},
 	{
 		"created_at": "Tue Jun 12 20:20:42 +0000 2018",
 		"id": 1006632405984206800,
 		"id_str": "1006632405984206848",
-		"text": "@MrMacnology @michellek107 and let's keep it that way.",
+		"full_text": "@MrMacnology @michellek107 and let's keep it that way.",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33025,16 +33766,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33068,14 +33809,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@MrMacnology @michellek107 and let's keep it that way."
 	},
 	{
 		"created_at": "Tue Jun 12 20:20:19 +0000 2018",
 		"id": 1006632308445593600,
 		"id_str": "1006632308445593601",
-		"text": "@jennifer_spain There seems to be a consensus here. I'm guessing we have an introvert learning  group.",
+		"full_text": "@jennifer_spain There seems to be a consensus here. I'm guessing we have an introvert learning  group.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			102
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33136,16 +33882,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37726,
-			"friends_count": 6778,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113297,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33176,17 +33922,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jennifer_spain There seems to be a consensus here. I'm guessing we have an introvert learning  group."
 	},
 	{
 		"created_at": "Tue Jun 12 19:11:06 +0000 2018",
 		"id": 1006614891338203100,
 		"id_str": "1006614891338203137",
-		"text": "@michellek107 @MrMacnology That’s disappointing",
+		"full_text": "@michellek107 @MrMacnology That’s disappointing",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33257,16 +34008,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6776,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113281,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33297,17 +34048,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 @MrMacnology That’s disappointing"
 	},
 	{
 		"created_at": "Tue Jun 12 18:34:58 +0000 2018",
 		"id": 1006605796329775100,
 		"id_str": "1006605796329775105",
-		"text": "What’s the worst icebreaker activity you’ve participated in?",
+		"full_text": "What’s the worst icebreaker activity you’ve participated in?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33357,16 +34113,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6776,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113281,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33396,18 +34152,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 13,
+		"favorite_count": 45,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What’s the worst icebreaker activity you’ve participated in?"
 	},
 	{
 		"created_at": "Tue Jun 12 18:34:15 +0000 2018",
 		"id": 1006605616641527800,
 		"id_str": "1006605616641527808",
-		"text": "@michellek107 @MrMacnology Was any cash exchanged?",
+		"full_text": "@michellek107 @MrMacnology Was any cash exchanged?",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33478,237 +34239,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6776,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113281,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Tue Jun 12 17:05:00 +0000 2018",
-		"id": 1006583157179732000,
-		"id_str": "1006583157179731969",
-		"text": "\"compelling connections between the experience of awe and enhanced critical and creative thinking faculties, improv… https://t.co/2ZtJzwhUDo",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/2ZtJzwhUDo",
-					"expanded_url": "https://twitter.com/i/web/status/1006583157179731969",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6776,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113278,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Tue Jun 12 15:22:00 +0000 2018",
-		"id": 1006557236129386500,
-		"id_str": "1006557236129386497",
-		"text": "Let me just say when I told my 19 year old that I was doing a Poetry Slam, she said, and I quote \"ugh\". This will b… https://t.co/H6TzLjKntz",
-		"truncated": true,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/H6TzLjKntz",
-					"expanded_url": "https://twitter.com/i/web/status/1006557236129386497",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6776,
-			"listed_count": 1404,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113277,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33742,15 +34282,251 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
+		"lang": "en",
+		"text": "@michellek107 @MrMacnology Was any cash exchanged?"
+	},
+	{
+		"created_at": "Tue Jun 12 17:05:00 +0000 2018",
+		"id": 1006583157179732000,
+		"id_str": "1006583157179731969",
+		"full_text": "\"compelling connections between the experience of awe and enhanced critical and creative thinking faculties, improved health, a sense of embeddedness into collective folds and an increase in pro-social behaviours\" The Science of Awe. https://t.co/AkYBSn1DqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AkYBSn1DqZ",
+					"expanded_url": "https://www.psychologytoday.com/ca/blog/understanding-awe/201704/the-emerging-science-awe-and-its-benefits",
+					"display_url": "psychologytoday.com/ca/blog/unders…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "\"compelling connections between the experience of awe and enhanced critical and creative thinking faculties, improved health, a sense of embeddedness into collective folds and an increase in pro-social behaviours\" The Science of Awe. https://t.co/AkYBSn1DqZ"
+	},
+	{
+		"created_at": "Tue Jun 12 15:22:00 +0000 2018",
+		"id": 1006557236129386500,
+		"id_str": "1006557236129386497",
+		"full_text": "Let me just say when I told my 19 year old that I was doing a Poetry Slam, she said, and I quote \"ugh\". This will be my out of my comfort zone big time moment. \nhttps://t.co/A7AWa6PTGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A7AWa6PTGE",
+					"expanded_url": "https://www.eventbrite.com/e/iste-ed-tech-poetry-slam-tickets-44411639409",
+					"display_url": "eventbrite.com/e/iste-ed-tech…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let me just say when I told my 19 year old that I was doing a Poetry Slam, she said, and I quote \"ugh\". This will be my out of my comfort zone big time moment. \nhttps://t.co/A7AWa6PTGE"
 	},
 	{
 		"created_at": "Tue Jun 12 12:51:12 +0000 2018",
 		"id": 1006519285865300000,
 		"id_str": "1006519285865299968",
-		"text": "@aimeegbartis It was okay. Too much Apple love for me but the section about the limbic brain was particularly useful.",
+		"full_text": "@aimeegbartis It was okay. Too much Apple love for me but the section about the limbic brain was particularly useful.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			117
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -33811,16 +34587,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37725,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113276,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -33854,14 +34630,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@aimeegbartis It was okay. Too much Apple love for me but the section about the limbic brain was particularly useful."
 	},
 	{
 		"created_at": "Tue Jun 12 12:21:13 +0000 2018",
 		"id": 1006511737816875000,
 		"id_str": "1006511737816875008",
-		"text": "Just to mix it up, my 3 most recent reads are hard copies. Also fairly diverse subjects. Which is nice. #Twitter https://t.co/4TCI4hUhIb",
+		"full_text": "Just to mix it up, my 3 most recent reads are hard copies. Also fairly diverse subjects. Which is nice. #Twitter https://t.co/4TCI4hUhIb",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -33997,16 +34778,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37725,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113276,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34037,18 +34818,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 9,
+		"favorite_count": 13,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Just to mix it up, my 3 most recent reads are hard copies. Also fairly diverse subjects. Which is nice. #Twitter https://t.co/4TCI4hUhIb"
 	},
 	{
 		"created_at": "Tue Jun 12 11:59:42 +0000 2018",
 		"id": 1006506323398221800,
 		"id_str": "1006506323398221825",
-		"text": "@AndySchaeferDE Not planning to make this a habit. It’s mostly @JasonBuccheri’s fault anyway.",
+		"full_text": "@AndySchaeferDE Not planning to make this a habit. It’s mostly @JasonBuccheri’s fault anyway.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			93
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -34119,16 +34905,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37725,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113274,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34159,17 +34945,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@AndySchaeferDE Not planning to make this a habit. It’s mostly @JasonBuccheri’s fault anyway."
 	},
 	{
 		"created_at": "Tue Jun 12 11:05:33 +0000 2018",
 		"id": 1006492699355242500,
 		"id_str": "1006492699355242497",
-		"text": "Thank you Will for being my teacher. https://t.co/2H778zkohF",
+		"full_text": "Thank you Will for being my teacher. https://t.co/2H778zkohF",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -34229,16 +35020,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6775,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113273,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34270,12 +35061,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1006281925785505800,
 		"quoted_status_id_str": "1006281925785505793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2H778zkohF",
+			"expanded": "https://twitter.com/willrich45/status/1006281925785505793",
+			"display": "twitter.com/willrich45/sta…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 11 21:08:01 +0000 2018",
 			"id": 1006281925785505800,
 			"id_str": "1006281925785505793",
-			"text": "Just for the record, at this very moment on June 11, 2001, I published my first blog post. Happy 17-year Blogversary to me. #stillblogging",
+			"full_text": "Just for the record, at this very moment on June 11, 2001, I published my first blog post. Happy 17-year Blogversary to me. #stillblogging",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -34290,7 +35090,7 @@ Grailbird.data.tweets_2018_06 =
 				"user_mentions": [],
 				"urls": []
 			},
-			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
@@ -34351,16 +35151,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 74715,
-				"friends_count": 1,
-				"listed_count": 3190,
+				"followers_count": 74829,
+				"friends_count": 2,
+				"listed_count": 3188,
 				"created_at": "Sat Mar 17 12:56:05 +0000 2007",
-				"favourites_count": 2125,
+				"favourites_count": 2401,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 30622,
+				"statuses_count": 31350,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -34390,25 +35190,30 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 47,
+			"retweet_count": 2,
+			"favorite_count": 66,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Thank you Will for being my teacher. https://t.co/2H778zkohF"
 	},
 	{
 		"created_at": "Tue Jun 12 11:03:33 +0000 2018",
 		"id": 1006492193194901500,
 		"id_str": "1006492193194901504",
-		"text": "I’m dedicating this week to @AndySchaeferDE 3 days in a row, up and at it before 5am. https://t.co/asUXT5Ydyj",
+		"full_text": "I’m dedicating this week to @AndySchaeferDE 3 days in a row, up and at it before 5am. https://t.co/asUXT5Ydyj",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -34560,16 +35365,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37724,
-			"friends_count": 6775,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113273,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34600,18 +35405,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’m dedicating this week to @AndySchaeferDE 3 days in a row, up and at it before 5am. https://t.co/asUXT5Ydyj"
 	},
 	{
 		"created_at": "Tue Jun 12 05:09:28 +0000 2018",
 		"id": 1006403084518658000,
 		"id_str": "1006403084518658053",
-		"text": "Go Hugh Go! @DiscoveryEd #sd36learn https://t.co/OclXJqFkSO",
+		"full_text": "Go Hugh Go! @DiscoveryEd #sd36learn https://t.co/OclXJqFkSO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -34690,16 +35500,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37722,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113271,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34731,12 +35541,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1006387550305468400,
 		"quoted_status_id_str": "1006387550305468416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OclXJqFkSO",
+			"expanded": "https://twitter.com/pattyloughlean/status/1006387550305468416",
+			"display": "twitter.com/pattyloughlean…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 12 04:07:44 +0000 2018",
 			"id": 1006387550305468400,
 			"id_str": "1006387550305468416",
-			"text": "Thank you @hughtheteacher and Paolo for facilitating such an informative and.inspiring #discoveryed  session at Kat… https://t.co/vQjK5gDEIW",
-			"truncated": true,
+			"full_text": "Thank you @hughtheteacher and Paolo for facilitating such an informative and.inspiring #discoveryed  session at Katzie today #sd36learn #katzielearns https://t.co/6atnqBstAp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -34744,6 +35563,20 @@ Grailbird.data.tweets_2018_06 =
 						"indices": [
 							87,
 							99
+						]
+					},
+					{
+						"text": "sd36learn",
+						"indices": [
+							125,
+							135
+						]
+					},
+					{
+						"text": "katzielearns",
+						"indices": [
+							136,
+							149
 						]
 					}
 				],
@@ -34760,15 +35593,83 @@ Grailbird.data.tweets_2018_06 =
 						]
 					}
 				],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/vQjK5gDEIW",
-						"expanded_url": "https://twitter.com/i/web/status/1006387550305468416",
-						"display_url": "twitter.com/i/web/status/1…",
+						"id": 1006387548761907200,
+						"id_str": "1006387548761907200",
 						"indices": [
-							117,
-							140
-						]
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdoJL5UYAAX3v0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdoJL5UYAAX3v0.jpg",
+						"url": "https://t.co/6atnqBstAp",
+						"display_url": "pic.twitter.com/6atnqBstAp",
+						"expanded_url": "https://twitter.com/PattyLoughlean/status/1006387550305468416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 878,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1498,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006387548761907200,
+						"id_str": "1006387548761907200",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdoJL5UYAAX3v0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdoJL5UYAAX3v0.jpg",
+						"url": "https://t.co/6atnqBstAp",
+						"display_url": "pic.twitter.com/6atnqBstAp",
+						"expanded_url": "https://twitter.com/PattyLoughlean/status/1006387550305468416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 878,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1498,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -34792,16 +35693,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 324,
-				"friends_count": 496,
+				"followers_count": 338,
+				"friends_count": 341,
 				"listed_count": 14,
 				"created_at": "Tue Feb 24 03:33:40 +0000 2015",
-				"favourites_count": 140,
+				"favourites_count": 171,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 207,
+				"statuses_count": 224,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -34832,25 +35733,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1,
-			"favorite_count": 1,
+			"favorite_count": 6,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Go Hugh Go! @DiscoveryEd #sd36learn https://t.co/OclXJqFkSO"
 	},
 	{
 		"created_at": "Tue Jun 12 03:19:20 +0000 2018",
 		"id": 1006375371632271400,
 		"id_str": "1006375371632271363",
-		"text": "Yes. https://t.co/YTNcVIuHiI",
+		"full_text": "Yes. https://t.co/YTNcVIuHiI",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -34910,16 +35816,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37722,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113270,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -34951,12 +35857,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1006373404570579000,
 		"quoted_status_id_str": "1006373404570578945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YTNcVIuHiI",
+			"expanded": "https://twitter.com/librarymall/status/1006373404570578945",
+			"display": "twitter.com/librarymall/st…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 12 03:11:31 +0000 2018",
 			"id": 1006373404570579000,
 			"id_str": "1006373404570578945",
-			"text": "@shareski Ataulfo mango! They are like eating sweet fruit butter :)",
+			"full_text": "@shareski Ataulfo mango! They are like eating sweet fruit butter :)",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				67
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -35017,16 +35932,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3004,
-				"friends_count": 2787,
-				"listed_count": 270,
+				"followers_count": 3034,
+				"friends_count": 2891,
+				"listed_count": 268,
 				"created_at": "Fri Jun 19 23:54:18 +0000 2009",
-				"favourites_count": 7117,
+				"favourites_count": 7644,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 5893,
+				"statuses_count": 6151,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -35067,14 +35982,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "Yes. https://t.co/YTNcVIuHiI"
 	},
 	{
 		"created_at": "Tue Jun 12 03:18:54 +0000 2018",
 		"id": 1006375262748110800,
 		"id_str": "1006375262748110853",
-		"text": "Nothing like evening golf played in 2 and a half hours.  https://t.co/qF4lcuR3G0 #yourbestgolf https://t.co/DO8Ka0QsgT",
+		"full_text": "Nothing like evening golf played in 2 and a half hours.  https://t.co/qF4lcuR3G0 #yourbestgolf https://t.co/DO8Ka0QsgT",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -35220,16 +36140,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37722,
-			"friends_count": 6775,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113270,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35264,14 +36184,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Nothing like evening golf played in 2 and a half hours.  https://t.co/qF4lcuR3G0 #yourbestgolf https://t.co/DO8Ka0QsgT"
 	},
 	{
 		"created_at": "Mon Jun 11 22:43:39 +0000 2018",
 		"id": 1006305992299212800,
 		"id_str": "1006305992299212800",
-		"text": "@SheilaSpeaking According to Postman, TV news has always been designed to entertain first, inform second. Moving fr… https://t.co/uDfEtQ5OmD",
-		"truncated": true,
+		"full_text": "@SheilaSpeaking According to Postman, TV news has always been designed to entertain first, inform second. Moving from a 2 minutes story on a earthquake to a commercial for deodorant is actually bizzare.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			202
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35287,17 +36212,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/uDfEtQ5OmD",
-					"expanded_url": "https://twitter.com/i/web/status/1006305992299212800",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1006304436073975800,
@@ -35342,16 +36257,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113268,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35385,14 +36300,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@SheilaSpeaking According to Postman, TV news has always been designed to entertain first, inform second. Moving from a 2 minutes story on a earthquake to a commercial for deodorant is actually bizzare."
 	},
 	{
 		"created_at": "Mon Jun 11 21:56:56 +0000 2018",
 		"id": 1006294234297663500,
 		"id_str": "1006294234297663492",
-		"text": "@TheWeirdTeacher my neighbor https://t.co/W2W5RZzkte",
+		"full_text": "@TheWeirdTeacher my neighbor https://t.co/W2W5RZzkte",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35531,16 +36451,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113267,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35571,18 +36491,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TheWeirdTeacher my neighbor https://t.co/W2W5RZzkte"
 	},
 	{
 		"created_at": "Mon Jun 11 21:29:34 +0000 2018",
 		"id": 1006287347732840400,
 		"id_str": "1006287347732840450",
-		"text": "@gsiemens If you leave me now, you'll take away the biggest part of me.",
+		"full_text": "@gsiemens If you leave me now, you'll take away the biggest part of me.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			71
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35643,16 +36568,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113267,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35686,14 +36611,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gsiemens If you leave me now, you'll take away the biggest part of me."
 	},
 	{
 		"created_at": "Mon Jun 11 21:23:16 +0000 2018",
 		"id": 1006285762856476700,
 		"id_str": "1006285762856476674",
-		"text": "@gsiemens You're the meaning in my life, You're the Inspiration. You bring feeling to my life. You're the Inspiration.",
+		"full_text": "@gsiemens You're the meaning in my life, You're the Inspiration. You bring feeling to my life. You're the Inspiration.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			118
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35754,16 +36684,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113267,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35797,14 +36727,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gsiemens You're the meaning in my life, You're the Inspiration. You bring feeling to my life. You're the Inspiration."
 	},
 	{
 		"created_at": "Mon Jun 11 21:20:02 +0000 2018",
 		"id": 1006284950902136800,
 		"id_str": "1006284950902136832",
-		"text": "@gsiemens here you go. https://t.co/hs1adLX7UJ",
+		"full_text": "@gsiemens here you go. https://t.co/hs1adLX7UJ",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35875,16 +36810,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113267,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -35919,14 +36854,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gsiemens here you go. https://t.co/hs1adLX7UJ"
 	},
 	{
 		"created_at": "Mon Jun 11 20:39:58 +0000 2018",
 		"id": 1006274865916235800,
 		"id_str": "1006274865916235777",
-		"text": "Empathy and friendship. https://t.co/GzWRLC9kAH",
+		"full_text": "Empathy and friendship. https://t.co/GzWRLC9kAH",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -35986,16 +36926,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37720,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113263,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36025,19 +36965,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 7,
+		"retweet_count": 10,
+		"favorite_count": 49,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Empathy and friendship. https://t.co/GzWRLC9kAH"
 	},
 	{
 		"created_at": "Mon Jun 11 19:15:46 +0000 2018",
 		"id": 1006253674786644000,
 		"id_str": "1006253674786643969",
-		"text": "@bballsutter Never go by what I say.",
+		"full_text": "@bballsutter Never go by what I say.",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36098,16 +37043,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37720,
-			"friends_count": 6774,
-			"listed_count": 1404,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113262,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36141,14 +37086,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@bballsutter Never go by what I say."
 	},
 	{
 		"created_at": "Mon Jun 11 18:11:58 +0000 2018",
 		"id": 1006237622069428200,
 		"id_str": "1006237622069428224",
-		"text": "@DanaAriss fancy.",
+		"full_text": "@DanaAriss fancy.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36209,16 +37159,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37718,
-			"friends_count": 6774,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113261,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36252,14 +37202,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@DanaAriss fancy."
 	},
 	{
 		"created_at": "Mon Jun 11 17:40:47 +0000 2018",
 		"id": 1006229774195454000,
 		"id_str": "1006229774195453957",
-		"text": "@joeybtait more acceptable.",
+		"full_text": "@joeybtait more acceptable.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36320,16 +37275,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37718,
-			"friends_count": 6774,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113261,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36363,14 +37318,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@joeybtait more acceptable."
 	},
 	{
 		"created_at": "Mon Jun 11 17:40:35 +0000 2018",
 		"id": 1006229724782309400,
 		"id_str": "1006229724782309376",
-		"text": "I've got something to share(ski) \"Still Amusing Ourselves to Death\" https://t.co/7UBmViaGl8 Feedback is good.",
+		"full_text": "I've got something to share(ski) \"Still Amusing Ourselves to Death\" https://t.co/7UBmViaGl8 Feedback is good.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36430,16 +37390,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37718,
-			"friends_count": 6774,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113261,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36469,19 +37429,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I've got something to share(ski) \"Still Amusing Ourselves to Death\" https://t.co/7UBmViaGl8 Feedback is good."
 	},
 	{
 		"created_at": "Mon Jun 11 16:32:11 +0000 2018",
 		"id": 1006212508837965800,
 		"id_str": "1006212508837965825",
-		"text": "@joeybtait That's a \"barely\" fruit.",
+		"full_text": "@joeybtait That's a \"barely\" fruit.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36542,16 +37507,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113258,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36585,14 +37550,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@joeybtait That's a \"barely\" fruit."
 	},
 	{
 		"created_at": "Mon Jun 11 16:31:49 +0000 2018",
 		"id": 1006212418203275300,
 		"id_str": "1006212418203275264",
-		"text": "@wmchamberlain that's odd.",
+		"full_text": "@wmchamberlain that's odd.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36653,16 +37623,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6774,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113258,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36696,14 +37666,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@wmchamberlain that's odd."
 	},
 	{
 		"created_at": "Mon Jun 11 14:52:00 +0000 2018",
 		"id": 1006187296322973700,
 		"id_str": "1006187296322973697",
-		"text": "@neontetra Too many experiences with tasteless ones for me.",
+		"full_text": "@neontetra Too many experiences with tasteless ones for me.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			59
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36764,16 +37739,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6773,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113256,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36807,14 +37782,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@neontetra Too many experiences with tasteless ones for me."
 	},
 	{
 		"created_at": "Mon Jun 11 14:51:20 +0000 2018",
 		"id": 1006187128596979700,
 		"id_str": "1006187128596979713",
-		"text": "@davecormier @chrislehmann They share some of the same after effects.",
+		"full_text": "@davecormier @chrislehmann They share some of the same after effects.",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			69
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36885,16 +37865,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6773,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113256,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -36928,14 +37908,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@davecormier @chrislehmann They share some of the same after effects."
 	},
 	{
 		"created_at": "Mon Jun 11 14:50:58 +0000 2018",
 		"id": 1006187036167082000,
 		"id_str": "1006187036167081985",
-		"text": "@ShanaVWhite So I guess the whole peach thing gets overdone?",
+		"full_text": "@ShanaVWhite So I guess the whole peach thing gets overdone?",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -36996,16 +37981,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6773,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113256,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37036,17 +38021,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@ShanaVWhite So I guess the whole peach thing gets overdone?"
 	},
 	{
 		"created_at": "Mon Jun 11 14:32:52 +0000 2018",
 		"id": 1006182483048747000,
 		"id_str": "1006182483048747009",
-		"text": "@chrislehmann Not a peach?",
+		"full_text": "@chrislehmann Not a peach?",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37107,16 +38097,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6773,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113256,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37150,14 +38140,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@chrislehmann Not a peach?"
 	},
 	{
 		"created_at": "Mon Jun 11 14:31:56 +0000 2018",
 		"id": 1006182249325367300,
 		"id_str": "1006182249325367296",
-		"text": "@GustafsonBrad Peeled",
+		"full_text": "@GustafsonBrad Peeled",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			21
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37218,16 +38213,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6773,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113256,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37261,14 +38256,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@GustafsonBrad Peeled"
 	},
 	{
 		"created_at": "Mon Jun 11 06:22:05 +0000 2018",
 		"id": 1006058974603563000,
 		"id_str": "1006058974603563008",
-		"text": "@digitalmaverick Interesting",
+		"full_text": "@digitalmaverick Interesting",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37329,16 +38329,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6773,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113251,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37372,14 +38372,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@digitalmaverick Interesting"
 	},
 	{
 		"created_at": "Mon Jun 11 05:50:41 +0000 2018",
 		"id": 1006051070185963500,
 		"id_str": "1006051070185963520",
-		"text": "Mango is moving its way to the top of my favourite fruits. What’s your favourite fruit?",
+		"full_text": "Mango is moving its way to the top of my favourite fruits. What’s your favourite fruit?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37429,16 +38434,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6773,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113250,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37469,17 +38474,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 14,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Mango is moving its way to the top of my favourite fruits. What’s your favourite fruit?"
 	},
 	{
 		"created_at": "Mon Jun 11 04:51:24 +0000 2018",
 		"id": 1006036150245580800,
 		"id_str": "1006036150245580800",
-		"text": "@TimothyCusack #attaboy",
+		"full_text": "@TimothyCusack #attaboy",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			23
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -37548,16 +38558,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6773,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113249,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37591,14 +38601,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@TimothyCusack #attaboy"
 	},
 	{
 		"created_at": "Mon Jun 11 04:48:06 +0000 2018",
 		"id": 1006035321123983400,
 		"id_str": "1006035321123983360",
-		"text": "@TimothyCusack I hope Grapes made an appearance.",
+		"full_text": "@TimothyCusack I hope Grapes made an appearance.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37659,16 +38674,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6773,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113249,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37702,14 +38717,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TimothyCusack I hope Grapes made an appearance."
 	},
 	{
 		"created_at": "Mon Jun 11 04:46:51 +0000 2018",
 		"id": 1006035006429585400,
 		"id_str": "1006035006429585408",
-		"text": "Imagine if more politicians did this. https://t.co/NBQLh0NrBb",
+		"full_text": "Imagine if more politicians did this. https://t.co/NBQLh0NrBb",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -37769,16 +38789,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6773,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113249,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -37808,106 +38828,181 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 2,
+		"retweet_count": 9,
+		"favorite_count": 13,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Imagine if more politicians did this. https://t.co/NBQLh0NrBb"
 	},
 	{
-		"created_at": "Mon Jun 11 03:19:45 +0000 2018",
-		"id": 1006013087604830200,
-		"id_str": "1006013087604830210",
-		"text": "RT @AaronNagler: Here's Favre telling Gruden how he came up with RPOs in GB because he was bored in practice and how he ran them in a game…",
+		"created_at": "Sun Jun 10 21:39:11 +0000 2018",
+		"id": 1005927382358913000,
+		"id_str": "1005927382358913025",
+		"full_text": "Here's Favre telling Gruden how he came up with RPOs in GB because he was bored in practice and how he ran them in a game before telling Mike Sherman because he wanted to prove that they would work before being told not to. https://t.co/QehChLkWrO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [],
+			"media": [
 				{
-					"screen_name": "AaronNagler",
-					"name": "Aaron Nagler",
-					"id": 16953393,
-					"id_str": "16953393",
+					"id": 1005927134056075300,
+					"id_str": "1005927134056075269",
 					"indices": [
-						3,
-						15
-					]
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005927134056075269/pu/img/VEDEls9LEpy430Sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005927134056075269/pu/img/VEDEls9LEpy430Sy.jpg",
+					"url": "https://t.co/QehChLkWrO",
+					"display_url": "pic.twitter.com/QehChLkWrO",
+					"expanded_url": "https://twitter.com/AaronNagler/status/1005927382358913025/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 613,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
 				}
-			],
-			"urls": []
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005927134056075300,
+					"id_str": "1005927134056075269",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1005927134056075269/pu/img/VEDEls9LEpy430Sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1005927134056075269/pu/img/VEDEls9LEpy430Sy.jpg",
+					"url": "https://t.co/QehChLkWrO",
+					"display_url": "pic.twitter.com/QehChLkWrO",
+					"expanded_url": "https://twitter.com/AaronNagler/status/1005927382358913025/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 613,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 652,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							163
+						],
+						"duration_millis": 119833,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005927134056075269/pu/vid/352x180/arpUIb_UlxneBbJ9.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1005927134056075269/pu/vid/704x360/9L3900vOvVGoFfg8.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1005927134056075269/pu/pl/p1jh88G0CSMepVEI.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 16953393,
+			"id_str": "16953393",
+			"name": "Aaron Nagler",
+			"screen_name": "AaronNagler",
+			"location": "New York, NY",
+			"description": "Failed actor. Co-founder, @cheeseheadtv",
+			"url": null,
 			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6772,
-			"listed_count": 1407,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 59341,
+			"friends_count": 1574,
+			"listed_count": 2227,
+			"created_at": "Fri Oct 24 17:53:37 +0000 2008",
+			"favourites_count": 13481,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 113246,
+			"statuses_count": 227176,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"profile_background_color": "012204",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054912670573494272/0n3Cl3Bn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054912670573494272/0n3Cl3Bn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16953393/1539135065",
+			"profile_link_color": "0E5606",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "BFBD9C",
+			"profile_text_color": "171212",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -37919,120 +39014,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Jun 10 21:39:11 +0000 2018",
-			"id": 1005927382358913000,
-			"id_str": "1005927382358913025",
-			"text": "Here's Favre telling Gruden how he came up with RPOs in GB because he was bored in practice and how he ran them in… https://t.co/SYk3BtnFbz",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/SYk3BtnFbz",
-						"expanded_url": "https://twitter.com/i/web/status/1005927382358913025",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							116,
-							139
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 16953393,
-				"id_str": "16953393",
-				"name": "Aaron Nagler",
-				"screen_name": "AaronNagler",
-				"location": "New York, NY",
-				"description": "I cover the Green Bay Packers.",
-				"url": "https://t.co/VaWz1Gg2SG",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/VaWz1Gg2SG",
-								"expanded_url": "http://packersnews.com",
-								"display_url": "packersnews.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 53406,
-				"friends_count": 1401,
-				"listed_count": 2090,
-				"created_at": "Fri Oct 24 17:53:37 +0000 2008",
-				"favourites_count": 9514,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 219292,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "012204",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1004727713599578113/LnM4b7hz_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004727713599578113/LnM4b7hz_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16953393/1528380915",
-				"profile_link_color": "0E5606",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "BFBD9C",
-				"profile_text_color": "171212",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 2623,
-			"favorite_count": 8939,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 2623,
-		"favorite_count": 0,
+		"retweet_count": 5086,
+		"favorite_count": 17763,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's Favre telling Gruden how he came up with RPOs in GB because he was bored in practice and how he ran them in a game before telling Mike Sherman because he wanted to prove that they would work before being told not to. https://t.co/QehChLkWrO"
 	},
 	{
 		"created_at": "Mon Jun 11 01:51:49 +0000 2018",
 		"id": 1005990959505522700,
 		"id_str": "1005990959505522688",
-		"text": "Looking forward to supporting your indoctrination into all things SK. https://t.co/qIDxM0TLw1",
+		"full_text": "Looking forward to supporting your indoctrination into all things SK. https://t.co/qIDxM0TLw1",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -38092,16 +39092,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113245,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38133,12 +39133,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1005976315898417200,
 		"quoted_status_id_str": "1005976315898417154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qIDxM0TLw1",
+			"expanded": "https://twitter.com/cogdog/status/1005976315898417154",
+			"display": "twitter.com/cogdog/status/…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Jun 11 00:53:38 +0000 2018",
 			"id": 1005976315898417200,
 			"id_str": "1005976315898417154",
-			"text": "I knew it was just a matter of time before @corisaas and I ran into that happy guy in red shorts in the Moose Jaw Safeway. Howdy @shareski",
+			"full_text": "I knew it was just a matter of time before @corisaas and I ran into that happy guy in red shorts in the Moose Jaw Safeway. Howdy @shareski",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -38175,10 +39184,10 @@ Grailbird.data.tweets_2018_06 =
 			"user": {
 				"id": 740343,
 				"id_str": "740343",
-				"name": "Alan Levine ☠",
+				"name": "Alan Levine",
 				"screen_name": "cogdog",
-				"location": "Strawberry, Arizona",
-				"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+				"location": "Mortlach, Saskatchewan",
+				"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
 				"url": "https://t.co/wAzdfm9TIB",
 				"entities": {
 					"url": {
@@ -38197,28 +39206,28 @@ Grailbird.data.tweets_2018_06 =
 					"description": {
 						"urls": [
 							{
-								"url": "https://t.co/ZxC70Ze4em",
+								"url": "https://t.co/ZxC70YWtmO",
 								"expanded_url": "http://cogdogblog.com",
 								"display_url": "cogdogblog.com",
 								"indices": [
-									39,
-									62
+									24,
+									47
 								]
 							}
 						]
 					}
 				},
 				"protected": false,
-				"followers_count": 10551,
-				"friends_count": 1449,
-				"listed_count": 791,
+				"followers_count": 10412,
+				"friends_count": 1451,
+				"listed_count": 794,
 				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
-				"favourites_count": 755,
+				"favourites_count": 756,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 85828,
+				"statuses_count": 86831,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -38249,7 +39258,7 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 1,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -38259,14 +39268,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Looking forward to supporting your indoctrination into all things SK. https://t.co/qIDxM0TLw1"
 	},
 	{
 		"created_at": "Sun Jun 10 21:50:22 +0000 2018",
 		"id": 1005930193628909600,
 		"id_str": "1005930193628909568",
-		"text": "Nice finish. https://t.co/FiG2Vx0Kzt",
+		"full_text": "Nice finish. https://t.co/FiG2Vx0Kzt",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -38425,16 +39439,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37730,
-			"friends_count": 6772,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113244,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38465,18 +39479,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Nice finish. https://t.co/FiG2Vx0Kzt"
 	},
 	{
 		"created_at": "Sun Jun 10 20:38:48 +0000 2018",
 		"id": 1005912184432611300,
 		"id_str": "1005912184432611328",
-		"text": "And now Joey Votto is my new favourite player. https://t.co/nqk103X0SN",
+		"full_text": "And now Joey Votto is my new favourite player. https://t.co/nqk103X0SN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -38536,16 +39555,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37729,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113243,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38577,25 +39596,147 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1002619553837301800,
 		"quoted_status_id_str": "1002619553837301760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nqk103X0SN",
+			"expanded": "https://twitter.com/reds/status/1002619553837301760",
+			"display": "twitter.com/reds/status/10…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jun 01 18:35:04 +0000 2018",
 			"id": 1002619553837301800,
 			"id_str": "1002619553837301760",
-			"text": "Jerry Seinfeld and David Letterman reinforce the notion that Joey Votto is, in fact, the most interesting baseball… https://t.co/6Fu5QG6c8X",
-			"truncated": true,
+			"full_text": "Jerry Seinfeld and David Letterman reinforce the notion that Joey Votto is, in fact, the most interesting baseball player in the world. (via @Netflix) https://t.co/y9MsMSWSB5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
-				"user_mentions": [],
-				"urls": [
+				"user_mentions": [
 					{
-						"url": "https://t.co/6Fu5QG6c8X",
-						"expanded_url": "https://twitter.com/i/web/status/1002619553837301760",
-						"display_url": "twitter.com/i/web/status/1…",
+						"screen_name": "netflix",
+						"name": "Netflix US",
+						"id": 16573941,
+						"id_str": "16573941",
 						"indices": [
-							116,
-							139
+							141,
+							149
 						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002615133636579300,
+						"id_str": "1002615133636579328",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DeoEEsMUYAAeMLT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeoEEsMUYAAeMLT.jpg",
+						"url": "https://t.co/y9MsMSWSB5",
+						"display_url": "pic.twitter.com/y9MsMSWSB5",
+						"expanded_url": "https://twitter.com/Reds/status/1002619553837301760/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002615133636579300,
+						"id_str": "1002615133636579328",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DeoEEsMUYAAeMLT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeoEEsMUYAAeMLT.jpg",
+						"url": "https://t.co/y9MsMSWSB5",
+						"display_url": "pic.twitter.com/y9MsMSWSB5",
+						"expanded_url": "https://twitter.com/Reds/status/1002619553837301760/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 125500,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1002615133636579328/vid/320x180/vw1kJnKuc88vvkx-.mp4?tag=2"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1002615133636579328/vid/1280x720/MzUhCCZLhjr9ZYWp.mp4?tag=2"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1002615133636579328/vid/640x360/FLBRORSqtrvTiGjp.mp4?tag=2"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1002615133636579328/pl/nlszIL7ppOV0PUMO.m3u8?tag=2"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
 					}
 				]
 			},
@@ -38611,15 +39752,15 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Cincinnati Reds",
 				"screen_name": "Reds",
 				"location": "Great American Ball Park",
-				"description": "Baseball's first professional team, founded in 1869. Five-time World Series Champions. Big fans of Canada 🇨🇦. #RedsCountry #VoteReds",
-				"url": "https://t.co/Ro561OWlBx",
+				"description": "Baseball's first professional team, founded in 1869. Five-time World Series Champions. We love mustaches, Geno bubbles and 11 K for 🍕. #RedsCountry",
+				"url": "https://t.co/0xHNX7dW9i",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/Ro561OWlBx",
-								"expanded_url": "http://reds.com/vote",
-								"display_url": "reds.com/vote",
+								"url": "https://t.co/0xHNX7dW9i",
+								"expanded_url": "http://reds.com",
+								"display_url": "reds.com",
 								"indices": [
 									0,
 									23
@@ -38632,16 +39773,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 830920,
-				"friends_count": 349,
-				"listed_count": 5197,
+				"followers_count": 824931,
+				"friends_count": 355,
+				"listed_count": 5241,
 				"created_at": "Fri Apr 24 18:59:47 +0000 2009",
-				"favourites_count": 12962,
+				"favourites_count": 13628,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 55945,
+				"statuses_count": 59196,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -38650,9 +39791,9 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1005119568333942784/FwvnRARS_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005119568333942784/FwvnRARS_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35006336/1527877750",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053119916621131776/w9gLwXUg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053119916621131776/w9gLwXUg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35006336/1539704255",
 				"profile_link_color": "C6011F",
 				"profile_sidebar_border_color": "000000",
 				"profile_sidebar_fill_color": "CF2032",
@@ -38671,8 +39812,8 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1282,
-			"favorite_count": 3987,
+			"retweet_count": 1257,
+			"favorite_count": 3948,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -38683,21 +39824,26 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "And now Joey Votto is my new favourite player. https://t.co/nqk103X0SN"
 	},
 	{
 		"created_at": "Sun Jun 10 18:16:59 +0000 2018",
 		"id": 1005876494495674400,
 		"id_str": "1005876494495674368",
-		"text": "@kelownagurl It’s the best gig",
+		"full_text": "@kelownagurl It’s the best gig",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "kelownagurl",
-					"name": "🇨🇦 Barb aka Kelownagurl ✈️",
+					"name": "🇨🇦 Barb aka Kelownagurl",
 					"id": 14299897,
 					"id_str": "14299897",
 					"indices": [
@@ -38751,16 +39897,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37727,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113242,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38794,14 +39940,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@kelownagurl It’s the best gig"
 	},
 	{
 		"created_at": "Sun Jun 10 02:18:55 +0000 2018",
 		"id": 1005635389313257500,
 		"id_str": "1005635389313257472",
-		"text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite If you had me on, I wouldn’t bother with pants.",
+		"full_text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite If you had me on, I wouldn’t bother with pants.",
 		"truncated": false,
+		"display_text_range": [
+			75,
+			122
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -38818,7 +39969,7 @@ Grailbird.data.tweets_2018_06 =
 				},
 				{
 					"screen_name": "TheJLV",
-					"name": "José Luis Vilson, NBCT",
+					"name": "José-O-Lantern Evillainous Vilson",
 					"id": 15051291,
 					"id_str": "15051291",
 					"indices": [
@@ -38912,16 +40063,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37723,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113241,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -38955,14 +40106,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite If you had me on, I wouldn’t bother with pants."
 	},
 	{
 		"created_at": "Sun Jun 10 02:14:15 +0000 2018",
 		"id": 1005634217915453400,
 		"id_str": "1005634217915453441",
-		"text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite You could go shirtless.",
+		"full_text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite You could go shirtless.",
 		"truncated": false,
+		"display_text_range": [
+			75,
+			98
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -38979,7 +40135,7 @@ Grailbird.data.tweets_2018_06 =
 				},
 				{
 					"screen_name": "TheJLV",
-					"name": "José Luis Vilson, NBCT",
+					"name": "José-O-Lantern Evillainous Vilson",
 					"id": 15051291,
 					"id_str": "15051291",
 					"indices": [
@@ -39073,16 +40229,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37723,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113241,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39116,14 +40272,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TheWeirdTeacher @TheJLV @pernilleripp @stumpteacher @Jess5th @ShanaVWhite You could go shirtless."
 	},
 	{
 		"created_at": "Sun Jun 10 01:54:18 +0000 2018",
 		"id": 1005629194708049900,
 		"id_str": "1005629194708049920",
-		"text": "Why do they have to label kids? https://t.co/lWC3rH8MDv",
+		"full_text": "Why do they have to label kids? https://t.co/lWC3rH8MDv",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -39251,16 +40412,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37722,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113239,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39290,19 +40451,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
+		"retweet_count": 2,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Why do they have to label kids? https://t.co/lWC3rH8MDv"
 	},
 	{
 		"created_at": "Sat Jun 09 23:21:59 +0000 2018",
 		"id": 1005590864633069600,
 		"id_str": "1005590864633069571",
-		"text": "When you’re following a tournament and you’re waiting on every tee. You make your own fun. https://t.co/tn1MwIbCpE",
+		"full_text": "When you’re following a tournament and you’re waiting on every tee. You make your own fun. https://t.co/tn1MwIbCpE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -39461,16 +40627,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113238,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39501,18 +40667,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you’re following a tournament and you’re waiting on every tee. You make your own fun. https://t.co/tn1MwIbCpE"
 	},
 	{
 		"created_at": "Sat Jun 09 23:15:07 +0000 2018",
 		"id": 1005589133765431300,
 		"id_str": "1005589133765431296",
-		"text": "@thomascmurray @Joe_Sanfelippo @rkiker Good advice. I used to rock those in the 80’s.",
+		"full_text": "@thomascmurray @Joe_Sanfelippo @rkiker Good advice. I used to rock those in the 80’s.",
 		"truncated": false,
+		"display_text_range": [
+			39,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -39593,16 +40764,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113238,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39633,17 +40804,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@thomascmurray @Joe_Sanfelippo @rkiker Good advice. I used to rock those in the 80’s."
 	},
 	{
 		"created_at": "Sat Jun 09 22:24:01 +0000 2018",
 		"id": 1005576274138431500,
 		"id_str": "1005576274138431488",
-		"text": "@Joe_Sanfelippo If @thomascmurray or @rkiker offer another opinion I may go that route.",
+		"full_text": "@Joe_Sanfelippo If @thomascmurray or @rkiker offer another opinion I may go that route.",
 		"truncated": false,
+		"display_text_range": [
+			16,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -39724,16 +40900,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6771,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113236,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39764,17 +40940,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@Joe_Sanfelippo If @thomascmurray or @rkiker offer another opinion I may go that route."
 	},
 	{
 		"created_at": "Sat Jun 09 19:23:05 +0000 2018",
 		"id": 1005530741961158700,
 		"id_str": "1005530741961158656",
-		"text": "Mooses. Outside of Moose Jaw. For a treat. https://t.co/CCt9TAcQTl",
+		"full_text": "Mooses. Outside of Moose Jaw. For a treat. https://t.co/CCt9TAcQTl",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -39902,16 +41083,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37716,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113235,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -39942,18 +41123,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 21,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Mooses. Outside of Moose Jaw. For a treat. https://t.co/CCt9TAcQTl"
 	},
 	{
 		"created_at": "Sat Jun 09 17:15:12 +0000 2018",
 		"id": 1005498560786378800,
 		"id_str": "1005498560786378752",
-		"text": "@cyberteacher @EdcampMagic @wmchamberlain Two of my favourite people and one of my favourite sessions.",
+		"full_text": "@cyberteacher @EdcampMagic @wmchamberlain Two of my favourite people and one of my favourite sessions.",
 		"truncated": false,
+		"display_text_range": [
+			42,
+			102
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40034,16 +41220,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37719,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113234,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -40074,17 +41260,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@cyberteacher @EdcampMagic @wmchamberlain Two of my favourite people and one of my favourite sessions."
 	},
 	{
 		"created_at": "Sat Jun 09 17:07:07 +0000 2018",
 		"id": 1005496523709395000,
 		"id_str": "1005496523709394945",
-		"text": "I don’t want anyone to panic or anything but we only have decaf in the house. https://t.co/Ia6YDZNbSx",
+		"full_text": "I don’t want anyone to panic or anything but we only have decaf in the house. https://t.co/Ia6YDZNbSx",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40225,16 +41416,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113233,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -40265,18 +41456,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I don’t want anyone to panic or anything but we only have decaf in the house. https://t.co/Ia6YDZNbSx"
 	},
 	{
 		"created_at": "Sat Jun 09 17:05:34 +0000 2018",
 		"id": 1005496133936992300,
 		"id_str": "1005496133936992256",
-		"text": "You and @Neilstephenson https://t.co/I80AHwNPVB",
+		"full_text": "You and @Neilstephenson https://t.co/I80AHwNPVB",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40347,16 +41543,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113233,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -40388,12 +41584,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1005487319321796600,
 		"quoted_status_id_str": "1005487319321796608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I80AHwNPVB",
+			"expanded": "https://twitter.com/TheWeirdTeacher/status/1005487319321796608",
+			"display": "twitter.com/TheWeirdTeache…"
+		},
 		"quoted_status": {
 			"created_at": "Sat Jun 09 16:30:32 +0000 2018",
 			"id": 1005487319321796600,
 			"id_str": "1005487319321796608",
-			"text": "@shareski I like your neighbors",
+			"full_text": "@shareski I like your neighbors",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				31
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -40423,7 +41628,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Doug Robertson",
 				"screen_name": "TheWeirdTeacher",
 				"location": "Oregon",
-				"description": "Sometimes I walk by children, tap them on the head, yell Goose! and run away.  5th grade Teacher, author of books",
+				"description": "Sometimes I walk by children, tap them on the head, yell Goose! and run away.  4th grade Teacher, author of books",
 				"url": "https://t.co/g5miDtQndO",
 				"entities": {
 					"url": {
@@ -40444,16 +41649,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17069,
-				"friends_count": 3550,
-				"listed_count": 559,
+				"followers_count": 18009,
+				"friends_count": 3601,
+				"listed_count": 565,
 				"created_at": "Tue Feb 14 20:02:50 +0000 2012",
-				"favourites_count": 125928,
+				"favourites_count": 133897,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 139606,
+				"statuses_count": 144381,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -40494,14 +41699,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "You and @Neilstephenson https://t.co/I80AHwNPVB"
 	},
 	{
 		"created_at": "Sat Jun 09 16:28:59 +0000 2018",
 		"id": 1005486928156856300,
 		"id_str": "1005486928156856322",
-		"text": "Cutting your grass shirtless is a very popular move in our neighbourhood. I’ve not gone down that road yet.",
+		"full_text": "Cutting your grass shirtless is a very popular move in our neighbourhood. I’ve not gone down that road yet.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40551,16 +41761,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37721,
-			"friends_count": 6771,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113233,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -40591,17 +41801,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 7,
+		"favorite_count": 22,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Cutting your grass shirtless is a very popular move in our neighbourhood. I’ve not gone down that road yet."
 	},
 	{
 		"created_at": "Sat Jun 09 01:52:56 +0000 2018",
 		"id": 1005266463039447000,
 		"id_str": "1005266463039447040",
-		"text": "Just got the call..... I’m babysitting!",
+		"full_text": "Just got the call..... I’m babysitting!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40651,16 +41866,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37716,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113230,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -40691,55 +41906,49 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Just got the call..... I’m babysitting!"
 	},
 	{
-		"created_at": "Sat Jun 09 00:26:18 +0000 2018",
-		"id": 1005244662234406900,
-		"id_str": "1005244662234406914",
-		"text": "RT @BrentButt: Wow... this is a real golden age for loud, mean, greedy, corrupt dudes with zero compassion for other humans.",
+		"created_at": "Fri Jun 08 01:48:40 +0000 2018",
+		"id": 1004903001365065700,
+		"id_str": "1004903001365065730",
+		"full_text": "Wow... this is a real golden age for loud, mean, greedy, corrupt dudes with zero compassion for other humans.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "BrentButt",
-					"name": "Brent Butt",
-					"id": 41626387,
-					"id_str": "41626387",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 41626387,
+			"id_str": "41626387",
+			"name": "Brent Butt",
+			"screen_name": "BrentButt",
+			"location": "Vancouver, Canada",
+			"description": "Comedian. Creator of TV's 'Corner Gas' & 'Hiccups'. Movie NO CLUE available on iTunes.  INSTAGRAM: brentbutt",
+			"url": "https://t.co/Gp9HJz8jDb",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/Gp9HJz8jDb",
+							"expanded_url": "http://www.brentbutt.com",
+							"display_url": "brentbutt.com",
 							"indices": [
 								0,
 								23
@@ -40748,50 +41957,40 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37717,
-			"friends_count": 6770,
-			"listed_count": 1407,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 167733,
+			"friends_count": 901,
+			"listed_count": 1257,
+			"created_at": "Thu May 21 17:02:12 +0000 2009",
+			"favourites_count": 7181,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 113229,
+			"statuses_count": 25247,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "1F2B1D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660861661130022912/RaJfU5gy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660861661130022912/RaJfU5gy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41626387/1525271856",
+			"profile_link_color": "0E9143",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -40800,109 +41999,24 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Jun 08 01:48:40 +0000 2018",
-			"id": 1004903001365065700,
-			"id_str": "1004903001365065730",
-			"text": "Wow... this is a real golden age for loud, mean, greedy, corrupt dudes with zero compassion for other humans.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 41626387,
-				"id_str": "41626387",
-				"name": "Brent Butt",
-				"screen_name": "BrentButt",
-				"location": "Vancouver, Canada",
-				"description": "Comedian. Creator of TV's 'Corner Gas' & 'Hiccups'. Movie NO CLUE available on iTunes.  INSTAGRAM: brentbutt",
-				"url": "https://t.co/Gp9HJz8jDb",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/Gp9HJz8jDb",
-								"expanded_url": "http://www.brentbutt.com",
-								"display_url": "brentbutt.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 167682,
-				"friends_count": 869,
-				"listed_count": 1261,
-				"created_at": "Thu May 21 17:02:12 +0000 2009",
-				"favourites_count": 6874,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 24982,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "1F2B1D",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/660861661130022912/RaJfU5gy_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660861661130022912/RaJfU5gy_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41626387/1525271856",
-				"profile_link_color": "0E9143",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "C0DFEC",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1852,
-			"favorite_count": 5790,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 1852,
-		"favorite_count": 0,
+		"retweet_count": 2026,
+		"favorite_count": 6596,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "Wow... this is a real golden age for loud, mean, greedy, corrupt dudes with zero compassion for other humans."
 	},
 	{
 		"created_at": "Fri Jun 08 17:42:40 +0000 2018",
 		"id": 1005143082910863400,
 		"id_str": "1005143082910863360",
-		"text": "@msjrea YouTube Creator allows for some of that kind of annotation.",
+		"full_text": "@msjrea YouTube Creator allows for some of that kind of annotation.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -40963,16 +42077,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37715,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113228,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41006,14 +42120,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@msjrea YouTube Creator allows for some of that kind of annotation."
 	},
 	{
 		"created_at": "Fri Jun 08 17:09:23 +0000 2018",
 		"id": 1005134707946860500,
 		"id_str": "1005134707946860545",
-		"text": "@chrkennedy ask her how many steps she's got in.",
+		"full_text": "@chrkennedy ask her how many steps she's got in.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -41074,16 +42193,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37715,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113227,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41117,14 +42236,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@chrkennedy ask her how many steps she's got in."
 	},
 	{
 		"created_at": "Fri Jun 08 16:48:21 +0000 2018",
 		"id": 1005129412986236900,
 		"id_str": "1005129412986236929",
-		"text": "Love the reference to @onbeing Such a great podcast. https://t.co/boOpgBFNo7",
+		"full_text": "Love the reference to @onbeing Such a great podcast. https://t.co/boOpgBFNo7",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -41195,16 +42319,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37715,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113227,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41236,12 +42360,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1005086016573669400,
 		"quoted_status_id_str": "1005086016573669380",
+		"quoted_status_permalink": {
+			"url": "https://t.co/boOpgBFNo7",
+			"expanded": "https://twitter.com/dlaufenberg/status/1005086016573669380",
+			"display": "twitter.com/dlaufenberg/st…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jun 08 13:55:54 +0000 2018",
 			"id": 1005086016573669400,
 			"id_str": "1005086016573669380",
-			"text": "Joy popped up in my feed reader and I thought of you @shareski! https://t.co/vOLc0HRiuN",
+			"full_text": "Joy popped up in my feed reader and I thought of you @shareski! https://t.co/vOLc0HRiuN",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -41302,16 +42435,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9746,
-				"friends_count": 7895,
-				"listed_count": 430,
+				"followers_count": 9799,
+				"friends_count": 7908,
+				"listed_count": 424,
 				"created_at": "Fri Jul 20 16:35:04 +0000 2007",
-				"favourites_count": 1937,
+				"favourites_count": 2195,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 33739,
+				"statuses_count": 33894,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -41349,18 +42482,23 @@ Grailbird.data.tweets_2018_06 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Love the reference to @onbeing Such a great podcast. https://t.co/boOpgBFNo7"
 	},
 	{
 		"created_at": "Fri Jun 08 16:39:11 +0000 2018",
 		"id": 1005127109667426300,
 		"id_str": "1005127109667426304",
-		"text": "@park_star Because the PGA golf lounge.",
+		"full_text": "@park_star Because the PGA golf lounge.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -41421,16 +42559,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37715,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113227,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41464,14 +42602,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@park_star Because the PGA golf lounge."
 	},
 	{
 		"created_at": "Fri Jun 08 01:25:56 +0000 2018",
 		"id": 1004897278794952700,
 		"id_str": "1004897278794952705",
-		"text": "Have you ever heard Bonnie Raitt’s version of Runaway? It’s delightful.",
+		"full_text": "Have you ever heard Bonnie Raitt’s version of Runaway? It’s delightful.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -41521,16 +42664,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37710,
-			"friends_count": 6770,
-			"listed_count": 1407,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113224,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41561,17 +42704,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Have you ever heard Bonnie Raitt’s version of Runaway? It’s delightful."
 	},
 	{
 		"created_at": "Fri Jun 08 01:03:35 +0000 2018",
 		"id": 1004891657689489400,
 		"id_str": "1004891657689489408",
-		"text": "@kellywchris Congrats!",
+		"full_text": "@kellywchris Congrats!",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			22
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -41632,16 +42780,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37708,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113223,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41675,14 +42823,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@kellywchris Congrats!"
 	},
 	{
 		"created_at": "Fri Jun 08 00:38:20 +0000 2018",
 		"id": 1004885302169645000,
 		"id_str": "1004885302169645056",
-		"text": "Update on my tweet from 2 hours ago. @ssedro was right. A coffee stain and a mystery black mark.  #stainski https://t.co/3d2AsT99wQ",
+		"full_text": "Update on my tweet from 2 hours ago. @ssedro was right. A coffee stain and a mystery black mark.  #stainski https://t.co/3d2AsT99wQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -41829,16 +42982,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37708,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113223,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -41869,18 +43022,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Update on my tweet from 2 hours ago. @ssedro was right. A coffee stain and a mystery black mark.  #stainski https://t.co/3d2AsT99wQ"
 	},
 	{
 		"created_at": "Fri Jun 08 00:29:59 +0000 2018",
 		"id": 1004883198906531800,
 		"id_str": "1004883198906531842",
-		"text": "@michellek107  https://t.co/7YlmB26kHO",
+		"full_text": "@michellek107  https://t.co/7YlmB26kHO",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42032,16 +43190,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37708,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 652,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113223,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42076,14 +43234,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@michellek107  https://t.co/7YlmB26kHO"
 	},
 	{
 		"created_at": "Fri Jun 08 00:05:27 +0000 2018",
 		"id": 1004877028628127700,
 		"id_str": "1004877028628127744",
-		"text": "@michellek107 40 minutes ain’t enough time but thanks for the offer. Do we get to hang out at ISTE?",
+		"full_text": "@michellek107 40 minutes ain’t enough time but thanks for the offer. Do we get to hang out at ISTE?",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			99
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42144,16 +43307,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37705,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113220,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42187,14 +43350,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 40 minutes ain’t enough time but thanks for the offer. Do we get to hang out at ISTE?"
 	},
 	{
 		"created_at": "Thu Jun 07 21:40:11 +0000 2018",
 		"id": 1004840470063636500,
 		"id_str": "1004840470063636480",
-		"text": "Not to brag but I haven’t spilled any food or drink on my clothes for at least a week.",
+		"full_text": "Not to brag but I haven’t spilled any food or drink on my clothes for at least a week.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42244,16 +43412,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37704,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113219,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42284,17 +43452,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 25,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Not to brag but I haven’t spilled any food or drink on my clothes for at least a week."
 	},
 	{
 		"created_at": "Thu Jun 07 21:31:58 +0000 2018",
 		"id": 1004838399331557400,
 		"id_str": "1004838399331557376",
-		"text": "@mc_bossy Prolly",
+		"full_text": "@mc_bossy Prolly",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42355,16 +43528,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37704,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113219,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42398,14 +43571,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mc_bossy Prolly"
 	},
 	{
 		"created_at": "Thu Jun 07 21:22:28 +0000 2018",
 		"id": 1004836011069747200,
 		"id_str": "1004836011069747200",
-		"text": "@michellek107 @gcouros Ill be at DEN for a layover in a couple of hours we are heading to Denver shortly. Maybe shoes and sammiches?",
+		"full_text": "@michellek107 @gcouros Ill be at DEN for a layover in a couple of hours we are heading to Denver shortly. Maybe shoes and sammiches?",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			132
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42476,16 +43654,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37704,
-			"friends_count": 6770,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113219,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42519,14 +43697,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 @gcouros Ill be at DEN for a layover in a couple of hours we are heading to Denver shortly. Maybe shoes and sammiches?"
 	},
 	{
 		"created_at": "Thu Jun 07 20:55:09 +0000 2018",
 		"id": 1004829137264107500,
 		"id_str": "1004829137264107520",
-		"text": "@michellek107 No matter what I buy my 19 year old will think they’re old man shoes.",
+		"full_text": "@michellek107 No matter what I buy my 19 year old will think they’re old man shoes.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			83
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42587,16 +43770,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37700,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113216,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42630,14 +43813,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 No matter what I buy my 19 year old will think they’re old man shoes."
 	},
 	{
 		"created_at": "Thu Jun 07 19:05:46 +0000 2018",
 		"id": 1004801609120079900,
 		"id_str": "1004801609120079873",
-		"text": "I have no idea how to buy sneakers.",
+		"full_text": "I have no idea how to buy sneakers.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42687,16 +43875,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37696,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113215,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42727,17 +43915,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I have no idea how to buy sneakers."
 	},
 	{
 		"created_at": "Thu Jun 07 16:35:42 +0000 2018",
 		"id": 1004763845246832600,
 		"id_str": "1004763845246832640",
-		"text": "@jghfoundation08 Wow, that's ancient!",
+		"full_text": "@jghfoundation08 Wow, that's ancient!",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42798,16 +43991,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37668,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113214,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42841,14 +44034,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jghfoundation08 Wow, that's ancient!"
 	},
 	{
 		"created_at": "Thu Jun 07 01:18:41 +0000 2018",
 		"id": 1004533067191586800,
 		"id_str": "1004533067191586818",
-		"text": "@mayorofthenet @budtheteacher I was a mediocre parent. I’m now a kickass grandparent.",
+		"full_text": "@mayorofthenet @budtheteacher I was a mediocre parent. I’m now a kickass grandparent.",
 		"truncated": false,
+		"display_text_range": [
+			30,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -42919,16 +44117,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37657,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113213,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -42962,44 +44160,60 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mayorofthenet @budtheteacher I was a mediocre parent. I’m now a kickass grandparent."
 	},
 	{
-		"created_at": "Wed Jun 06 21:10:55 +0000 2018",
-		"id": 1004470716597657600,
-		"id_str": "1004470716597657603",
-		"text": "RT @cyberteacher: A great day of learning at the @EducPlus @DiscoveryEd Summer of #STEM PD Day! Thanks to @scrpdc @WayTigerPR for co-hostin…",
+		"created_at": "Wed Jun 06 21:06:01 +0000 2018",
+		"id": 1004469480892887000,
+		"id_str": "1004469480892887040",
+		"full_text": "A great day of learning at the @EducPlus @DiscoveryEd Summer of #STEM PD Day! Thanks to @scrpdc @WayTigerPR for co-hosting and @lrougeux @Nick_DiscEdu @shareski @mike_bryant @tech_shelby for presenting! #DEpd #EdPlus #METCpd https://t.co/LxN7UTjOh5",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "STEM",
 					"indices": [
-						82,
-						87
+						64,
+						69
+					]
+				},
+				{
+					"text": "DEpd",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "EdPlus",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "METCpd",
+					"indices": [
+						217,
+						224
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "cyberteacher",
-					"name": "Stephanie Madlinger",
-					"id": 14129215,
-					"id_str": "14129215",
-					"indices": [
-						3,
-						16
-					]
-				},
-				{
 					"screen_name": "EducPlus",
 					"name": "EducationPlus",
 					"id": 148064284,
 					"id_str": "148064284",
 					"indices": [
-						49,
-						58
+						31,
+						40
 					]
 				},
 				{
@@ -43008,8 +44222,8 @@ Grailbird.data.tweets_2018_06 =
 					"id": 1665531,
 					"id_str": "1665531",
 					"indices": [
-						59,
-						71
+						41,
+						53
 					]
 				},
 				{
@@ -43018,8 +44232,8 @@ Grailbird.data.tweets_2018_06 =
 					"id": 804369748687458300,
 					"id_str": "804369748687458310",
 					"indices": [
-						106,
-						113
+						88,
+						95
 					]
 				},
 				{
@@ -43028,34 +44242,162 @@ Grailbird.data.tweets_2018_06 =
 					"id": 1927309314,
 					"id_str": "1927309314",
 					"indices": [
-						114,
-						125
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "lrougeux",
+					"name": "lrougeux",
+					"id": 18736052,
+					"id_str": "18736052",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "Nick_DiscEdu",
+					"name": "Nick Dawson",
+					"id": 915255903951183900,
+					"id_str": "915255903951183872",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "mike_bryant",
+					"name": "Mike Bryant",
+					"id": 1709271,
+					"id_str": "1709271",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"screen_name": "tech_shelby",
+					"name": "Shelby Graves",
+					"id": 112493164,
+					"id_str": "112493164",
+					"indices": [
+						174,
+						186
 					]
 				}
 			],
-			"urls": []
+			"urls": [],
+			"media": [
+				{
+					"id": 1004469467785637900,
+					"id_str": "1004469467785637888",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DfCXqLcWsAAOIcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfCXqLcWsAAOIcA.jpg",
+					"url": "https://t.co/LxN7UTjOh5",
+					"display_url": "pic.twitter.com/LxN7UTjOh5",
+					"expanded_url": "https://twitter.com/cyberteacher/status/1004469480892887040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004469467785637900,
+					"id_str": "1004469467785637888",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/DfCXqLcWsAAOIcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfCXqLcWsAAOIcA.jpg",
+					"url": "https://t.co/LxN7UTjOh5",
+					"display_url": "pic.twitter.com/LxN7UTjOh5",
+					"expanded_url": "https://twitter.com/cyberteacher/status/1004469480892887040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 14129215,
+			"id_str": "14129215",
+			"name": "Stephanie Madlinger",
+			"screen_name": "cyberteacher",
+			"location": "St Louis, Missouri",
+			"description": "Educator; Doctoral Candidate; Adjunct Professor; Wife/Momof4; Director Ed Innovation & METC; Designer; Presenter; DigCit EdTech GAFE STEM CompSci OER MOedu",
+			"url": "https://t.co/JqRz8RfgDL",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/JqRz8RfgDL",
+							"expanded_url": "https://www.facebook.com/smadlinger",
+							"display_url": "facebook.com/smadlinger",
 							"indices": [
 								0,
 								23
@@ -43064,50 +44406,40 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37655,
-			"friends_count": 6768,
-			"listed_count": 1406,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"followers_count": 7131,
+			"friends_count": 4778,
+			"listed_count": 752,
+			"created_at": "Wed Mar 12 02:07:28 +0000 2008",
+			"favourites_count": 21529,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 113212,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31448,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842267336933552128/kDgeTfjA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842267336933552128/kDgeTfjA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14129215/1518356858",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -43116,169 +44448,25 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Jun 06 21:06:01 +0000 2018",
-			"id": 1004469480892887000,
-			"id_str": "1004469480892887040",
-			"text": "A great day of learning at the @EducPlus @DiscoveryEd Summer of #STEM PD Day! Thanks to @scrpdc @WayTigerPR for co-… https://t.co/lqvfoWf2jU",
-			"truncated": true,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "STEM",
-						"indices": [
-							64,
-							69
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "EducPlus",
-						"name": "EducationPlus",
-						"id": 148064284,
-						"id_str": "148064284",
-						"indices": [
-							31,
-							40
-						]
-					},
-					{
-						"screen_name": "DiscoveryEd",
-						"name": "Discovery Education",
-						"id": 1665531,
-						"id_str": "1665531",
-						"indices": [
-							41,
-							53
-						]
-					},
-					{
-						"screen_name": "scrpdc",
-						"name": "SouthCentral RPDC",
-						"id": 804369748687458300,
-						"id_str": "804369748687458310",
-						"indices": [
-							88,
-							95
-						]
-					},
-					{
-						"screen_name": "WayTigerPR",
-						"name": "WayTigerPR",
-						"id": 1927309314,
-						"id_str": "1927309314",
-						"indices": [
-							96,
-							107
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/lqvfoWf2jU",
-						"expanded_url": "https://twitter.com/i/web/status/1004469480892887040",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 14129215,
-				"id_str": "14129215",
-				"name": "Stephanie Madlinger",
-				"screen_name": "cyberteacher",
-				"location": "St Louis, Missouri",
-				"description": "Educator; Doctoral Candidate; Adjunct Professor; Wife/Momof4; Director Ed Innovation & METC; Designer; Presenter; DigCit EdTech GAFE STEM CompSci OER MOedu",
-				"url": "https://t.co/JqRz8RfgDL",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/JqRz8RfgDL",
-								"expanded_url": "https://www.facebook.com/smadlinger",
-								"display_url": "facebook.com/smadlinger",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 7031,
-				"friends_count": 4464,
-				"listed_count": 742,
-				"created_at": "Wed Mar 12 02:07:28 +0000 2008",
-				"favourites_count": 19804,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 30605,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "3B94D9",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/842267336933552128/kDgeTfjA_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842267336933552128/kDgeTfjA_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14129215/1518356858",
-				"profile_link_color": "1B95E0",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "7AC3EE",
-				"profile_text_color": "3D1957",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
+		"retweet_count": 9,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great day of learning at the @EducPlus @DiscoveryEd Summer of #STEM PD Day! Thanks to @scrpdc @WayTigerPR for co-hosting and @lrougeux @Nick_DiscEdu @shareski @mike_bryant @tech_shelby for presenting! #DEpd #EdPlus #METCpd https://t.co/LxN7UTjOh5"
 	},
 	{
 		"created_at": "Wed Jun 06 04:01:14 +0000 2018",
 		"id": 1004211589661319200,
 		"id_str": "1004211589661319168",
-		"text": "He's lying. It was Ernie. https://t.co/6PF6SAP5eO",
+		"full_text": "He's lying. It was Ernie. https://t.co/6PF6SAP5eO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43338,16 +44526,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37647,
-			"friends_count": 6767,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113211,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43379,12 +44567,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1004178620472889300,
 		"quoted_status_id_str": "1004178620472889344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6PF6SAP5eO",
+			"expanded": "https://twitter.com/OCTechNet/status/1004178620472889344",
+			"display": "twitter.com/OCTechNet/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Wed Jun 06 01:50:14 +0000 2018",
 			"id": 1004178620472889300,
 			"id_str": "1004178620472889344",
-			"text": "Saw a guy in bright blue pants. Asked him if he knew @shareski. He did not.",
+			"full_text": "Saw a guy in bright blue pants. Asked him if he knew @shareski. He did not.",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -43435,16 +44632,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1057,
-				"friends_count": 1096,
-				"listed_count": 39,
+				"followers_count": 1092,
+				"friends_count": 1129,
+				"listed_count": 40,
 				"created_at": "Mon Oct 25 09:07:10 +0000 2010",
-				"favourites_count": 266,
+				"favourites_count": 291,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1497,
+				"statuses_count": 1516,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -43474,24 +44671,29 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "He's lying. It was Ernie. https://t.co/6PF6SAP5eO"
 	},
 	{
 		"created_at": "Wed Jun 06 02:14:11 +0000 2018",
 		"id": 1004184647499038700,
 		"id_str": "1004184647499038721",
-		"text": "@amyburvall I’ll be in St. Louis tomorrow night and Thursday am",
+		"full_text": "@amyburvall I’ll be in St. Louis tomorrow night and Thursday am",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43552,16 +44754,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37646,
-			"friends_count": 6767,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113210,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43595,14 +44797,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@amyburvall I’ll be in St. Louis tomorrow night and Thursday am"
 	},
 	{
 		"created_at": "Tue Jun 05 20:03:42 +0000 2018",
 		"id": 1004091413485834200,
 		"id_str": "1004091413485834243",
-		"text": "@jonbecker So no pants?",
+		"full_text": "@jonbecker So no pants?",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43663,16 +44870,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37653,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113210,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43706,14 +44913,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker So no pants?"
 	},
 	{
 		"created_at": "Tue Jun 05 19:51:21 +0000 2018",
 		"id": 1004088305821118500,
 		"id_str": "1004088305821118464",
-		"text": "@slwindisch  https://t.co/BeqIonUlJ7",
+		"full_text": "@slwindisch  https://t.co/BeqIonUlJ7",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43883,16 +45095,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37653,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113210,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -43927,14 +45139,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@slwindisch  https://t.co/BeqIonUlJ7"
 	},
 	{
 		"created_at": "Tue Jun 05 19:31:20 +0000 2018",
 		"id": 1004083267224653800,
 		"id_str": "1004083267224653824",
-		"text": "Let's all go down to Dumas Walker",
+		"full_text": "Let's all go down to Dumas Walker",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -43984,16 +45201,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37653,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113210,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44024,17 +45241,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Let's all go down to Dumas Walker"
 	},
 	{
 		"created_at": "Tue Jun 05 19:20:43 +0000 2018",
 		"id": 1004080597248172000,
 		"id_str": "1004080597248172033",
-		"text": "My onging obsession with civil discourse. https://t.co/QCgbE8ae49",
+		"full_text": "My onging obsession with civil discourse. https://t.co/QCgbE8ae49",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -44094,16 +45316,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37653,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113210,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44134,18 +45356,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "My onging obsession with civil discourse. https://t.co/QCgbE8ae49"
 	},
 	{
 		"created_at": "Tue Jun 05 19:09:13 +0000 2018",
 		"id": 1004077702327029800,
 		"id_str": "1004077702327029760",
-		"text": "@thirdcoast That's an important conversation.",
+		"full_text": "@thirdcoast That's an important conversation.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -44206,16 +45433,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 0,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113206,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44246,17 +45473,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@thirdcoast That's an important conversation."
 	},
 	{
 		"created_at": "Tue Jun 05 19:02:40 +0000 2018",
 		"id": 1004076052367466500,
 		"id_str": "1004076052367466496",
-		"text": "@thirdcoast I would. I enjoy listening to smart people (I'm making an assumption here) that share different viewpoi… https://t.co/SKCFgufmV2",
-		"truncated": true,
+		"full_text": "@thirdcoast I would. I enjoy listening to smart people (I'm making an assumption here) that share different viewpoints. I'm willing to have my mind changed.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			156
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -44272,17 +45504,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/SKCFgufmV2",
-					"expanded_url": "https://twitter.com/i/web/status/1004076052367466496",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1004075687504949200,
@@ -44327,16 +45549,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 0,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113206,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44370,14 +45592,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@thirdcoast I would. I enjoy listening to smart people (I'm making an assumption here) that share different viewpoints. I'm willing to have my mind changed."
 	},
 	{
 		"created_at": "Tue Jun 05 18:55:54 +0000 2018",
 		"id": 1004074350134399000,
 		"id_str": "1004074350134398976",
-		"text": "Looking for a prize. #yyz https://t.co/X8QTrVK68A",
+		"full_text": "Looking for a prize. #yyz https://t.co/X8QTrVK68A",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -44513,16 +45740,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 0,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113206,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44553,30 +45780,35 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Looking for a prize. #yyz https://t.co/X8QTrVK68A"
 	},
 	{
 		"created_at": "Tue Jun 05 18:00:04 +0000 2018",
 		"id": 1004060300952330200,
 		"id_str": "1004060300952330240",
-		"text": "I recall these. Nice examples of productive, debate that didn't come across as mean spirited. I wish we had more of… https://t.co/9JUEHFsopT",
-		"truncated": true,
+		"full_text": "I recall these. Nice examples of productive, debate that didn't come across as mean spirited. I wish we had more of these. Education has some complicated issues we need to explore more. https://t.co/NDoCASdJrW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/9JUEHFsopT",
-					"expanded_url": "https://twitter.com/i/web/status/1004060300952330240",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/NDoCASdJrW",
+					"expanded_url": "https://twitter.com/JennBinis/status/1004059035899977728",
+					"display_url": "twitter.com/JennBinis/stat…",
 					"indices": [
-						117,
-						140
+						186,
+						209
 					]
 				}
 			]
@@ -44624,16 +45856,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 0,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113202,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44665,12 +45897,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1004059035899977700,
 		"quoted_status_id_str": "1004059035899977728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NDoCASdJrW",
+			"expanded": "https://twitter.com/JennBinis/status/1004059035899977728",
+			"display": "twitter.com/JennBinis/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 05 17:55:03 +0000 2018",
 			"id": 1004059035899977700,
 			"id_str": "1004059035899977728",
-			"text": "@shareski Joe Bower and I had a bunch around multiple choice tests and rubrics. They happened across platforms, though.",
+			"full_text": "@shareski Joe Bower and I had a bunch around multiple choice tests and rubrics. They happened across platforms, though.",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				119
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -44699,8 +45940,8 @@ Grailbird.data.tweets_2018_06 =
 				"id_str": "13221302",
 				"name": "Jennifer Binis",
 				"screen_name": "JennBinis",
-				"location": "Buffalo, NY (mostly)",
-				"description": "All about intersections, especially gender & education. Assessment nerd, rubric whisperer, @edhistory101 host. Gregarious. Nevertheless, I persist.",
+				"location": "Haudenosauneega Confederacy lands",
+				"description": "All about intersections, especially gender & education. @edhistory101 babbler. She/her. Gregarious. Nevertheless, I persist. #PairedTexts",
 				"url": "https://t.co/ZBsJoUR9Ge",
 				"entities": {
 					"url": {
@@ -44721,16 +45962,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7081,
-				"friends_count": 4254,
-				"listed_count": 368,
+				"followers_count": 7373,
+				"friends_count": 4348,
+				"listed_count": 372,
 				"created_at": "Thu Feb 07 21:09:26 +0000 2008",
-				"favourites_count": 29839,
+				"favourites_count": 36418,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 125111,
+				"statuses_count": 131840,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -44761,36 +46002,41 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 1,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I recall these. Nice examples of productive, debate that didn't come across as mean spirited. I wish we had more of these. Education has some complicated issues we need to explore more. https://t.co/NDoCASdJrW"
 	},
 	{
 		"created_at": "Tue Jun 05 17:52:42 +0000 2018",
 		"id": 1004058446512050200,
 		"id_str": "1004058446512050177",
-		"text": "So this is an interesting point, is it possible to have a debate/discussion on important topics with those we don't… https://t.co/JRbrhQS99z",
-		"truncated": true,
+		"full_text": "So this is an interesting point, is it possible to have a debate/discussion on important topics with those we don't have a relationship with or established trust? https://t.co/M4T3r7rIHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/JRbrhQS99z",
-					"expanded_url": "https://twitter.com/i/web/status/1004058446512050177",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/M4T3r7rIHh",
+					"expanded_url": "https://twitter.com/harkinworld/status/1004057321042075649",
+					"display_url": "twitter.com/harkinworld/st…",
 					"indices": [
-						117,
-						140
+						163,
+						186
 					]
 				}
 			]
@@ -44838,16 +46084,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 0,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113202,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -44879,12 +46125,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1004057321042075600,
 		"quoted_status_id_str": "1004057321042075649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M4T3r7rIHh",
+			"expanded": "https://twitter.com/harkinworld/status/1004057321042075649",
+			"display": "twitter.com/harkinworld/st…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 05 17:48:14 +0000 2018",
 			"id": 1004057321042075600,
 			"id_str": "1004057321042075649",
-			"text": "@shareski Wait, is this a rhetorical question?  \n\nHonestly though, there needs to be a level of respect between pee… https://t.co/VFGgO5Us6s",
-			"truncated": true,
+			"full_text": "@shareski Wait, is this a rhetorical question?  \n\nHonestly though, there needs to be a level of respect between peers before you can have a healthy debate.  Once that respect is there, it's much easier.  Tonight I talked with fellow Ts at my home and standardized tests came up....",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				281
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -44900,17 +46155,7 @@ Grailbird.data.tweets_2018_06 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/VFGgO5Us6s",
-						"expanded_url": "https://twitter.com/i/web/status/1004057321042075649",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 			"in_reply_to_status_id": 1004040005407277000,
@@ -44945,16 +46190,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 386,
-				"friends_count": 969,
+				"followers_count": 465,
+				"friends_count": 1090,
 				"listed_count": 20,
 				"created_at": "Mon Sep 14 12:02:09 +0000 2009",
-				"favourites_count": 4563,
+				"favourites_count": 6198,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 1364,
+				"statuses_count": 1703,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -44994,14 +46239,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "So this is an interesting point, is it possible to have a debate/discussion on important topics with those we don't have a relationship with or established trust? https://t.co/M4T3r7rIHh"
 	},
 	{
 		"created_at": "Tue Jun 05 16:54:49 +0000 2018",
 		"id": 1004043877324488700,
 		"id_str": "1004043877324488704",
-		"text": "@SchneiderBrandt Where do we see this occuring?",
+		"full_text": "@SchneiderBrandt Where do we see this occuring?",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45062,16 +46312,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113200,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45105,14 +46355,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@SchneiderBrandt Where do we see this occuring?"
 	},
 	{
 		"created_at": "Tue Jun 05 16:54:17 +0000 2018",
 		"id": 1004043746151784400,
 		"id_str": "1004043746151784448",
-		"text": "This is true. https://t.co/qGblLYMNMv",
+		"full_text": "This is true. https://t.co/qGblLYMNMv",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45172,16 +46427,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113200,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45211,132 +46466,24 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": true,
-		"quoted_status_id": 1004043182382993400,
-		"quoted_status_id_str": "1004043182382993408",
-		"quoted_status": {
-			"created_at": "Tue Jun 05 16:52:03 +0000 2018",
-			"id": 1004043182382993400,
-			"id_str": "1004043182382993408",
-			"text": "@shareski Sure: When I call you a jerk who is self-aggrandizing and then your reply and say \"as always, you re corr… https://t.co/jCv2DBJhkd",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "shareski",
-						"name": "Dean Shareski",
-						"id": 739743,
-						"id_str": "739743",
-						"indices": [
-							0,
-							9
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/jCv2DBJhkd",
-						"expanded_url": "https://twitter.com/i/web/status/1004043182382993408",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": 1004040005407277000,
-			"in_reply_to_status_id_str": "1004040005407277057",
-			"in_reply_to_user_id": 739743,
-			"in_reply_to_user_id_str": "739743",
-			"in_reply_to_screen_name": "shareski",
-			"user": {
-				"id": 18613,
-				"id_str": "18613",
-				"name": "George Siemens",
-				"screen_name": "gsiemens",
-				"location": "Texas",
-				"description": "mountains get big cause they have no natural predators (kenm)",
-				"url": "https://t.co/UBRyQjDtG0",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/UBRyQjDtG0",
-								"expanded_url": "http://www.elearnspace.org/blog",
-								"display_url": "elearnspace.org/blog",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 22541,
-				"friends_count": 1558,
-				"listed_count": 1694,
-				"created_at": "Thu Nov 23 18:45:36 +0000 2006",
-				"favourites_count": 1992,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 969,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/451036825637761025/7_0RawE8_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451036825637761025/7_0RawE8_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18613/1527629307",
-				"profile_link_color": "0000FF",
-				"profile_sidebar_border_color": "87BC44",
-				"profile_sidebar_fill_color": "E0FF92",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": false,
-			"lang": "en"
-		},
 		"retweet_count": 0,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This is true. https://t.co/qGblLYMNMv"
 	},
 	{
 		"created_at": "Tue Jun 05 16:39:26 +0000 2018",
 		"id": 1004040005407277000,
 		"id_str": "1004040005407277057",
-		"text": "Anyone willing to share a good example of healthy debate in education? I'm not convinced it happens very often.",
+		"full_text": "Anyone willing to share a good example of healthy debate in education? I'm not convinced it happens very often.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45386,16 +46533,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113200,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45425,18 +46572,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Anyone willing to share a good example of healthy debate in education? I'm not convinced it happens very often."
 	},
 	{
 		"created_at": "Tue Jun 05 16:34:17 +0000 2018",
 		"id": 1004038712949272600,
 		"id_str": "1004038712949272576",
-		"text": "@stumpteacher @LREC18 I assume this means adding some gems from @sportsvoxradio",
+		"full_text": "@stumpteacher @LREC18 I assume this means adding some gems from @sportsvoxradio",
 		"truncated": false,
+		"display_text_range": [
+			22,
+			79
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45517,16 +46669,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37654,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113200,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45560,14 +46712,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@stumpteacher @LREC18 I assume this means adding some gems from @sportsvoxradio"
 	},
 	{
 		"created_at": "Tue Jun 05 03:44:03 +0000 2018",
 		"id": 1003844873483685900,
 		"id_str": "1003844873483685895",
-		"text": "@spencerideas I'll share it with you.",
+		"full_text": "@spencerideas I'll share it with you.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45628,16 +46785,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37652,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113196,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45671,14 +46828,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@spencerideas I'll share it with you."
 	},
 	{
 		"created_at": "Tue Jun 05 03:41:30 +0000 2018",
 		"id": 1003844235773251600,
 		"id_str": "1003844235773251584",
-		"text": "@jonbecker @spencerideas you were nattering yesterday about Josh Groban when the Yacht Rock King was there?",
+		"full_text": "@jonbecker @spencerideas you were nattering yesterday about Josh Groban when the Yacht Rock King was there?",
 		"truncated": false,
+		"display_text_range": [
+			25,
+			107
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45749,16 +46911,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37652,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113196,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45792,14 +46954,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker @spencerideas you were nattering yesterday about Josh Groban when the Yacht Rock King was there?"
 	},
 	{
 		"created_at": "Tue Jun 05 03:39:18 +0000 2018",
 		"id": 1003843680279629800,
 		"id_str": "1003843680279629824",
-		"text": "SCTV FTW! https://t.co/Wie8ptMm1O",
+		"full_text": "SCTV FTW! https://t.co/Wie8ptMm1O",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -45859,16 +47026,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37652,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113196,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -45900,12 +47067,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1003843456890859500,
 		"quoted_status_id_str": "1003843456890859520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wie8ptMm1O",
+			"expanded": "https://twitter.com/KeeneeLou/status/1003843456890859520",
+			"display": "twitter.com/KeeneeLou/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Jun 05 03:38:25 +0000 2018",
 			"id": 1003843456890859500,
 			"id_str": "1003843456890859520",
-			"text": "@shareski @spencerideas And of course, there’s this! https://t.co/34Z1QTt6ei",
+			"full_text": "@shareski @spencerideas And of course, there’s this! https://t.co/34Z1QTt6ei",
 			"truncated": false,
+			"display_text_range": [
+				24,
+				76
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -45976,16 +47152,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 482,
-				"friends_count": 261,
+				"followers_count": 532,
+				"friends_count": 283,
 				"listed_count": 14,
 				"created_at": "Sun Apr 03 00:12:31 +0000 2011",
-				"favourites_count": 9780,
+				"favourites_count": 11575,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 6958,
+				"statuses_count": 7485,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -46015,8 +47191,8 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 0,
+			"retweet_count": 1,
+			"favorite_count": 1,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -46027,14 +47203,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "in"
+		"lang": "in",
+		"text": "SCTV FTW! https://t.co/Wie8ptMm1O"
 	},
 	{
 		"created_at": "Tue Jun 05 03:38:34 +0000 2018",
 		"id": 1003843495726080000,
 		"id_str": "1003843495726080000",
-		"text": "@jonbecker @spencerideas photo/video?",
+		"full_text": "@jonbecker @spencerideas photo/video?",
 		"truncated": false,
+		"display_text_range": [
+			25,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46105,16 +47286,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37652,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113196,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46148,14 +47329,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@jonbecker @spencerideas photo/video?"
 	},
 	{
 		"created_at": "Tue Jun 05 03:36:02 +0000 2018",
 		"id": 1003842858997243900,
 		"id_str": "1003842858997243904",
-		"text": "I have an entire Spotify playlist of songs where Michael McDonald sang backup. cc @spencerideas",
+		"full_text": "I have an entire Spotify playlist of songs where Michael McDonald sang backup. cc @spencerideas",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46216,16 +47402,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37652,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113196,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46256,17 +47442,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I have an entire Spotify playlist of songs where Michael McDonald sang backup. cc @spencerideas"
 	},
 	{
 		"created_at": "Tue Jun 05 00:53:26 +0000 2018",
 		"id": 1003801936683061200,
 		"id_str": "1003801936683061249",
-		"text": "How did this kid not make it on @TheEllenShow? https://t.co/AvTtDk0vAX",
+		"full_text": "How did this kid not make it on @TheEllenShow? https://t.co/AvTtDk0vAX",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46337,16 +47528,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37655,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113191,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46381,14 +47572,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "How did this kid not make it on @TheEllenShow? https://t.co/AvTtDk0vAX"
 	},
 	{
 		"created_at": "Tue Jun 05 00:40:58 +0000 2018",
 		"id": 1003798801591799800,
 		"id_str": "1003798801591799810",
-		"text": "@mayorofthenet @djakes More like https://t.co/APTLmbXzxz",
+		"full_text": "@mayorofthenet @djakes More like https://t.co/APTLmbXzxz",
 		"truncated": false,
+		"display_text_range": [
+			23,
+			32
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46568,16 +47764,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37655,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113191,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46612,14 +47808,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@mayorofthenet @djakes More like https://t.co/APTLmbXzxz"
 	},
 	{
 		"created_at": "Mon Jun 04 21:53:52 +0000 2018",
 		"id": 1003756749625659400,
 		"id_str": "1003756749625659392",
-		"text": "@CityofMooseJaw I have a missing wheel on my recycle bin. How do I get that replaced?",
+		"full_text": "@CityofMooseJaw I have a missing wheel on my recycle bin. How do I get that replaced?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46680,16 +47881,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37653,
-			"friends_count": 6768,
-			"listed_count": 1405,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113189,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46723,14 +47924,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@CityofMooseJaw I have a missing wheel on my recycle bin. How do I get that replaced?"
 	},
 	{
 		"created_at": "Mon Jun 04 02:30:20 +0000 2018",
 		"id": 1003463938032525300,
 		"id_str": "1003463938032525312",
-		"text": "The Cavs are pooched",
+		"full_text": "The Cavs are pooched",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46780,16 +47986,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37650,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113188,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46823,14 +48029,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The Cavs are pooched"
 	},
 	{
 		"created_at": "Mon Jun 04 02:14:32 +0000 2018",
 		"id": 1003459958959165400,
 		"id_str": "1003459958959165441",
-		"text": "@_drdamian That's still impressive. I'd be grateful if more educators blogged even once a month.",
+		"full_text": "@_drdamian That's still impressive. I'd be grateful if more educators blogged even once a month.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			96
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46891,16 +48102,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37650,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113188,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -46934,14 +48145,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@_drdamian That's still impressive. I'd be grateful if more educators blogged even once a month."
 	},
 	{
 		"created_at": "Mon Jun 04 02:02:07 +0000 2018",
 		"id": 1003456835725201400,
 		"id_str": "1003456835725201408",
-		"text": "May 2018 might have been the first month since 2005 that I didn't write at least one post.",
+		"full_text": "May 2018 might have been the first month since 2005 that I didn't write at least one post.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -46991,16 +48207,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37651,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113186,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47031,29 +48247,45 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "May 2018 might have been the first month since 2005 that I didn't write at least one post."
 	},
 	{
 		"created_at": "Mon Jun 04 01:59:32 +0000 2018",
 		"id": 1003456185444585500,
 		"id_str": "1003456185444585472",
-		"text": "Congratulations on a great career. His blog and work in general helped shaped may important conversations about imp… https://t.co/7I2dewXMQi",
-		"truncated": true,
+		"full_text": "Congratulations on a great career. His blog and work in general helped shaped may important conversations about important ideas in education. https://t.co/SvZ9umQQLm Thanks @karlfisch for sharing",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [],
+			"user_mentions": [
+				{
+					"screen_name": "karlfisch",
+					"name": "Karl Fisch",
+					"id": 9984302,
+					"id_str": "9984302",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
 			"urls": [
 				{
-					"url": "https://t.co/7I2dewXMQi",
-					"expanded_url": "https://twitter.com/i/web/status/1003456185444585472",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/SvZ9umQQLm",
+					"expanded_url": "https://thefischbowl.blogspot.com/2018/06/retired.html",
+					"display_url": "thefischbowl.blogspot.com/2018/06/retire…",
 					"indices": [
-						117,
-						140
+						142,
+						165
 					]
 				}
 			]
@@ -47101,16 +48333,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37651,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113186,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47141,18 +48373,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Congratulations on a great career. His blog and work in general helped shaped may important conversations about important ideas in education. https://t.co/SvZ9umQQLm Thanks @karlfisch for sharing"
 	},
 	{
 		"created_at": "Mon Jun 04 00:42:55 +0000 2018",
 		"id": 1003436905579638800,
 		"id_str": "1003436905579638784",
-		"text": "This looks fun. https://t.co/uJD8vspckR",
+		"full_text": "This looks fun. https://t.co/uJD8vspckR",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47212,16 +48449,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37651,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113184,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47253,12 +48490,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1000363768457637900,
 		"quoted_status_id_str": "1000363768457637888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uJD8vspckR",
+			"expanded": "https://twitter.com/matthew_arend/status/1000363768457637888",
+			"display": "twitter.com/matthew_arend/…"
+		},
 		"quoted_status": {
 			"created_at": "Sat May 26 13:11:22 +0000 2018",
 			"id": 1000363768457637900,
 			"id_str": "1000363768457637888",
-			"text": "Welcome to the 3rd Annual #SummerSelfieBingo Challenge! https://t.co/rG7JQYMTnS #culutre #leadership https://t.co/VlMio3BgJk",
+			"full_text": "Welcome to the 3rd Annual #SummerSelfieBingo Challenge! https://t.co/rG7JQYMTnS #culutre #leadership https://t.co/VlMio3BgJk",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -47408,16 +48654,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9724,
-				"friends_count": 2992,
-				"listed_count": 427,
+				"followers_count": 10263,
+				"friends_count": 3223,
+				"listed_count": 434,
 				"created_at": "Wed Jun 16 22:15:38 +0000 2010",
-				"favourites_count": 17381,
+				"favourites_count": 20604,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 42091,
+				"statuses_count": 45454,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -47448,25 +48694,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 18,
-			"favorite_count": 44,
+			"favorite_count": 46,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"retweet_count": 1,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This looks fun. https://t.co/uJD8vspckR"
 	},
 	{
 		"created_at": "Sun Jun 03 17:59:20 +0000 2018",
 		"id": 1003335338520137700,
 		"id_str": "1003335338520137728",
-		"text": "If Teddy Roosevelt was alive today they likely would have pumped him with Ritalin and we'd never know he existed.  https://t.co/sffs3iXJ0R",
+		"full_text": "If Teddy Roosevelt was alive today they likely would have pumped him with Ritalin and we'd never know he existed.  https://t.co/sffs3iXJ0R",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47526,16 +48777,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37646,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113183,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47566,18 +48817,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "If Teddy Roosevelt was alive today they likely would have pumped him with Ritalin and we'd never know he existed.  https://t.co/sffs3iXJ0R"
 	},
 	{
 		"created_at": "Sun Jun 03 08:18:20 +0000 2018",
 		"id": 1003189124822683600,
 		"id_str": "1003189124822683648",
-		"text": "@cparslow nice  any takers? what photo did you share?",
+		"full_text": "@cparslow nice  any takers? what photo did you share?",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47638,16 +48894,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37641,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113182,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47681,14 +48937,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@cparslow nice  any takers? what photo did you share?"
 	},
 	{
 		"created_at": "Sun Jun 03 02:27:35 +0000 2018",
 		"id": 1003100854747058200,
 		"id_str": "1003100854747058178",
-		"text": "@MarciaDressel  https://t.co/HZQnDJ3bJk",
+		"full_text": "@MarciaDressel  https://t.co/HZQnDJ3bJk",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -47840,16 +49101,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37639,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113181,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -47884,14 +49145,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@MarciaDressel  https://t.co/HZQnDJ3bJk"
 	},
 	{
 		"created_at": "Sun Jun 03 02:19:05 +0000 2018",
 		"id": 1003098718323789800,
 		"id_str": "1003098718323789825",
-		"text": "@MarciaDressel  https://t.co/nZpy6Xc7O8",
+		"full_text": "@MarciaDressel  https://t.co/nZpy6Xc7O8",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48043,16 +49309,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37639,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113181,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48087,14 +49353,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@MarciaDressel  https://t.co/nZpy6Xc7O8"
 	},
 	{
 		"created_at": "Sun Jun 03 02:15:42 +0000 2018",
 		"id": 1003097866204786700,
 		"id_str": "1003097866204786688",
-		"text": "@TheWeirdTeacher How does he feel about shirts?",
+		"full_text": "@TheWeirdTeacher How does he feel about shirts?",
 		"truncated": false,
+		"display_text_range": [
+			17,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48155,16 +49426,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37639,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113181,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48195,17 +49466,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@TheWeirdTeacher How does he feel about shirts?"
 	},
 	{
 		"created_at": "Sun Jun 03 02:01:18 +0000 2018",
 		"id": 1003094243164983300,
 		"id_str": "1003094243164983297",
-		"text": "I just realized i was wearing my t-shirt inside out all day. And it didn’t matter at all.",
+		"full_text": "I just realized i was wearing my t-shirt inside out all day. And it didn’t matter at all.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48255,16 +49531,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37638,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113178,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48295,17 +49571,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 27,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I just realized i was wearing my t-shirt inside out all day. And it didn’t matter at all."
 	},
 	{
 		"created_at": "Sun Jun 03 01:17:20 +0000 2018",
 		"id": 1003083178012180500,
 		"id_str": "1003083178012180480",
-		"text": "Very well played. https://t.co/j41FYsmK0u",
+		"full_text": "Very well played. https://t.co/j41FYsmK0u",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48365,16 +49646,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37638,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113178,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48406,12 +49687,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1003082642894581800,
 		"quoted_status_id_str": "1003082642894581760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j41FYsmK0u",
+			"expanded": "https://twitter.com/tcrawford306/status/1003082642894581760",
+			"display": "twitter.com/tcrawford306/s…"
+		},
 		"quoted_status": {
 			"created_at": "Sun Jun 03 01:15:13 +0000 2018",
 			"id": 1003082642894581800,
 			"id_str": "1003082642894581760",
-			"text": "@shareski Ontario. https://t.co/uTL9N3YTXG",
+			"full_text": "@shareski Ontario. https://t.co/uTL9N3YTXG",
 			"truncated": false,
+			"display_text_range": [
+				10,
+				42
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -48451,37 +49741,24 @@ Grailbird.data.tweets_2018_06 =
 				"name": "𝕋𝕣𝕚𝕟𝕒 ℂ𝕣𝕒𝕨𝕗𝕠𝕣𝕕",
 				"screen_name": "TCrawford306",
 				"location": "Regina, SK",
-				"description": "Mom, Educator in a Grade Six classroom. Love tech, travel and reading. Tweets are my own. Unless retweeted. You know.",
-				"url": "https://t.co/b3Q4wGhMsH",
+				"description": "Mom, Educator in a Grade Five classroom. Love travel, tech and reading. Life-long learner. Tweets are my own. Unless retweeted. You know.",
+				"url": null,
 				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/b3Q4wGhMsH",
-								"expanded_url": "http://www.about.me/trinacrawford",
-								"display_url": "about.me/trinacrawford",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
 					"description": {
 						"urls": []
 					}
 				},
 				"protected": false,
-				"followers_count": 742,
-				"friends_count": 1044,
+				"followers_count": 773,
+				"friends_count": 1074,
 				"listed_count": 29,
 				"created_at": "Fri Aug 19 22:10:28 +0000 2011",
-				"favourites_count": 1221,
+				"favourites_count": 1587,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 5965,
+				"statuses_count": 6177,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -48490,9 +49767,9 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
 				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1504049904/sparkly_reasonably_small_normal.gif",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504049904/sparkly_reasonably_small_normal.gif",
-				"profile_link_color": "C34242",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1056596063597953024/9GJHHybl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056596063597953024/9GJHHybl_normal.jpg",
+				"profile_link_color": "ABB8C2",
 				"profile_sidebar_border_color": "BFBFBF",
 				"profile_sidebar_fill_color": "C9C9C9",
 				"profile_text_color": "1C1F23",
@@ -48522,16 +49799,29 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Very well played. https://t.co/j41FYsmK0u"
 	},
 	{
 		"created_at": "Sun Jun 03 01:16:56 +0000 2018",
 		"id": 1003083074937282600,
 		"id_str": "1003083074937282565",
-		"text": "I might be wrong but I think I may have introduced these two. About 10 years ago @corisaas was a student in my pre-… https://t.co/9uh5LOVq5q",
-		"truncated": true,
+		"full_text": "I might be wrong but I think I may have introduced these two. About 10 years ago @corisaas was a student in my pre-service class and I had @cogdog guest present. I knew he was good but wow. Congratulations to both of you. I’ll have you both over soon. #alanandcori https://t.co/DrP4ZfxLw7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
 		"entities": {
-			"hashtags": [],
+			"hashtags": [
+				{
+					"text": "alanandcori",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
 			"symbols": [],
 			"user_mentions": [
 				{
@@ -48543,16 +49833,26 @@ Grailbird.data.tweets_2018_06 =
 						81,
 						90
 					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						139,
+						146
+					]
 				}
 			],
 			"urls": [
 				{
-					"url": "https://t.co/9uh5LOVq5q",
-					"expanded_url": "https://twitter.com/i/web/status/1003083074937282565",
-					"display_url": "twitter.com/i/web/status/1…",
+					"url": "https://t.co/DrP4ZfxLw7",
+					"expanded_url": "https://twitter.com/corisaas/status/1003021519751204864",
+					"display_url": "twitter.com/corisaas/statu…",
 					"indices": [
-						117,
-						140
+						265,
+						288
 					]
 				}
 			]
@@ -48600,16 +49900,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37638,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113178,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48641,12 +49941,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1003021519751204900,
 		"quoted_status_id_str": "1003021519751204864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DrP4ZfxLw7",
+			"expanded": "https://twitter.com/corisaas/status/1003021519751204864",
+			"display": "twitter.com/corisaas/statu…"
+		},
 		"quoted_status": {
 			"created_at": "Sat Jun 02 21:12:20 +0000 2018",
 			"id": 1003021519751204900,
 			"id_str": "1003021519751204864",
-			"text": "I vow @cogdog to love you always #alanandcori https://t.co/DgIpgIsYk3",
+			"full_text": "I vow @cogdog to love you always #alanandcori https://t.co/DgIpgIsYk3",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -48783,16 +50092,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1052,
-				"friends_count": 1187,
-				"listed_count": 62,
+				"followers_count": 1051,
+				"friends_count": 1202,
+				"listed_count": 60,
 				"created_at": "Thu Aug 27 03:33:12 +0000 2009",
-				"favourites_count": 8132,
+				"favourites_count": 8432,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13574,
+				"statuses_count": 13701,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -48823,25 +50132,30 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 28,
+			"favorite_count": 55,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I might be wrong but I think I may have introduced these two. About 10 years ago @corisaas was a student in my pre-service class and I had @cogdog guest present. I knew he was good but wow. Congratulations to both of you. I’ll have you both over soon. #alanandcori https://t.co/DrP4ZfxLw7"
 	},
 	{
 		"created_at": "Sun Jun 03 01:13:08 +0000 2018",
 		"id": 1003082120997277700,
 		"id_str": "1003082120997277701",
-		"text": "I’m wondering where the lions are.",
+		"full_text": "I’m wondering where the lions are.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -48891,16 +50205,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37638,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113178,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -48934,14 +50248,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I’m wondering where the lions are."
 	},
 	{
 		"created_at": "Sun Jun 03 00:49:30 +0000 2018",
 		"id": 1003076170970169300,
 		"id_str": "1003076170970169346",
-		"text": "@STEMigo Thanks. This is useful. Anything specific related to classroom applications? Structures, examples, products or processes?",
+		"full_text": "@STEMigo Thanks. This is useful. Anything specific related to classroom applications? Structures, examples, products or processes?",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			130
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49002,16 +50321,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37637,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113174,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49042,17 +50361,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@STEMigo Thanks. This is useful. Anything specific related to classroom applications? Structures, examples, products or processes?"
 	},
 	{
 		"created_at": "Sat Jun 02 23:09:45 +0000 2018",
 		"id": 1003051069583384600,
 		"id_str": "1003051069583384576",
-		"text": "@rltoy That's good but still would like better examples.",
+		"full_text": "@rltoy That's good but still would like better examples.",
 		"truncated": false,
+		"display_text_range": [
+			7,
+			56
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49113,16 +50437,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37636,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113173,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49153,17 +50477,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@rltoy That's good but still would like better examples."
 	},
 	{
 		"created_at": "Sat Jun 02 19:10:11 +0000 2018",
 		"id": 1002990780355698700,
 		"id_str": "1002990780355698688",
-		"text": "@michellek107 @ShanaVWhite You’re ready to open a gym.",
+		"full_text": "@michellek107 @ShanaVWhite You’re ready to open a gym.",
 		"truncated": false,
+		"display_text_range": [
+			27,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49234,16 +50563,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49274,17 +50603,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 @ShanaVWhite You’re ready to open a gym."
 	},
 	{
 		"created_at": "Sat Jun 02 19:03:39 +0000 2018",
 		"id": 1002989138344325100,
 		"id_str": "1002989138344325120",
-		"text": "@michellek107 @ShanaVWhite I live vicariously through her. Also on the couch. Watching golf. Combine those 2 activi… https://t.co/tXrYdVqknO",
-		"truncated": true,
+		"full_text": "@michellek107 @ShanaVWhite I live vicariously through her. Also on the couch. Watching golf. Combine those 2 activities and I’m close to being active. Which is nice.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			165
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49310,17 +50644,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/tXrYdVqknO",
-					"expanded_url": "https://twitter.com/i/web/status/1002989138344325120",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 		"in_reply_to_status_id": 1002959161691287600,
@@ -49365,16 +50689,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49408,14 +50732,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@michellek107 @ShanaVWhite I live vicariously through her. Also on the couch. Watching golf. Combine those 2 activities and I’m close to being active. Which is nice."
 	},
 	{
 		"created_at": "Sat Jun 02 18:58:34 +0000 2018",
 		"id": 1002987856669954000,
 		"id_str": "1002987856669954048",
-		"text": "@harmonygritz I did. Someone they made me pay almost $1000 as some sort of ransom.",
+		"full_text": "@harmonygritz I did. Someone they made me pay almost $1000 as some sort of ransom.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			82
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -49476,16 +50805,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -49519,45 +50848,39 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@harmonygritz I did. Someone they made me pay almost $1000 as some sort of ransom."
 	},
 	{
-		"created_at": "Sat Jun 02 18:54:52 +0000 2018",
-		"id": 1002986927262494700,
-		"id_str": "1002986927262494720",
-		"text": "RT @SamuelGrubbs1: #JRSmithChallenge 😂😂💀💀 https://t.co/Z8UZDcQjM6",
+		"created_at": "Sat Jun 02 01:33:55 +0000 2018",
+		"id": 1002724962015371300,
+		"id_str": "1002724962015371264",
+		"full_text": "#JRSmithChallenge 😂😂💀💀 https://t.co/Z8UZDcQjM6",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "JRSmithChallenge",
 					"indices": [
-						19,
-						36
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "SamuelGrubbs1",
-					"name": "Samuel Grubbs",
-					"id": 2881636578,
-					"id_str": "2881636578",
-					"indices": [
-						3,
+						0,
 						17
 					]
 				}
 			],
+			"symbols": [],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1002724672520245200,
 					"id_str": "1002724672520245248",
 					"indices": [
-						42,
-						65
+						23,
+						46
 					],
 					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
 					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
@@ -49586,11 +50909,7 @@ Grailbird.data.tweets_2018_06 =
 							"h": 1200,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1002724962015371300,
-					"source_status_id_str": "1002724962015371264",
-					"source_user_id": 2881636578,
-					"source_user_id_str": "2881636578"
+					}
 				}
 			]
 		},
@@ -49600,8 +50919,8 @@ Grailbird.data.tweets_2018_06 =
 					"id": 1002724672520245200,
 					"id_str": "1002724672520245248",
 					"indices": [
-						42,
-						65
+						23,
+						46
 					],
 					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
 					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
@@ -49631,10 +50950,6 @@ Grailbird.data.tweets_2018_06 =
 							"resize": "fit"
 						}
 					},
-					"source_status_id": 1002724962015371300,
-					"source_status_id_str": "1002724962015371264",
-					"source_user_id": 2881636578,
-					"source_user_id_str": "2881636578",
 					"video_info": {
 						"aspect_ratio": [
 							9,
@@ -49664,68 +50979,7 @@ Grailbird.data.tweets_2018_06 =
 						]
 					},
 					"additional_media_info": {
-						"monetizable": false,
-						"source_user": {
-							"id": 2881636578,
-							"id_str": "2881636578",
-							"name": "Samuel Grubbs",
-							"screen_name": "SamuelGrubbs1",
-							"location": "Biz- SamuelGrubbsBiz@gmail.com",
-							"description": "Why have sports without comedy??? Romans 10:11 For the Scripture says, “Whoever believes in Him will not be disappointed.” ✞",
-							"url": "https://t.co/siHlQF3ejI",
-							"entities": {
-								"url": {
-									"urls": [
-										{
-											"url": "https://t.co/siHlQF3ejI",
-											"expanded_url": "https://youtu.be/wDYSd17OMj8",
-											"display_url": "youtu.be/wDYSd17OMj8",
-											"indices": [
-												0,
-												23
-											]
-										}
-									]
-								},
-								"description": {
-									"urls": []
-								}
-							},
-							"protected": false,
-							"followers_count": 9295,
-							"friends_count": 357,
-							"listed_count": 168,
-							"created_at": "Wed Oct 29 05:57:57 +0000 2014",
-							"favourites_count": 5567,
-							"utc_offset": null,
-							"time_zone": null,
-							"geo_enabled": true,
-							"verified": true,
-							"statuses_count": 530,
-							"lang": "en",
-							"contributors_enabled": false,
-							"is_translator": false,
-							"is_translation_enabled": false,
-							"profile_background_color": "C0DEED",
-							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-							"profile_background_tile": false,
-							"profile_image_url": "http://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
-							"profile_image_url_https": "https://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
-							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881636578/1480484377",
-							"profile_link_color": "1DA1F2",
-							"profile_sidebar_border_color": "C0DEED",
-							"profile_sidebar_fill_color": "DDEEF6",
-							"profile_text_color": "333333",
-							"profile_use_background_image": true,
-							"has_extended_profile": false,
-							"default_profile": true,
-							"default_profile_image": false,
-							"following": false,
-							"follow_request_sent": false,
-							"notifications": false,
-							"translator_type": "none"
-						}
+						"monetizable": false
 					}
 				}
 			]
@@ -49737,20 +50991,20 @@ Grailbird.data.tweets_2018_06 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 739743,
-			"id_str": "739743",
-			"name": "Dean Shareski",
-			"screen_name": "shareski",
-			"location": "Moose Jaw, SK",
-			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
-			"url": "https://t.co/xNwidZoCqU",
+			"id": 2881636578,
+			"id_str": "2881636578",
+			"name": "Samuel Grubbs",
+			"screen_name": "SamuelGrubbs1",
+			"location": "Biz- SamuelGrubbsBiz@gmail.com",
+			"description": "Creator👉#CurryChallenge #JRSmithChallenge #YagaSlapHeardRoundTheWorld Romans10:11 For the Scripture says, “Whoever believes in Him will not be disappointed.” ✞",
+			"url": "https://t.co/siHlQF3ejI",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/xNwidZoCqU",
-							"expanded_url": "http://about.me/shareski",
-							"display_url": "about.me/shareski",
+							"url": "https://t.co/siHlQF3ejI",
+							"expanded_url": "https://youtu.be/wDYSd17OMj8",
+							"display_url": "youtu.be/wDYSd17OMj8",
 							"indices": [
 								0,
 								23
@@ -49759,48 +51013,38 @@ Grailbird.data.tweets_2018_06 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/GsJVzEeMpH",
-							"expanded_url": "http://shareski.ca/y/followme",
-							"display_url": "shareski.ca/y/followme",
-							"indices": [
-								127,
-								150
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
-			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"followers_count": 9397,
+			"friends_count": 354,
+			"listed_count": 227,
+			"created_at": "Wed Oct 29 05:57:57 +0000 2014",
+			"favourites_count": 5528,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 522,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "666BFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
-			"profile_link_color": "384D3A",
-			"profile_sidebar_border_color": "CCC333",
-			"profile_sidebar_fill_color": "1DB2D7",
-			"profile_text_color": "362720",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881636578/1480484377",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -49811,235 +51055,32 @@ Grailbird.data.tweets_2018_06 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Jun 02 01:33:55 +0000 2018",
-			"id": 1002724962015371300,
-			"id_str": "1002724962015371264",
-			"text": "#JRSmithChallenge 😂😂💀💀 https://t.co/Z8UZDcQjM6",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "JRSmithChallenge",
-						"indices": [
-							0,
-							17
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1002724672520245200,
-						"id_str": "1002724672520245248",
-						"indices": [
-							23,
-							46
-						],
-						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
-						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
-						"url": "https://t.co/Z8UZDcQjM6",
-						"display_url": "pic.twitter.com/Z8UZDcQjM6",
-						"expanded_url": "https://twitter.com/SamuelGrubbs1/status/1002724962015371264/video/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 383,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 720,
-								"h": 1280,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 675,
-								"h": 1200,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1002724672520245200,
-						"id_str": "1002724672520245248",
-						"indices": [
-							23,
-							46
-						],
-						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
-						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1002724672520245248/pu/img/c0g1e-hBFJHizT0C.jpg",
-						"url": "https://t.co/Z8UZDcQjM6",
-						"display_url": "pic.twitter.com/Z8UZDcQjM6",
-						"expanded_url": "https://twitter.com/SamuelGrubbs1/status/1002724962015371264/video/1",
-						"type": "video",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 383,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 720,
-								"h": 1280,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 675,
-								"h": 1200,
-								"resize": "fit"
-							}
-						},
-						"video_info": {
-							"aspect_ratio": [
-								9,
-								16
-							],
-							"duration_millis": 45002,
-							"variants": [
-								{
-									"bitrate": 256000,
-									"content_type": "video/mp4",
-									"url": "https://video.twimg.com/ext_tw_video/1002724672520245248/pu/vid/180x320/DizXOmou9HFALna1.mp4?tag=3"
-								},
-								{
-									"content_type": "application/x-mpegURL",
-									"url": "https://video.twimg.com/ext_tw_video/1002724672520245248/pu/pl/n-Pnml7Li_bdszNa.m3u8?tag=3"
-								},
-								{
-									"bitrate": 832000,
-									"content_type": "video/mp4",
-									"url": "https://video.twimg.com/ext_tw_video/1002724672520245248/pu/vid/360x640/7RhVrbHCd7ybNxbt.mp4?tag=3"
-								},
-								{
-									"bitrate": 2176000,
-									"content_type": "video/mp4",
-									"url": "https://video.twimg.com/ext_tw_video/1002724672520245248/pu/vid/720x1280/7GaDnuR9xbyXUxYt.mp4?tag=3"
-								}
-							]
-						},
-						"additional_media_info": {
-							"monetizable": false
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2881636578,
-				"id_str": "2881636578",
-				"name": "Samuel Grubbs",
-				"screen_name": "SamuelGrubbs1",
-				"location": "Biz- SamuelGrubbsBiz@gmail.com",
-				"description": "Why have sports without comedy??? Romans 10:11 For the Scripture says, “Whoever believes in Him will not be disappointed.” ✞",
-				"url": "https://t.co/siHlQF3ejI",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/siHlQF3ejI",
-								"expanded_url": "https://youtu.be/wDYSd17OMj8",
-								"display_url": "youtu.be/wDYSd17OMj8",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 9295,
-				"friends_count": 357,
-				"listed_count": 168,
-				"created_at": "Wed Oct 29 05:57:57 +0000 2014",
-				"favourites_count": 5567,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 530,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848624782354632705/fsss_fFs_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881636578/1480484377",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 41489,
-			"favorite_count": 83772,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
-		"retweet_count": 41489,
-		"favorite_count": 0,
+		"retweet_count": 65179,
+		"favorite_count": 139788,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "#JRSmithChallenge 😂😂💀💀 https://t.co/Z8UZDcQjM6"
 	},
 	{
 		"created_at": "Sat Jun 02 18:51:29 +0000 2018",
 		"id": 1002986073277026300,
 		"id_str": "1002986073277026306",
-		"text": "@morgetron Nice. Thank you.",
+		"full_text": "@morgetron Nice. Thank you.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "morgetron",
-					"name": "Jodie Morgenson 🤖",
+					"name": "Jodie 🤖",
 					"id": 237965589,
 					"id_str": "237965589",
 					"indices": [
@@ -50093,16 +51134,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50133,17 +51174,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@morgetron Nice. Thank you."
 	},
 	{
 		"created_at": "Sat Jun 02 18:51:09 +0000 2018",
 		"id": 1002985990540218400,
 		"id_str": "1002985990540218368",
-		"text": "This will be fun. https://t.co/UraB44BbFh",
+		"full_text": "This will be fun. https://t.co/UraB44BbFh",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50271,16 +51317,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50311,18 +51357,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 2,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "This will be fun. https://t.co/UraB44BbFh"
 	},
 	{
 		"created_at": "Sat Jun 02 18:23:44 +0000 2018",
 		"id": 1002979090494820400,
 		"id_str": "1002979090494820353",
-		"text": "Can anyone share examples illustrating the differences between multi-disciplinary, inter-disciplinary and trans-disciplinary?",
+		"full_text": "Can anyone share examples illustrating the differences between multi-disciplinary, inter-disciplinary and trans-disciplinary?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50372,16 +51423,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113172,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50412,17 +51463,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Can anyone share examples illustrating the differences between multi-disciplinary, inter-disciplinary and trans-disciplinary?"
 	},
 	{
 		"created_at": "Sat Jun 02 03:26:13 +0000 2018",
 		"id": 1002753223978086400,
 		"id_str": "1002753223978086400",
-		"text": "@corisaas This is quite delightful. So happy for both of you.",
+		"full_text": "@corisaas This is quite delightful. So happy for both of you.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			61
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50483,16 +51539,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37636,
-			"friends_count": 6768,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113165,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50523,17 +51579,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@corisaas This is quite delightful. So happy for both of you."
 	},
 	{
 		"created_at": "Sat Jun 02 02:02:52 +0000 2018",
 		"id": 1002732247236120600,
 		"id_str": "1002732247236120576",
-		"text": "@gsiemens It saddens me how hard your heart is.",
+		"full_text": "@gsiemens It saddens me how hard your heart is.",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50594,16 +51655,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37636,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113164,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50634,17 +51695,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@gsiemens It saddens me how hard your heart is."
 	},
 	{
 		"created_at": "Sat Jun 02 01:15:00 +0000 2018",
 		"id": 1002720202726002700,
 		"id_str": "1002720202726002688",
-		"text": "@DaveWEberwein We started there. Maybe that was part of the problem.",
+		"full_text": "@DaveWEberwein We started there. Maybe that was part of the problem.",
 		"truncated": false,
+		"display_text_range": [
+			15,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50705,16 +51771,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37636,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113164,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50745,17 +51811,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@DaveWEberwein We started there. Maybe that was part of the problem."
 	},
 	{
 		"created_at": "Sat Jun 02 01:14:40 +0000 2018",
 		"id": 1002720116969177100,
 		"id_str": "1002720116969177088",
-		"text": "Way to go Laura, love the course trailers. I need to update mine too. https://t.co/APvF8xf4re",
+		"full_text": "Way to go Laura, love the course trailers. I need to update mine too. https://t.co/APvF8xf4re",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -50815,16 +51886,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37636,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113164,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -50856,12 +51927,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1002651580058034200,
 		"quoted_status_id_str": "1002651580058034177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/APvF8xf4re",
+			"expanded": "https://twitter.com/NurseKillam/status/1002651580058034177",
+			"display": "twitter.com/NurseKillam/st…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jun 01 20:42:19 +0000 2018",
 			"id": 1002651580058034200,
 			"id_str": "1002651580058034177",
-			"text": "This is what happens when @eCampusOntario sends me to #CNIE2018Sudbury and I get inspired by @shareski to do some c… https://t.co/ybf0G5P4uM",
-			"truncated": true,
+			"full_text": "This is what happens when @eCampusOntario sends me to #CNIE2018Sudbury and I get inspired by @shareski to do some cool work with @CineJefft in @cambrianhub ... More information below https://t.co/TKzKJ9yj61 https://t.co/5ElAtHqlwC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -50893,16 +51973,45 @@ Grailbird.data.tweets_2018_06 =
 							93,
 							102
 						]
+					},
+					{
+						"screen_name": "CineJefft",
+						"name": "Jeff Tranchemontagne",
+						"id": 2892376372,
+						"id_str": "2892376372",
+						"indices": [
+							129,
+							139
+						]
+					},
+					{
+						"screen_name": "cambrianhub",
+						"name": "Cambrian Teaching & Learning Hub",
+						"id": 892395460354355200,
+						"id_str": "892395460354355200",
+						"indices": [
+							143,
+							155
+						]
 					}
 				],
 				"urls": [
 					{
-						"url": "https://t.co/ybf0G5P4uM",
-						"expanded_url": "https://twitter.com/i/web/status/1002651580058034177",
-						"display_url": "twitter.com/i/web/status/1…",
+						"url": "https://t.co/TKzKJ9yj61",
+						"expanded_url": "https://youtu.be/ArRw0L13G8g",
+						"display_url": "youtu.be/ArRw0L13G8g",
 						"indices": [
-							117,
-							140
+							183,
+							206
+						]
+					},
+					{
+						"url": "https://t.co/5ElAtHqlwC",
+						"expanded_url": "https://twitter.com/NurseKillam/status/1002651039030378496",
+						"display_url": "twitter.com/NurseKillam/st…",
+						"indices": [
+							207,
+							230
 						]
 					}
 				]
@@ -50919,7 +52028,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "Laura Killam",
 				"screen_name": "NurseKillam",
 				"location": "Canada",
-				"description": "BScN, RN, MScN.  Professor. Researcher. Innovator. Nurse. Mother. YouTube Video Creator. Opinions are my own. https://t.co/FbxQopcBDD",
+				"description": "BScN, RN, MScN.  Innovation Champion @CambrianHub. #OEFellow. Professor. Researcher. Nurse. YouTube Video Creator. Opinions are my own. https://t.co/FbxQopcBDD",
 				"url": "https://t.co/1hi1HZjt7x",
 				"entities": {
 					"url": {
@@ -50942,24 +52051,24 @@ Grailbird.data.tweets_2018_06 =
 								"expanded_url": "http://youtube.com/NurseKillam",
 								"display_url": "youtube.com/NurseKillam",
 								"indices": [
-									110,
-									133
+									136,
+									159
 								]
 							}
 						]
 					}
 				},
 				"protected": false,
-				"followers_count": 396,
-				"friends_count": 298,
-				"listed_count": 14,
+				"followers_count": 506,
+				"friends_count": 429,
+				"listed_count": 18,
 				"created_at": "Fri Mar 18 19:23:04 +0000 2011",
-				"favourites_count": 3171,
+				"favourites_count": 5347,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 2602,
+				"statuses_count": 4021,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -50968,8 +52077,8 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/3084262539/3b71243c48ad529f5b0015ed551b0b49_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3084262539/3b71243c48ad529f5b0015ed551b0b49_normal.jpeg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034436547418832896/g310Kfcs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034436547418832896/g310Kfcs_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268432639/1510090255",
 				"profile_link_color": "0099B9",
 				"profile_sidebar_border_color": "5ED4DC",
@@ -50991,26 +52100,36 @@ Grailbird.data.tweets_2018_06 =
 			"is_quote_status": true,
 			"quoted_status_id": 1002651039030378500,
 			"quoted_status_id_str": "1002651039030378496",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5ElAtHqlwC",
+				"expanded": "https://twitter.com/NurseKillam/status/1002651039030378496",
+				"display": "twitter.com/NurseKillam/st…"
+			},
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 1,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Way to go Laura, love the course trailers. I need to update mine too. https://t.co/APvF8xf4re"
 	},
 	{
 		"created_at": "Sat Jun 02 00:51:57 +0000 2018",
 		"id": 1002714399663063000,
 		"id_str": "1002714399663063040",
-		"text": "When you get told your flight is delayed an hour https://t.co/D8vzIUpGLc",
+		"full_text": "When you get told your flight is delayed an hour https://t.co/D8vzIUpGLc",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51169,16 +52288,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37635,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113161,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51209,18 +52328,23 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "When you get told your flight is delayed an hour https://t.co/D8vzIUpGLc"
 	},
 	{
 		"created_at": "Fri Jun 01 22:38:36 +0000 2018",
 		"id": 1002680840994816000,
 		"id_str": "1002680840994816000",
-		"text": "If a baby smiles at you and you don’t smile back, I’ll assume you must have gotten fired or worse. Otherwise, C’mon.",
+		"full_text": "If a baby smiles at you and you don’t smile back, I’ll assume you must have gotten fired or worse. Otherwise, C’mon.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51270,16 +52394,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37634,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113160,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51309,18 +52433,23 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
+		"retweet_count": 1,
+		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "If a baby smiles at you and you don’t smile back, I’ll assume you must have gotten fired or worse. Otherwise, C’mon."
 	},
 	{
 		"created_at": "Fri Jun 01 18:26:47 +0000 2018",
 		"id": 1002617472191746000,
 		"id_str": "1002617472191746051",
-		"text": "Skillz https://t.co/zpyYRqauTe",
+		"full_text": "Skillz https://t.co/zpyYRqauTe",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51380,16 +52509,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37632,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113159,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51421,12 +52550,21 @@ Grailbird.data.tweets_2018_06 =
 		"is_quote_status": true,
 		"quoted_status_id": 1002613691429236700,
 		"quoted_status_id_str": "1002613691429236736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zpyYRqauTe",
+			"expanded": "https://twitter.com/todd_conaway/status/1002613691429236736",
+			"display": "twitter.com/todd_conaway/s…"
+		},
 		"quoted_status": {
 			"created_at": "Fri Jun 01 18:11:46 +0000 2018",
 			"id": 1002613691429236700,
 			"id_str": "1002613691429236736",
-			"text": "@shareski I understand. That happened to me once. I have learned on subsequent trips, that I can hang out in the se… https://t.co/uhXzi1FF3m",
-			"truncated": true,
+			"full_text": "@shareski I understand. That happened to me once. I have learned on subsequent trips, that I can hang out in the sectional &amp; sofa area, usually on the Gronlid product line, and wait for my wife to call security. They will finally arrive and you can usually get a free coffee out of them.",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				291
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
@@ -51442,17 +52580,7 @@ Grailbird.data.tweets_2018_06 =
 						]
 					}
 				],
-				"urls": [
-					{
-						"url": "https://t.co/uhXzi1FF3m",
-						"expanded_url": "https://twitter.com/i/web/status/1002613691429236736",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
+				"urls": []
 			},
 			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 			"in_reply_to_status_id": 1002612770704183300,
@@ -51487,16 +52615,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 944,
-				"friends_count": 1225,
-				"listed_count": 95,
+				"followers_count": 968,
+				"friends_count": 1286,
+				"listed_count": 96,
 				"created_at": "Mon Jul 23 18:13:45 +0000 2007",
-				"favourites_count": 46,
+				"favourites_count": 50,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 11771,
+				"statuses_count": 12333,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -51505,9 +52633,9 @@ Grailbird.data.tweets_2018_06 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/827649067253501952/hIE8xRkA_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827649067253501952/hIE8xRkA_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7664302/1462308309",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035274849927626754/MdaF-kGP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035274849927626754/MdaF-kGP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7664302/1535663709",
 				"profile_link_color": "1808FF",
 				"profile_sidebar_border_color": "FAF5FA",
 				"profile_sidebar_fill_color": "FAF5F5",
@@ -51527,7 +52655,7 @@ Grailbird.data.tweets_2018_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 0,
+			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -51537,14 +52665,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Skillz https://t.co/zpyYRqauTe"
 	},
 	{
 		"created_at": "Fri Jun 01 18:26:23 +0000 2018",
 		"id": 1002617371884957700,
 		"id_str": "1002617371884957696",
-		"text": "@timstahmer That’s where we started.",
+		"full_text": "@timstahmer That’s where we started.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51605,16 +52738,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37632,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113159,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51648,14 +52781,19 @@ Grailbird.data.tweets_2018_06 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@timstahmer That’s where we started."
 	},
 	{
 		"created_at": "Fri Jun 01 18:08:06 +0000 2018",
 		"id": 1002612770704183300,
 		"id_str": "1002612770704183296",
-		"text": "I don’t remember the last time I cried but it might be today as I try to figure out how to get out of this IKEA.",
+		"full_text": "I don’t remember the last time I cried but it might be today as I try to figure out how to get out of this IKEA.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51705,16 +52843,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37631,
-			"friends_count": 6769,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 651,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113157,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51745,17 +52883,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 73,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "I don’t remember the last time I cried but it might be today as I try to figure out how to get out of this IKEA."
 	},
 	{
 		"created_at": "Fri Jun 01 03:01:49 +0000 2018",
 		"id": 1002384694535524400,
 		"id_str": "1002384694535524352",
-		"text": "@courosa 96.47",
+		"full_text": "@courosa 96.47",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51816,16 +52959,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37624,
-			"friends_count": 6766,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113156,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -51856,17 +52999,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@courosa 96.47"
 	},
 	{
 		"created_at": "Fri Jun 01 01:32:19 +0000 2018",
 		"id": 1002362174189101000,
 		"id_str": "1002362174189101056",
-		"text": "@rrodgers @djakes @gcouros @dlaufenberg @chrislehmann @woscholar @kylepace @smartinez Curiosity, reflection and bei… https://t.co/Blpmr0hRoE",
-		"truncated": true,
+		"full_text": "@rrodgers @djakes @gcouros @dlaufenberg @chrislehmann @woscholar @kylepace @smartinez Curiosity, reflection and being able to handle critque.",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			141
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -51952,17 +53100,7 @@ Grailbird.data.tweets_2018_06 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/Blpmr0hRoE",
-					"expanded_url": "https://twitter.com/i/web/status/1002362174189101056",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": 1001911344424276000,
@@ -52007,16 +53145,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37623,
-			"friends_count": 6766,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113155,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52047,17 +53185,22 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@rrodgers @djakes @gcouros @dlaufenberg @chrislehmann @woscholar @kylepace @smartinez Curiosity, reflection and being able to handle critque."
 	},
 	{
 		"created_at": "Fri Jun 01 00:23:00 +0000 2018",
 		"id": 1002344727037935600,
 		"id_str": "1002344727037935616",
-		"text": "Photos and video from Tuesday’s hail storm. https://t.co/rsRBMHn1lo",
+		"full_text": "Photos and video from Tuesday’s hail storm. https://t.co/rsRBMHn1lo",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -52117,16 +53260,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37625,
-			"friends_count": 6766,
-			"listed_count": 1406,
+			"followers_count": 38272,
+			"friends_count": 7080,
+			"listed_count": 1414,
 			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
-			"favourites_count": 650,
+			"favourites_count": 663,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 113154,
+			"statuses_count": 114493,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -52157,10 +53300,11 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Photos and video from Tuesday’s hail storm. https://t.co/rsRBMHn1lo"
 	}
 ]
