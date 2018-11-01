@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 01 22:14:53 +0000 2018",
+		"id": 1058120217778257900,
+		"id_str": "1058120217778257920",
+		"full_text": "He had a putt for double eagle. @mrbadura https://t.co/Y5rWKi0Ahd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y5rWKi0Ahd",
+					"expanded_url": "https://twitter.com/golfdigest/status/1058117515740635136",
+					"display_url": "twitter.com/golfdigest/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38275,
+			"friends_count": 7080,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058117515740635100,
+		"quoted_status_id_str": "1058117515740635136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y5rWKi0Ahd",
+			"expanded": "https://twitter.com/golfdigest/status/1058117515740635136",
+			"display": "twitter.com/golfdigest/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 01 22:04:09 +0000 2018",
+			"id": 1058117515740635100,
+			"id_str": "1058117515740635136",
+			"full_text": "Golf Digest challenged World Long Drive Champion @JustinJamesGolf to drive the green on a 555-yard par 5 at @APBayHill.\n\nHe didn't even need to use his competition driver. 😳\n\nThe full video: https://t.co/Z7YeIZ3f9T https://t.co/yRk0AaMb4j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "justinjamesgolf",
+						"name": "Justin James",
+						"id": 803357129751101400,
+						"id_str": "803357129751101440",
+						"indices": [
+							49,
+							65
+						]
+					},
+					{
+						"screen_name": "APBayHill",
+						"name": "Bay Hill",
+						"id": 1009265982,
+						"id_str": "1009265982",
+						"indices": [
+							108,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Z7YeIZ3f9T",
+						"expanded_url": "http://glfdig.st/gPb202Y",
+						"display_url": "glfdig.st/gPb202Y",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1058117327525462000,
+						"id_str": "1058117327525462019",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058117327525462019/pu/img/LIgOUdSzZZCWDxsw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058117327525462019/pu/img/LIgOUdSzZZCWDxsw.jpg",
+						"url": "https://t.co/yRk0AaMb4j",
+						"display_url": "pic.twitter.com/yRk0AaMb4j",
+						"expanded_url": "https://twitter.com/GolfDigest/status/1058117515740635136/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058117327525462000,
+						"id_str": "1058117327525462019",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058117327525462019/pu/img/LIgOUdSzZZCWDxsw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058117327525462019/pu/img/LIgOUdSzZZCWDxsw.jpg",
+						"url": "https://t.co/yRk0AaMb4j",
+						"display_url": "pic.twitter.com/yRk0AaMb4j",
+						"expanded_url": "https://twitter.com/GolfDigest/status/1058117515740635136/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 60227,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058117327525462019/pu/vid/720x900/tkbnjuH9TzOw98QJ.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058117327525462019/pu/vid/360x450/9LOQCN8cSpdRHYoe.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058117327525462019/pu/vid/180x224/KGk7r52OzNxjSpOK.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1058117327525462019/pu/pl/AlhRPHQWJHjB67W-.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22146985,
+				"id_str": "22146985",
+				"name": "Golf Digest",
+				"screen_name": "GolfDigest",
+				"location": "USA",
+				"description": "We share advice on how to play, what to play and where to play. Think Young, Play Hard.",
+				"url": "https://t.co/VslxClH10G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VslxClH10G",
+								"expanded_url": "http://www.golfdigest.com/",
+								"display_url": "golfdigest.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 777317,
+				"friends_count": 371,
+				"listed_count": 4332,
+				"created_at": "Fri Feb 27 14:54:46 +0000 2009",
+				"favourites_count": 1662,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462224078351265794/K0TFXqMh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462224078351265794/K0TFXqMh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22146985/1540306109",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He had a putt for double eagle. @mrbadura https://t.co/Y5rWKi0Ahd"
+	},
+	{
 		"created_at": "Thu Nov 01 21:15:18 +0000 2018",
 		"id": 1058105221367267300,
 		"id_str": "1058105221367267328",
