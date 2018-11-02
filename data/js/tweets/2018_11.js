@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 21:43:36 +0000 2018",
+		"id": 1058474734239633400,
+		"id_str": "1058474734239633408",
+		"full_text": "@dannymaas @DaneSadownyk https://t.co/8D8mo7pg8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dannymaas",
+					"name": "Danny Maas",
+					"id": 6655972,
+					"id_str": "6655972",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8D8mo7pg8D",
+					"expanded_url": "https://twitter.com/edmontonpolice/status/1058358065467019264",
+					"display_url": "twitter.com/edmontonpolice…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 6655972,
+		"in_reply_to_user_id_str": "6655972",
+		"in_reply_to_screen_name": "dannymaas",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38281,
+			"friends_count": 7079,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058358065467019300,
+		"quoted_status_id_str": "1058358065467019264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8D8mo7pg8D",
+			"expanded": "https://twitter.com/edmontonpolice/status/1058358065467019264",
+			"display": "twitter.com/edmontonpolice…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 02 14:00:00 +0000 2018",
+			"id": 1058358065467019300,
+			"id_str": "1058358065467019264",
+			"full_text": "Your vehicle is not as skilled on ice as Connor McDavid. Your tires are not skates. You cannot speed down a wintery road and expect your vehicle to make a hockey stop. \n\nPlease drive according to the road conditions and your comfort. #yeg #yegtraffic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "yeg",
+						"indices": [
+							234,
+							238
+						]
+					},
+					{
+						"text": "yegtraffic",
+						"indices": [
+							239,
+							250
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180797277,
+				"id_str": "180797277",
+				"name": "Edmonton Police",
+				"screen_name": "edmontonpolice",
+				"location": "Edmonton, Alberta",
+				"description": "Welcome to the EPS official Twitter feed. \r\n\r\nIf you have an emergency, please dial 911 on your phone or mobile device.\r\n\r\nFeed not monitored 24/7",
+				"url": "http://t.co/8B7iTt9MF8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8B7iTt9MF8",
+								"expanded_url": "http://www.edmontonpolice.ca",
+								"display_url": "edmontonpolice.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158222,
+				"friends_count": 165,
+				"listed_count": 535,
+				"created_at": "Fri Aug 20 14:19:21 +0000 2010",
+				"favourites_count": 1913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13146,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611536010921390080/nf65iEM-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611536010921390080/nf65iEM-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180797277/1536251074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2208,
+			"favorite_count": 5152,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dannymaas @DaneSadownyk https://t.co/8D8mo7pg8D"
+	},
+	{
+		"created_at": "Fri Nov 02 21:34:23 +0000 2018",
+		"id": 1058472412541411300,
+		"id_str": "1058472412541411328",
+		"full_text": "Can I assume correctly that you've signed your class up for the Virtual Field trip to the tundra to talk with scientists and view polar bears next week? https://t.co/SM5KSdTbzH If you'll want to remedy that ASAP. @DiscoveryEd https://t.co/VF362NMerx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						213,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SM5KSdTbzH",
+					"expanded_url": "https://den.discoveryeducation.com/events/",
+					"display_url": "den.discoveryeducation.com/events/",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058472401246150700,
+					"id_str": "1058472401246150656",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DrBzCnjU4AAMgLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrBzCnjU4AAMgLA.jpg",
+					"url": "https://t.co/VF362NMerx",
+					"display_url": "pic.twitter.com/VF362NMerx",
+					"expanded_url": "https://twitter.com/shareski/status/1058472412541411328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058472401246150700,
+					"id_str": "1058472401246150656",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DrBzCnjU4AAMgLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrBzCnjU4AAMgLA.jpg",
+					"url": "https://t.co/VF362NMerx",
+					"display_url": "pic.twitter.com/VF362NMerx",
+					"expanded_url": "https://twitter.com/shareski/status/1058472412541411328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38281,
+			"friends_count": 7079,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can I assume correctly that you've signed your class up for the Virtual Field trip to the tundra to talk with scientists and view polar bears next week? https://t.co/SM5KSdTbzH If you'll want to remedy that ASAP. @DiscoveryEd https://t.co/VF362NMerx"
+	},
+	{
 		"created_at": "Fri Nov 02 20:48:53 +0000 2018",
 		"id": 1058460961948889100,
 		"id_str": "1058460961948889089",
