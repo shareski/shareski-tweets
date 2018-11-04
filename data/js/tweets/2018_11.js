@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 04 22:52:27 +0000 2018",
+		"id": 1059216835084800000,
+		"id_str": "1059216835084800001",
+		"full_text": "@acampbell99 That could be. I think the greater point is that it has a negative impact on many. Including adults. This is an opportunity to learn and grow together.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acampbell99",
+					"name": "Andrew Campbell 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+					"id": 54886076,
+					"id_str": "54886076",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1059214772430913500,
+		"in_reply_to_status_id_str": "1059214772430913536",
+		"in_reply_to_user_id": 54886076,
+		"in_reply_to_user_id_str": "54886076",
+		"in_reply_to_screen_name": "acampbell99",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38362,
+			"friends_count": 7096,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@acampbell99 That could be. I think the greater point is that it has a negative impact on many. Including adults. This is an opportunity to learn and grow together."
+	},
+	{
+		"created_at": "Sun Nov 04 22:38:06 +0000 2018",
+		"id": 1059213225617711100,
+		"id_str": "1059213225617711105",
+		"full_text": "“It’s almost 5pm, time to eat” My Dad likes a good early bird special.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38362,
+			"friends_count": 7096,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“It’s almost 5pm, time to eat” My Dad likes a good early bird special."
+	},
+	{
+		"created_at": "Sun Nov 04 22:23:54 +0000 2018",
+		"id": 1059209648832700400,
+		"id_str": "1059209648832700416",
+		"full_text": "The impact of tech on young people is similar to them using alcohol.  Not all become addicted but many do. The difference is that alcohol offers little benefit if any. The other difference is tech has a myriad of ways to persuade and manipulate. Bottom line. We need to educate. https://t.co/RDY7w24K5M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RDY7w24K5M",
+					"expanded_url": "https://twitter.com/willrich45/status/1058088253226708997",
+					"display_url": "twitter.com/willrich45/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38362,
+			"friends_count": 7096,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058088253226709000,
+		"quoted_status_id_str": "1058088253226708997",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RDY7w24K5M",
+			"expanded": "https://twitter.com/willrich45/status/1058088253226708997",
+			"display": "twitter.com/willrich45/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 01 20:07:52 +0000 2018",
+			"id": 1058088253226709000,
+			"id_str": "1058088253226708997",
+			"full_text": "“Lurking behind their kids’ screens and phones are a multitude of psychologists, neuroscientists, and social science experts who use their knowledge of psychological vulnerabilities to devise products that capture kids’ attention for the sake of profit.” https://t.co/1DGDXASGwu https://t.co/galRosZvPb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1DGDXASGwu",
+						"expanded_url": "https://buff.ly/2Dqf95g",
+						"display_url": "buff.ly/2Dqf95g",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1058088251012145200,
+						"id_str": "1058088251012145154",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq8VqIaX4AIAgkB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq8VqIaX4AIAgkB.jpg",
+						"url": "https://t.co/galRosZvPb",
+						"display_url": "pic.twitter.com/galRosZvPb",
+						"expanded_url": "https://twitter.com/willrich45/status/1058088253226708997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058088251012145200,
+						"id_str": "1058088251012145154",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq8VqIaX4AIAgkB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq8VqIaX4AIAgkB.jpg",
+						"url": "https://t.co/galRosZvPb",
+						"display_url": "pic.twitter.com/galRosZvPb",
+						"expanded_url": "https://twitter.com/willrich45/status/1058088253226708997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1349941,
+				"id_str": "1349941",
+				"name": "Will Richardson",
+				"screen_name": "willrich45",
+				"location": "Flemington, New Jersey",
+				"description": "Parent, author, speaker, instigator, blogger. Redefining change at https://t.co/u0vb8eeCHf, https://t.co/pDsXj2TTyK and https://t.co/CNh4ibPyUU.",
+				"url": "https://t.co/u0vb8eeCHf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u0vb8eeCHf",
+								"expanded_url": "http://change.school",
+								"display_url": "change.school",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u0vb8eeCHf",
+								"expanded_url": "http://change.school",
+								"display_url": "change.school",
+								"indices": [
+									67,
+									90
+								]
+							},
+							{
+								"url": "https://t.co/pDsXj2TTyK",
+								"expanded_url": "http://modernlearners.com",
+								"display_url": "modernlearners.com",
+								"indices": [
+									92,
+									115
+								]
+							},
+							{
+								"url": "https://t.co/CNh4ibPyUU",
+								"expanded_url": "http://willrichardson.com",
+								"display_url": "willrichardson.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74949,
+				"friends_count": 2,
+				"listed_count": 3187,
+				"created_at": "Sat Mar 17 12:56:05 +0000 2007",
+				"favourites_count": 2418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31372,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883675105737539584/-ZV4mu1O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883675105737539584/-ZV4mu1O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349941/1499520148",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The impact of tech on young people is similar to them using alcohol.  Not all become addicted but many do. The difference is that alcohol offers little benefit if any. The other difference is tech has a myriad of ways to persuade and manipulate. Bottom line. We need to educate. https://t.co/RDY7w24K5M"
+	},
+	{
 		"created_at": "Sun Nov 04 21:07:33 +0000 2018",
 		"id": 1059190434788859900,
 		"id_str": "1059190434788859904",
