@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 18:09:48 +0000 2018",
+		"id": 1060232866230165500,
+		"id_str": "1060232866230165504",
+		"full_text": "Always a big deal in the @DiscoveryEd world. Go @ktschutt!!! https://t.co/RuVcqd5noy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "ktschutt",
+					"name": "Kyle Schutt",
+					"id": 21026922,
+					"id_str": "21026922",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RuVcqd5noy",
+					"expanded_url": "https://twitter.com/RobynThiessen/status/1060232692292182017",
+					"display_url": "twitter.com/RobynThiessen/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38374,
+			"friends_count": 7100,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060232692292182000,
+		"quoted_status_id_str": "1060232692292182017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RuVcqd5noy",
+			"expanded": "https://twitter.com/RobynThiessen/status/1060232692292182017",
+			"display": "twitter.com/RobynThiessen/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 07 18:09:06 +0000 2018",
+			"id": 1060232692292182000,
+			"id_str": "1060232692292182017",
+			"full_text": "Excited to learn about #polarbears with @DiscoveryEd https://t.co/4b5AjWAM3B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "polarbears",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							40,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060232688500535300,
+						"id_str": "1060232688500535296",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Dra0A0lU8AAi39m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dra0A0lU8AAi39m.jpg",
+						"url": "https://t.co/4b5AjWAM3B",
+						"display_url": "pic.twitter.com/4b5AjWAM3B",
+						"expanded_url": "https://twitter.com/RobynThiessen/status/1060232692292182017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060232688500535300,
+						"id_str": "1060232688500535296",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Dra0A0lU8AAi39m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dra0A0lU8AAi39m.jpg",
+						"url": "https://t.co/4b5AjWAM3B",
+						"display_url": "pic.twitter.com/4b5AjWAM3B",
+						"expanded_url": "https://twitter.com/RobynThiessen/status/1060232692292182017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1060231017129099300,
+			"in_reply_to_status_id_str": "1060231017129099265",
+			"in_reply_to_user_id": 336620134,
+			"in_reply_to_user_id_str": "336620134",
+			"in_reply_to_screen_name": "RobynThiessen",
+			"user": {
+				"id": 336620134,
+				"id_str": "336620134",
+				"name": "Robyn Thiessen",
+				"screen_name": "RobynThiessen",
+				"location": "Vancouver, Canada",
+				"description": "iteach ilearn imakemistakes iloveit Wonder Lead Ambassador, DEN STAR, @ClassroomChamps Teacher, Blended Learning, Making Learning Visible Advocate/Speaker",
+				"url": "https://t.co/HzPdJ1AUtu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HzPdJ1AUtu",
+								"expanded_url": "http://mrsthiessensclass.com",
+								"display_url": "mrsthiessensclass.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4654,
+				"friends_count": 3591,
+				"listed_count": 208,
+				"created_at": "Sat Jul 16 16:19:21 +0000 2011",
+				"favourites_count": 7237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17601,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789919666613256192/JFRr2l_f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789919666613256192/JFRr2l_f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/336620134/1458493312",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always a big deal in the @DiscoveryEd world. Go @ktschutt!!! https://t.co/RuVcqd5noy"
+	},
+	{
 		"created_at": "Tue Nov 06 23:53:32 +0000 2018",
 		"id": 1059956983044935700,
 		"id_str": "1059956983044935681",
