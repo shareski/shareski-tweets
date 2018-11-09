@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 18:10:56 +0000 2018",
+		"id": 1060595542512857100,
+		"id_str": "1060595542512857088",
+		"full_text": "Unbelievably psyched up for Bartolo Colon's WWE debut - hang on, being told that’s Andre the Giant. https://t.co/r02YgvV9Sa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060595537202708500,
+					"id_str": "1060595537202708480",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Drf-BZVVAAAgqG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drf-BZVVAAAgqG5.jpg",
+					"url": "https://t.co/r02YgvV9Sa",
+					"display_url": "pic.twitter.com/r02YgvV9Sa",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1060595542512857088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 834,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060595537202708500,
+					"id_str": "1060595537202708480",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Drf-BZVVAAAgqG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drf-BZVVAAAgqG5.jpg",
+					"url": "https://t.co/r02YgvV9Sa",
+					"display_url": "pic.twitter.com/r02YgvV9Sa",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1060595542512857088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 834,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2259809232,
+			"id_str": "2259809232",
+			"name": "Super 70s Sports",
+			"screen_name": "Super70sSports",
+			"location": "Chicago, IL",
+			"description": "The Super 70s Sports Podcast: iTunes & https://t.co/kcxbZba1Ss. Media and business: rickydonaldcobb@gmail.com",
+			"url": "https://t.co/CRdgNzLuBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CRdgNzLuBm",
+							"expanded_url": "http://www.therickycobb.com",
+							"display_url": "therickycobb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kcxbZba1Ss",
+							"expanded_url": "http://www.Super70sSports.com",
+							"display_url": "Super70sSports.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 204772,
+			"friends_count": 732,
+			"listed_count": 1326,
+			"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+			"favourites_count": 154862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 1257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Unbelievably psyched up for Bartolo Colon's WWE debut - hang on, being told that’s Andre the Giant. https://t.co/r02YgvV9Sa"
+	},
+	{
 		"created_at": "Thu Nov 08 19:56:17 +0000 2018",
 		"id": 1060622055060713500,
 		"id_str": "1060622055060713473",
