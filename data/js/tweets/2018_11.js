@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 15:59:36 +0000 2018",
+		"id": 1062012040343109600,
+		"id_str": "1062012040343109634",
+		"full_text": "Youth sports represents a mirror into society in general. One perspective shows $$$ are increasing, the other shows it's because rich families are spending more. https://t.co/xvHxyzGLHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xvHxyzGLHh",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2018/11/income-inequality-explains-decline-youth-sports/574975/?fbclid=IwAR0N5QwcG1Eom_Kxu4tFJvyRSLFpAhPo_LCxBncuGeqlc0CCmscZ103BVRg",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38261,
+			"friends_count": 7109,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Youth sports represents a mirror into society in general. One perspective shows $$$ are increasing, the other shows it's because rich families are spending more. https://t.co/xvHxyzGLHh"
+	},
+	{
+		"created_at": "Mon Nov 12 02:26:02 +0000 2018",
+		"id": 1061807300522971100,
+		"id_str": "1061807300522971136",
+		"full_text": "@shareski @OCTechNet If you want to join this year's DEN VOICES 5- https://t.co/UMjSyinzNF",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OCTechNet",
+					"name": "Brandon Wislocki",
+					"id": 207423321,
+					"id_str": "207423321",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UMjSyinzNF",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSeslnPRuQmHkx5sWrtuZZ9mLZQYcEIbYcUGarzsWGwRfa1yPg/viewform?usp=sf_link",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061792043037528000,
+		"in_reply_to_status_id_str": "1061792043037528064",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 28898851,
+			"id_str": "28898851",
+			"name": "🅳🆁. 🅳🆁🅸🆉🆉🅻🅴",
+			"screen_name": "dacia92",
+			"location": "North Carolina",
+			"description": "Wife, Mother, Mimi, Musician 🎶 STEM Consultant, BreakOut Edu Trainer, Author, Speaker, NASA Rocks Certified, BrainPop Advisor, and Virtual Field Trips Diva",
+			"url": "https://t.co/nlrYiSThJQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nlrYiSThJQ",
+							"expanded_url": "http://www.engageinspireexpectinform.com",
+							"display_url": "engageinspireexpectinform.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2122,
+			"friends_count": 997,
+			"listed_count": 53,
+			"created_at": "Sat Apr 04 23:59:00 +0000 2009",
+			"favourites_count": 4878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903820439805407232/ihe08gRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903820439805407232/ihe08gRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28898851/1537311731",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski @OCTechNet If you want to join this year's DEN VOICES 5- https://t.co/UMjSyinzNF"
+	},
+	{
 		"created_at": "Mon Nov 12 02:26:02 +0000 2018",
 		"id": 1061807300522971100,
 		"id_str": "1061807300522971136",
