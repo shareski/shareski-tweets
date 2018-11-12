@@ -382,6 +382,133 @@ Grailbird.data.tweets_2018_11 =
 		"text": "@shareski @OCTechNet If you want to join this year's DEN VOICES 5- https://t.co/UMjSyinzNF"
 	},
 	{
+		"created_at": "Mon Nov 12 02:26:02 +0000 2018",
+		"id": 1061807300522971100,
+		"id_str": "1061807300522971136",
+		"full_text": "@shareski @OCTechNet If you want to join this year's DEN VOICES 5- https://t.co/UMjSyinzNF",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OCTechNet",
+					"name": "Brandon Wislocki",
+					"id": 207423321,
+					"id_str": "207423321",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UMjSyinzNF",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSeslnPRuQmHkx5sWrtuZZ9mLZQYcEIbYcUGarzsWGwRfa1yPg/viewform?usp=sf_link",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061792043037528000,
+		"in_reply_to_status_id_str": "1061792043037528064",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 28898851,
+			"id_str": "28898851",
+			"name": "🅳🆁. 🅳🆁🅸🆉🆉🅻🅴",
+			"screen_name": "dacia92",
+			"location": "North Carolina",
+			"description": "Wife, Mother, Mimi, Musician 🎶 STEM Consultant, BreakOut Edu Trainer, Author, Speaker, NASA Rocks Certified, BrainPop Advisor, and Virtual Field Trips Diva",
+			"url": "https://t.co/nlrYiSThJQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nlrYiSThJQ",
+							"expanded_url": "http://www.engageinspireexpectinform.com",
+							"display_url": "engageinspireexpectinform.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2122,
+			"friends_count": 997,
+			"listed_count": 53,
+			"created_at": "Sat Apr 04 23:59:00 +0000 2009",
+			"favourites_count": 4877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903820439805407232/ihe08gRn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903820439805407232/ihe08gRn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28898851/1537311731",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski @OCTechNet If you want to join this year's DEN VOICES 5- https://t.co/UMjSyinzNF"
+	},
+	{
 		"created_at": "Mon Nov 12 01:40:57 +0000 2018",
 		"id": 1061795956142805000,
 		"id_str": "1061795956142804992",
