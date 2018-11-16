@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Oct 11 18:37:25 +0000 2018",
+		"id": 1050455345460592600,
+		"id_str": "1050455345460592641",
+		"full_text": "Mark your calendars! The 5th Annual Summit for Transformative Learning is June 2-4, 2019 in St. Louis at @MICDS! Registration opens in November but it's not too soon to plan! Learn more: https://t.co/7I6YzdbMF8 #STLinSTL https://t.co/0PZrlovBvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STLinSTL",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MICDS",
+					"name": "MICDS",
+					"id": 20250218,
+					"id_str": "20250218",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7I6YzdbMF8",
+					"expanded_url": "http://bit.ly/stlinstl-datesannounced",
+					"display_url": "bit.ly/stlinstl-dates…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050454774779383800,
+					"id_str": "1050454774779383808",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/DpP3DVdWkAA6ndB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpP3DVdWkAA6ndB.jpg",
+					"url": "https://t.co/0PZrlovBvU",
+					"display_url": "pic.twitter.com/0PZrlovBvU",
+					"expanded_url": "https://twitter.com/STLinSTL/status/1050455345460592641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050454774779383800,
+					"id_str": "1050454774779383808",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/DpP3DVdWkAA6ndB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpP3DVdWkAA6ndB.jpg",
+					"url": "https://t.co/0PZrlovBvU",
+					"display_url": "pic.twitter.com/0PZrlovBvU",
+					"expanded_url": "https://twitter.com/STLinSTL/status/1050455345460592641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3052744488,
+			"id_str": "3052744488",
+			"name": "STLinSTL",
+			"screen_name": "STLinSTL",
+			"location": "St Louis, MO",
+			"description": "Join us June 2-4, 2019 for the 5th Annual Summit for Transformative Learning. #STLinSTL",
+			"url": "https://t.co/YeOwFY9p43",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YeOwFY9p43",
+							"expanded_url": "http://stlinstl.org",
+							"display_url": "stlinstl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 117,
+			"listed_count": 3,
+			"created_at": "Sun Mar 01 15:11:48 +0000 2015",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050454608353615873/HUu-hQqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050454608353615873/HUu-hQqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3052744488/1507149619",
+			"profile_link_color": "981A36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mark your calendars! The 5th Annual Summit for Transformative Learning is June 2-4, 2019 in St. Louis at @MICDS! Registration opens in November but it's not too soon to plan! Learn more: https://t.co/7I6YzdbMF8 #STLinSTL https://t.co/0PZrlovBvU"
+	},
+	{
+		"created_at": "Fri Nov 16 00:36:35 +0000 2018",
+		"id": 1063229307420520400,
+		"id_str": "1063229307420520448",
+		"full_text": "@mrbadura When I play it’s more like clubbin’. https://t.co/igOWikkt7p",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063229300374044700,
+					"id_str": "1063229300374044672",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsFZaluVAAAblu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsFZaluVAAAblu2.jpg",
+					"url": "https://t.co/igOWikkt7p",
+					"display_url": "pic.twitter.com/igOWikkt7p",
+					"expanded_url": "https://twitter.com/shareski/status/1063229307420520448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063229300374044700,
+					"id_str": "1063229300374044672",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DsFZaluVAAAblu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DsFZaluVAAAblu2.jpg",
+					"url": "https://t.co/igOWikkt7p",
+					"display_url": "pic.twitter.com/igOWikkt7p",
+					"expanded_url": "https://twitter.com/shareski/status/1063229307420520448/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 346,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							235,
+							173
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DsFZaluVAAAblu2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1063228102636171300,
+		"in_reply_to_status_id_str": "1063228102636171265",
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38278,
+			"friends_count": 7118,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrbadura When I play it’s more like clubbin’. https://t.co/igOWikkt7p"
+	},
+	{
+		"created_at": "Fri Nov 16 00:26:53 +0000 2018",
+		"id": 1063226865937203200,
+		"id_str": "1063226865937203200",
+		"full_text": "@mrbadura Shovel. There is no scooping.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1063226577536856000,
+		"in_reply_to_status_id_str": "1063226577536856070",
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38278,
+			"friends_count": 7118,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928803228304551936/MtOJ7saz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrbadura Shovel. There is no scooping."
+	},
+	{
 		"created_at": "Thu Nov 15 18:15:30 +0000 2018",
 		"id": 1063133404022083600,
 		"id_str": "1063133404022083584",
