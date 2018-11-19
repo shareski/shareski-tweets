@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 22:44:23 +0000 2018",
+		"id": 1064650622367076400,
+		"id_str": "1064650622367076352",
+		"full_text": "Inspired by @shareski Things That Suck format...answering the question \"Does money buy happiness?\" Best format ever for civil discussion and disagreement! https://t.co/wrMJpks4Zn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064650611629510700,
+					"id_str": "1064650611629510656",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZmFywUUAARA4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZmFywUUAARA4y.jpg",
+					"url": "https://t.co/wrMJpks4Zn",
+					"display_url": "pic.twitter.com/wrMJpks4Zn",
+					"expanded_url": "https://twitter.com/lindsmor/status/1064650622367076352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064650611629510700,
+					"id_str": "1064650611629510656",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZmFywUUAARA4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZmFywUUAARA4y.jpg",
+					"url": "https://t.co/wrMJpks4Zn",
+					"display_url": "pic.twitter.com/wrMJpks4Zn",
+					"expanded_url": "https://twitter.com/lindsmor/status/1064650622367076352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28699452,
+			"id_str": "28699452",
+			"name": "Lindsay Morhart",
+			"screen_name": "lindsmor",
+			"location": "Moose Jaw, Saskatchewan",
+			"description": "mom, teacher, learner, RCSD Connected Educator, someone who likes to have fun and nap",
+			"url": "https://t.co/gtbFazzuZr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gtbFazzuZr",
+							"expanded_url": "http://mrsmorhart.wordpress.com/",
+							"display_url": "mrsmorhart.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008,
+			"friends_count": 597,
+			"listed_count": 49,
+			"created_at": "Sat Apr 04 00:40:52 +0000 2009",
+			"favourites_count": 1076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/497080311755599872/XSgxNxM6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/497080311755599872/XSgxNxM6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28699452/1452639959",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspired by @shareski Things That Suck format...answering the question \"Does money buy happiness?\" Best format ever for civil discussion and disagreement! https://t.co/wrMJpks4Zn"
+	},
+	{
 		"created_at": "Mon Nov 19 05:01:00 +0000 2018",
 		"id": 1064383013289570300,
 		"id_str": "1064383013289570305",
