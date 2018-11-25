@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 16:40:40 +0000 2018",
+		"id": 1066733416199217200,
+		"id_str": "1066733416199217152",
+		"full_text": "@datruss @montessorimice @brynmw @MsAmandaLong @CraigMah @hollystibbs @jagill @i_rober @dariodemetlika @CTA43 @ctapd @sd43bc @SD43ContEd @lizbellteacher @Dunnie98 @SheridaCharles @leannekemp44 @rbotero @dhsands As I turns out I may be in town that night.",
+		"truncated": false,
+		"display_text_range": [
+			211,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datruss",
+					"name": "David Truss",
+					"id": 10298552,
+					"id_str": "10298552",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "montessorimice",
+					"name": "Kelsey Keller",
+					"id": 2553156794,
+					"id_str": "2553156794",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "brynmw",
+					"name": "Bryn Morgan Williams",
+					"id": 55373712,
+					"id_str": "55373712",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "MsAmandaLong",
+					"name": "Amanda Long",
+					"id": 255857997,
+					"id_str": "255857997",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "CraigMah",
+					"name": "Craig Mah",
+					"id": 1126915272,
+					"id_str": "1126915272",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "hollystibbs",
+					"name": "Holly",
+					"id": 2470261136,
+					"id_str": "2470261136",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "jagill",
+					"name": "James Gill",
+					"id": 5847192,
+					"id_str": "5847192",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"screen_name": "i_rober",
+					"name": "Ian Robertson",
+					"id": 47493041,
+					"id_str": "47493041",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"screen_name": "dariodemetlika",
+					"name": "dario demetlika",
+					"id": 482678854,
+					"id_str": "482678854",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "CTA43",
+					"name": "Coquitlam Teachers",
+					"id": 1360851890,
+					"id_str": "1360851890",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"screen_name": "ctapd",
+					"name": "ctapd",
+					"id": 1481446207,
+					"id_str": "1481446207",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"screen_name": "sd43bc",
+					"name": "School District 43",
+					"id": 66809263,
+					"id_str": "66809263",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"screen_name": "SD43ContEd",
+					"name": "SD43 Continuing Ed",
+					"id": 2958890713,
+					"id_str": "2958890713",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"screen_name": "lizbellteacher",
+					"name": "Liz Bell",
+					"id": 3374151553,
+					"id_str": "3374151553",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"screen_name": "Dunnie98",
+					"name": "Dunnie",
+					"id": 1364873102,
+					"id_str": "1364873102",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"screen_name": "SheridaCharles",
+					"name": "Sherida C",
+					"id": 1037716610,
+					"id_str": "1037716610",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"screen_name": "leannekemp44",
+					"name": "Leanne Kemp",
+					"id": 80780360,
+					"id_str": "80780360",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"screen_name": "rbotero",
+					"name": "Rick Botero",
+					"id": 19404018,
+					"id_str": "19404018",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"screen_name": "dhsands",
+					"name": "Dave Sands",
+					"id": 15454225,
+					"id_str": "15454225",
+					"indices": [
+						202,
+						210
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1066582887670022100,
+		"in_reply_to_status_id_str": "1066582887670022144",
+		"in_reply_to_user_id": 10298552,
+		"in_reply_to_user_id_str": "10298552",
+		"in_reply_to_screen_name": "datruss",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38289,
+			"friends_count": 7123,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@datruss @montessorimice @brynmw @MsAmandaLong @CraigMah @hollystibbs @jagill @i_rober @dariodemetlika @CTA43 @ctapd @sd43bc @SD43ContEd @lizbellteacher @Dunnie98 @SheridaCharles @leannekemp44 @rbotero @dhsands As I turns out I may be in town that night."
+	},
+	{
 		"created_at": "Sun Nov 25 15:43:44 +0000 2018",
 		"id": 1066719091514372100,
 		"id_str": "1066719091514372096",
