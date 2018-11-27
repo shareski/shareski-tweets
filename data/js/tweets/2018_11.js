@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 16:50:41 +0000 2018",
+		"id": 1067460714598670300,
+		"id_str": "1067460714598670337",
+		"full_text": "I wonder if any of your students might find this interesting.... Two more days to register for this pretty amazing experience. https://t.co/BRRXfQVq64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRRXfQVq64",
+					"expanded_url": "https://twitter.com/AndySchaeferDE/status/1063434685785796609",
+					"display_url": "twitter.com/AndySchaeferDE…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38289,
+			"friends_count": 7122,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063434685785796600,
+		"quoted_status_id_str": "1063434685785796609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BRRXfQVq64",
+			"expanded": "https://twitter.com/AndySchaeferDE/status/1063434685785796609",
+			"display": "twitter.com/AndySchaeferDE…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 14:12:41 +0000 2018",
+			"id": 1063434685785796600,
+			"id_str": "1063434685785796609",
+			"full_text": "Register your class for a unique #VirtualFieldTrip experience Nov 29 at 1pm ET.  A #STEM and #literacy-packed sneak peek of the movie Spider-Man: Into the Spider-Verse https://t.co/Ws5jrRpgrk @DiscoveryEd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VirtualFieldTrip",
+						"indices": [
+							33,
+							50
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							83,
+							88
+						]
+					},
+					{
+						"text": "literacy",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DiscoveryEd",
+						"name": "Discovery Education",
+						"id": 1665531,
+						"id_str": "1665531",
+						"indices": [
+							192,
+							204
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ws5jrRpgrk",
+						"expanded_url": "http://bit.ly/2PZRu65",
+						"display_url": "bit.ly/2PZRu65",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18448804,
+				"id_str": "18448804",
+				"name": "Andy Schaefer",
+				"screen_name": "AndySchaeferDE",
+				"location": "Chicago, IL",
+				"description": "Husband and father of three children.  Vice President, Discovery Education US & General Manager for Discovery Education Canada.",
+				"url": "http://t.co/OOe0o2GzRf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OOe0o2GzRf",
+								"expanded_url": "http://www.discoveryeducation.com",
+								"display_url": "discoveryeducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1361,
+				"friends_count": 1023,
+				"listed_count": 45,
+				"created_at": "Mon Dec 29 12:50:41 +0000 2008",
+				"favourites_count": 582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1879,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1840662166/Andy_LBP_Large2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1840662166/Andy_LBP_Large2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18448804/1358855078",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if any of your students might find this interesting.... Two more days to register for this pretty amazing experience. https://t.co/BRRXfQVq64"
+	},
+	{
 		"created_at": "Tue Nov 27 01:43:14 +0000 2018",
 		"id": 1067232349438599200,
 		"id_str": "1067232349438599169",
