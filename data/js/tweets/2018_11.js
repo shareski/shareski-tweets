@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 29 14:03:26 +0000 2018",
+		"id": 1068143402473193500,
+		"id_str": "1068143402473193472",
+		"full_text": "White people have a “hard” time pronouncing Keisha then go name their kid ABCDE.\n\nGirl.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54936923,
+			"id_str": "54936923",
+			"name": "apollho creed 🖤✨",
+			"screen_name": "its_britney",
+			"location": "Uptown",
+			"description": "Britney. Writer. Snark loving Steve Buscemi Expert. In Full Blum. Writerly stuff over at @britbrinson. Co-host of @blkgirlfilmclub. Owner of @sadgirlsupplyco",
+			"url": "https://t.co/wm4p212XCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wm4p212XCT",
+							"expanded_url": "http://sadgirlsupplycompany.com/shop",
+							"display_url": "sadgirlsupplycompany.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 1086,
+			"listed_count": 11,
+			"created_at": "Wed Jul 08 15:59:14 +0000 2009",
+			"favourites_count": 15461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 278327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FDF7F7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057797428294963200/I9jls3l2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057797428294963200/I9jls3l2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54936923/1454201045",
+			"profile_link_color": "BC7C87",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2E8EA",
+			"profile_text_color": "737271",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2385,
+		"favorite_count": 11960,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "White people have a “hard” time pronouncing Keisha then go name their kid ABCDE.\n\nGirl."
+	},
+	{
 		"created_at": "Thu Nov 29 18:26:14 +0000 2018",
 		"id": 1068209534898827300,
 		"id_str": "1068209534898827264",
