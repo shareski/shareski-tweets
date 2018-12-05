@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 17:26:48 +0000 2018",
+		"id": 1070368908694052900,
+		"id_str": "1070368908694052864",
+		"full_text": "@DewawnW @RexFB @craigcantlie @PrincipalStager @learnandteach04 @jvbevacqua @GustafsonBrad @dhortonGHM @andrewmead73 @hatcherelli @Joe_Oliphant @8Amber8 You’re the best!",
+		"truncated": false,
+		"display_text_range": [
+			153,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DewawnW",
+					"name": "Dewawn Wiest",
+					"id": 349206892,
+					"id_str": "349206892",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "RexFB",
+					"name": "Rex Ferguson-Baird",
+					"id": 1225414633,
+					"id_str": "1225414633",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "craigcantlie",
+					"name": "Craig Cantlie",
+					"id": 234334621,
+					"id_str": "234334621",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "PrincipalStager",
+					"name": "Theresa Stager",
+					"id": 1536969096,
+					"id_str": "1536969096",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "learnandteach04",
+					"name": "Ania Figueroa, Ed.S.🌻",
+					"id": 2428240806,
+					"id_str": "2428240806",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "jvbevacqua",
+					"name": "Johnny Bevacqua",
+					"id": 206883964,
+					"id_str": "206883964",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"screen_name": "GustafsonBrad",
+					"name": "Dr. Brad Gustafson",
+					"id": 620322332,
+					"id_str": "620322332",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "dhortonGHM",
+					"name": "Dexter Horton",
+					"id": 336039567,
+					"id_str": "336039567",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"screen_name": "hatcherelli",
+					"name": "Derek Hatch",
+					"id": 22322516,
+					"id_str": "22322516",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"screen_name": "Joe_Oliphant",
+					"name": "Joe Oliphant",
+					"id": 15745637,
+					"id_str": "15745637",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1070368145804791800,
+		"in_reply_to_status_id_str": "1070368145804791808",
+		"in_reply_to_user_id": 349206892,
+		"in_reply_to_user_id_str": "349206892",
+		"in_reply_to_screen_name": "DewawnW",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38325,
+			"friends_count": 7135,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DewawnW @RexFB @craigcantlie @PrincipalStager @learnandteach04 @jvbevacqua @GustafsonBrad @dhortonGHM @andrewmead73 @hatcherelli @Joe_Oliphant @8Amber8 You’re the best!"
+	},
+	{
+		"created_at": "Wed Dec 05 17:18:41 +0000 2018",
+		"id": 1070366865937977300,
+		"id_str": "1070366865937977344",
+		"full_text": "@DewawnW @RexFB @craigcantlie @PrincipalStager @learnandteach04 @jvbevacqua @GustafsonBrad @dhortonGHM @andrewmead73 @hatcherelli @Joe_Oliphant @8Amber8 That’s a great idea, any samples you can share?",
+		"truncated": false,
+		"display_text_range": [
+			153,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DewawnW",
+					"name": "Dewawn Wiest",
+					"id": 349206892,
+					"id_str": "349206892",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "RexFB",
+					"name": "Rex Ferguson-Baird",
+					"id": 1225414633,
+					"id_str": "1225414633",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"screen_name": "craigcantlie",
+					"name": "Craig Cantlie",
+					"id": 234334621,
+					"id_str": "234334621",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "PrincipalStager",
+					"name": "Theresa Stager",
+					"id": 1536969096,
+					"id_str": "1536969096",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "learnandteach04",
+					"name": "Ania Figueroa, Ed.S.🌻",
+					"id": 2428240806,
+					"id_str": "2428240806",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "jvbevacqua",
+					"name": "Johnny Bevacqua",
+					"id": 206883964,
+					"id_str": "206883964",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"screen_name": "GustafsonBrad",
+					"name": "Dr. Brad Gustafson",
+					"id": 620322332,
+					"id_str": "620322332",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "dhortonGHM",
+					"name": "Dexter Horton",
+					"id": 336039567,
+					"id_str": "336039567",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"screen_name": "hatcherelli",
+					"name": "Derek Hatch",
+					"id": 22322516,
+					"id_str": "22322516",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"screen_name": "Joe_Oliphant",
+					"name": "Joe Oliphant",
+					"id": 15745637,
+					"id_str": "15745637",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1070365283943112700,
+		"in_reply_to_status_id_str": "1070365283943112705",
+		"in_reply_to_user_id": 349206892,
+		"in_reply_to_user_id_str": "349206892",
+		"in_reply_to_screen_name": "DewawnW",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38325,
+			"friends_count": 7135,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DewawnW @RexFB @craigcantlie @PrincipalStager @learnandteach04 @jvbevacqua @GustafsonBrad @dhortonGHM @andrewmead73 @hatcherelli @Joe_Oliphant @8Amber8 That’s a great idea, any samples you can share?"
+	},
+	{
 		"created_at": "Wed Dec 05 17:01:24 +0000 2018",
 		"id": 1070362513982742500,
 		"id_str": "1070362513982742528",
