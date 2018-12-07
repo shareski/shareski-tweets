@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 20:09:55 +0000 2018",
+		"id": 1071134730668658700,
+		"id_str": "1071134730668658690",
+		"full_text": "@PrimoHistory @dankrutka Probably. But it seems like we’ve either tried to scare them off or tell them to change the world with it. The reality is is much more nuanced.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrimoHistory",
+					"name": "Gregg Primeaux",
+					"id": 41724235,
+					"id_str": "41724235",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "dankrutka",
+					"name": "Dan “On to the Next One” Krutka, Ph.D. 💡",
+					"id": 612592849,
+					"id_str": "612592849",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1071130071270707200,
+		"in_reply_to_status_id_str": "1071130071270707200",
+		"in_reply_to_user_id": 41724235,
+		"in_reply_to_user_id_str": "41724235",
+		"in_reply_to_screen_name": "PrimoHistory",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38328,
+			"friends_count": 7140,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PrimoHistory @dankrutka Probably. But it seems like we’ve either tried to scare them off or tell them to change the world with it. The reality is is much more nuanced."
+	},
+	{
+		"created_at": "Fri Dec 07 19:38:36 +0000 2018",
+		"id": 1071126850741641200,
+		"id_str": "1071126850741641217",
+		"full_text": "Good assessment https://t.co/GgrDbBaw8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgrDbBaw8D",
+					"expanded_url": "https://twitter.com/danagins/status/1071123210031251456",
+					"display_url": "twitter.com/danagins/statu…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38328,
+			"friends_count": 7140,
+			"listed_count": 1414,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071123210031251500,
+		"quoted_status_id_str": "1071123210031251456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GgrDbBaw8D",
+			"expanded": "https://twitter.com/danagins/status/1071123210031251456",
+			"display": "twitter.com/danagins/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 07 19:24:08 +0000 2018",
+			"id": 1071123210031251500,
+			"id_str": "1071123210031251456",
+			"full_text": "@shareski I think about this often. I wonder though, how different is it from any other subculture movement that goes mainstream? Early adopters become disillusioned when things go “corporate” and long for the good ol’ days.",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1071037008812761100,
+			"in_reply_to_status_id_str": "1071037008812761088",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 16265255,
+				"id_str": "16265255",
+				"name": "Dan",
+				"screen_name": "DanAgins",
+				"location": "Pawcatuck, CT",
+				"description": "husband | father | 8th grade social studies teacher | EdCampCT co-founder | DJ | opinions mine",
+				"url": "http://t.co/Ie6APJk1Ip",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ie6APJk1Ip",
+								"expanded_url": "http://about.me/dan.agins",
+								"display_url": "about.me/dan.agins",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1034,
+				"friends_count": 277,
+				"listed_count": 85,
+				"created_at": "Fri Sep 12 23:06:47 +0000 2008",
+				"favourites_count": 3267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23626,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995125471061954560/QhJdOpEw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995125471061954560/QhJdOpEw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16265255/1414529227",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good assessment https://t.co/GgrDbBaw8D"
+	},
+	{
 		"created_at": "Fri Dec 07 19:11:28 +0000 2018",
 		"id": 1071120021458509800,
 		"id_str": "1071120021458509824",
