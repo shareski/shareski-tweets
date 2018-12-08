@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 21:22:51 +0000 2018",
+		"id": 1071153086146609200,
+		"id_str": "1071153086146609152",
+		"full_text": "@shareski So I actually wrote a blog post about this. That used to happen much more often than it does now. Thanks Dean! https://t.co/09oZYDwfK1",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/09oZYDwfK1",
+					"expanded_url": "http://www.learningismessy.com/blogging/what-happened-to-the-potential-of-social-media-in-education/",
+					"display_url": "learningismessy.com/blogging/what-…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071037008812761100,
+		"in_reply_to_status_id_str": "1071037008812761088",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 7032662,
+			"id_str": "7032662",
+			"name": "Brian Crosby",
+			"screen_name": "bcrosby",
+			"location": "Reno, Nevada, USA",
+			"description": "30+ year Teacher, now STEM & Messy Learning promoter/facilitator. STEM/STEAM, Author, Speaker,  Problem Solver. Opinions my own. https://t.co/bTT6WiYgs6",
+			"url": "http://t.co/ie7M8nssuP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ie7M8nssuP",
+							"expanded_url": "http://www.learningismessy.com",
+							"display_url": "learningismessy.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bTT6WiYgs6",
+							"expanded_url": "http://amzn.to/2C8n0UK",
+							"display_url": "amzn.to/2C8n0UK",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 1114,
+			"listed_count": 288,
+			"created_at": "Sat Jun 23 12:40:54 +0000 2007",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/78708216/Headshot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/78708216/Headshot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7032662/1403457799",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski So I actually wrote a blog post about this. That used to happen much more often than it does now. Thanks Dean! https://t.co/09oZYDwfK1"
+	},
+	{
 		"created_at": "Fri Dec 07 20:09:55 +0000 2018",
 		"id": 1071134730668658700,
 		"id_str": "1071134730668658690",
