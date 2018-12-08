@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 01:08:37 +0000 2018",
+		"id": 1071209900842324000,
+		"id_str": "1071209900842323968",
+		"full_text": "I knew it. #stainski https://t.co/xk73hlJFQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stainski",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xk73hlJFQj",
+					"expanded_url": "https://www.apost.com/en/blog/intelligent-people-are-more-likely-to-have-stains-on-their-clothes/13078/?p=eyJ2dCI6MTU0NDE4MzE3Miwic2wiOjAsInV0bV9zb3VyY2UiOiJmYiIsInV0bV9tZWRpdW0iOiJmYl91c2Vyc2hhcmVzIiwidXRtX2NhbXBhaWduIjoiYmxvZ18xMzA3OCJ9&fbclid=IwAR3kOCkKORUb7f2uVpEIvrBszMdLrIY5J-R-hoFTokKuTKMbmOYCC8M9rQI",
+					"display_url": "apost.com/en/blog/intell…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38326,
+			"friends_count": 7140,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I knew it. #stainski https://t.co/xk73hlJFQj"
+	},
+	{
+		"created_at": "Sat Dec 08 00:21:56 +0000 2018",
+		"id": 1071198152575848400,
+		"id_str": "1071198152575848449",
+		"full_text": "@shareski I'm seeing a lot of this effect: How School Leaders are Changing EduTwitter https://t.co/fVhLt1rmYY",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fVhLt1rmYY",
+					"expanded_url": "http://andrewscampbell.com/2015/04/15/how-school-leaders-are-changing-edutwitter/",
+					"display_url": "andrewscampbell.com/2015/04/15/how…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1071037008812761100,
+		"in_reply_to_status_id_str": "1071037008812761088",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 54886076,
+			"id_str": "54886076",
+			"name": "Andrew Campbell",
+			"screen_name": "acampbell99",
+			"location": "Ontario, Canada",
+			"description": "Grade 5 teacher & professional podcaster. Writes & speaks about education & tech. Burnley lad.  Watch my TedX https://t.co/vyUldBaG1h…",
+			"url": "https://t.co/ybWyIXWfzM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ybWyIXWfzM",
+							"expanded_url": "http://andrewscampbell.com",
+							"display_url": "andrewscampbell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vyUldBaG1h",
+							"expanded_url": "http://youtu.be/ofZ5ens1Zgk4ta",
+							"display_url": "youtu.be/ofZ5ens1Zgk4ta",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5917,
+			"friends_count": 3820,
+			"listed_count": 341,
+			"created_at": "Wed Jul 08 12:53:56 +0000 2009",
+			"favourites_count": 9277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062852240946409472/82BocipV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062852240946409472/82BocipV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54886076/1508545212",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski I'm seeing a lot of this effect: How School Leaders are Changing EduTwitter https://t.co/fVhLt1rmYY"
+	},
+	{
+		"created_at": "Fri Dec 07 21:22:51 +0000 2018",
+		"id": 1071153086146609200,
+		"id_str": "1071153086146609152",
+		"full_text": "@shareski So I actually wrote a blog post about this. That used to happen much more often than it does now. Thanks Dean! https://t.co/09oZYDwfK1",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/09oZYDwfK1",
+					"expanded_url": "http://www.learningismessy.com/blogging/what-happened-to-the-potential-of-social-media-in-education/",
+					"display_url": "learningismessy.com/blogging/what-…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071037008812761100,
+		"in_reply_to_status_id_str": "1071037008812761088",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 7032662,
+			"id_str": "7032662",
+			"name": "Brian Crosby",
+			"screen_name": "bcrosby",
+			"location": "Reno, Nevada, USA",
+			"description": "30+ year Teacher, now STEM & Messy Learning promoter/facilitator. STEM/STEAM, Author, Speaker,  Problem Solver. Opinions my own. https://t.co/bTT6WiYgs6",
+			"url": "http://t.co/ie7M8nssuP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ie7M8nssuP",
+							"expanded_url": "http://www.learningismessy.com",
+							"display_url": "learningismessy.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bTT6WiYgs6",
+							"expanded_url": "http://amzn.to/2C8n0UK",
+							"display_url": "amzn.to/2C8n0UK",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4504,
+			"friends_count": 1114,
+			"listed_count": 288,
+			"created_at": "Sat Jun 23 12:40:54 +0000 2007",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/78708216/Headshot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/78708216/Headshot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7032662/1403457799",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski So I actually wrote a blog post about this. That used to happen much more often than it does now. Thanks Dean! https://t.co/09oZYDwfK1"
+	},
+	{
 		"created_at": "Fri Dec 07 21:22:51 +0000 2018",
 		"id": 1071153086146609200,
 		"id_str": "1071153086146609152",
