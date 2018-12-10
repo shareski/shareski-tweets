@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 23:18:18 +0000 2018",
+		"id": 1071906916803203100,
+		"id_str": "1071906916803203080",
+		"full_text": "This is definitely one of those \"this seems so stupid\" things to those over 30 but a closer look suggests it make take over from sports like football in a decade.  High levels of collaboration, strategy and safer. https://t.co/6PbHuuTpHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PbHuuTpHU",
+					"expanded_url": "https://twitter.com/amandacdykes/status/1071905964624883713",
+					"display_url": "twitter.com/amandacdykes/s…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38328,
+			"friends_count": 7138,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071905964624883700,
+		"quoted_status_id_str": "1071905964624883713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6PbHuuTpHU",
+			"expanded": "https://twitter.com/amandacdykes/status/1071905964624883713",
+			"display": "twitter.com/amandacdykes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 09 23:14:31 +0000 2018",
+			"id": 1071905964624883700,
+			"id_str": "1071905964624883713",
+			"full_text": "Alabama high schools roll out their newest varsity sport – video games https://t.co/oRf3Xa2K4v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oRf3Xa2K4v",
+						"expanded_url": "http://s.al.com/e9TH7xD",
+						"display_url": "s.al.com/e9TH7xD",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16285501,
+				"id_str": "16285501",
+				"name": "Amanda Dykes",
+				"screen_name": "amandacdykes",
+				"location": "B'ham, AL",
+				"description": "This is who I am, don't take it too seriously.\nI am a:\nMom~ #STEM~Google Cert Trainer~Sports Fan~Shoe & Beach Lover~tweets are mine not from my employer",
+				"url": "https://t.co/m14YFmwE8W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m14YFmwE8W",
+								"expanded_url": "http://www.amandacdykes.com",
+								"display_url": "amandacdykes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12924,
+				"friends_count": 4172,
+				"listed_count": 668,
+				"created_at": "Sun Sep 14 18:18:35 +0000 2008",
+				"favourites_count": 8965,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 128735,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FC3D5A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012532588043436033/UjOKSoTR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012532588043436033/UjOKSoTR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16285501/1497828588",
+				"profile_link_color": "FC3D5A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAF27E",
+				"profile_text_color": "FFB969",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is definitely one of those \"this seems so stupid\" things to those over 30 but a closer look suggests it make take over from sports like football in a decade.  High levels of collaboration, strategy and safer. https://t.co/6PbHuuTpHU"
+	},
+	{
 		"created_at": "Sun Dec 09 23:06:53 +0000 2018",
 		"id": 1071904042111123500,
 		"id_str": "1071904042111123456",
