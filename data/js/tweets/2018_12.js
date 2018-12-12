@@ -142,6 +142,216 @@ Grailbird.data.tweets_2018_12 =
 			"name": "Dylan Dethier",
 			"screen_name": "dylan_dethier",
 			"location": "dylandethier@gmail.com",
+			"description": "chasing golf stories | NYC via @WilliamsCollege | author, 18 in America",
+			"url": "https://t.co/iiDmJXZFBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiDmJXZFBm",
+							"expanded_url": "http://dylandethier.com",
+							"display_url": "dylandethier.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2875,
+			"friends_count": 165,
+			"listed_count": 53,
+			"created_at": "Thu Jun 25 19:08:10 +0000 2009",
+			"favourites_count": 6067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2452,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/910675068069584896/eEDEtTn3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/910675068069584896/eEDEtTn3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50735941/1505959492",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "remember that inauthentic social media thing we were talking about the other day...? https://t.co/lgXJuGEQux"
+	},
+	{
+		"created_at": "Wed Dec 12 15:41:34 +0000 2018",
+		"id": 1072879140934705200,
+		"id_str": "1072879140934705152",
+		"full_text": "remember that inauthentic social media thing we were talking about the other day...? https://t.co/lgXJuGEQux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072878960197931000,
+					"id_str": "1072878960197931008",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuOhut2WkAA8tGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuOhut2WkAA8tGi.jpg",
+					"url": "https://t.co/lgXJuGEQux",
+					"display_url": "pic.twitter.com/lgXJuGEQux",
+					"expanded_url": "https://twitter.com/dylan_dethier/status/1072879140934705152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072878960197931000,
+					"id_str": "1072878960197931008",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuOhut2WkAA8tGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuOhut2WkAA8tGi.jpg",
+					"url": "https://t.co/lgXJuGEQux",
+					"display_url": "pic.twitter.com/lgXJuGEQux",
+					"expanded_url": "https://twitter.com/dylan_dethier/status/1072879140934705152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1072878960239919100,
+					"id_str": "1072878960239919105",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DuOhuuAXQAEDWwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuOhuuAXQAEDWwy.jpg",
+					"url": "https://t.co/lgXJuGEQux",
+					"display_url": "pic.twitter.com/lgXJuGEQux",
+					"expanded_url": "https://twitter.com/dylan_dethier/status/1072879140934705152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50735941,
+			"id_str": "50735941",
+			"name": "Dylan Dethier",
+			"screen_name": "dylan_dethier",
+			"location": "dylandethier@gmail.com",
 			"description": "chasing stories, Golf Magazine | NYC via @WilliamsCollege | author, 18 in America",
 			"url": "https://t.co/iiDmJXZFBm",
 			"entities": {
