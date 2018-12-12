@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 18:50:22 +0000 2018",
+		"id": 1072926651724587000,
+		"id_str": "1072926651724587008",
+		"full_text": "@CherylTeaches @dhudgins I don't care if people hate my book but I also don't feel like it's much different than my blog. That's how I wrote it. I'm just not sure it meets my own expectation of what a published piece of work should be.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CherylTeaches",
+					"name": "Cheryl Mizerny",
+					"id": 1613131578,
+					"id_str": "1613131578",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "dhudgins",
+					"name": "Darren Hudgins",
+					"id": 17036629,
+					"id_str": "17036629",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1072920168664363000,
+		"in_reply_to_status_id_str": "1072920168664363008",
+		"in_reply_to_user_id": 1613131578,
+		"in_reply_to_user_id_str": "1613131578",
+		"in_reply_to_screen_name": "CherylTeaches",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38333,
+			"friends_count": 7145,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CherylTeaches @dhudgins I don't care if people hate my book but I also don't feel like it's much different than my blog. That's how I wrote it. I'm just not sure it meets my own expectation of what a published piece of work should be."
+	},
+	{
+		"created_at": "Wed Dec 12 18:23:33 +0000 2018",
+		"id": 1072919905027178500,
+		"id_str": "1072919905027178497",
+		"full_text": "@TheJLV I've heard to read any edu books by my contemporaries. I'm not 100% sure why. Any edu book I've read was written at least 20 years ago. The gap I have is lack of diversity but most edu books today don't have that anyway. Excluding folks like yourself",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheJLV",
+					"name": "José Luis Vilson",
+					"id": 15051291,
+					"id_str": "15051291",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1072906417055653900,
+		"in_reply_to_status_id_str": "1072906417055653888",
+		"in_reply_to_user_id": 15051291,
+		"in_reply_to_user_id_str": "15051291",
+		"in_reply_to_screen_name": "TheJLV",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38333,
+			"friends_count": 7145,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheJLV I've heard to read any edu books by my contemporaries. I'm not 100% sure why. Any edu book I've read was written at least 20 years ago. The gap I have is lack of diversity but most edu books today don't have that anyway. Excluding folks like yourself"
+	},
+	{
+		"created_at": "Wed Dec 12 17:42:07 +0000 2018",
+		"id": 1072909478113116200,
+		"id_str": "1072909478113116160",
+		"full_text": "@shareski Why does no one on this thread actually name a book?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072823517631045600,
+		"in_reply_to_status_id_str": "1072823517631045637",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 17915536,
+			"id_str": "17915536",
+			"name": "Dan Winters",
+			"screen_name": "dfwinters",
+			"location": "Chula Vista, California",
+			"description": "Director of Research and Evaluation in SUHSD. Questions are Better than Answers. Tweets are my own.",
+			"url": "https://t.co/Vpia01dbTx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vpia01dbTx",
+							"expanded_url": "http://dfwinters.wordpress.com",
+							"display_url": "dfwinters.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1520,
+			"friends_count": 1444,
+			"listed_count": 70,
+			"created_at": "Sat Dec 06 03:28:58 +0000 2008",
+			"favourites_count": 1627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000810122770186240/MyA3C4DU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000810122770186240/MyA3C4DU_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@shareski Why does no one on this thread actually name a book?"
+	},
+	{
+		"created_at": "Wed Dec 12 18:21:09 +0000 2018",
+		"id": 1072919300321747000,
+		"id_str": "1072919300321746945",
+		"full_text": "@dhudgins I get it. But I wonder if there is a fundamental difference in perception and expectation between a book and a blog? Literally anyone can blog. It used to be only certain people would be able to publish. I think we expect more from a published book.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dhudgins",
+					"name": "Darren Hudgins",
+					"id": 17036629,
+					"id_str": "17036629",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1072910902389698600,
+		"in_reply_to_status_id_str": "1072910902389698560",
+		"in_reply_to_user_id": 17036629,
+		"in_reply_to_user_id_str": "17036629",
+		"in_reply_to_screen_name": "dhudgins",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38333,
+			"friends_count": 7145,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dhudgins I get it. But I wonder if there is a fundamental difference in perception and expectation between a book and a blog? Literally anyone can blog. It used to be only certain people would be able to publish. I think we expect more from a published book."
+	},
+	{
 		"created_at": "Wed Dec 12 15:41:34 +0000 2018",
 		"id": 1072879140934705200,
 		"id_str": "1072879140934705152",
