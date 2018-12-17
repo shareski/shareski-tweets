@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 01:51:44 +0000 2018",
+		"id": 1074482243417096200,
+		"id_str": "1074482243417096192",
+		"full_text": "Still haven’t watched this movie. https://t.co/yPXAH9cf4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPXAH9cf4c",
+					"expanded_url": "https://twitter.com/medium/status/1074478854859829248",
+					"display_url": "twitter.com/medium/status/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38343,
+			"friends_count": 7148,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114890,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074478854859829200,
+		"quoted_status_id_str": "1074478854859829248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yPXAH9cf4c",
+			"expanded": "https://twitter.com/medium/status/1074478854859829248",
+			"display": "twitter.com/medium/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 17 01:38:16 +0000 2018",
+			"id": 1074478854859829200,
+			"id_str": "1074478854859829248",
+			"full_text": "If you look for it, I've got a sneaky feeling you'll find that 'Love Actually' is all-around the worst movie https://t.co/9F1JDn0HtP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9F1JDn0HtP",
+						"expanded_url": "http://read.medium.com/2ndepoP",
+						"display_url": "read.medium.com/2ndepoP",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 571202103,
+				"id_str": "571202103",
+				"name": "Medium",
+				"screen_name": "Medium",
+				"location": "San Francisco, CA, US",
+				"description": "Words matter. Learn more at https://t.co/KXvi8xUeaK. For support go to @MediumSupport or https://t.co/A7QR3wf377. To contact us,  email yourfriends@medium.com.",
+				"url": "https://t.co/JV5396gd2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JV5396gd2O",
+								"expanded_url": "http://medium.com",
+								"display_url": "medium.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KXvi8xUeaK",
+								"expanded_url": "http://medium.com/about",
+								"display_url": "medium.com/about",
+								"indices": [
+									28,
+									51
+								]
+							},
+							{
+								"url": "https://t.co/A7QR3wf377",
+								"expanded_url": "http://help.medium.com",
+								"display_url": "help.medium.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2300931,
+				"friends_count": 94,
+				"listed_count": 13011,
+				"created_at": "Fri May 04 20:16:39 +0000 2012",
+				"favourites_count": 6476,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26194,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900033008685666305/c6Q38U35_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/571202103/1543938280",
+				"profile_link_color": "00AB69",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still haven’t watched this movie. https://t.co/yPXAH9cf4c"
+	},
+	{
 		"created_at": "Sun Dec 16 02:27:48 +0000 2018",
 		"id": 1074128932050493400,
 		"id_str": "1074128932050493440",
