@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 17:51:35 +0000 2018",
+		"id": 1074361411684319200,
+		"id_str": "1074361411684319232",
+		"full_text": "And here is a boy who convinces Bruce Springsteen to let him duet on \"Growin' Up\" and you see the kid literally grow up in front of you but also Bruce briefly becomes a teen again and your heart explodes  https://t.co/dCimviYOut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dCimviYOut",
+					"expanded_url": "https://www.youtube.com/watch?v=1xY3q45EBt8",
+					"display_url": "youtube.com/watch?v=1xY3q4…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1074361410673504300,
+		"in_reply_to_status_id_str": "1074361410673504256",
+		"in_reply_to_user_id": 69426451,
+		"in_reply_to_user_id_str": "69426451",
+		"in_reply_to_screen_name": "CaseyNewton",
+		"user": {
+			"id": 69426451,
+			"id_str": "69426451",
+			"name": "Casey Newton",
+			"screen_name": "CaseyNewton",
+			"location": "San Francisco",
+			"description": "social networks + democracy @verge | sign up to get my daily column by email: https://t.co/0umDpRUfyZ | casey@theverge.com | instagram + snapchat: @crumbler",
+			"url": "https://t.co/gN4uWl1BQR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gN4uWl1BQR",
+							"expanded_url": "http://www.theverge.com/interface",
+							"display_url": "theverge.com/interface",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0umDpRUfyZ",
+							"expanded_url": "http://bit.ly/2yTbZcK",
+							"display_url": "bit.ly/2yTbZcK",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 66453,
+			"friends_count": 740,
+			"listed_count": 2396,
+			"created_at": "Thu Aug 27 22:37:09 +0000 2009",
+			"favourites_count": 162055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1536691543",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And here is a boy who convinces Bruce Springsteen to let him duet on \"Growin' Up\" and you see the kid literally grow up in front of you but also Bruce briefly becomes a teen again and your heart explodes  https://t.co/dCimviYOut"
+	},
+	{
 		"created_at": "Mon Dec 17 03:27:20 +0000 2018",
 		"id": 1074506300778864600,
 		"id_str": "1074506300778864641",
