@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 00:44:00 +0000 2018",
+		"id": 1074827585211719700,
+		"id_str": "1074827585211719680",
+		"full_text": "The #deanie for newest member of the fancy pants club goes to... @matthew_arend https://t.co/WuGCJhZvTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthew_arend",
+					"name": "Matthew Arend",
+					"id": 156417523,
+					"id_str": "156417523",
+					"indices": [
+						65,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WuGCJhZvTJ",
+					"expanded_url": "https://twitter.com/matthew_arend/status/945058768009691136",
+					"display_url": "twitter.com/matthew_arend/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38344,
+			"friends_count": 7147,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 945058768009691100,
+		"quoted_status_id_str": "945058768009691136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WuGCJhZvTJ",
+			"expanded": "https://twitter.com/matthew_arend/status/945058768009691136",
+			"display": "twitter.com/matthew_arend/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 24 22:29:03 +0000 2017",
+			"id": 945058768009691100,
+			"id_str": "945058768009691136",
+			"full_text": "@shareski @ZachSnow This one I could try and win next year!!! I know you have green pants @shareski https://t.co/A4cuPWa0vS",
+			"truncated": false,
+			"display_text_range": [
+				20,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "ZachSnow",
+						"name": "Zach Snow",
+						"id": 47220135,
+						"id_str": "47220135",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							90,
+							99
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 945058761856577500,
+						"id_str": "945058761856577536",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DR2F79BU8AAcJjs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR2F79BU8AAcJjs.jpg",
+						"url": "https://t.co/A4cuPWa0vS",
+						"display_url": "pic.twitter.com/A4cuPWa0vS",
+						"expanded_url": "https://twitter.com/matthew_arend/status/945058768009691136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 914,
+								"h": 914,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 914,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945058761856577500,
+						"id_str": "945058761856577536",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DR2F79BU8AAcJjs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR2F79BU8AAcJjs.jpg",
+						"url": "https://t.co/A4cuPWa0vS",
+						"display_url": "pic.twitter.com/A4cuPWa0vS",
+						"expanded_url": "https://twitter.com/matthew_arend/status/945058768009691136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 914,
+								"h": 914,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 914,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 944737136632258600,
+			"in_reply_to_status_id_str": "944737136632258560",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 156417523,
+				"id_str": "156417523",
+				"name": "Matthew Arend",
+				"screen_name": "matthew_arend",
+				"location": "Mckinney, TX",
+				"description": "Christian, husband, father, principal of #SiglerNation creating opportunities & experiences for all students. Marathoner & triathlete (once) #schoolsisasnap",
+				"url": "https://t.co/T9mTk8OS6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T9mTk8OS6c",
+								"expanded_url": "http://about.me/matthewarend",
+								"display_url": "about.me/matthewarend",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10298,
+				"friends_count": 3261,
+				"listed_count": 432,
+				"created_at": "Wed Jun 16 22:15:38 +0000 2010",
+				"favourites_count": 21438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46089,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788570071874404353/POKoyt2R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788570071874404353/POKoyt2R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156417523/1496948890",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for newest member of the fancy pants club goes to... @matthew_arend https://t.co/WuGCJhZvTJ"
+	},
+	{
 		"created_at": "Mon Dec 17 22:41:00 +0000 2018",
 		"id": 1074796631663484900,
 		"id_str": "1074796631663484928",
