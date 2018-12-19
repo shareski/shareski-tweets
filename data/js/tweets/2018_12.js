@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 19 22:10:25 +0000 2018",
+		"id": 1075513711555698700,
+		"id_str": "1075513711555698694",
+		"full_text": "Thoughts and prayers. https://t.co/OWSmFkJxs0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWSmFkJxs0",
+					"expanded_url": "https://twitter.com/acampbell99/status/1075511114950172678",
+					"display_url": "twitter.com/acampbell99/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38348,
+			"friends_count": 7149,
+			"listed_count": 1412,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114914,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075511114950172700,
+		"quoted_status_id_str": "1075511114950172678",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OWSmFkJxs0",
+			"expanded": "https://twitter.com/acampbell99/status/1075511114950172678",
+			"display": "twitter.com/acampbell99/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 22:00:06 +0000 2018",
+			"id": 1075511114950172700,
+			"id_str": "1075511114950172678",
+			"full_text": "I'm shopping at Anthropologie and thinking that @shareski is probably judging me ☹️ https://t.co/kVVm2jeFCR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							48,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075511104288153600,
+						"id_str": "1075511104288153601",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Duz7pqsVYAE9zF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duz7pqsVYAE9zF8.jpg",
+						"url": "https://t.co/kVVm2jeFCR",
+						"display_url": "pic.twitter.com/kVVm2jeFCR",
+						"expanded_url": "https://twitter.com/acampbell99/status/1075511114950172678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075511104288153600,
+						"id_str": "1075511104288153601",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Duz7pqsVYAE9zF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duz7pqsVYAE9zF8.jpg",
+						"url": "https://t.co/kVVm2jeFCR",
+						"display_url": "pic.twitter.com/kVVm2jeFCR",
+						"expanded_url": "https://twitter.com/acampbell99/status/1075511114950172678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54886076,
+				"id_str": "54886076",
+				"name": "Andrew Campbell",
+				"screen_name": "acampbell99",
+				"location": "Ontario, Canada",
+				"description": "Grade 5 teacher & professional podcaster. Writes & speaks about education & tech. Burnley lad.  Watch my TedX https://t.co/vyUldBaG1h…",
+				"url": "https://t.co/ybWyIXWfzM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ybWyIXWfzM",
+								"expanded_url": "http://andrewscampbell.com",
+								"display_url": "andrewscampbell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vyUldBaG1h",
+								"expanded_url": "http://youtu.be/ofZ5ens1Zgk4ta",
+								"display_url": "youtu.be/ofZ5ens1Zgk4ta",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5921,
+				"friends_count": 3836,
+				"listed_count": 341,
+				"created_at": "Wed Jul 08 12:53:56 +0000 2009",
+				"favourites_count": 9429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062852240946409472/82BocipV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062852240946409472/82BocipV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54886076/1508545212",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thoughts and prayers. https://t.co/OWSmFkJxs0"
+	},
+	{
 		"created_at": "Wed Dec 19 15:34:32 +0000 2018",
 		"id": 1075414085297209300,
 		"id_str": "1075414085297209350",
