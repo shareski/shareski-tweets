@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 00:24:47 +0000 2018",
+		"id": 1075547524080001000,
+		"id_str": "1075547524080001025",
+		"full_text": "@TanaRaiyne https://t.co/ANqF0uHmLa",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TanaRaiyne",
+					"name": "тana Ruder",
+					"id": 83459700,
+					"id_str": "83459700",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075547507931795500,
+					"id_str": "1075547507931795456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Du0cwo1U0AAJUQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Du0cwo1U0AAJUQc.jpg",
+					"url": "https://t.co/ANqF0uHmLa",
+					"display_url": "pic.twitter.com/ANqF0uHmLa",
+					"expanded_url": "https://twitter.com/shareski/status/1075547524080001025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075547507931795500,
+					"id_str": "1075547507931795456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Du0cwo1U0AAJUQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Du0cwo1U0AAJUQc.jpg",
+					"url": "https://t.co/ANqF0uHmLa",
+					"display_url": "pic.twitter.com/ANqF0uHmLa",
+					"expanded_url": "https://twitter.com/shareski/status/1075547524080001025/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							47
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Du0cwo1U0AAJUQc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075546889049788400,
+		"in_reply_to_status_id_str": "1075546889049788416",
+		"in_reply_to_user_id": 83459700,
+		"in_reply_to_user_id_str": "83459700",
+		"in_reply_to_screen_name": "TanaRaiyne",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38347,
+			"friends_count": 7148,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TanaRaiyne https://t.co/ANqF0uHmLa"
+	},
+	{
+		"created_at": "Thu Dec 20 00:23:51 +0000 2018",
+		"id": 1075547289203208200,
+		"id_str": "1075547289203208193",
+		"full_text": "The #deanie for best response to that woman who freaked out because a gate agent giggled at her daughter's name goes to ... @its_britney https://t.co/Kh4Af7lzhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "its_britney",
+					"name": "lil saint bitch 🎅🏾🖤✨",
+					"id": 54936923,
+					"id_str": "54936923",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kh4Af7lzhu",
+					"expanded_url": "https://twitter.com/its_britney/status/1068143402473193472",
+					"display_url": "twitter.com/its_britney/st…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38347,
+			"friends_count": 7148,
+			"listed_count": 1413,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068143402473193500,
+		"quoted_status_id_str": "1068143402473193472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kh4Af7lzhu",
+			"expanded": "https://twitter.com/its_britney/status/1068143402473193472",
+			"display": "twitter.com/its_britney/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 14:03:26 +0000 2018",
+			"id": 1068143402473193500,
+			"id_str": "1068143402473193472",
+			"full_text": "White people have a “hard” time pronouncing Keisha then go name their kid ABCDE.\n\nGirl.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54936923,
+				"id_str": "54936923",
+				"name": "lil saint bitch 🎅🏾🖤✨",
+				"screen_name": "its_britney",
+				"location": "Uptown",
+				"description": "Britney. Writer. Snark loving Steve Buscemi Expert. In Full Blum. Writerly stuff over at @britbrinson. Co-host of @blkgirlfilmclub. Owner of @sadgirlsupplyco",
+				"url": "https://t.co/wm4p212XCT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wm4p212XCT",
+								"expanded_url": "http://sadgirlsupplycompany.com/shop",
+								"display_url": "sadgirlsupplycompany.com/shop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451,
+				"friends_count": 995,
+				"listed_count": 13,
+				"created_at": "Wed Jul 08 15:59:14 +0000 2009",
+				"favourites_count": 16296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 279409,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FDF7F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057797428294963200/I9jls3l2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057797428294963200/I9jls3l2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54936923/1454201045",
+				"profile_link_color": "BC7C87",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2E8EA",
+				"profile_text_color": "737271",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11510,
+			"favorite_count": 64287,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for best response to that woman who freaked out because a gate agent giggled at her daughter's name goes to ... @its_britney https://t.co/Kh4Af7lzhu"
+	},
+	{
 		"created_at": "Wed Dec 19 23:55:59 +0000 2018",
 		"id": 1075540277618729000,
 		"id_str": "1075540277618728962",
