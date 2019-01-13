@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 23:32:54 +0000 2019",
+		"id": 1084231776069972000,
+		"id_str": "1084231776069971968",
+		"full_text": "@jagill @vwoelders @technolandy @ChristineYH @Mrs_A_Pimentel @jhdueck @pddriver @mereperryking @thriveonlive @tracyacramer @PiiaMartikainen @DrJohnCart Things I like:\n1. Freshly cut grass \n2. Italian wedding soup\n3. People that use “sir” and “ma’am”\n4. Documentaries \n5. High pressure showers.\n\nTag five random friends to share their 5! \n\n@ShanaVWhite @mr_shortreed @LSpencerEdD @tina_p @bestcircus",
+		"truncated": false,
+		"display_text_range": [
+			152,
+			398
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jagill",
+					"name": "James Gill",
+					"id": 5847192,
+					"id_str": "5847192",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "vwoelders",
+					"name": "Victoria Woelders",
+					"id": 1725994184,
+					"id_str": "1725994184",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "technolandy",
+					"name": "Ian Landy",
+					"id": 250734775,
+					"id_str": "250734775",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"screen_name": "ChristineYH",
+					"name": "Dr. Christine Younghusband",
+					"id": 260284794,
+					"id_str": "260284794",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "Mrs_A_Pimentel",
+					"name": "Ann Pimentel",
+					"id": 4781692790,
+					"id_str": "4781692790",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "jhdueck",
+					"name": "Jonathan Dueck",
+					"id": 14691439,
+					"id_str": "14691439",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "pddriver",
+					"name": "Dawn Driver",
+					"id": 1694344609,
+					"id_str": "1694344609",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "mereperryking",
+					"name": "Diane King",
+					"id": 716922102,
+					"id_str": "716922102",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "thriveonlive",
+					"name": "Melinda Howlett Gill",
+					"id": 17149626,
+					"id_str": "17149626",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "tracyacramer",
+					"name": "Tracy Cramer",
+					"id": 2212814820,
+					"id_str": "2212814820",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "PiiaMartikainen",
+					"name": "Piia Martikainen",
+					"id": 1192860216,
+					"id_str": "1192860216",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "DrJohnCart",
+					"name": "Dr. John Carter",
+					"id": 2899806049,
+					"id_str": "2899806049",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "ShanaVWhite",
+					"name": "Shana V. White",
+					"id": 2318665192,
+					"id_str": "2318665192",
+					"indices": [
+						339,
+						351
+					]
+				},
+				{
+					"screen_name": "mr_shortreed",
+					"name": "Dave Shortreed",
+					"id": 252923729,
+					"id_str": "252923729",
+					"indices": [
+						352,
+						365
+					]
+				},
+				{
+					"screen_name": "LSpencerEdD",
+					"name": "Dr. Laura Spencer",
+					"id": 74666759,
+					"id_str": "74666759",
+					"indices": [
+						366,
+						378
+					]
+				},
+				{
+					"screen_name": "tina_p",
+					"name": "Tina Photakis",
+					"id": 14162617,
+					"id_str": "14162617",
+					"indices": [
+						379,
+						386
+					]
+				},
+				{
+					"screen_name": "bestcircus",
+					"name": "The Ringmaster",
+					"id": 3838285577,
+					"id_str": "3838285577",
+					"indices": [
+						387,
+						398
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084171862752391200,
+		"in_reply_to_status_id_str": "1084171862752391168",
+		"in_reply_to_user_id": 5847192,
+		"in_reply_to_user_id_str": "5847192",
+		"in_reply_to_screen_name": "jagill",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38512,
+			"friends_count": 7229,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jagill @vwoelders @technolandy @ChristineYH @Mrs_A_Pimentel @jhdueck @pddriver @mereperryking @thriveonlive @tracyacramer @PiiaMartikainen @DrJohnCart Things I like:\n1. Freshly cut grass \n2. Italian wedding soup\n3. People that use “sir” and “ma’am”\n4. Documentaries \n5. High pressure showers.\n\nTag five random friends to share their 5! \n\n@ShanaVWhite @mr_shortreed @LSpencerEdD @tina_p @bestcircus"
+	},
+	{
+		"created_at": "Sat Jan 12 15:58:59 +0000 2019",
+		"id": 1084117544133451800,
+		"id_str": "1084117544133451776",
+		"full_text": "@MindShareLearn @C21Can @C21CEO @JCasaTodd @NelsonPK20 @Edsby @D2L @21Toys @Peekapak @cancode @LOGICSAcademy Thanks for the shout out Robert.",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MindShareLearn",
+					"name": "MindShareLearnTech",
+					"id": 18130631,
+					"id_str": "18130631",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "C21Can",
+					"name": "C21 Canada",
+					"id": 484913146,
+					"id_str": "484913146",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "C21CEO",
+					"name": "C21Can Innovates",
+					"id": 867366998,
+					"id_str": "867366998",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"screen_name": "JCasaTodd",
+					"name": "Jennifer Casa-Todd",
+					"id": 240961894,
+					"id_str": "240961894",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "NelsonPK20",
+					"name": "NELSON",
+					"id": 581925271,
+					"id_str": "581925271",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "Edsby",
+					"name": "Edsby",
+					"id": 399456481,
+					"id_str": "399456481",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"screen_name": "D2L",
+					"name": "D2L",
+					"id": 29375475,
+					"id_str": "29375475",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"screen_name": "21Toys",
+					"name": "Twenty One Toys",
+					"id": 130244473,
+					"id_str": "130244473",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"screen_name": "Peekapak",
+					"name": "Peekapak",
+					"id": 965001498,
+					"id_str": "965001498",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "cancode",
+					"name": "CanCode",
+					"id": 20751978,
+					"id_str": "20751978",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"screen_name": "LOGICSAcademy",
+					"name": "LOGICS Academy",
+					"id": 133780648,
+					"id_str": "133780648",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084080834510897200,
+		"in_reply_to_status_id_str": "1084080834510897152",
+		"in_reply_to_user_id": 18130631,
+		"in_reply_to_user_id_str": "18130631",
+		"in_reply_to_screen_name": "MindShareLearn",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38512,
+			"friends_count": 7229,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MindShareLearn @C21Can @C21CEO @JCasaTodd @NelsonPK20 @Edsby @D2L @21Toys @Peekapak @cancode @LOGICSAcademy Thanks for the shout out Robert."
+	},
+	{
+		"created_at": "Sat Jan 12 15:57:51 +0000 2019",
+		"id": 1084117262251032600,
+		"id_str": "1084117262251032588",
+		"full_text": "@Mr_JSpike @MsYouNerdL @WEMTAOnline https://t.co/4CjKh4OlNG",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_JSpike",
+					"name": "Jonathan Spike",
+					"id": 612699694,
+					"id_str": "612699694",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MsYouNerdL",
+					"name": "Steph YouNerdL",
+					"id": 279235288,
+					"id_str": "279235288",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "WEMTAOnline",
+					"name": "WEMTA",
+					"id": 522754712,
+					"id_str": "522754712",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4CjKh4OlNG",
+					"expanded_url": "https://youtu.be/um7vC2BgHeg",
+					"display_url": "youtu.be/um7vC2BgHeg",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084087747558760400,
+		"in_reply_to_status_id_str": "1084087747558760448",
+		"in_reply_to_user_id": 612699694,
+		"in_reply_to_user_id_str": "612699694",
+		"in_reply_to_screen_name": "Mr_JSpike",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38512,
+			"friends_count": 7229,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Mr_JSpike @MsYouNerdL @WEMTAOnline https://t.co/4CjKh4OlNG"
+	},
+	{
+		"created_at": "Sat Jan 12 02:48:34 +0000 2019",
+		"id": 1083918631937937400,
+		"id_str": "1083918631937937409",
+		"full_text": "@michellek107 @gsiemens @bluebomber6 No doubt a strong influence",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michellek107",
+					"name": "Michelle Baldwin",
+					"id": 14528703,
+					"id_str": "14528703",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "bluebomber6",
+					"name": "Jeff Hoeppner",
+					"id": 301855786,
+					"id_str": "301855786",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083918185005367300,
+		"in_reply_to_status_id_str": "1083918185005367296",
+		"in_reply_to_user_id": 14528703,
+		"in_reply_to_user_id_str": "14528703",
+		"in_reply_to_screen_name": "michellek107",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38512,
+			"friends_count": 7229,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@michellek107 @gsiemens @bluebomber6 No doubt a strong influence"
+	},
+	{
+		"created_at": "Sat Jan 12 02:29:42 +0000 2019",
+		"id": 1083913882748502000,
+		"id_str": "1083913882748502016",
+		"full_text": "I asked my Dad to list the nicknames of people he grew up with. ⁦@gsiemens⁩ ⁦@bluebomber6⁩ https://t.co/n7UGsaKiNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "bluebomber6",
+					"name": "Jeff Hoeppner",
+					"id": 301855786,
+					"id_str": "301855786",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083913873793572900,
+					"id_str": "1083913873793572864",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrV7OaVYAApKfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrV7OaVYAApKfp.jpg",
+					"url": "https://t.co/n7UGsaKiNy",
+					"display_url": "pic.twitter.com/n7UGsaKiNy",
+					"expanded_url": "https://twitter.com/shareski/status/1083913882748502016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083913873793572900,
+					"id_str": "1083913873793572864",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrV7OaVYAApKfp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrV7OaVYAApKfp.jpg",
+					"url": "https://t.co/n7UGsaKiNy",
+					"display_url": "pic.twitter.com/n7UGsaKiNy",
+					"expanded_url": "https://twitter.com/shareski/status/1083913882748502016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38512,
+			"friends_count": 7229,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I asked my Dad to list the nicknames of people he grew up with. ⁦@gsiemens⁩ ⁦@bluebomber6⁩ https://t.co/n7UGsaKiNy"
+	},
+	{
 		"created_at": "Fri Jan 11 22:50:41 +0000 2019",
 		"id": 1083858765781323800,
 		"id_str": "1083858765781323776",
