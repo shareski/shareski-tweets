@@ -1,6 +1,1756 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 00:58:49 +0000 2019",
+		"id": 1096212200379875300,
+		"id_str": "1096212200379875328",
+		"full_text": "Pete says “Papa” #harriethasmyheart https://t.co/Qq8yVQTRxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "harriethasmyheart",
+					"indices": [
+						17,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096212158394724400,
+					"id_str": "1096212158394724352",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096212158394724352/pu/img/6cEXeQ7S8F2UVcS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096212158394724352/pu/img/6cEXeQ7S8F2UVcS3.jpg",
+					"url": "https://t.co/Qq8yVQTRxj",
+					"display_url": "pic.twitter.com/Qq8yVQTRxj",
+					"expanded_url": "https://twitter.com/shareski/status/1096212200379875328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096212158394724400,
+					"id_str": "1096212158394724352",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096212158394724352/pu/img/6cEXeQ7S8F2UVcS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096212158394724352/pu/img/6cEXeQ7S8F2UVcS3.jpg",
+					"url": "https://t.co/Qq8yVQTRxj",
+					"display_url": "pic.twitter.com/Qq8yVQTRxj",
+					"expanded_url": "https://twitter.com/shareski/status/1096212200379875328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7708,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096212158394724352/pu/vid/360x640/PueH1tmoUo2G7Tto.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096212158394724352/pu/vid/720x1280/PwNJ7TO0MmUhCsuw.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1096212158394724352/pu/pl/2sG-rEMsR44h5gXC.m3u8?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096212158394724352/pu/vid/320x568/PlsGPyfiEjwp69dG.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Pete says “Papa” #harriethasmyheart https://t.co/Qq8yVQTRxj"
+	},
+	{
+		"created_at": "Thu Feb 14 18:32:41 +0000 2019",
+		"id": 1096115026551849000,
+		"id_str": "1096115026551848961",
+		"full_text": "Always curious to see what magic @chrkennedy has lined up on Valentines Day for @srmkennedy Certain it includes either WhiteSpot or Booster Juice.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrkennedy",
+					"name": "Chris Kennedy",
+					"id": 2056741,
+					"id_str": "2056741",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"screen_name": "srmkennedy",
+					"name": "Stephanie Kennedy",
+					"id": 2819811,
+					"id_str": "2819811",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Always curious to see what magic @chrkennedy has lined up on Valentines Day for @srmkennedy Certain it includes either WhiteSpot or Booster Juice."
+	},
+	{
+		"created_at": "Thu Feb 14 16:30:11 +0000 2019",
+		"id": 1096084197670862800,
+		"id_str": "1096084197670862848",
+		"full_text": "t-90 until you can take your class on a trip to the NBA All-STAR game and explore its relationship with STEM. Easy peasy and free! https://t.co/Uzwv38V5fG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uzwv38V5fG",
+					"expanded_url": "https://www.discoveryeducation.com/learn/nba-partnership/",
+					"display_url": "discoveryeducation.com/learn/nba-part…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "t-90 until you can take your class on a trip to the NBA All-STAR game and explore its relationship with STEM. Easy peasy and free! https://t.co/Uzwv38V5fG"
+	},
+	{
+		"created_at": "Thu Feb 14 16:00:00 +0000 2019",
+		"id": 1096076602302181400,
+		"id_str": "1096076602302181378",
+		"full_text": "I'm excited to visit #ywg 3 times to share @discoveryed goodness Love to see some @WinnipegSD teachers participate. \n@WellingtonWSD\n@GreenwaySchool_\n@robertsonwsd1\n@RalphBrownWSD\n@DufferinSchool\n@camie_lawson\n@tpenner\n@KentRoadWSD\nHere's some info:\nhttps://t.co/InPIEHY1tT https://t.co/DUvD3VATZs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ywg",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "WinnipegSD",
+					"name": "Winnipeg School Div",
+					"id": 829171370,
+					"id_str": "829171370",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"screen_name": "WellingtonWSD",
+					"name": "Wellington School",
+					"id": 712279344538726400,
+					"id_str": "712279344538726400",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "GreenwaySchool_",
+					"name": "Greenway School",
+					"id": 769023621637496800,
+					"id_str": "769023621637496833",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"screen_name": "robertsonwsd1",
+					"name": "Robertson School",
+					"id": 765987784972787700,
+					"id_str": "765987784972787712",
+					"indices": [
+						149,
+						163
+					]
+				},
+				{
+					"screen_name": "RalphBrownWSD",
+					"name": "RalphBrownSchoolWSD",
+					"id": 748333757673807900,
+					"id_str": "748333757673807874",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "DufferinSchool",
+					"name": "Dufferin School",
+					"id": 4870229630,
+					"id_str": "4870229630",
+					"indices": [
+						179,
+						194
+					]
+				},
+				{
+					"screen_name": "camie_lawson",
+					"name": "Camie Lawson",
+					"id": 712669123692507100,
+					"id_str": "712669123692507138",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"screen_name": "tpenner",
+					"name": "Tricia Penner",
+					"id": 24053451,
+					"id_str": "24053451",
+					"indices": [
+						209,
+						217
+					]
+				},
+				{
+					"screen_name": "KentRoadWSD",
+					"name": "Kent Road School",
+					"id": 695650520849985500,
+					"id_str": "695650520849985540",
+					"indices": [
+						218,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/InPIEHY1tT",
+					"expanded_url": "http://bit.ly/YWGDENAMB",
+					"display_url": "bit.ly/YWGDENAMB",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095890550169849900,
+					"id_str": "1095890550169849856",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVipiuU0AAAQO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVipiuU0AAAQO6.jpg",
+					"url": "https://t.co/DUvD3VATZs",
+					"display_url": "pic.twitter.com/DUvD3VATZs",
+					"expanded_url": "https://twitter.com/shareski/status/1096076602302181378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095890550169849900,
+					"id_str": "1095890550169849856",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVipiuU0AAAQO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVipiuU0AAAQO6.jpg",
+					"url": "https://t.co/DUvD3VATZs",
+					"display_url": "pic.twitter.com/DUvD3VATZs",
+					"expanded_url": "https://twitter.com/shareski/status/1096076602302181378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095890550178246700,
+					"id_str": "1095890550178246656",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVipiwU8AAirZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVipiwU8AAirZb.jpg",
+					"url": "https://t.co/DUvD3VATZs",
+					"display_url": "pic.twitter.com/DUvD3VATZs",
+					"expanded_url": "https://twitter.com/shareski/status/1096076602302181378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm excited to visit #ywg 3 times to share @discoveryed goodness Love to see some @WinnipegSD teachers participate. \n@WellingtonWSD\n@GreenwaySchool_\n@robertsonwsd1\n@RalphBrownWSD\n@DufferinSchool\n@camie_lawson\n@tpenner\n@KentRoadWSD\nHere's some info:\nhttps://t.co/InPIEHY1tT https://t.co/DUvD3VATZs"
+	},
+	{
+		"created_at": "Thu Feb 14 06:15:49 +0000 2019",
+		"id": 1095929585751990300,
+		"id_str": "1095929585751990272",
+		"full_text": "@mayorofthenet @courosa https://t.co/bDwsxjsJrQ @djakes",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayorofthenet",
+					"name": "John Pederson",
+					"id": 996775249654857700,
+					"id_str": "996775249654857733",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "djakes",
+					"name": "David Jakes",
+					"id": 6581222,
+					"id_str": "6581222",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bDwsxjsJrQ",
+					"expanded_url": "https://youtu.be/Lc3NSAM2dJE",
+					"display_url": "youtu.be/Lc3NSAM2dJE",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095927059258503200,
+		"in_reply_to_status_id_str": "1095927059258503169",
+		"in_reply_to_user_id": 996775249654857700,
+		"in_reply_to_user_id_str": "996775249654857733",
+		"in_reply_to_screen_name": "mayorofthenet",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mayorofthenet @courosa https://t.co/bDwsxjsJrQ @djakes"
+	},
+	{
+		"created_at": "Thu Feb 14 06:00:34 +0000 2019",
+		"id": 1095925750937673700,
+		"id_str": "1095925750937673729",
+		"full_text": "I regift this to @courosa every year. It was a lot of fun to make. See if you recognize anyone. Happy Birthday Alec Couros https://t.co/ae0zUlAXWG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ae0zUlAXWG",
+					"expanded_url": "https://youtu.be/idhsUy3SKE4",
+					"display_url": "youtu.be/idhsUy3SKE4",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I regift this to @courosa every year. It was a lot of fun to make. See if you recognize anyone. Happy Birthday Alec Couros https://t.co/ae0zUlAXWG"
+	},
+	{
+		"created_at": "Thu Feb 14 02:57:48 +0000 2019",
+		"id": 1095879754803224600,
+		"id_str": "1095879754803224576",
+		"full_text": "@kkeerybi https://t.co/IDlJvxlNSP",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkeerybi",
+					"name": "Kristi Keery Bishop",
+					"id": 127951928,
+					"id_str": "127951928",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095879743931445200,
+					"id_str": "1095879743931445248",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzVY0iWUcAA3wW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzVY0iWUcAA3wW0.jpg",
+					"url": "https://t.co/IDlJvxlNSP",
+					"display_url": "pic.twitter.com/IDlJvxlNSP",
+					"expanded_url": "https://twitter.com/shareski/status/1095879754803224576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095879743931445200,
+					"id_str": "1095879743931445248",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzVY0iWUcAA3wW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzVY0iWUcAA3wW0.jpg",
+					"url": "https://t.co/IDlJvxlNSP",
+					"display_url": "pic.twitter.com/IDlJvxlNSP",
+					"expanded_url": "https://twitter.com/shareski/status/1095879754803224576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DzVY0iWUcAA3wW0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095867367790391300,
+		"in_reply_to_status_id_str": "1095867367790391297",
+		"in_reply_to_user_id": 127951928,
+		"in_reply_to_user_id_str": "127951928",
+		"in_reply_to_screen_name": "kkeerybi",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@kkeerybi https://t.co/IDlJvxlNSP"
+	},
+	{
+		"created_at": "Thu Feb 14 02:56:12 +0000 2019",
+		"id": 1095879350182920200,
+		"id_str": "1095879350182920192",
+		"full_text": "Great learning opportunity for Winnipeg area educators. https://t.co/ii3hLUqi2h #DENamb\n@StevensonElem\n@BairdmoreSchool @islandLRSD @MeadowsWest\n@lordrobertswpg @ShaughnessyPK  @PrairieRoseWSD\n@SargentParkSchl \n@IsaacBrockWSD\n@inkster_school \n@MulveySchoolWSD \n@CarpathiaSchool https://t.co/8D1zrdbEaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENamb",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevensonElem",
+					"name": "Stevenson School",
+					"id": 1305768194,
+					"id_str": "1305768194",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "BairdmoreSchool",
+					"name": "Bairdmore",
+					"id": 2175351456,
+					"id_str": "2175351456",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "islandLRSD",
+					"name": "Island Lakes School",
+					"id": 2226918097,
+					"id_str": "2226918097",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "MeadowsWest",
+					"name": "Meadows West School",
+					"id": 565167169,
+					"id_str": "565167169",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"screen_name": "lordrobertswpg",
+					"name": "Lord Roberts School",
+					"id": 941038841112203300,
+					"id_str": "941038841112203264",
+					"indices": [
+						145,
+						160
+					]
+				},
+				{
+					"screen_name": "ShaughnessyPK",
+					"name": "Shaughnessy Park",
+					"id": 712012061815877600,
+					"id_str": "712012061815877634",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"screen_name": "PrairieRoseWSD",
+					"name": "Prairie Rose School",
+					"id": 966008392300015600,
+					"id_str": "966008392300015616",
+					"indices": [
+						177,
+						192
+					]
+				},
+				{
+					"screen_name": "SargentParkSchl",
+					"name": "Sargent Park School",
+					"id": 730523636239470600,
+					"id_str": "730523636239470592",
+					"indices": [
+						193,
+						209
+					]
+				},
+				{
+					"screen_name": "IsaacBrockWSD",
+					"name": "Isaac Brock School",
+					"id": 934468611158216700,
+					"id_str": "934468611158216706",
+					"indices": [
+						211,
+						225
+					]
+				},
+				{
+					"screen_name": "inkster_school",
+					"name": "Inkster School",
+					"id": 712321962068938800,
+					"id_str": "712321962068938752",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"screen_name": "MulveySchoolWSD",
+					"name": "Mulvey School",
+					"id": 711992280215720000,
+					"id_str": "711992280215719936",
+					"indices": [
+						243,
+						259
+					]
+				},
+				{
+					"screen_name": "CarpathiaSchool",
+					"name": "Carpathia School",
+					"id": 801172072152125400,
+					"id_str": "801172072152125440",
+					"indices": [
+						261,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ii3hLUqi2h",
+					"expanded_url": "http://shareski.ca/y/amb",
+					"display_url": "shareski.ca/y/amb",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095868530887544800,
+					"id_str": "1095868530887544833",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVOn2gU0AEiJTc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVOn2gU0AEiJTc.jpg",
+					"url": "https://t.co/8D1zrdbEaw",
+					"display_url": "pic.twitter.com/8D1zrdbEaw",
+					"expanded_url": "https://twitter.com/shareski/status/1095879350182920192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095868530887544800,
+					"id_str": "1095868530887544833",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVOn2gU0AEiJTc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVOn2gU0AEiJTc.jpg",
+					"url": "https://t.co/8D1zrdbEaw",
+					"display_url": "pic.twitter.com/8D1zrdbEaw",
+					"expanded_url": "https://twitter.com/shareski/status/1095879350182920192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095868530887581700,
+					"id_str": "1095868530887581702",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DzVOn2gVYAYINJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzVOn2gVYAYINJV.jpg",
+					"url": "https://t.co/8D1zrdbEaw",
+					"display_url": "pic.twitter.com/8D1zrdbEaw",
+					"expanded_url": "https://twitter.com/shareski/status/1095879350182920192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great learning opportunity for Winnipeg area educators. https://t.co/ii3hLUqi2h #DENamb\n@StevensonElem\n@BairdmoreSchool @islandLRSD @MeadowsWest\n@lordrobertswpg @ShaughnessyPK  @PrairieRoseWSD\n@SargentParkSchl \n@IsaacBrockWSD\n@inkster_school \n@MulveySchoolWSD \n@CarpathiaSchool https://t.co/8D1zrdbEaw"
+	},
+	{
+		"created_at": "Thu Feb 14 01:44:18 +0000 2019",
+		"id": 1095861255947149300,
+		"id_str": "1095861255947149312",
+		"full_text": "Some people say \"it's all about relationships\" But then what about The Hokey Pokey? Isn't that what it's all about?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38543,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Some people say \"it's all about relationships\" But then what about The Hokey Pokey? Isn't that what it's all about?"
+	},
+	{
 		"created_at": "Wed Feb 13 21:55:45 +0000 2019",
 		"id": 1095803741029220400,
 		"id_str": "1095803741029220353",
