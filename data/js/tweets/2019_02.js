@@ -1,6 +1,1308 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 20:23:42 +0000 2019",
+		"id": 1096505351283691500,
+		"id_str": "1096505351283691520",
+		"full_text": "One thing to ask politicians, policy makers and educational leaders in general is to ask them if they view education as primarily an investment or an expense? And if they say “both” push them to ask what they lead with. https://t.co/H52AYXiyOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H52AYXiyOg",
+					"expanded_url": "http://shareski.ca/y/46v",
+					"display_url": "shareski.ca/y/46v",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One thing to ask politicians, policy makers and educational leaders in general is to ask them if they view education as primarily an investment or an expense? And if they say “both” push them to ask what they lead with. https://t.co/H52AYXiyOg"
+	},
+	{
+		"created_at": "Fri Feb 15 19:42:11 +0000 2019",
+		"id": 1096494903960440800,
+		"id_str": "1096494903960440833",
+		"full_text": "@RafranzDavis @Seesaw https://t.co/PjN0DjC15Q",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RafranzDavis",
+					"name": "Rafranz Davis",
+					"id": 15825051,
+					"id_str": "15825051",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Seesaw",
+					"name": "Seesaw",
+					"id": 2896841402,
+					"id_str": "2896841402",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096494897358463000,
+					"id_str": "1096494897358462976",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzeITLcUYAAfkaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzeITLcUYAAfkaT.jpg",
+					"url": "https://t.co/PjN0DjC15Q",
+					"display_url": "pic.twitter.com/PjN0DjC15Q",
+					"expanded_url": "https://twitter.com/shareski/status/1096494903960440833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096494897358463000,
+					"id_str": "1096494897358462976",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzeITLcUYAAfkaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzeITLcUYAAfkaT.jpg",
+					"url": "https://t.co/PjN0DjC15Q",
+					"display_url": "pic.twitter.com/PjN0DjC15Q",
+					"expanded_url": "https://twitter.com/shareski/status/1096494903960440833/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DzeITLcUYAAfkaT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096484984280571900,
+		"in_reply_to_status_id_str": "1096484984280571907",
+		"in_reply_to_user_id": 15825051,
+		"in_reply_to_user_id_str": "15825051",
+		"in_reply_to_screen_name": "RafranzDavis",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RafranzDavis @Seesaw https://t.co/PjN0DjC15Q"
+	},
+	{
+		"created_at": "Fri Feb 15 19:18:27 +0000 2019",
+		"id": 1096488928792756200,
+		"id_str": "1096488928792756225",
+		"full_text": "@andrewmead73 I've been saying for years, that when you see education as an expense rather than an investment, it makes for very different conversations and perspectives.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096485225901768700,
+		"in_reply_to_status_id_str": "1096485225901768704",
+		"in_reply_to_user_id": 248957048,
+		"in_reply_to_user_id_str": "248957048",
+		"in_reply_to_screen_name": "andrewmead73",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@andrewmead73 I've been saying for years, that when you see education as an expense rather than an investment, it makes for very different conversations and perspectives."
+	},
+	{
+		"created_at": "Fri Feb 15 19:00:03 +0000 2019",
+		"id": 1096484298499211300,
+		"id_str": "1096484298499211267",
+		"full_text": "@andrewmead73 MECA. Make Education Cheap Again.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096479686023102500,
+		"in_reply_to_status_id_str": "1096479686023102465",
+		"in_reply_to_user_id": 248957048,
+		"in_reply_to_user_id_str": "248957048",
+		"in_reply_to_screen_name": "andrewmead73",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@andrewmead73 MECA. Make Education Cheap Again."
+	},
+	{
+		"created_at": "Fri Feb 15 18:59:32 +0000 2019",
+		"id": 1096484170505822200,
+		"id_str": "1096484170505822208",
+		"full_text": "@RafranzDavis @Seesaw Is that a new BTS song?",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RafranzDavis",
+					"name": "Rafranz Davis",
+					"id": 15825051,
+					"id_str": "15825051",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Seesaw",
+					"name": "Seesaw",
+					"id": 2896841402,
+					"id_str": "2896841402",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096481783812628500,
+		"in_reply_to_status_id_str": "1096481783812628483",
+		"in_reply_to_user_id": 15825051,
+		"in_reply_to_user_id_str": "15825051",
+		"in_reply_to_screen_name": "RafranzDavis",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RafranzDavis @Seesaw Is that a new BTS song?"
+	},
+	{
+		"created_at": "Wed Feb 13 20:25:09 +0000 2019",
+		"id": 1095780941279031300,
+		"id_str": "1095780941279031296",
+		"full_text": "Are You Caught in the Whirlwind? https://t.co/Rw8yPuHmXS https://t.co/zMtbeUOa3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rw8yPuHmXS",
+					"expanded_url": "https://sdunlop.commons.hwdsb.on.ca/are-you-caught-in-the-whirlwind/",
+					"display_url": "sdunlop.commons.hwdsb.on.ca/are-you-caught…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095780938842136600,
+					"id_str": "1095780938842136576",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzT-9UtUYAADoA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzT-9UtUYAADoA5.jpg",
+					"url": "https://t.co/zMtbeUOa3u",
+					"display_url": "pic.twitter.com/zMtbeUOa3u",
+					"expanded_url": "https://twitter.com/Dunlop_Sue/status/1095780941279031296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095780938842136600,
+					"id_str": "1095780938842136576",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzT-9UtUYAADoA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzT-9UtUYAADoA5.jpg",
+					"url": "https://t.co/zMtbeUOa3u",
+					"display_url": "pic.twitter.com/zMtbeUOa3u",
+					"expanded_url": "https://twitter.com/Dunlop_Sue/status/1095780941279031296/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							72
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DzT-9UtUYAADoA5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17716413,
+			"id_str": "17716413",
+			"name": "Sue Dunlop",
+			"screen_name": "Dunlop_Sue",
+			"location": "Hamilton, Ontario",
+			"description": "Thinker. Singer. Writer. Curious about the world. K-12 Superintendent in the HWDSB. Tweets are my own. https://t.co/ImHAJJAv2v",
+			"url": "https://t.co/0DX858jcin",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0DX858jcin",
+							"expanded_url": "http://about.me/sue.dunlop",
+							"display_url": "about.me/sue.dunlop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ImHAJJAv2v",
+							"expanded_url": "http://suedunlop.ca",
+							"display_url": "suedunlop.ca",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 1152,
+			"listed_count": 205,
+			"created_at": "Fri Nov 28 18:57:13 +0000 2008",
+			"favourites_count": 4390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037044520175710209/FbKjIq1r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037044520175710209/FbKjIq1r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17716413/1502894524",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are You Caught in the Whirlwind? https://t.co/Rw8yPuHmXS https://t.co/zMtbeUOa3u"
+	},
+	{
+		"created_at": "Fri Feb 15 05:29:38 +0000 2019",
+		"id": 1096280352304361500,
+		"id_str": "1096280352304361472",
+		"full_text": "@technolibrary Thank you so much! https://t.co/1uDWddVXRL",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "technolibrary",
+					"name": "Carolyn Foote",
+					"id": 6967252,
+					"id_str": "6967252",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096280346608394200,
+					"id_str": "1096280346608394240",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DzbFKrnV4AAC_ZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzbFKrnV4AAC_ZX.jpg",
+					"url": "https://t.co/1uDWddVXRL",
+					"display_url": "pic.twitter.com/1uDWddVXRL",
+					"expanded_url": "https://twitter.com/shareski/status/1096280352304361472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096280346608394200,
+					"id_str": "1096280346608394240",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DzbFKrnV4AAC_ZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzbFKrnV4AAC_ZX.jpg",
+					"url": "https://t.co/1uDWddVXRL",
+					"display_url": "pic.twitter.com/1uDWddVXRL",
+					"expanded_url": "https://twitter.com/shareski/status/1096280352304361472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096252850575949800,
+		"in_reply_to_status_id_str": "1096252850575949825",
+		"in_reply_to_user_id": 6967252,
+		"in_reply_to_user_id_str": "6967252",
+		"in_reply_to_screen_name": "technolibrary",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@technolibrary Thank you so much! https://t.co/1uDWddVXRL"
+	},
+	{
+		"created_at": "Fri Feb 15 01:50:59 +0000 2019",
+		"id": 1096225328157073400,
+		"id_str": "1096225328157073408",
+		"full_text": "@Dowbiggin She looks like a Pete. I gave all my kids nicknames when they were little. https://t.co/RtQBziKMGN",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dowbiggin",
+					"name": "Diane Main",
+					"id": 9675812,
+					"id_str": "9675812",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096225317465681900,
+					"id_str": "1096225317465681920",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzaTHkFU8AAzsol.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzaTHkFU8AAzsol.jpg",
+					"url": "https://t.co/RtQBziKMGN",
+					"display_url": "pic.twitter.com/RtQBziKMGN",
+					"expanded_url": "https://twitter.com/shareski/status/1096225328157073408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096225317465681900,
+					"id_str": "1096225317465681920",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzaTHkFU8AAzsol.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzaTHkFU8AAzsol.jpg",
+					"url": "https://t.co/RtQBziKMGN",
+					"display_url": "pic.twitter.com/RtQBziKMGN",
+					"expanded_url": "https://twitter.com/shareski/status/1096225328157073408/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DzaTHkFU8AAzsol.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096222800199778300,
+		"in_reply_to_status_id_str": "1096222800199778305",
+		"in_reply_to_user_id": 9675812,
+		"in_reply_to_user_id_str": "9675812",
+		"in_reply_to_screen_name": "Dowbiggin",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38544,
+			"friends_count": 7267,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Dowbiggin She looks like a Pete. I gave all my kids nicknames when they were little. https://t.co/RtQBziKMGN"
+	},
+	{
 		"created_at": "Fri Feb 15 00:58:49 +0000 2019",
 		"id": 1096212200379875300,
 		"id_str": "1096212200379875328",
