@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 21:33:56 +0000 2019",
+		"id": 1097972575634886700,
+		"id_str": "1097972575634886657",
+		"full_text": "Hey @jonbecker is this true? https://t.co/aMAjT0K3U1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aMAjT0K3U1",
+					"expanded_url": "https://twitter.com/SNYtv/status/1097920225876590592",
+					"display_url": "twitter.com/SNYtv/status/1…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38556,
+			"friends_count": 7268,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097920225876590600,
+		"quoted_status_id_str": "1097920225876590592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aMAjT0K3U1",
+			"expanded": "https://twitter.com/SNYtv/status/1097920225876590592",
+			"display": "twitter.com/SNYtv/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 19 18:05:54 +0000 2019",
+			"id": 1097920225876590600,
+			"id_str": "1097920225876590592",
+			"full_text": "this kid EXTREMELY did not want Manny Machado https://t.co/6oFCVgIsz5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097919287770206200,
+						"id_str": "1097919287770206208",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097919287770206208/pu/img/0uoaFwFjXOeVZZ-Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097919287770206208/pu/img/0uoaFwFjXOeVZZ-Y.jpg",
+						"url": "https://t.co/6oFCVgIsz5",
+						"display_url": "pic.twitter.com/6oFCVgIsz5",
+						"expanded_url": "https://twitter.com/SNYtv/status/1097920225876590592/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097919287770206200,
+						"id_str": "1097919287770206208",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097919287770206208/pu/img/0uoaFwFjXOeVZZ-Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097919287770206208/pu/img/0uoaFwFjXOeVZZ-Y.jpg",
+						"url": "https://t.co/6oFCVgIsz5",
+						"display_url": "pic.twitter.com/6oFCVgIsz5",
+						"expanded_url": "https://twitter.com/SNYtv/status/1097920225876590592/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 36208,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097919287770206208/pu/vid/360x640/ys6PEAfkcUEx8U9O.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097919287770206208/pu/vid/720x1280/GGNVD1j4b2vgTA_f.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1097919287770206208/pu/pl/NudixCjz9TVjkVpY.m3u8?tag=6"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097919287770206208/pu/vid/320x568/_P1qYeMEicqZHJAg.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19556528,
+				"id_str": "19556528",
+				"name": "SNY",
+				"screen_name": "SNYtv",
+				"location": "New York",
+				"description": "The home of New York sports.",
+				"url": "https://t.co/7D1z0nXAYU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7D1z0nXAYU",
+								"expanded_url": "http://www.sny.tv",
+								"display_url": "sny.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82808,
+				"friends_count": 308,
+				"listed_count": 1194,
+				"created_at": "Mon Jan 26 20:49:31 +0000 2009",
+				"favourites_count": 219,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68820,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004785",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816376077564186624/LJvabzj__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816376077564186624/LJvabzj__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19556528/1522357605",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2062,
+			"favorite_count": 6837,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @jonbecker is this true? https://t.co/aMAjT0K3U1"
+	},
+	{
+		"created_at": "Tue Feb 19 21:17:07 +0000 2019",
+		"id": 1097968344890835000,
+		"id_str": "1097968344890834945",
+		"full_text": "Looking for Winnipeg area @DiscoveryEd users to participate in this excellent learning opportunity. Please share with your colleagues. \nhttps://t.co/hEQkTLrQ7U #DENamb https://t.co/tvQjVsWGJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENamb",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hEQkTLrQ7U",
+					"expanded_url": "http://bit.ly/YWGDENAMB2019",
+					"display_url": "bit.ly/YWGDENAMB2019",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097967448308006900,
+					"id_str": "1097967448308006913",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzDk7NXQAEvClW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzDk7NXQAEvClW.jpg",
+					"url": "https://t.co/tvQjVsWGJT",
+					"display_url": "pic.twitter.com/tvQjVsWGJT",
+					"expanded_url": "https://twitter.com/shareski/status/1097968344890834945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097967448308006900,
+					"id_str": "1097967448308006913",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzDk7NXQAEvClW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzDk7NXQAEvClW.jpg",
+					"url": "https://t.co/tvQjVsWGJT",
+					"display_url": "pic.twitter.com/tvQjVsWGJT",
+					"expanded_url": "https://twitter.com/shareski/status/1097968344890834945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097967448299577300,
+					"id_str": "1097967448299577344",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzDk7LWoAAq3qP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzDk7LWoAAq3qP.jpg",
+					"url": "https://t.co/tvQjVsWGJT",
+					"display_url": "pic.twitter.com/tvQjVsWGJT",
+					"expanded_url": "https://twitter.com/shareski/status/1097968344890834945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38556,
+			"friends_count": 7268,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for Winnipeg area @DiscoveryEd users to participate in this excellent learning opportunity. Please share with your colleagues. \nhttps://t.co/hEQkTLrQ7U #DENamb https://t.co/tvQjVsWGJT"
+	},
+	{
 		"created_at": "Mon Feb 18 22:11:34 +0000 2019",
 		"id": 1097619661003391000,
 		"id_str": "1097619661003390978",
