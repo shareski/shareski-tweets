@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 21:26:47 +0000 2019",
+		"id": 1098695555360936000,
+		"id_str": "1098695555360935939",
+		"full_text": "If you teach in @WinnipegSD you're invited to participate in this great learning opportunity. https://t.co/hEQkTLrQ7U https://t.co/VxM7k7qDFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WinnipegSD",
+					"name": "Winnipeg School Div",
+					"id": 829171370,
+					"id_str": "829171370",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hEQkTLrQ7U",
+					"expanded_url": "http://bit.ly/YWGDENAMB2019",
+					"display_url": "bit.ly/YWGDENAMB2019",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098695491829854200,
+					"id_str": "1098695491829854211",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9ZuorXcAMsvGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9ZuorXcAMsvGW.jpg",
+					"url": "https://t.co/VxM7k7qDFj",
+					"display_url": "pic.twitter.com/VxM7k7qDFj",
+					"expanded_url": "https://twitter.com/shareski/status/1098695555360935939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098695491829854200,
+					"id_str": "1098695491829854211",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9ZuorXcAMsvGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9ZuorXcAMsvGW.jpg",
+					"url": "https://t.co/VxM7k7qDFj",
+					"display_url": "pic.twitter.com/VxM7k7qDFj",
+					"expanded_url": "https://twitter.com/shareski/status/1098695555360935939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1098695520929894400,
+					"id_str": "1098695520929894407",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9ZwVFW0AcbwM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9ZwVFW0AcbwM4.jpg",
+					"url": "https://t.co/VxM7k7qDFj",
+					"display_url": "pic.twitter.com/VxM7k7qDFj",
+					"expanded_url": "https://twitter.com/shareski/status/1098695555360935939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38563,
+			"friends_count": 7270,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you teach in @WinnipegSD you're invited to participate in this great learning opportunity. https://t.co/hEQkTLrQ7U https://t.co/VxM7k7qDFj"
+	},
+	{
+		"created_at": "Thu Feb 21 20:49:36 +0000 2019",
+		"id": 1098686196216143900,
+		"id_str": "1098686196216143873",
+		"full_text": "Texas indoctrination. #rudysbbq @woscholar @paulrwood @rrodgers @technolibrary @mrhooker https://t.co/T4arjQCYif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rudysbbq",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woscholar",
+					"name": "Scott S. Floyd",
+					"id": 7123302,
+					"id_str": "7123302",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "paulrwood",
+					"name": "Paul R Wood",
+					"id": 9885022,
+					"id_str": "9885022",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "rrodgers",
+					"name": "ᖇa͏n͏d͏y ᖇo͏d͏g͏e͏r͏s",
+					"id": 7664032,
+					"id_str": "7664032",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "technolibrary",
+					"name": "Carolyn Foote",
+					"id": 6967252,
+					"id_str": "6967252",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"screen_name": "mrhooker",
+					"name": "Carl Hooker",
+					"id": 9890872,
+					"id_str": "9890872",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098686190117703700,
+					"id_str": "1098686190117703686",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9RRNGX0AYJ0ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9RRNGX0AYJ0ul.jpg",
+					"url": "https://t.co/T4arjQCYif",
+					"display_url": "pic.twitter.com/T4arjQCYif",
+					"expanded_url": "https://twitter.com/shareski/status/1098686196216143873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1415,
+							"h": 1245,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098686190117703700,
+					"id_str": "1098686190117703686",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9RRNGX0AYJ0ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9RRNGX0AYJ0ul.jpg",
+					"url": "https://t.co/T4arjQCYif",
+					"display_url": "pic.twitter.com/T4arjQCYif",
+					"expanded_url": "https://twitter.com/shareski/status/1098686196216143873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1415,
+							"h": 1245,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38563,
+			"friends_count": 7270,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Texas indoctrination. #rudysbbq @woscholar @paulrwood @rrodgers @technolibrary @mrhooker https://t.co/T4arjQCYif"
+	},
+	{
+		"created_at": "Thu Feb 21 17:48:30 +0000 2019",
+		"id": 1098640620837584900,
+		"id_str": "1098640620837584897",
+		"full_text": "Where will YOU be this July? #DENSI2019 https://t.co/Ube33n5wKv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENSI2019",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098640618056765400,
+					"id_str": "1098640618056765441",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8n0j8W0AEJ3wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8n0j8W0AEJ3wq.jpg",
+					"url": "https://t.co/Ube33n5wKv",
+					"display_url": "pic.twitter.com/Ube33n5wKv",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1098640620837584897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098640618056765400,
+					"id_str": "1098640618056765441",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8n0j8W0AEJ3wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8n0j8W0AEJ3wq.jpg",
+					"url": "https://t.co/Ube33n5wKv",
+					"display_url": "pic.twitter.com/Ube33n5wKv",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1098640620837584897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1665531,
+			"id_str": "1665531",
+			"name": "Discovery Education",
+			"screen_name": "DiscoveryEd",
+			"location": "Global",
+			"description": "The global leader in standards-based digital curriculum for K-12.",
+			"url": "https://t.co/X3GaFiYvXQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3GaFiYvXQ",
+							"expanded_url": "http://DiscoveryEducation.com",
+							"display_url": "DiscoveryEducation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378642,
+			"friends_count": 7569,
+			"listed_count": 4910,
+			"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+			"favourites_count": 7182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1550591838",
+			"profile_link_color": "3277B3",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where will YOU be this July? #DENSI2019 https://t.co/Ube33n5wKv"
+	},
+	{
+		"created_at": "Thu Feb 21 02:03:16 +0000 2019",
+		"id": 1098402744535273500,
+		"id_str": "1098402744535273472",
+		"full_text": "I forgot how much fun it is to watch the Bachelor with my daughters. My commentary annoys them to no end.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38563,
+			"friends_count": 7270,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I forgot how much fun it is to watch the Bachelor with my daughters. My commentary annoys them to no end."
+	},
+	{
+		"created_at": "Wed Feb 20 17:03:03 +0000 2019",
+		"id": 1098266793519374300,
+		"id_str": "1098266793519374336",
+		"full_text": "Health Canada tightens food safety regulations by changing 5 second rule to 3 seconds https://t.co/YANehwpgKZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YANehwpgKZ",
+					"expanded_url": "https://www.thebeaverton.com/2017/12/health-canada-tightens-food-safety-regulations-changing-5-second-rule-3-seconds/",
+					"display_url": "thebeaverton.com/2017/12/health…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149282848,
+			"id_str": "149282848",
+			"name": "The Beaverton",
+			"screen_name": "TheBeaverton",
+			"location": "North America",
+			"description": "Finally. The News. On television. Season 1&2 now streaming on @CraveTVCanada.",
+			"url": "https://t.co/RcJi84q7Ab",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RcJi84q7Ab",
+							"expanded_url": "http://www.thebeaverton.com",
+							"display_url": "thebeaverton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39907,
+			"friends_count": 267,
+			"listed_count": 438,
+			"created_at": "Fri May 28 22:18:50 +0000 2010",
+			"favourites_count": 4329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10189,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064609270233128960/e4KT53qW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064609270233128960/e4KT53qW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149282848/1546359751",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Health Canada tightens food safety regulations by changing 5 second rule to 3 seconds https://t.co/YANehwpgKZ"
+	},
+	{
 		"created_at": "Wed Feb 20 02:43:30 +0000 2019",
 		"id": 1098050483053359100,
 		"id_str": "1098050483053359104",
