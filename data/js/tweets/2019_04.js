@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 23:23:36 +0000 2019",
+		"id": 1116119568450084900,
+		"id_str": "1116119568450084864",
+		"full_text": "@ToniRobinsonAZ I swear all women subscribe to the same newsletter",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ToniRobinsonAZ",
+					"name": "Toni Robinson",
+					"id": 4513284554,
+					"id_str": "4513284554",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116113090334969900,
+		"in_reply_to_status_id_str": "1116113090334969857",
+		"in_reply_to_user_id": 4513284554,
+		"in_reply_to_user_id_str": "4513284554",
+		"in_reply_to_screen_name": "ToniRobinsonAZ",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38799,
+			"friends_count": 7350,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ToniRobinsonAZ I swear all women subscribe to the same newsletter"
+	},
+	{
+		"created_at": "Wed Apr 10 22:43:03 +0000 2019",
+		"id": 1116109362756407300,
+		"id_str": "1116109362756407296",
+		"full_text": "Deciding if I need to wear pants for this https://t.co/pQN3T0RzV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pQN3T0RzV0",
+					"expanded_url": "https://twitter.com/learnfestatx/status/1116082522532843521",
+					"display_url": "twitter.com/learnfestatx/s…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38799,
+			"friends_count": 7350,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116082522532843500,
+		"quoted_status_id_str": "1116082522532843521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pQN3T0RzV0",
+			"expanded": "https://twitter.com/learnfestatx/status/1116082522532843521",
+			"display": "twitter.com/learnfestatx/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 20:56:23 +0000 2019",
+			"id": 1116082522532843500,
+			"id_str": "1116082522532843521",
+			"full_text": "Today we feature two of our international speakers - @shareski and @misterwashburn - These two \"Kings of the North” will be sending their army of knowledge down to Austin, TX this June!  https://t.co/ESckDT7983 #ForTheThrone #LearnFestATX #ReadyLearnerOne https://t.co/WToLg14lSL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ForTheThrone",
+						"indices": [
+							211,
+							224
+						]
+					},
+					{
+						"text": "LearnFestATX",
+						"indices": [
+							225,
+							238
+						]
+					},
+					{
+						"text": "ReadyLearnerOne",
+						"indices": [
+							239,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							53,
+							62
+						]
+					},
+					{
+						"screen_name": "misterwashburn",
+						"name": "Mike Washburn",
+						"id": 852782900,
+						"id_str": "852782900",
+						"indices": [
+							67,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ESckDT7983",
+						"expanded_url": "http://thelearningfestival.com/",
+						"display_url": "thelearningfestival.com",
+						"indices": [
+							187,
+							210
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1116081868498194400,
+						"id_str": "1116081868498194432",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/D30ei9AW0AAlyON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30ei9AW0AAlyON.jpg",
+						"url": "https://t.co/WToLg14lSL",
+						"display_url": "pic.twitter.com/WToLg14lSL",
+						"expanded_url": "https://twitter.com/LearnFestATX/status/1116082522532843521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116081868498194400,
+						"id_str": "1116081868498194432",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/D30ei9AW0AAlyON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30ei9AW0AAlyON.jpg",
+						"url": "https://t.co/WToLg14lSL",
+						"display_url": "pic.twitter.com/WToLg14lSL",
+						"expanded_url": "https://twitter.com/LearnFestATX/status/1116082522532843521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1116081947405639700,
+						"id_str": "1116081947405639681",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/D30eni9W4AEmAhM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D30eni9W4AEmAhM.jpg",
+						"url": "https://t.co/WToLg14lSL",
+						"display_url": "pic.twitter.com/WToLg14lSL",
+						"expanded_url": "https://twitter.com/LearnFestATX/status/1116082522532843521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 475895549,
+				"id_str": "475895549",
+				"name": "LearnFestATX",
+				"screen_name": "LearnFestATX",
+				"location": "Austin, Tx",
+				"description": "The Learning Festival (formerly known as iPadpalooza) takes place in Austin, TX - June 11-13, 2019",
+				"url": "https://t.co/jxiVGpv3YX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jxiVGpv3YX",
+								"expanded_url": "http://TheLearningFestival.com",
+								"display_url": "TheLearningFestival.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4481,
+				"friends_count": 528,
+				"listed_count": 126,
+				"created_at": "Fri Jan 27 15:13:32 +0000 2012",
+				"favourites_count": 581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1846,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B9B1C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1089911924639248384/qw0zYbxh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089911924639248384/qw0zYbxh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/475895549/1548690220",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deciding if I need to wear pants for this https://t.co/pQN3T0RzV0"
+	},
+	{
 		"created_at": "Tue Apr 09 16:56:27 +0000 2019",
 		"id": 1115659751646355500,
 		"id_str": "1115659751646355456",
