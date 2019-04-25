@@ -1,6 +1,2358 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 22:59:41 +0000 2019",
+		"id": 1121186980312825900,
+		"id_str": "1121186980312825862",
+		"full_text": "@spencerideas @jverduin This isn’t advocating a always together environment but rather utilizing diversity to achieve common goals.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spencerideas",
+					"name": "John Spencer",
+					"id": 18389166,
+					"id_str": "18389166",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jverduin",
+					"name": "Joel VerDuin",
+					"id": 62248616,
+					"id_str": "62248616",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121186345567711200,
+		"in_reply_to_status_id_str": "1121186345567711233",
+		"in_reply_to_user_id": 18389166,
+		"in_reply_to_user_id_str": "18389166",
+		"in_reply_to_screen_name": "spencerideas",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spencerideas @jverduin This isn’t advocating a always together environment but rather utilizing diversity to achieve common goals."
+	},
+	{
+		"created_at": "Wed Apr 24 22:58:06 +0000 2019",
+		"id": 1121186584299286500,
+		"id_str": "1121186584299286528",
+		"full_text": "Another ideas that made me go hmmmm. From Nine Lies of Work. Also aligns with my questioning our love of the word “balance” as the answer to any complex problem. https://t.co/erzItYSkMD https://t.co/PGQM65tK0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/erzItYSkMD",
+					"expanded_url": "http://ideasandthoughts.org/2016/09/28/when-the-answer-is-both/",
+					"display_url": "ideasandthoughts.org/2016/09/28/whe…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1121186575021375500,
+					"id_str": "1121186575021375489",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D49BP-sWAAE7_qz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49BP-sWAAE7_qz.jpg",
+					"url": "https://t.co/PGQM65tK0S",
+					"display_url": "pic.twitter.com/PGQM65tK0S",
+					"expanded_url": "https://twitter.com/shareski/status/1121186584299286528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 737,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 737,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121186575021375500,
+					"id_str": "1121186575021375489",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D49BP-sWAAE7_qz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49BP-sWAAE7_qz.jpg",
+					"url": "https://t.co/PGQM65tK0S",
+					"display_url": "pic.twitter.com/PGQM65tK0S",
+					"expanded_url": "https://twitter.com/shareski/status/1121186584299286528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 737,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 737,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another ideas that made me go hmmmm. From Nine Lies of Work. Also aligns with my questioning our love of the word “balance” as the answer to any complex problem. https://t.co/erzItYSkMD https://t.co/PGQM65tK0S"
+	},
+	{
+		"created_at": "Wed Apr 24 20:05:19 +0000 2019",
+		"id": 1121143100276203500,
+		"id_str": "1121143100276203521",
+		"full_text": "@teacherdiana1 Nine Lies About Work",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacherdiana1",
+					"name": "Diana Williams",
+					"id": 499276364,
+					"id_str": "499276364",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121138627357159400,
+		"in_reply_to_status_id_str": "1121138627357159424",
+		"in_reply_to_user_id": 499276364,
+		"in_reply_to_user_id_str": "499276364",
+		"in_reply_to_screen_name": "teacherdiana1",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@teacherdiana1 Nine Lies About Work"
+	},
+	{
+		"created_at": "Wed Apr 24 19:27:01 +0000 2019",
+		"id": 1121133460045881300,
+		"id_str": "1121133460045881346",
+		"full_text": "@NAEmmanuele Grit is what you need to clean toilets.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NAEmmanuele",
+					"name": "Nicholas Emmanuele",
+					"id": 916687642846269400,
+					"id_str": "916687642846269440",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121130231870439400,
+		"in_reply_to_status_id_str": "1121130231870439426",
+		"in_reply_to_user_id": 916687642846269400,
+		"in_reply_to_user_id_str": "916687642846269440",
+		"in_reply_to_screen_name": "NAEmmanuele",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NAEmmanuele Grit is what you need to clean toilets."
+	},
+	{
+		"created_at": "Wed Apr 24 18:28:31 +0000 2019",
+		"id": 1121118737690767400,
+		"id_str": "1121118737690767360",
+		"full_text": "https://t.co/BFXXqjG53x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121118731739041800,
+					"id_str": "1121118731739041792",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D48Di-xXkAAIKvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D48Di-xXkAAIKvW.jpg",
+					"url": "https://t.co/BFXXqjG53x",
+					"display_url": "pic.twitter.com/BFXXqjG53x",
+					"expanded_url": "https://twitter.com/shareski/status/1121118737690767360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121118731739041800,
+					"id_str": "1121118731739041792",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D48Di-xXkAAIKvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D48Di-xXkAAIKvW.jpg",
+					"url": "https://t.co/BFXXqjG53x",
+					"display_url": "pic.twitter.com/BFXXqjG53x",
+					"expanded_url": "https://twitter.com/shareski/status/1121118737690767360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BFXXqjG53x"
+	},
+	{
+		"created_at": "Wed Apr 24 18:26:05 +0000 2019",
+		"id": 1119427953006301200,
+		"id_str": "1121118126475751426",
+		"full_text": "Glad for the reminder @shareski #choosejoy and then be intentional about creating more opportunity for our staff and students to experience #joy #gcc_charters #IgnitePositiveChange https://t.co/xPQ9ktCJsa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "choosejoy",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "joy",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "gcc_charters",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "IgnitePositiveChange",
+					"indices": [
+						159,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119427949000708100,
+					"id_str": "1119427949000708096",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D4kByePU0AAQi-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4kByePU0AAQi-H.jpg",
+					"url": "https://t.co/xPQ9ktCJsa",
+					"display_url": "pic.twitter.com/xPQ9ktCJsa",
+					"expanded_url": "https://twitter.com/clpcharter/status/1119427953006301184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 802,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119427949000708100,
+					"id_str": "1119427949000708096",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D4kByePU0AAQi-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4kByePU0AAQi-H.jpg",
+					"url": "https://t.co/xPQ9ktCJsa",
+					"display_url": "pic.twitter.com/xPQ9ktCJsa",
+					"expanded_url": "https://twitter.com/clpcharter/status/1119427953006301184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 802,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 802,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 163987151,
+			"id_str": "163987151",
+			"name": "Dr Cindy Petersen",
+			"screen_name": "clpcharter",
+			"location": "Sacramento, California",
+			"description": "Superintendent/CEO Gateway Community Charters , inc a 501 c3 that consists of multiple charter schools in the greater Sacramento area. Always learning!",
+			"url": "http://t.co/nt0xIwcPU5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/nt0xIwcPU5",
+							"expanded_url": "http://www.gcccharters.org",
+							"display_url": "gcccharters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 678,
+			"friends_count": 818,
+			"listed_count": 75,
+			"created_at": "Wed Jul 07 19:26:25 +0000 2010",
+			"favourites_count": 5816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/598976930059157504/pMFwiZ2A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/598976930059157504/pMFwiZ2A_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glad for the reminder @shareski #choosejoy and then be intentional about creating more opportunity for our staff and students to experience #joy #gcc_charters #IgnitePositiveChange https://t.co/xPQ9ktCJsa"
+	},
+	{
+		"created_at": "Wed Apr 24 18:06:14 +0000 2019",
+		"id": 1121113130057248800,
+		"id_str": "1121113130057248773",
+		"full_text": "@marknkilmer True, this is talking more about teams and creating diverse teams.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marknkilmer",
+					"name": "MN Kilmer",
+					"id": 192128477,
+					"id_str": "192128477",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1121100550983114800,
+		"in_reply_to_status_id_str": "1121100550983114754",
+		"in_reply_to_user_id": 192128477,
+		"in_reply_to_user_id_str": "192128477",
+		"in_reply_to_screen_name": "marknkilmer",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marknkilmer True, this is talking more about teams and creating diverse teams."
+	},
+	{
+		"created_at": "Wed Apr 24 17:16:23 +0000 2019",
+		"id": 1121100587888779300,
+		"id_str": "1121100587888779265",
+		"full_text": "@cmasters_rsd @gcouros Traits and skills are being confused here.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmasters_rsd",
+					"name": "Cheri Masters",
+					"id": 1037419412574298100,
+					"id_str": "1037419412574298113",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121083969724764200,
+		"in_reply_to_status_id_str": "1121083969724764160",
+		"in_reply_to_user_id": 1037419412574298100,
+		"in_reply_to_user_id_str": "1037419412574298113",
+		"in_reply_to_screen_name": "cmasters_rsd",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cmasters_rsd @gcouros Traits and skills are being confused here."
+	},
+	{
+		"created_at": "Wed Apr 24 17:15:01 +0000 2019",
+		"id": 1121100244341674000,
+		"id_str": "1121100244341673989",
+		"full_text": "@Joe_Sanfelippo Skills are different than traits.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121078250866925600,
+		"in_reply_to_status_id_str": "1121078250866925568",
+		"in_reply_to_user_id": 356626702,
+		"in_reply_to_user_id_str": "356626702",
+		"in_reply_to_screen_name": "Joe_Sanfelippo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Joe_Sanfelippo Skills are different than traits."
+	},
+	{
+		"created_at": "Wed Apr 24 15:32:33 +0000 2019",
+		"id": 1121074454950551600,
+		"id_str": "1121074454950551553",
+		"full_text": "@Joe_Sanfelippo Probably need to define it. In the book comfort zone is akin to strengths. Probably can be outside your comfort zone and still use strengths",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121073222856917000,
+		"in_reply_to_status_id_str": "1121073222856916992",
+		"in_reply_to_user_id": 356626702,
+		"in_reply_to_user_id_str": "356626702",
+		"in_reply_to_screen_name": "Joe_Sanfelippo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Joe_Sanfelippo Probably need to define it. In the book comfort zone is akin to strengths. Probably can be outside your comfort zone and still use strengths"
+	},
+	{
+		"created_at": "Wed Apr 24 15:28:18 +0000 2019",
+		"id": 1121073387261059100,
+		"id_str": "1121073387261059079",
+		"full_text": "@Joe_Sanfelippo @gcouros Don’t you get your bucket filling quota  from @thomascmurray and @rkiker ?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"screen_name": "thomascmurray",
+					"name": "Tom Murray",
+					"id": 50447280,
+					"id_str": "50447280",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"screen_name": "rkiker",
+					"name": "Rich Kiker",
+					"id": 19551063,
+					"id_str": "19551063",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121055997089460200,
+		"in_reply_to_status_id_str": "1121055997089460224",
+		"in_reply_to_user_id": 356626702,
+		"in_reply_to_user_id_str": "356626702",
+		"in_reply_to_screen_name": "Joe_Sanfelippo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Joe_Sanfelippo @gcouros Don’t you get your bucket filling quota  from @thomascmurray and @rkiker ?"
+	},
+	{
+		"created_at": "Wed Apr 24 15:14:16 +0000 2019",
+		"id": 1121069853782216700,
+		"id_str": "1121069853782216706",
+		"full_text": "On the weirdness and power of diversity and teams. https://t.co/Odh0qZY2eH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121069849663422500,
+					"id_str": "1121069849663422467",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D47XFq2WwAMPE15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D47XFq2WwAMPE15.jpg",
+					"url": "https://t.co/Odh0qZY2eH",
+					"display_url": "pic.twitter.com/Odh0qZY2eH",
+					"expanded_url": "https://twitter.com/shareski/status/1121069853782216706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 715,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 715,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121069849663422500,
+					"id_str": "1121069849663422467",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D47XFq2WwAMPE15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D47XFq2WwAMPE15.jpg",
+					"url": "https://t.co/Odh0qZY2eH",
+					"display_url": "pic.twitter.com/Odh0qZY2eH",
+					"expanded_url": "https://twitter.com/shareski/status/1121069853782216706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 715,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 715,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the weirdness and power of diversity and teams. https://t.co/Odh0qZY2eH"
+	},
+	{
+		"created_at": "Wed Apr 24 15:11:40 +0000 2019",
+		"id": 1121069200372637700,
+		"id_str": "1121069200372637698",
+		"full_text": "@Joe_Sanfelippo You’ll need to take a deeper dive into the concept. I think it’s very dependent on choice. If you choose to step out, that’s very different that being told to step out of your comfort zone.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121065854559576000,
+		"in_reply_to_status_id_str": "1121065854559576069",
+		"in_reply_to_user_id": 356626702,
+		"in_reply_to_user_id_str": "356626702",
+		"in_reply_to_screen_name": "Joe_Sanfelippo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Joe_Sanfelippo You’ll need to take a deeper dive into the concept. I think it’s very dependent on choice. If you choose to step out, that’s very different that being told to step out of your comfort zone."
+	},
+	{
+		"created_at": "Wed Apr 24 14:47:19 +0000 2019",
+		"id": 1121063074402902000,
+		"id_str": "1121063074402902016",
+		"full_text": "@robert_schuetz Our society seems to love the notion of “no pain, no gain” and apply it to everything. Most of my learning and development has not been painful. That’s not a very heroic or inspiring story but it’s true.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robert_schuetz",
+					"name": "Robert Schuetz",
+					"id": 386183993,
+					"id_str": "386183993",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121061742602326000,
+		"in_reply_to_status_id_str": "1121061742602326016",
+		"in_reply_to_user_id": 386183993,
+		"in_reply_to_user_id_str": "386183993",
+		"in_reply_to_screen_name": "robert_schuetz",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robert_schuetz Our society seems to love the notion of “no pain, no gain” and apply it to everything. Most of my learning and development has not been painful. That’s not a very heroic or inspiring story but it’s true."
+	},
+	{
+		"created_at": "Wed Apr 24 02:49:39 +0000 2019",
+		"id": 1120882464573067300,
+		"id_str": "1120882464573067264",
+		"full_text": "@Neilstephenson Nine Lies  About  Work. https://t.co/VQVnh6d2Oh",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Neilstephenson",
+					"name": "Neil Stephenson",
+					"id": 14753926,
+					"id_str": "14753926",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VQVnh6d2Oh",
+					"expanded_url": "https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C",
+					"display_url": "amazon.com/Nine-Lies-abou…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1120878753700126700,
+		"in_reply_to_status_id_str": "1120878753700126720",
+		"in_reply_to_user_id": 14753926,
+		"in_reply_to_user_id_str": "14753926",
+		"in_reply_to_screen_name": "Neilstephenson",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Neilstephenson Nine Lies  About  Work. https://t.co/VQVnh6d2Oh"
+	},
+	{
+		"created_at": "Wed Apr 24 02:34:03 +0000 2019",
+		"id": 1120878541455941600,
+		"id_str": "1120878541455941633",
+		"full_text": "@amyburvall Nine Lies of Work",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120878153184923600,
+		"in_reply_to_status_id_str": "1120878153184923648",
+		"in_reply_to_user_id": 158207707,
+		"in_reply_to_user_id_str": "158207707",
+		"in_reply_to_screen_name": "amyburvall",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amyburvall Nine Lies of Work"
+	},
+	{
+		"created_at": "Wed Apr 24 02:31:45 +0000 2019",
+		"id": 1120877959588536300,
+		"id_str": "1120877959588536322",
+		"full_text": "@kkeerybi #lazy",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lazy",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkeerybi",
+					"name": "Kristi Keery Bishop",
+					"id": 127951928,
+					"id_str": "127951928",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120831594850390000,
+		"in_reply_to_status_id_str": "1120831594850390016",
+		"in_reply_to_user_id": 127951928,
+		"in_reply_to_user_id_str": "127951928",
+		"in_reply_to_screen_name": "kkeerybi",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38839,
+			"friends_count": 7364,
+			"listed_count": 1410,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@kkeerybi #lazy"
+	},
+	{
 		"created_at": "Wed Apr 24 01:08:25 +0000 2019",
 		"id": 1120856988429246500,
 		"id_str": "1120856988429246464",
