@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 19:31:42 +0000 2019",
+		"id": 1127657620817481700,
+		"id_str": "1127657620817481728",
+		"full_text": "@RickKRyan1 @teacherdiana1 Congrats Rick.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RickKRyan1",
+					"name": "Rick K. Ryan",
+					"id": 1099763515731001300,
+					"id_str": "1099763515731001344",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "teacherdiana1",
+					"name": "Diana Williams",
+					"id": 499276364,
+					"id_str": "499276364",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1127351694742962200,
+		"in_reply_to_status_id_str": "1127351694742962179",
+		"in_reply_to_user_id": 1099763515731001300,
+		"in_reply_to_user_id_str": "1099763515731001344",
+		"in_reply_to_screen_name": "RickKRyan1",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38877,
+			"friends_count": 7405,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RickKRyan1 @teacherdiana1 Congrats Rick."
+	},
+	{
+		"created_at": "Sun May 12 17:51:37 +0000 2019",
+		"id": 1127632436030885900,
+		"id_str": "1127632436030885888",
+		"full_text": "Would love to see the #tdsb community celebrated at this event.  https://t.co/UgJwvYLhcM @LL_TDSB @EarlyYearsTDSB @tdsb @TDSB_STEM @mikkihymus @michael_tdsb @manonjgardner @TDSB_AT Register, bring a friend.  Guaranteed great evening out!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tdsb",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LL_TDSB",
+					"name": "Lord Lansdowne PS",
+					"id": 3258239406,
+					"id_str": "3258239406",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"screen_name": "EarlyYearsTDSB",
+					"name": "TDSB Early Years",
+					"id": 2189518387,
+					"id_str": "2189518387",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "tdsb",
+					"name": "Toronto DSB",
+					"id": 43384404,
+					"id_str": "43384404",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"screen_name": "TDSB_STEM",
+					"name": "TDSB STEM K-12",
+					"id": 2751115087,
+					"id_str": "2751115087",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"screen_name": "mikkihymus",
+					"name": "Mikki Hymus",
+					"id": 834935986719174700,
+					"id_str": "834935986719174656",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "michael_tdsb",
+					"name": "Michael Mohammed",
+					"id": 3044334235,
+					"id_str": "3044334235",
+					"indices": [
+						143,
+						156
+					]
+				},
+				{
+					"screen_name": "manonjgardner",
+					"name": "Manon J. Gardner",
+					"id": 1673896927,
+					"id_str": "1673896927",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"screen_name": "TDSB_AT",
+					"name": "TDSB Assistive Technology",
+					"id": 914301511106052100,
+					"id_str": "914301511106052096",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UgJwvYLhcM",
+					"expanded_url": "https://www.eventbrite.com/e/a-teacher-appreciation-event-what-brings-you-delight-tickets-60712292100",
+					"display_url": "eventbrite.com/e/a-teacher-ap…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38877,
+			"friends_count": 7405,
+			"listed_count": 1409,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Would love to see the #tdsb community celebrated at this event.  https://t.co/UgJwvYLhcM @LL_TDSB @EarlyYearsTDSB @tdsb @TDSB_STEM @mikkihymus @michael_tdsb @manonjgardner @TDSB_AT Register, bring a friend.  Guaranteed great evening out!"
+	},
+	{
 		"created_at": "Sun May 12 00:32:48 +0000 2019",
 		"id": 1127371006266314800,
 		"id_str": "1127371006266314752",
