@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 20:00:17 +0000 2019",
+		"id": 1137086900135747600,
+		"id_str": "1137086900135747585",
+		"full_text": "#NationalDoughnutDay brings back this memory and marks how important history and stories are to community. https://t.co/eKLuPFwLLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalDoughnutDay",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eKLuPFwLLo",
+					"expanded_url": "https://twitter.com/DiscoveryEd/status/1137007577752055809",
+					"display_url": "twitter.com/DiscoveryEd/st…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7461,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137007577752055800,
+		"quoted_status_id_str": "1137007577752055809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eKLuPFwLLo",
+			"expanded": "https://twitter.com/DiscoveryEd/status/1137007577752055809",
+			"display": "twitter.com/DiscoveryEd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 07 14:45:05 +0000 2019",
+			"id": 1137007577752055800,
+			"id_str": "1137007577752055809",
+			"full_text": "Happy #NationalDoughnutDay! Celebrate this sweet day with your favorite doughnut 🍩  and a #DENcommunity filled blog: https://t.co/yr2qlZyMTy https://t.co/mJcgUQOPBg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalDoughnutDay",
+						"indices": [
+							6,
+							26
+						]
+					},
+					{
+						"text": "DENcommunity",
+						"indices": [
+							90,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yr2qlZyMTy",
+						"expanded_url": "https://bit.ly/2Wk1qGP",
+						"display_url": "bit.ly/2Wk1qGP",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1137007575554285600,
+						"id_str": "1137007575554285569",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D8d2XafXYAEaYRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8d2XafXYAEaYRz.jpg",
+						"url": "https://t.co/mJcgUQOPBg",
+						"display_url": "pic.twitter.com/mJcgUQOPBg",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/1137007577752055809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1137007575554285600,
+						"id_str": "1137007575554285569",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D8d2XafXYAEaYRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8d2XafXYAEaYRz.jpg",
+						"url": "https://t.co/mJcgUQOPBg",
+						"display_url": "pic.twitter.com/mJcgUQOPBg",
+						"expanded_url": "https://twitter.com/DiscoveryEd/status/1137007577752055809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1665531,
+				"id_str": "1665531",
+				"name": "Discovery Education",
+				"screen_name": "DiscoveryEd",
+				"location": "Global",
+				"description": "The global leader in standards-based digital curriculum for K-12.",
+				"url": "https://t.co/X3GaFiYvXQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X3GaFiYvXQ",
+								"expanded_url": "http://DiscoveryEducation.com",
+								"display_url": "DiscoveryEducation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 382270,
+				"friends_count": 7550,
+				"listed_count": 4911,
+				"created_at": "Tue Mar 20 20:07:27 +0000 2007",
+				"favourites_count": 8307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35441,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605812969688043521/aKoqrKWQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1665531/1559919932",
+				"profile_link_color": "3277B3",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NationalDoughnutDay brings back this memory and marks how important history and stories are to community. https://t.co/eKLuPFwLLo"
+	},
+	{
+		"created_at": "Fri Jun 07 19:59:05 +0000 2019",
+		"id": 1137086596757491700,
+		"id_str": "1137086596757491712",
+		"full_text": "@discoverysara @DiscoveryEd @NYSchoolSupts I would love to have heard this.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "discoverysara",
+					"name": "Sara Peters",
+					"id": 3195963881,
+					"id_str": "3195963881",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "NYSchoolSupts",
+					"name": "NYSCOSS",
+					"id": 480590386,
+					"id_str": "480590386",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1137000923123855400,
+		"in_reply_to_status_id_str": "1137000923123855360",
+		"in_reply_to_user_id": 3195963881,
+		"in_reply_to_user_id_str": "3195963881",
+		"in_reply_to_screen_name": "discoverysara",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7461,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@discoverysara @DiscoveryEd @NYSchoolSupts I would love to have heard this."
+	},
+	{
+		"created_at": "Fri Jun 07 14:50:52 +0000 2019",
+		"id": 1137009031720185900,
+		"id_str": "1137009031720185856",
+		"full_text": "Hero 4-Year-Old Tells Air Passenger Where To Stick Her Stinky Bare Foot  https://t.co/BipFLtppjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BipFLtppjT",
+					"expanded_url": "https://apple.news/A5lRhJwiRS0ac7_-upqrKrQ",
+					"display_url": "apple.news/A5lRhJwiRS0ac7…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7461,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hero 4-Year-Old Tells Air Passenger Where To Stick Her Stinky Bare Foot  https://t.co/BipFLtppjT"
+	},
+	{
 		"created_at": "Thu Jun 06 23:09:01 +0000 2019",
 		"id": 1136772006194667500,
 		"id_str": "1136772006194667520",
