@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 01:16:34 +0000 2019",
+		"id": 1137891271853379600,
+		"id_str": "1137891271853379584",
+		"full_text": "@EmMurn @WeberStateU @jdemian You already know we’ll need space for evening shenanigans. https://t.co/hhiSjbTcxr",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmMurn",
+					"name": "Emily Wirth",
+					"id": 447506163,
+					"id_str": "447506163",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "WeberStateU",
+					"name": "Weber State University",
+					"id": 46511459,
+					"id_str": "46511459",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "jdemian",
+					"name": "Jannita Demian",
+					"id": 8174682,
+					"id_str": "8174682",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137891253591453700,
+					"id_str": "1137891253591453696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8qaEPtXsAAw4r1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8qaEPtXsAAw4r1.jpg",
+					"url": "https://t.co/hhiSjbTcxr",
+					"display_url": "pic.twitter.com/hhiSjbTcxr",
+					"expanded_url": "https://twitter.com/shareski/status/1137891271853379584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137891253591453700,
+					"id_str": "1137891253591453696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8qaEPtXsAAw4r1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8qaEPtXsAAw4r1.jpg",
+					"url": "https://t.co/hhiSjbTcxr",
+					"display_url": "pic.twitter.com/hhiSjbTcxr",
+					"expanded_url": "https://twitter.com/shareski/status/1137891271853379584/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D8qaEPtXsAAw4r1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1137833785423253500,
+		"in_reply_to_status_id_str": "1137833785423253504",
+		"in_reply_to_user_id": 447506163,
+		"in_reply_to_user_id_str": "447506163",
+		"in_reply_to_screen_name": "EmMurn",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7463,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EmMurn @WeberStateU @jdemian You already know we’ll need space for evening shenanigans. https://t.co/hhiSjbTcxr"
+	},
+	{
+		"created_at": "Sun Jun 09 20:56:26 +0000 2019",
+		"id": 1137825805436903400,
+		"id_str": "1137825805436903425",
+		"full_text": "@froehlichm @evanabramson @tishrich @techyturner @Rdene915 @JaimeDonally @JCasaTodd @jbormann3 @TaraMartinEDU @burgessdave @Joe_Sanfelippo I appreciate you.",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "froehlichm",
+					"name": "Mandy Froehlich",
+					"id": 190070853,
+					"id_str": "190070853",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "evanabramson",
+					"name": "Evan Abramson",
+					"id": 188483614,
+					"id_str": "188483614",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "tishrich",
+					"name": "✨Tisha Richmond✨",
+					"id": 25335873,
+					"id_str": "25335873",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "techyturner",
+					"name": "Rodney Turner",
+					"id": 28726036,
+					"id_str": "28726036",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "Rdene915",
+					"name": "Rachelle Dene Poth",
+					"id": 49860518,
+					"id_str": "49860518",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "JaimeDonally",
+					"name": "Jaime Donally",
+					"id": 342998891,
+					"id_str": "342998891",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"screen_name": "JCasaTodd",
+					"name": "Jennifer Casa-Todd",
+					"id": 240961894,
+					"id_str": "240961894",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "jbormann3",
+					"name": "ᴊᴀʀᴏᴅ ʙᴏʀᴍᴀɴɴ 🏔",
+					"id": 252610152,
+					"id_str": "252610152",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "TaraMartinEDU",
+					"name": "Tara M Martin",
+					"id": 1939666801,
+					"id_str": "1939666801",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "burgessdave",
+					"name": "Dave Burgess",
+					"id": 87269548,
+					"id_str": "87269548",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1137726434968035300,
+		"in_reply_to_status_id_str": "1137726434968035328",
+		"in_reply_to_user_id": 190070853,
+		"in_reply_to_user_id_str": "190070853",
+		"in_reply_to_screen_name": "froehlichm",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7463,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@froehlichm @evanabramson @tishrich @techyturner @Rdene915 @JaimeDonally @JCasaTodd @jbormann3 @TaraMartinEDU @burgessdave @Joe_Sanfelippo I appreciate you."
+	},
+	{
+		"created_at": "Sun Jun 09 20:52:31 +0000 2019",
+		"id": 1137824821935579100,
+		"id_str": "1137824821935579138",
+		"full_text": "A very good read. Dear Teachers: Please Don't Make Your Lessons Relevant https://t.co/Fej7yQLab1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fej7yQLab1",
+					"expanded_url": "https://www.forbes.com/sites/petergreene/2019/06/08/dear-teachers-please-dont-make-your-lessons-relevant/",
+					"display_url": "forbes.com/sites/petergre…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38866,
+			"friends_count": 7463,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very good read. Dear Teachers: Please Don't Make Your Lessons Relevant https://t.co/Fej7yQLab1"
+	},
+	{
 		"created_at": "Sat Jun 08 23:58:29 +0000 2019",
 		"id": 1137509232209776600,
 		"id_str": "1137509232209776640",
