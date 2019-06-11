@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 17:22:33 +0000 2019",
+		"id": 1138134369191616500,
+		"id_str": "1138134369191616512",
+		"full_text": "Although most can see how it’s not a zero sum game, what you lead with matters. I wonder how some might disagree with this sentiment. I feel a blog post brewing. https://t.co/zZIN22NJvx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZIN22NJvx",
+					"expanded_url": "https://twitter.com/cognitiveverb/status/1138076703429840897",
+					"display_url": "twitter.com/cognitiveverb/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38865,
+			"friends_count": 7463,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138076703429840900,
+		"quoted_status_id_str": "1138076703429840897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZIN22NJvx",
+			"expanded": "https://twitter.com/cognitiveverb/status/1138076703429840897",
+			"display": "twitter.com/cognitiveverb/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 13:33:25 +0000 2019",
+			"id": 1138076703429840900,
+			"id_str": "1138076703429840897",
+			"full_text": "Students do not come first. Teachers come first.  If you take care of teachers, they will take care of the students.  cc: @EduTweetOz @SteeleThoughts https://t.co/h8ON06WICp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EduTweetOz",
+						"name": "EduTweetOz: @Annaritzy",
+						"id": 1361688518,
+						"id_str": "1361688518",
+						"indices": [
+							122,
+							133
+						]
+					},
+					{
+						"screen_name": "SteeleThoughts",
+						"name": "Danny Steele",
+						"id": 717067922158411800,
+						"id_str": "717067922158411777",
+						"indices": [
+							134,
+							149
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138076312730460200,
+						"id_str": "1138076312730460161",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D8tCYGuV4AENbwg.png",
+						"media_url_https": "https://pbs.twimg.com/media/D8tCYGuV4AENbwg.png",
+						"url": "https://t.co/h8ON06WICp",
+						"display_url": "pic.twitter.com/h8ON06WICp",
+						"expanded_url": "https://twitter.com/CognitiveVerb/status/1138076703429840897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 822,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 822,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138076312730460200,
+						"id_str": "1138076312730460161",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D8tCYGuV4AENbwg.png",
+						"media_url_https": "https://pbs.twimg.com/media/D8tCYGuV4AENbwg.png",
+						"url": "https://t.co/h8ON06WICp",
+						"display_url": "pic.twitter.com/h8ON06WICp",
+						"expanded_url": "https://twitter.com/CognitiveVerb/status/1138076703429840897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 822,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 822,
+								"h": 490,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17421911,
+				"id_str": "17421911",
+				"name": "💧SchoolConnectedness",
+				"screen_name": "CognitiveVerb",
+				"location": "Brisbane",
+				"description": "Full time Dad. Part time 4th year teacher. Commencing a Literature review for a Masters In Education by Research in #SchoolConnectedness",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1039,
+				"friends_count": 1462,
+				"listed_count": 39,
+				"created_at": "Sun Nov 16 12:53:42 +0000 2008",
+				"favourites_count": 4901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33985,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AA0E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135847658105389056/uBO4AOwQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135847658105389056/uBO4AOwQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17421911/1556307955",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Although most can see how it’s not a zero sum game, what you lead with matters. I wonder how some might disagree with this sentiment. I feel a blog post brewing. https://t.co/zZIN22NJvx"
+	},
+	{
+		"created_at": "Mon Jun 10 17:08:58 +0000 2019",
+		"id": 1138130951261737000,
+		"id_str": "1138130951261736963",
+		"full_text": "Update on my @TimHortons reward. After I had achieved my free reward I got small coffee and it automatically used that reward when I had planned to save it for a large or XL. I feel like all that work was for nothing. https://t.co/6HV9rOBGp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimHortons",
+					"name": "Tim Hortons",
+					"id": 382177545,
+					"id_str": "382177545",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138130944307580900,
+					"id_str": "1138130944307580941",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8t0EFNVUA000vD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8t0EFNVUA000vD.jpg",
+					"url": "https://t.co/6HV9rOBGp1",
+					"display_url": "pic.twitter.com/6HV9rOBGp1",
+					"expanded_url": "https://twitter.com/shareski/status/1138130951261736963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138130944307580900,
+					"id_str": "1138130944307580941",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8t0EFNVUA000vD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8t0EFNVUA000vD.jpg",
+					"url": "https://t.co/6HV9rOBGp1",
+					"display_url": "pic.twitter.com/6HV9rOBGp1",
+					"expanded_url": "https://twitter.com/shareski/status/1138130951261736963/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D8t0EFNVUA000vD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38865,
+			"friends_count": 7463,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update on my @TimHortons reward. After I had achieved my free reward I got small coffee and it automatically used that reward when I had planned to save it for a large or XL. I feel like all that work was for nothing. https://t.co/6HV9rOBGp1"
+	},
+	{
 		"created_at": "Mon Jun 10 01:16:34 +0000 2019",
 		"id": 1137891271853379600,
 		"id_str": "1137891271853379584",
