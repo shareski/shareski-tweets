@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 23:30:04 +0000 2019",
+		"id": 1140401184018260000,
+		"id_str": "1140401184018259972",
+		"full_text": "@ShellTerrell @cybraryman1 @techyturner @Philip_Cummings @chrislehmann @m_drez @EricsFitzgerald @Joe_Mazza @JMGubbins @adambellow @TonySinanis @irishmikeh @spirrison @E_Sheninger @thomascmurray @kylepace @sstorm01 @MrBrettClark @billselak @mrhooker Thanks Shelley.",
+		"truncated": false,
+		"display_text_range": [
+			249,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShellTerrell",
+					"name": "𝙎𝙝𝙚𝙡𝙡𝙮 𝙎𝙖𝙣𝙘𝙝𝙚𝙯 💡",
+					"id": 29655018,
+					"id_str": "29655018",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "cybraryman1",
+					"name": "Jerry Blumengarten",
+					"id": 41020872,
+					"id_str": "41020872",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "techyturner",
+					"name": "Rodney Turner",
+					"id": 28726036,
+					"id_str": "28726036",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Philip_Cummings",
+					"name": "Philip Cummings",
+					"id": 17888105,
+					"id_str": "17888105",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "chrislehmann",
+					"name": "Chris Lehmann",
+					"id": 7108702,
+					"id_str": "7108702",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "m_drez",
+					"name": "𝕄𝕚𝕔𝕙𝕒𝕖𝕝 𝔻𝕣𝕖𝕫𝕖𝕜",
+					"id": 464206869,
+					"id_str": "464206869",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"screen_name": "EricsFitzgerald",
+					"name": "Eric Fitzgerald",
+					"id": 2571325693,
+					"id_str": "2571325693",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "Joe_Mazza",
+					"name": "Joe Mazza, Ed.D.",
+					"id": 28264562,
+					"id_str": "28264562",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "JMGubbins",
+					"name": "James Gubbins",
+					"id": 15136391,
+					"id_str": "15136391",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"screen_name": "adambellow",
+					"name": "Adam Bellow",
+					"id": 14157887,
+					"id_str": "14157887",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"screen_name": "TonySinanis",
+					"name": "Dr. Tony Sinanis",
+					"id": 484723886,
+					"id_str": "484723886",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"screen_name": "irishmikeh",
+					"name": "Mike Hogan",
+					"id": 168228402,
+					"id_str": "168228402",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"screen_name": "spirrison",
+					"name": "Brad Spirrison",
+					"id": 19040864,
+					"id_str": "19040864",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"screen_name": "E_Sheninger",
+					"name": "Eric Sheninger",
+					"id": 22487278,
+					"id_str": "22487278",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"screen_name": "thomascmurray",
+					"name": "Tom Murray",
+					"id": 50447280,
+					"id_str": "50447280",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"screen_name": "kylepace",
+					"name": "Kyle Pace",
+					"id": 16952065,
+					"id_str": "16952065",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"screen_name": "sstorm01",
+					"name": "Shawn Storm",
+					"id": 15967914,
+					"id_str": "15967914",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"screen_name": "MrBrettClark",
+					"name": "Brett Clark",
+					"id": 27726737,
+					"id_str": "27726737",
+					"indices": [
+						214,
+						227
+					]
+				},
+				{
+					"screen_name": "billselak",
+					"name": "𝖡𝗂𝗅𝗅 𝖲𝖾𝗅𝖺𝗄",
+					"id": 14680984,
+					"id_str": "14680984",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"screen_name": "mrhooker",
+					"name": "Carl Hooker",
+					"id": 9890872,
+					"id_str": "9890872",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140324591086329900,
+		"in_reply_to_status_id_str": "1140324591086329856",
+		"in_reply_to_user_id": 29655018,
+		"in_reply_to_user_id_str": "29655018",
+		"in_reply_to_screen_name": "ShellTerrell",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38899,
+			"friends_count": 7480,
+			"listed_count": 1406,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ShellTerrell @cybraryman1 @techyturner @Philip_Cummings @chrislehmann @m_drez @EricsFitzgerald @Joe_Mazza @JMGubbins @adambellow @TonySinanis @irishmikeh @spirrison @E_Sheninger @thomascmurray @kylepace @sstorm01 @MrBrettClark @billselak @mrhooker Thanks Shelley."
+	},
+	{
 		"created_at": "Sat Jun 15 22:31:03 +0000 2019",
 		"id": 1140023945673900000,
 		"id_str": "1140023945673900032",
