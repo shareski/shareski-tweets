@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 17:21:05 +0000 2019",
+		"id": 1151722468282781700,
+		"id_str": "1151904737127620608",
+		"full_text": "The Alberta group at #DENSI2019 where the professional learning experience has been nothing short of amazing connecting with so many talented educators globally!! \n@DMLO_o @tgratton77 @AdrienneDallai1 @srta_perri \n@DiscoveryEd https://t.co/4XFz2ytNkm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DENSI2019",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMLO_o",
+					"name": "Diane Lefebvre",
+					"id": 384503376,
+					"id_str": "384503376",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"screen_name": "tgratton77",
+					"name": "Terra-Lee Gratton",
+					"id": 270735343,
+					"id_str": "270735343",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "AdrienneDallai1",
+					"name": "Adrienne Dallaire",
+					"id": 1151718342341693400,
+					"id_str": "1151718342341693440",
+					"indices": [
+						184,
+						200
+					]
+				},
+				{
+					"screen_name": "srta_perri",
+					"name": "Amanda Perri",
+					"id": 2297160720,
+					"id_str": "2297160720",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						214,
+						226
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151722462301704200,
+					"id_str": "1151722462301704192",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D_u9ejVU0AAtwAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_u9ejVU0AAtwAA.jpg",
+					"url": "https://t.co/4XFz2ytNkm",
+					"display_url": "pic.twitter.com/4XFz2ytNkm",
+					"expanded_url": "https://twitter.com/DaneSadownyk/status/1151722468282781696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151722462301704200,
+					"id_str": "1151722462301704192",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D_u9ejVU0AAtwAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_u9ejVU0AAtwAA.jpg",
+					"url": "https://t.co/4XFz2ytNkm",
+					"display_url": "pic.twitter.com/4XFz2ytNkm",
+					"expanded_url": "https://twitter.com/DaneSadownyk/status/1151722468282781696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2401850311,
+			"id_str": "2401850311",
+			"name": "Dane Sadownyk",
+			"screen_name": "DaneSadownyk",
+			"location": "",
+			"description": "Administrator/Ed Tech Consultant.\nGoogle Cert Level 1 & 2, DENny Award Winner, DEN Star. #yeg #ECSD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 741,
+			"friends_count": 723,
+			"listed_count": 46,
+			"created_at": "Fri Mar 21 16:47:43 +0000 2014",
+			"favourites_count": 1251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/447055003643961344/nDs09NvK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2401850311/1449545129",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Alberta group at #DENSI2019 where the professional learning experience has been nothing short of amazing connecting with so many talented educators globally!! \n@DMLO_o @tgratton77 @AdrienneDallai1 @srta_perri \n@DiscoveryEd https://t.co/4XFz2ytNkm"
+	},
+	{
 		"created_at": "Wed Jul 17 23:33:55 +0000 2019",
 		"id": 1151636175725031400,
 		"id_str": "1151636175725031424",
