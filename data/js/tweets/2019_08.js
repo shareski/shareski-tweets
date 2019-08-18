@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 17 18:32:08 +0000 2019",
+		"id": 1162183695270387700,
+		"id_str": "1162794254604865537",
+		"full_text": "You said \"what punishment of gods are not gifts. Do you really believe that?\" @andersoncooper, choking back tears, asks Stephen Colbert, as they discuss grief.\n\n\"Yes,\" replies the comedian. \"It's a gift to exist and with existence comes suffering. There's no escaping that.\" https://t.co/p5rUUhZKxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andersoncooper",
+					"name": "Anderson Cooper",
+					"id": 15224867,
+					"id_str": "15224867",
+					"indices": [
+						78,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1162183168721637400,
+					"id_str": "1162183168721637376",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1162183168721637376/img/z0mqUPWm2NaMgAIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1162183168721637376/img/z0mqUPWm2NaMgAIW.jpg",
+					"url": "https://t.co/p5rUUhZKxq",
+					"display_url": "pic.twitter.com/p5rUUhZKxq",
+					"expanded_url": "https://twitter.com/AC360/status/1162183695270387712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162183168721637400,
+					"id_str": "1162183168721637376",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1162183168721637376/img/z0mqUPWm2NaMgAIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1162183168721637376/img/z0mqUPWm2NaMgAIW.jpg",
+					"url": "https://t.co/p5rUUhZKxq",
+					"display_url": "pic.twitter.com/p5rUUhZKxq",
+					"expanded_url": "https://twitter.com/AC360/status/1162183695270387712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 447280,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1162183168721637376/vid/480x270/BxtlfFnBe5N4PRaM.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1162183168721637376/pl/4tr3hZcyB_BzqDcl.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1162183168721637376/vid/960x540/K81ewSeJQtvsy9Ts.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1162183168721637376/vid/640x360/d4u6UhxbSeEUGlyW.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227837742,
+			"id_str": "227837742",
+			"name": "Anderson Cooper 360°",
+			"screen_name": "AC360",
+			"location": "New York, NY",
+			"description": "A behind the scenes look at Anderson Cooper 360°. Watch AC360° M-F at 8pm/ET on @CNN and follow Anderson on twitter: @AndersonCooper.",
+			"url": "http://t.co/PHe2WJCDZH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PHe2WJCDZH",
+							"expanded_url": "http://ac360.com",
+							"display_url": "ac360.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1315208,
+			"friends_count": 158,
+			"listed_count": 7085,
+			"created_at": "Fri Dec 17 23:37:19 +0000 2010",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878354521285693440/-rKCcjvP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878354521285693440/-rKCcjvP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227837742/1531513304",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35184,
+		"favorite_count": 137020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You said \"what punishment of gods are not gifts. Do you really believe that?\" @andersoncooper, choking back tears, asks Stephen Colbert, as they discuss grief.\n\n\"Yes,\" replies the comedian. \"It's a gift to exist and with existence comes suffering. There's no escaping that.\" https://t.co/p5rUUhZKxq"
+	},
+	{
 		"created_at": "Fri Aug 16 23:22:20 +0000 2019",
 		"id": 1162504895452385300,
 		"id_str": "1162504895452385291",
