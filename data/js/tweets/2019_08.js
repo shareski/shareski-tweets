@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 19:44:26 +0000 2019",
+		"id": 1166436325781721000,
+		"id_str": "1166436325781721088",
+		"full_text": "Excited to share with @SturgeonSchools ! https://t.co/pINpdWAM91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SturgeonSchools",
+					"name": "Sturgeon Schools",
+					"id": 2953831144,
+					"id_str": "2953831144",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pINpdWAM91",
+					"expanded_url": "https://twitter.com/mrjtyler/status/1166427800904986629",
+					"display_url": "twitter.com/mrjtyler/statu…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39141,
+			"friends_count": 7613,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166427800904986600,
+		"quoted_status_id_str": "1166427800904986629",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pINpdWAM91",
+			"expanded": "https://twitter.com/mrjtyler/status/1166427800904986629",
+			"display": "twitter.com/mrjtyler/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 27 19:10:33 +0000 2019",
+			"id": 1166427800904986600,
+			"id_str": "1166427800904986629",
+			"full_text": "Things are coming together for @SturgeonSchools staff welcome back tomorrow with @shareski - looking forward to a year of learning together! #sturgeonlearns https://t.co/sgqHgv9y9M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sturgeonlearns",
+						"indices": [
+							141,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SturgeonSchools",
+						"name": "Sturgeon Schools",
+						"id": 2953831144,
+						"id_str": "2953831144",
+						"indices": [
+							31,
+							47
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166427795297165300,
+						"id_str": "1166427795297165313",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/EC_75lrUYAENxP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC_75lrUYAENxP7.jpg",
+						"url": "https://t.co/sgqHgv9y9M",
+						"display_url": "pic.twitter.com/sgqHgv9y9M",
+						"expanded_url": "https://twitter.com/mrjtyler/status/1166427800904986629/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166427795297165300,
+						"id_str": "1166427795297165313",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/EC_75lrUYAENxP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC_75lrUYAENxP7.jpg",
+						"url": "https://t.co/sgqHgv9y9M",
+						"display_url": "pic.twitter.com/sgqHgv9y9M",
+						"expanded_url": "https://twitter.com/mrjtyler/status/1166427800904986629/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52319551,
+				"id_str": "52319551",
+				"name": "John Tyler",
+				"screen_name": "mrjtyler",
+				"location": "",
+				"description": "Husband,dad,Director of Programming Excellence. Recognized as one of Canada's Outstanding Principals 2018 and an Apple Distinguished Educator 2013.",
+				"url": "http://t.co/7aenKLDiC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7aenKLDiC5",
+								"expanded_url": "http://johntyler.ca/",
+								"display_url": "johntyler.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2070,
+				"friends_count": 2251,
+				"listed_count": 108,
+				"created_at": "Tue Jun 30 05:54:39 +0000 2009",
+				"favourites_count": 703,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F1314",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830479852427808769/O_ViDWzF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830479852427808769/O_ViDWzF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52319551/1486836728",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to share with @SturgeonSchools ! https://t.co/pINpdWAM91"
+	},
+	{
+		"created_at": "Tue Aug 27 15:20:18 +0000 2019",
+		"id": 1166369857983529000,
+		"id_str": "1166369857983528961",
+		"full_text": "@bgiourme i like to keep people on their toes",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bgiourme",
+					"name": "Brenda Giourmetakis",
+					"id": 311756420,
+					"id_str": "311756420",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1166338283774701600,
+		"in_reply_to_status_id_str": "1166338283774701569",
+		"in_reply_to_user_id": 311756420,
+		"in_reply_to_user_id_str": "311756420",
+		"in_reply_to_screen_name": "bgiourme",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world.  Currently ranked #12. Building community for @DiscoveryED . FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39141,
+			"friends_count": 7613,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bgiourme i like to keep people on their toes"
+	},
+	{
 		"created_at": "Tue Aug 27 00:31:34 +0000 2019",
 		"id": 1166146201231581200,
 		"id_str": "1166146201231581184",
