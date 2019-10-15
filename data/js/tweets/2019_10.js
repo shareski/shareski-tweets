@@ -1,6 +1,1187 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 23:09:52 +0000 2019",
+		"id": 1183882645840826400,
+		"id_str": "1183882645840826368",
+		"full_text": "@GolfSK Can you post a list of courses that will be open this weekend?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GolfSK",
+					"name": "Golf Saskatchewan",
+					"id": 309933971,
+					"id_str": "309933971",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1183500394057666600,
+		"in_reply_to_status_id_str": "1183500394057666560",
+		"in_reply_to_user_id": 309933971,
+		"in_reply_to_user_id_str": "309933971",
+		"in_reply_to_screen_name": "GolfSK",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GolfSK Can you post a list of courses that will be open this weekend?"
+	},
+	{
+		"created_at": "Mon Oct 14 20:23:48 +0000 2019",
+		"id": 1183840852445143000,
+		"id_str": "1183840852445143041",
+		"full_text": "Happy Thanksgiving from Hersch. #herschelhasmyheart https://t.co/uDCbuzCDEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						32,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183840772883452000,
+					"id_str": "1183840772883451909",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183840772883451909/pu/img/8xYdmr00EJBCzGKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183840772883451909/pu/img/8xYdmr00EJBCzGKi.jpg",
+					"url": "https://t.co/uDCbuzCDEd",
+					"display_url": "pic.twitter.com/uDCbuzCDEd",
+					"expanded_url": "https://twitter.com/shareski/status/1183840852445143041/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183840772883452000,
+					"id_str": "1183840772883451909",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183840772883451909/pu/img/8xYdmr00EJBCzGKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183840772883451909/pu/img/8xYdmr00EJBCzGKi.jpg",
+					"url": "https://t.co/uDCbuzCDEd",
+					"display_url": "pic.twitter.com/uDCbuzCDEd",
+					"expanded_url": "https://twitter.com/shareski/status/1183840852445143041/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 13808,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183840772883451909/pu/vid/360x640/GAg7k5PFuDHwDfNJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1183840772883451909/pu/pl/AzLnXjT5TpIgLdS9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183840772883451909/pu/vid/320x568/Jy8BwHh2euWv3njg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183840772883451909/pu/vid/720x1280/OmADKQqlXBW9W-fD.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Thanksgiving from Hersch. #herschelhasmyheart https://t.co/uDCbuzCDEd"
+	},
+	{
+		"created_at": "Mon Oct 14 19:25:28 +0000 2019",
+		"id": 1183826170749636600,
+		"id_str": "1183826170749636609",
+		"full_text": "@BravesSupt You might want to contact Guinness.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BravesSupt",
+					"name": "Supt Farr",
+					"id": 1148341153,
+					"id_str": "1148341153",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1183825957653811200,
+		"in_reply_to_status_id_str": "1183825957653811201",
+		"in_reply_to_user_id": 1148341153,
+		"in_reply_to_user_id_str": "1148341153",
+		"in_reply_to_screen_name": "BravesSupt",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BravesSupt You might want to contact Guinness."
+	},
+	{
+		"created_at": "Mon Oct 14 19:13:19 +0000 2019",
+		"id": 1183823116348395500,
+		"id_str": "1183823116348395521",
+		"full_text": "One of my favourite quotes from @garystager remains  “One of the best things you can do for your students is to be an interesting adult”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garystager",
+					"name": "Gary Stager - New Invent To Learn Book!",
+					"id": 8870632,
+					"id_str": "8870632",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "One of my favourite quotes from @garystager remains  “One of the best things you can do for your students is to be an interesting adult”"
+	},
+	{
+		"created_at": "Mon Oct 14 17:32:49 +0000 2019",
+		"id": 1183797822002471000,
+		"id_str": "1183797822002470912",
+		"full_text": "@AirCanadaRouge There is no link to seatmaps, just FIN numbers",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirCanadaRouge",
+					"name": "Air Canada Rouge",
+					"id": 1002288440,
+					"id_str": "1002288440",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1183796402830397400,
+		"in_reply_to_status_id_str": "1183796402830397440",
+		"in_reply_to_user_id": 1002288440,
+		"in_reply_to_user_id_str": "1002288440",
+		"in_reply_to_screen_name": "AirCanadaRouge",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AirCanadaRouge There is no link to seatmaps, just FIN numbers"
+	},
+	{
+		"created_at": "Mon Oct 14 17:20:51 +0000 2019",
+		"id": 1183794810123096000,
+		"id_str": "1183794810123096064",
+		"full_text": "@wfryer @mcleod @jgraber I'll take the sweetarts.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "jgraber",
+					"name": "Julie Graber",
+					"id": 29043143,
+					"id_str": "29043143",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1183743938148081700,
+		"in_reply_to_status_id_str": "1183743938148081664",
+		"in_reply_to_user_id": 7095342,
+		"in_reply_to_user_id_str": "7095342",
+		"in_reply_to_screen_name": "wfryer",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wfryer @mcleod @jgraber I'll take the sweetarts."
+	},
+	{
+		"created_at": "Mon Oct 14 17:20:16 +0000 2019",
+		"id": 1183794663918100500,
+		"id_str": "1183794663918100482",
+		"full_text": "@Jay_Eitner @mcleod thank you.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jay_Eitner",
+					"name": "𝐃𝐫. 𝐉𝐚𝐲 𝐄𝐢𝐭𝐧𝐞𝐫",
+					"id": 417935994,
+					"id_str": "417935994",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1183792104474136600,
+		"in_reply_to_status_id_str": "1183792104474136576",
+		"in_reply_to_user_id": 417935994,
+		"in_reply_to_user_id_str": "417935994",
+		"in_reply_to_screen_name": "Jay_Eitner",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jay_Eitner @mcleod thank you."
+	},
+	{
+		"created_at": "Mon Oct 14 17:17:26 +0000 2019",
+		"id": 1183793953465868300,
+		"id_str": "1183793953465868288",
+		"full_text": "@AirCanadaRouge My daughter was on this flight yesterday RV1571 She said she sat in row 13 and that it was technically the 2nd row as there was no business class.I told her there is no such configuration on AC planes.Row 13 means there must be a front cabin of seats. Who's right?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirCanadaRouge",
+					"name": "Air Canada Rouge",
+					"id": 1002288440,
+					"id_str": "1002288440",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1002288440,
+		"in_reply_to_user_id_str": "1002288440",
+		"in_reply_to_screen_name": "AirCanadaRouge",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AirCanadaRouge My daughter was on this flight yesterday RV1571 She said she sat in row 13 and that it was technically the 2nd row as there was no business class.I told her there is no such configuration on AC planes.Row 13 means there must be a front cabin of seats. Who's right?"
+	},
+	{
+		"created_at": "Mon Oct 14 03:18:07 +0000 2019",
+		"id": 1183582732414271500,
+		"id_str": "1183582732414271498",
+		"full_text": "@LSpencerEdD Congrats!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LSpencerEdD",
+					"name": "Laura Spencer",
+					"id": 74666759,
+					"id_str": "74666759",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1183579325850738700,
+		"in_reply_to_status_id_str": "1183579325850738693",
+		"in_reply_to_user_id": 74666759,
+		"in_reply_to_user_id_str": "74666759",
+		"in_reply_to_screen_name": "LSpencerEdD",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39181,
+			"friends_count": 7646,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LSpencerEdD Congrats!"
+	},
+	{
 		"created_at": "Sun Oct 13 16:00:11 +0000 2019",
 		"id": 1183412122409144300,
 		"id_str": "1183412122409144321",
