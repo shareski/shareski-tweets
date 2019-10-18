@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 00:51:14 +0000 2019",
+		"id": 1184995317332304000,
+		"id_str": "1184995317332303872",
+		"full_text": "This is the twitter content I'm here for. https://t.co/ZofLNjuOZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZofLNjuOZ5",
+					"expanded_url": "https://twitter.com/Capitals/status/1184620279693283338",
+					"display_url": "twitter.com/Capitals/statu…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEwnOh",
+			"url": "https://t.co/xNwidZGdPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZGdPu",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEwnOh",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39182,
+			"friends_count": 7651,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184620279693283300,
+		"quoted_status_id_str": "1184620279693283338",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZofLNjuOZ5",
+			"expanded": "https://twitter.com/Capitals/status/1184620279693283338",
+			"display": "twitter.com/Capitals/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 17 00:00:58 +0000 2019",
+			"id": 1184620279693283300,
+			"id_str": "1184620279693283338",
+			"full_text": "This might have been the greatest Mite of the Nite interview EVER. @AAAMidAtlantic https://t.co/fKE8rmu7OU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AAAMidAtlantic",
+						"name": "AAA Mid-Atlantic",
+						"id": 91424397,
+						"id_str": "91424397",
+						"indices": [
+							67,
+							82
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1184619665974317000,
+						"id_str": "1184619665974317056",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1184619665974317056/img/t5ScxXbSKvV8EviB.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1184619665974317056/img/t5ScxXbSKvV8EviB.jpg",
+						"url": "https://t.co/fKE8rmu7OU",
+						"display_url": "pic.twitter.com/fKE8rmu7OU",
+						"expanded_url": "https://twitter.com/Capitals/status/1184620279693283338/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184619665974317000,
+						"id_str": "1184619665974317056",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1184619665974317056/img/t5ScxXbSKvV8EviB.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1184619665974317056/img/t5ScxXbSKvV8EviB.jpg",
+						"url": "https://t.co/fKE8rmu7OU",
+						"display_url": "pic.twitter.com/fKE8rmu7OU",
+						"expanded_url": "https://twitter.com/Capitals/status/1184620279693283338/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 141760,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1184619665974317056/vid/1280x720/j-mFjN0y-hU2E-YN.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1184619665974317056/vid/480x270/9XqsIZIkAu9Ff3Xf.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1184619665974317056/pl/0MnBX8kw7PeEQUwe.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1184619665974317056/vid/640x360/G8XECwFZLytOd0pv.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14801539,
+				"id_str": "14801539",
+				"name": "Washington Capitals",
+				"screen_name": "Capitals",
+				"location": "Washington, DC",
+				"description": "Official Twitter for #ALLCAPS Fans",
+				"url": "https://t.co/Xny5c2B14t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xny5c2B14t",
+								"expanded_url": "http://WashCaps.com",
+								"display_url": "WashCaps.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 759001,
+				"friends_count": 131,
+				"listed_count": 6008,
+				"created_at": "Fri May 16 17:30:11 +0000 2008",
+				"favourites_count": 2207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 89252,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172524264815304710/YHiUlXQt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172524264815304710/YHiUlXQt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14801539/1568388492",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8EAAD0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2520,
+			"favorite_count": 9626,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the twitter content I'm here for. https://t.co/ZofLNjuOZ5"
+	},
+	{
 		"created_at": "Thu Oct 17 01:21:13 +0000 2019",
 		"id": 1184640475728359400,
 		"id_str": "1184640475728359440",
