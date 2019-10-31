@@ -1,6 +1,2109 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 21:58:52 +0000 2019",
+		"id": 1189662983401738200,
+		"id_str": "1189662983401738241",
+		"full_text": "@jessiruns That’s so kind of you to say.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessiruns",
+					"name": "Jessi Anderson",
+					"id": 582347323,
+					"id_str": "582347323",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189661312881774600,
+		"in_reply_to_status_id_str": "1189661312881774593",
+		"in_reply_to_user_id": 582347323,
+		"in_reply_to_user_id_str": "582347323",
+		"in_reply_to_screen_name": "jessiruns",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jessiruns That’s so kind of you to say."
+	},
+	{
+		"created_at": "Wed Oct 30 19:31:14 +0000 2019",
+		"id": 1189625830311379000,
+		"id_str": "1189625830311378944",
+		"full_text": "@chrkennedy Thanks Chris. You and your whole team is a perfect example of the amazing educators I’ve been blessed to know and work with.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrkennedy",
+					"name": "Chris Kennedy",
+					"id": 2056741,
+					"id_str": "2056741",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189409991469387800,
+		"in_reply_to_status_id_str": "1189409991469387776",
+		"in_reply_to_user_id": 2056741,
+		"in_reply_to_user_id_str": "2056741",
+		"in_reply_to_screen_name": "chrkennedy",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chrkennedy Thanks Chris. You and your whole team is a perfect example of the amazing educators I’ve been blessed to know and work with."
+	},
+	{
+		"created_at": "Wed Oct 30 17:56:21 +0000 2019",
+		"id": 1189601952772046800,
+		"id_str": "1189601952772046850",
+		"full_text": "@DaneSadownyk Thanks buddy.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189400807713542100,
+		"in_reply_to_status_id_str": "1189400807713542145",
+		"in_reply_to_user_id": 2401850311,
+		"in_reply_to_user_id_str": "2401850311",
+		"in_reply_to_screen_name": "DaneSadownyk",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DaneSadownyk Thanks buddy."
+	},
+	{
+		"created_at": "Wed Oct 30 17:56:15 +0000 2019",
+		"id": 1189601924179484700,
+		"id_str": "1189601924179484673",
+		"full_text": "@RosePillay1 Thanks Rose. So grateful to know you.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RosePillay1",
+					"name": "Rose Pillay",
+					"id": 325805788,
+					"id_str": "325805788",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189401023158186000,
+		"in_reply_to_status_id_str": "1189401023158185985",
+		"in_reply_to_user_id": 325805788,
+		"in_reply_to_user_id_str": "325805788",
+		"in_reply_to_screen_name": "RosePillay1",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RosePillay1 Thanks Rose. So grateful to know you."
+	},
+	{
+		"created_at": "Wed Oct 30 17:56:01 +0000 2019",
+		"id": 1189601867325681700,
+		"id_str": "1189601867325681665",
+		"full_text": "@hughtheteacher @DaneSadownyk Kind words. I know our paths will cross.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hughtheteacher",
+					"name": "Hugh McDonald",
+					"id": 334500742,
+					"id_str": "334500742",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DaneSadownyk",
+					"name": "Dane Sadownyk",
+					"id": 2401850311,
+					"id_str": "2401850311",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189410879382552600,
+		"in_reply_to_status_id_str": "1189410879382552576",
+		"in_reply_to_user_id": 334500742,
+		"in_reply_to_user_id_str": "334500742",
+		"in_reply_to_screen_name": "hughtheteacher",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hughtheteacher @DaneSadownyk Kind words. I know our paths will cross."
+	},
+	{
+		"created_at": "Wed Oct 30 17:55:37 +0000 2019",
+		"id": 1189601768080134100,
+		"id_str": "1189601768080134144",
+		"full_text": "@JennETatum That means a lot. Thanks Jennifer. You definitely fall into the category of awesome people I get to watch and connect with on my journey.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennETatum",
+					"name": "Jennifer Tatum, NBCT",
+					"id": 1669381963,
+					"id_str": "1669381963",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189479750542266400,
+		"in_reply_to_status_id_str": "1189479750542266368",
+		"in_reply_to_user_id": 1669381963,
+		"in_reply_to_user_id_str": "1669381963",
+		"in_reply_to_screen_name": "JennETatum",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JennETatum That means a lot. Thanks Jennifer. You definitely fall into the category of awesome people I get to watch and connect with on my journey."
+	},
+	{
+		"created_at": "Wed Oct 30 17:54:54 +0000 2019",
+		"id": 1189601584747028500,
+		"id_str": "1189601584747028485",
+		"full_text": "@dawes_laura Thank you my friend.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dawes_laura",
+					"name": "Laura Dawes",
+					"id": 569609023,
+					"id_str": "569609023",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189488550926016500,
+		"in_reply_to_status_id_str": "1189488550926016518",
+		"in_reply_to_user_id": 569609023,
+		"in_reply_to_user_id_str": "569609023",
+		"in_reply_to_screen_name": "dawes_laura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dawes_laura Thank you my friend."
+	},
+	{
+		"created_at": "Wed Oct 30 17:54:30 +0000 2019",
+		"id": 1189601483802763300,
+		"id_str": "1189601483802763265",
+		"full_text": "@hatcherelli Much appreciated.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatcherelli",
+					"name": "Derek Hatch",
+					"id": 22322516,
+					"id_str": "22322516",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189498928468615200,
+		"in_reply_to_status_id_str": "1189498928468615168",
+		"in_reply_to_user_id": 22322516,
+		"in_reply_to_user_id_str": "22322516",
+		"in_reply_to_screen_name": "hatcherelli",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hatcherelli Much appreciated."
+	},
+	{
+		"created_at": "Wed Oct 30 17:54:18 +0000 2019",
+		"id": 1189601436071542800,
+		"id_str": "1189601436071542784",
+		"full_text": "@KelliHolden Thanks so much.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KelliHolden",
+					"name": "Kelli Holden",
+					"id": 299916676,
+					"id_str": "299916676",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189520810743984000,
+		"in_reply_to_status_id_str": "1189520810743984128",
+		"in_reply_to_user_id": 299916676,
+		"in_reply_to_user_id_str": "299916676",
+		"in_reply_to_screen_name": "KelliHolden",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KelliHolden Thanks so much."
+	},
+	{
+		"created_at": "Wed Oct 30 17:54:08 +0000 2019",
+		"id": 1189601394929602600,
+		"id_str": "1189601394929602560",
+		"full_text": "@MargaretOW thank you and you can count on the latter!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MargaretOW",
+					"name": "Margaret Westaway, MEd",
+					"id": 254368414,
+					"id_str": "254368414",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1189581825884057600,
+		"in_reply_to_status_id_str": "1189581825884057600",
+		"in_reply_to_user_id": 254368414,
+		"in_reply_to_user_id_str": "254368414",
+		"in_reply_to_screen_name": "MargaretOW",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MargaretOW thank you and you can count on the latter!"
+	},
+	{
+		"created_at": "Wed Oct 30 16:21:14 +0000 2019",
+		"id": 1189578012142035000,
+		"id_str": "1189578012142034944",
+		"full_text": "Such a wise man. Sadly this does not apply just to young people. More sadly I see this in education circles as well. https://t.co/MnBbSjtNuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MnBbSjtNuR",
+					"expanded_url": "https://twitter.com/nbcnews/status/1189506819028328449",
+					"display_url": "twitter.com/nbcnews/status…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189506819028328400,
+		"quoted_status_id_str": "1189506819028328449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MnBbSjtNuR",
+			"expanded": "https://twitter.com/nbcnews/status/1189506819028328449",
+			"display": "twitter.com/nbcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 30 11:38:20 +0000 2019",
+			"id": 1189506819028328400,
+			"id_str": "1189506819028328449",
+			"full_text": "WATCH: President Obama slams online cancel culture: \"This idea of purity and you're never compromised and you're always politically woke, and all that stuff — you should get over that quickly.\" https://t.co/lWnE9Zk7Na",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1189506556485865500,
+						"id_str": "1189506556485865473",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1189506556485865473/img/TcJFGdEx6ZlVNBGP.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1189506556485865473/img/TcJFGdEx6ZlVNBGP.jpg",
+						"url": "https://t.co/lWnE9Zk7Na",
+						"display_url": "pic.twitter.com/lWnE9Zk7Na",
+						"expanded_url": "https://twitter.com/NBCNews/status/1189506819028328449/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189506556485865500,
+						"id_str": "1189506556485865473",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1189506556485865473/img/TcJFGdEx6ZlVNBGP.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1189506556485865473/img/TcJFGdEx6ZlVNBGP.jpg",
+						"url": "https://t.co/lWnE9Zk7Na",
+						"display_url": "pic.twitter.com/lWnE9Zk7Na",
+						"expanded_url": "https://twitter.com/NBCNews/status/1189506819028328449/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 107040,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1189506556485865473/vid/720x720/shE3BMx-cgCuN9nR.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1189506556485865473/pl/Mr393t6342OChE95.m3u8?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1189506556485865473/vid/320x320/MRQNtfdc3Px-r7qx.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1189506556485865473/vid/480x480/cDfsftSyZ-ehM34L.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14173315,
+				"id_str": "14173315",
+				"name": "NBC News",
+				"screen_name": "NBCNews",
+				"location": "New York, NY",
+				"description": "The leading source of global news and info for more than 75 years. Our new free streaming service: @NBCNewsNow",
+				"url": "https://t.co/Z73is4fJ3x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z73is4fJ3x",
+								"expanded_url": "http://NBCNews.com",
+								"display_url": "NBCNews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6875817,
+				"friends_count": 1749,
+				"listed_count": 42190,
+				"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+				"favourites_count": 768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 230138,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1564408207",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4854,
+			"favorite_count": 14809,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a wise man. Sadly this does not apply just to young people. More sadly I see this in education circles as well. https://t.co/MnBbSjtNuR"
+	},
+	{
+		"created_at": "Wed Oct 30 04:29:26 +0000 2019",
+		"id": 1189398883165704200,
+		"id_str": "1189398883165704192",
+		"full_text": "I've got something to share(ski) \"And Now For Something Completely Different Part 2\" https://t.co/CIqGczBPh8 Feedback is good.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CIqGczBPh8",
+					"expanded_url": "http://shareski.ca/y/48m",
+					"display_url": "shareski.ca/y/48m",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39216,
+			"friends_count": 7692,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've got something to share(ski) \"And Now For Something Completely Different Part 2\" https://t.co/CIqGczBPh8 Feedback is good."
+	},
+	{
+		"created_at": "Wed Oct 30 01:38:41 +0000 2019",
+		"id": 1189195539558129700,
+		"id_str": "1189355913804681216",
+		"full_text": "Engage your students in career exploration with Let’s Talk Careers: Canada’s Most Informed School competition! Motivate students to discover careers and post-secondary pathways, while competing to win over $100,000 in cash and tech prizes. https://t.co/I3d5jcIWbl https://t.co/TT8XFjLkIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I3d5jcIWbl",
+					"expanded_url": "http://ow.ly/wCoG50wWngJ",
+					"display_url": "ow.ly/wCoG50wWngJ",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189195537419034600,
+					"id_str": "1189195537419034624",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EIDfCmhXYAAzOuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIDfCmhXYAAzOuW.jpg",
+					"url": "https://t.co/TT8XFjLkIl",
+					"display_url": "pic.twitter.com/TT8XFjLkIl",
+					"expanded_url": "https://twitter.com/LetsTalkScience/status/1189195539558129664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 37,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 252,
+									"y": 49,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 155,
+									"y": 51,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 48,
+									"y": 60,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 347,
+									"y": 82,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 66,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 446,
+									"y": 87,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 275,
+									"y": 90,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 85,
+									"y": 107,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 613,
+									"y": 146,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 106,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 714,
+									"y": 140,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 440,
+									"y": 144,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 136,
+									"y": 172,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 982,
+									"y": 234,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 106,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 714,
+									"y": 140,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 440,
+									"y": 144,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 136,
+									"y": 172,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 982,
+									"y": 234,
+									"h": 195,
+									"w": 195
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189195537419034600,
+					"id_str": "1189195537419034624",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EIDfCmhXYAAzOuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIDfCmhXYAAzOuW.jpg",
+					"url": "https://t.co/TT8XFjLkIl",
+					"display_url": "pic.twitter.com/TT8XFjLkIl",
+					"expanded_url": "https://twitter.com/LetsTalkScience/status/1189195539558129664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 37,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 252,
+									"y": 49,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 155,
+									"y": 51,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 48,
+									"y": 60,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 347,
+									"y": 82,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 176,
+									"y": 66,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 446,
+									"y": 87,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 275,
+									"y": 90,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 85,
+									"y": 107,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 613,
+									"y": 146,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 106,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 714,
+									"y": 140,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 440,
+									"y": 144,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 136,
+									"y": 172,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 982,
+									"y": 234,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 106,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 714,
+									"y": 140,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 440,
+									"y": 144,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 136,
+									"y": 172,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 982,
+									"y": 234,
+									"h": 195,
+									"w": 195
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89452000,
+			"id_str": "89452000",
+			"name": "Let's Talk Science",
+			"screen_name": "LetsTalkScience",
+			"location": "Canada",
+			"description": "A national, charitable, education & outreach org. We create & deliver free resources to engage Early Years to Grade 12 in #STEM. En français : @ParlonsSciences",
+			"url": "https://t.co/BK5jEtlXjn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BK5jEtlXjn",
+							"expanded_url": "https://letstalkscience.ca",
+							"display_url": "letstalkscience.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11755,
+			"friends_count": 1917,
+			"listed_count": 244,
+			"created_at": "Thu Nov 12 14:02:26 +0000 2009",
+			"favourites_count": 13647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905571392644456448/ooe1Eg8T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905571392644456448/ooe1Eg8T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89452000/1544191828",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Engage your students in career exploration with Let’s Talk Careers: Canada’s Most Informed School competition! Motivate students to discover careers and post-secondary pathways, while competing to win over $100,000 in cash and tech prizes. https://t.co/I3d5jcIWbl https://t.co/TT8XFjLkIl"
+	},
+	{
 		"created_at": "Tue Oct 29 21:30:09 +0000 2019",
 		"id": 1189293369123627000,
 		"id_str": "1189293369123627009",
