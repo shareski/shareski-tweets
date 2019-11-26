@@ -1,6 +1,925 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 00:05:32 +0000 2019",
+		"id": 1199115655649345500,
+		"id_str": "1199116945272066049",
+		"full_text": "And now an update on the NFC East: https://t.co/Yqd3wGn5IM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199115639467712500,
+					"id_str": "1199115639467712513",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKQdUicWoAEqfmT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKQdUicWoAEqfmT.jpg",
+					"url": "https://t.co/Yqd3wGn5IM",
+					"display_url": "pic.twitter.com/Yqd3wGn5IM",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1199115655649345536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199115639467712500,
+					"id_str": "1199115639467712513",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EKQdUicWoAEqfmT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EKQdUicWoAEqfmT.jpg",
+					"url": "https://t.co/Yqd3wGn5IM",
+					"display_url": "pic.twitter.com/Yqd3wGn5IM",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1199115655649345536/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							88,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EKQdUicWoAEqfmT.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2259809232,
+			"id_str": "2259809232",
+			"name": "Super 70s Sports",
+			"screen_name": "Super70sSports",
+			"location": "Chicago, IL",
+			"description": "Store: https://t.co/cWrsZx9pKT; Podcast: https://t.co/aaMrHrZrXd; Media/business inquiries: rickydonaldcobb@gmail.com; Talk: https://t.co/Vth29gwObS",
+			"url": "https://t.co/CRdgNzLuBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CRdgNzLuBm",
+							"expanded_url": "http://www.therickycobb.com",
+							"display_url": "therickycobb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cWrsZx9pKT",
+							"expanded_url": "http://Super70sSportsStore.com",
+							"display_url": "Super70sSportsStore.com",
+							"indices": [
+								7,
+								30
+							]
+						},
+						{
+							"url": "https://t.co/aaMrHrZrXd",
+							"expanded_url": "http://Super70sSports.com",
+							"display_url": "Super70sSports.com",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/Vth29gwObS",
+							"expanded_url": "http://cameo.com/super70ssports",
+							"display_url": "cameo.com/super70ssports",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 307429,
+			"friends_count": 853,
+			"listed_count": 1691,
+			"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+			"favourites_count": 165111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And now an update on the NFC East: https://t.co/Yqd3wGn5IM"
+	},
+	{
+		"created_at": "Tue Nov 26 00:04:00 +0000 2019",
+		"id": 1199030350900543500,
+		"id_str": "1199116557869355008",
+		"full_text": "Master historian, documentary filmmaker @kenburns rolls out a new website 4 educators - worth its weight in historical stories &amp; resources!  https://t.co/NL7QM3UA32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KenBurns",
+					"name": "Ken Burns",
+					"id": 397507908,
+					"id_str": "397507908",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NL7QM3UA32",
+					"expanded_url": "https://www.washingtonpost.com/education/2019/11/19/indisensable-ken-burns-has-new-initiative-one-stop-online-teachers/?wpisrc=nl_sb_smartbrief",
+					"display_url": "washingtonpost.com/education/2019…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18590869,
+			"id_str": "18590869",
+			"name": "pammoran",
+			"screen_name": "pammoran",
+			"location": "",
+			"description": "I'm for 21st C learning spaces for all kinds of learners, both adults and young people; ‘16 AASA Top 4 Nat Supt of the year; coauthor Timeless Learning",
+			"url": "https://t.co/Gny9xmYpmo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gny9xmYpmo",
+							"expanded_url": "http://spacesforlearning.wordpress.com/",
+							"display_url": "spacesforlearning.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21349,
+			"friends_count": 3600,
+			"listed_count": 1289,
+			"created_at": "Sun Jan 04 00:24:12 +0000 2009",
+			"favourites_count": 7682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3048635791/c4ca0729298ce82c2ce65cad91d020b8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3048635791/c4ca0729298ce82c2ce65cad91d020b8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18590869/1402242764",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Master historian, documentary filmmaker @kenburns rolls out a new website 4 educators - worth its weight in historical stories &amp; resources!  https://t.co/NL7QM3UA32"
+	},
+	{
+		"created_at": "Mon Nov 25 23:46:46 +0000 2019",
+		"id": 1199112219000287200,
+		"id_str": "1199112219000287233",
+		"full_text": "@gsiemens @peteinarlington And bullies. I’ve witness how you’ve treated @peteinarlington but know you’re not alone.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "peteinarlington",
+					"name": "peteinarlington",
+					"id": 11806842,
+					"id_str": "11806842",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "peteinarlington",
+					"name": "peteinarlington",
+					"id": 11806842,
+					"id_str": "11806842",
+					"indices": [
+						72,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1199109859679121400,
+		"in_reply_to_status_id_str": "1199109859679121408",
+		"in_reply_to_user_id": 18613,
+		"in_reply_to_user_id_str": "18613",
+		"in_reply_to_screen_name": "gsiemens",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39208,
+			"friends_count": 7776,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gsiemens @peteinarlington And bullies. I’ve witness how you’ve treated @peteinarlington but know you’re not alone."
+	},
+	{
+		"created_at": "Mon Nov 25 23:32:23 +0000 2019",
+		"id": 1199108600209330200,
+		"id_str": "1199108600209330176",
+		"full_text": "@peteinarlington @gsiemens I've always held out hope that @Gsiemens would change and soften his attitude but I'm close to losing hope. The Winkler superiority complex is deep.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peteinarlington",
+					"name": "peteinarlington",
+					"id": 11806842,
+					"id_str": "11806842",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1199105327519670300,
+		"in_reply_to_status_id_str": "1199105327519670273",
+		"in_reply_to_user_id": 11806842,
+		"in_reply_to_user_id_str": "11806842",
+		"in_reply_to_screen_name": "peteinarlington",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39208,
+			"friends_count": 7776,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@peteinarlington @gsiemens I've always held out hope that @Gsiemens would change and soften his attitude but I'm close to losing hope. The Winkler superiority complex is deep."
+	},
+	{
+		"created_at": "Mon Nov 25 16:14:17 +0000 2019",
+		"id": 1198998351506821000,
+		"id_str": "1198998351506821122",
+		"full_text": "@imcguy I have it on record that the Vikings will win SuperBowl. https://t.co/wO9J8alxBD https://t.co/SVQ0FTQlKd",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imcguy",
+					"name": "Chad Lehman",
+					"id": 10645702,
+					"id_str": "10645702",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wO9J8alxBD",
+					"expanded_url": "https://twitter.com/joe_sanfelippo/status/1196219288488726529?s=21",
+					"display_url": "twitter.com/joe_sanfelippo…",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/SVQ0FTQlKd",
+					"expanded_url": "https://twitter.com/joe_sanfelippo/status/1196219288488726529",
+					"display_url": "twitter.com/joe_sanfelippo…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1198995268374585300,
+		"in_reply_to_status_id_str": "1198995268374585345",
+		"in_reply_to_user_id": 10645702,
+		"in_reply_to_user_id_str": "10645702",
+		"in_reply_to_screen_name": "imcguy",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39208,
+			"friends_count": 7776,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196219288488726500,
+		"quoted_status_id_str": "1196219288488726529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SVQ0FTQlKd",
+			"expanded": "https://twitter.com/joe_sanfelippo/status/1196219288488726529",
+			"display": "twitter.com/joe_sanfelippo…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 18 00:11:17 +0000 2019",
+			"id": 1196219288488726500,
+			"id_str": "1196219288488726529",
+			"full_text": "@shareski @GustafsonBrad Vikings looked great. They’ll probably win the Super Bowl.",
+			"truncated": false,
+			"display_text_range": [
+				25,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "GustafsonBrad",
+						"name": "Dr. Brad Gustafson",
+						"id": 620322332,
+						"id_str": "620322332",
+						"indices": [
+							10,
+							24
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1196211927812198400,
+			"in_reply_to_status_id_str": "1196211927812198402",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 356626702,
+				"id_str": "356626702",
+				"name": "Joe Sanfelippo",
+				"screen_name": "Joe_Sanfelippo",
+				"location": "Fall Creek, WI",
+				"description": "Married to the amazing @ajsanfelippo5 Dad to 3 rock stars • Supt • Speaker • Co-Author #HackingLeadership • Connect https://t.co/kh95vatmsg \nIG Joe_Sanfelippo",
+				"url": "https://t.co/HEmS4GAtGY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HEmS4GAtGY",
+								"expanded_url": "http://www.jsanfelippo.com",
+								"display_url": "jsanfelippo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kh95vatmsg",
+								"expanded_url": "http://bit.ly/drsan",
+								"display_url": "bit.ly/drsan",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48371,
+				"friends_count": 3057,
+				"listed_count": 774,
+				"created_at": "Wed Aug 17 03:54:24 +0000 2011",
+				"favourites_count": 34216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47008,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917238094348247040/ccpFr6gP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917238094348247040/ccpFr6gP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/356626702/1566011018",
+				"profile_link_color": "25A4F4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7dc5c6d3bfb10ccc",
+				"url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+				"place_type": "admin",
+				"name": "Wisconsin",
+				"full_name": "Wisconsin, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-92.889433,
+								42.491921
+							],
+							[
+								-86.24955,
+								42.491921
+							],
+							[
+								-86.24955,
+								47.309715
+							],
+							[
+								-92.889433,
+								47.309715
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@imcguy I have it on record that the Vikings will win SuperBowl. https://t.co/wO9J8alxBD https://t.co/SVQ0FTQlKd"
+	},
+	{
 		"created_at": "Sun Nov 24 19:05:41 +0000 2019",
 		"id": 1198679093954392000,
 		"id_str": "1198679093954392065",
