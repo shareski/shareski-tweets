@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 23:28:55 +0000 2019",
+		"id": 1208529813524189200,
+		"id_str": "1208529813524189185",
+		"full_text": "Hard to argue with this. https://t.co/2drYClcQCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208529802442895400,
+					"id_str": "1208529802442895360",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EMWPc8cU8AAUUDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMWPc8cU8AAUUDD.jpg",
+					"url": "https://t.co/2drYClcQCI",
+					"display_url": "pic.twitter.com/2drYClcQCI",
+					"expanded_url": "https://twitter.com/shareski/status/1208529813524189185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 625,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 898,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 222,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208529802442895400,
+					"id_str": "1208529802442895360",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EMWPc8cU8AAUUDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMWPc8cU8AAUUDD.jpg",
+					"url": "https://t.co/2drYClcQCI",
+					"display_url": "pic.twitter.com/2drYClcQCI",
+					"expanded_url": "https://twitter.com/shareski/status/1208529813524189185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 625,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 898,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 222,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 294,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 7920,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hard to argue with this. https://t.co/2drYClcQCI"
+	},
+	{
+		"created_at": "Sat Dec 21 19:43:43 +0000 2019",
+		"id": 1208473139774017500,
+		"id_str": "1208473139774017536",
+		"full_text": "Here you go. https://t.co/CpS5m0cQ6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CpS5m0cQ6h",
+					"expanded_url": "https://twitter.com/fanaticsview/status/1208208087464710146",
+					"display_url": "twitter.com/fanaticsview/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 7920,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208208087464710100,
+		"quoted_status_id_str": "1208208087464710146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CpS5m0cQ6h",
+			"expanded": "https://twitter.com/fanaticsview/status/1208208087464710146",
+			"display": "twitter.com/fanaticsview/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 21 02:10:30 +0000 2019",
+			"id": 1208208087464710100,
+			"id_str": "1208208087464710146",
+			"full_text": "🙏💯🏀 Amazing moment here in Philadelphia. Luka Doncic meets a 76ers fan and the fan proceeds to hit a jumper while Luka watches #IceInMyVeins 😂💪 @luka7doncic @dallasmavs @mcuban https://t.co/YpGH7qsryX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IceInMyVeins",
+						"indices": [
+							127,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "luka7doncic",
+						"name": "Luka Doncic",
+						"id": 460116210,
+						"id_str": "460116210",
+						"indices": [
+							144,
+							156
+						]
+					},
+					{
+						"screen_name": "dallasmavs",
+						"name": "Dallas Mavericks",
+						"id": 22185437,
+						"id_str": "22185437",
+						"indices": [
+							157,
+							168
+						]
+					},
+					{
+						"screen_name": "mcuban",
+						"name": "Mark Cuban",
+						"id": 16228398,
+						"id_str": "16228398",
+						"indices": [
+							169,
+							176
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1208208026001387500,
+						"id_str": "1208208026001387520",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208208026001387520/pu/img/MK7evKOtlj07yy34.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208208026001387520/pu/img/MK7evKOtlj07yy34.jpg",
+						"url": "https://t.co/YpGH7qsryX",
+						"display_url": "pic.twitter.com/YpGH7qsryX",
+						"expanded_url": "https://twitter.com/fanaticsview/status/1208208087464710146/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208208026001387500,
+						"id_str": "1208208026001387520",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208208026001387520/pu/img/MK7evKOtlj07yy34.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208208026001387520/pu/img/MK7evKOtlj07yy34.jpg",
+						"url": "https://t.co/YpGH7qsryX",
+						"display_url": "pic.twitter.com/YpGH7qsryX",
+						"expanded_url": "https://twitter.com/fanaticsview/status/1208208087464710146/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1208208026001387520/pu/pl/RcvdZIA_pBXRVIPF.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1208208026001387520/pu/vid/320x320/-q1Vobe_BSLKq0Gz.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1208208026001387520/pu/vid/480x480/DCZjbfIeVZqCWncy.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1208208026001387520/pu/vid/720x720/UnnVujumE2BaPBfv.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2812971281,
+				"id_str": "2812971281",
+				"name": "Fanatics View",
+				"screen_name": "fanaticsview",
+				"location": "Dallas | Worldwide",
+				"description": "✖ The 🐐 of Sports Videos. YouTube & https://t.co/JhZXmF8ck5 for Originals: https://t.co/9DNokLWLeU | We cover the NBA, NFL, MLB, NHL & Boxing",
+				"url": "https://t.co/EaRX4eAuDG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EaRX4eAuDG",
+								"expanded_url": "http://www.fanaticsview.com",
+								"display_url": "fanaticsview.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JhZXmF8ck5",
+								"expanded_url": "http://FanaticsView.com",
+								"display_url": "FanaticsView.com",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/9DNokLWLeU",
+								"expanded_url": "http://youtube.com/fanaticsvieworiginals",
+								"display_url": "youtube.com/fanaticsviewor…",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 59265,
+				"friends_count": 35000,
+				"listed_count": 338,
+				"created_at": "Tue Oct 07 07:44:28 +0000 2014",
+				"favourites_count": 2331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11985,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720562065866240000/zWcrZbhP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720562065866240000/zWcrZbhP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812971281/1517728585",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2495,
+			"favorite_count": 14214,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here you go. https://t.co/CpS5m0cQ6h"
+	},
+	{
+		"created_at": "Sat Dec 21 19:43:01 +0000 2019",
+		"id": 1208472963034443800,
+		"id_str": "1208472963034443776",
+		"full_text": "@WeedenKim There’s no winner here.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeedenKim",
+					"name": "Kim Weeden",
+					"id": 1615252842,
+					"id_str": "1615252842",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208466972582613000,
+		"in_reply_to_status_id_str": "1208466972582612992",
+		"in_reply_to_user_id": 1615252842,
+		"in_reply_to_user_id_str": "1615252842",
+		"in_reply_to_screen_name": "WeedenKim",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 7920,
+			"listed_count": 1399,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WeedenKim There’s no winner here."
+	},
+	{
 		"created_at": "Fri Dec 20 20:55:51 +0000 2019",
 		"id": 1208128904101154800,
 		"id_str": "1208128904101154816",
