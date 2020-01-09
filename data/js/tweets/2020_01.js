@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 21:28:36 +0000 2020",
+		"id": 1215022517737459700,
+		"id_str": "1215022517737459713",
+		"full_text": "@gsiemens I'm in. I'll be your manager. Or maybe we should start a band. Can @davecormier or @peteinarlington join? You'd be the lead singer obviously but a full band would be nice.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"screen_name": "peteinarlington",
+					"name": "peteinarlington",
+					"id": 11806842,
+					"id_str": "11806842",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1215018787201671200,
+		"in_reply_to_status_id_str": "1215018787201671168",
+		"in_reply_to_user_id": 18613,
+		"in_reply_to_user_id_str": "18613",
+		"in_reply_to_screen_name": "gsiemens",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39249,
+			"friends_count": 7952,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gsiemens I'm in. I'll be your manager. Or maybe we should start a band. Can @davecormier or @peteinarlington join? You'd be the lead singer obviously but a full band would be nice."
+	},
+	{
+		"created_at": "Wed Jan 08 19:52:42 +0000 2020",
+		"id": 1214998382122619000,
+		"id_str": "1214998382122618882",
+		"full_text": "@gsiemens #MennoniteProphetofDoom strikes again",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MennoniteProphetofDoom",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214735108155953200,
+		"in_reply_to_status_id_str": "1214735108155953152",
+		"in_reply_to_user_id": 18613,
+		"in_reply_to_user_id_str": "18613",
+		"in_reply_to_screen_name": "gsiemens",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39249,
+			"friends_count": 7952,
+			"listed_count": 1404,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gsiemens #MennoniteProphetofDoom strikes again"
+	},
+	{
 		"created_at": "Wed Jan 08 00:51:26 +0000 2020",
 		"id": 1214711172777336800,
 		"id_str": "1214711172777336839",
