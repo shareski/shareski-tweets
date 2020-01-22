@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 18:28:52 +0000 2020",
+		"id": 1219688325847515100,
+		"id_str": "1219688325847515136",
+		"full_text": "Important message here about teacher autonomy. Teacher autonomy and trust are the essential linchpins to any success and progress in schools. https://t.co/hSNSrsQQBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSNSrsQQBN",
+					"expanded_url": "https://twitter.com/virtualmurph/status/1219421667753123841",
+					"display_url": "twitter.com/virtualmurph/s…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39248,
+			"friends_count": 7975,
+			"listed_count": 1403,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1219421667753123800,
+		"quoted_status_id_str": "1219421667753123841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hSNSrsQQBN",
+			"expanded": "https://twitter.com/virtualmurph/status/1219421667753123841",
+			"display": "twitter.com/virtualmurph/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 21 00:49:16 +0000 2020",
+			"id": 1219421667753123800,
+			"id_str": "1219421667753123841",
+			"full_text": "Had the pleasure of hearing @newfrontier21 speak today about PLCs for a second time. I have thoughts on a big ugly barrier that needs more attention. 1/n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "newfrontier21",
+						"name": "Dr. Anthony Muhammad",
+						"id": 185771833,
+						"id_str": "185771833",
+						"indices": [
+							28,
+							42
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 283702437,
+				"id_str": "283702437",
+				"name": "Paul Murphy",
+				"screen_name": "VirtualMurph",
+				"location": "Mason, MI",
+				"description": "Third grade teacher in Michigan. Retweets are usually endorsements. \nBooks: https://t.co/xK5GDrEdwZ\nSite: https://t.co/u2rKjGKaSm",
+				"url": "https://t.co/u2rKjGKaSm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u2rKjGKaSm",
+								"expanded_url": "http://TeacherHabits.com",
+								"display_url": "TeacherHabits.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xK5GDrEdwZ",
+								"expanded_url": "https://amzn.to/2Ah2Ufc",
+								"display_url": "amzn.to/2Ah2Ufc",
+								"indices": [
+									76,
+									99
+								]
+							},
+							{
+								"url": "https://t.co/u2rKjGKaSm",
+								"expanded_url": "http://TeacherHabits.com",
+								"display_url": "TeacherHabits.com",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1808,
+				"friends_count": 2875,
+				"listed_count": 21,
+				"created_at": "Sun Apr 17 21:01:23 +0000 2011",
+				"favourites_count": 1425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9525,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948766281817317376/1Vrx_3yi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948766281817317376/1Vrx_3yi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/283702437/1503257934",
+				"profile_link_color": "800000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important message here about teacher autonomy. Teacher autonomy and trust are the essential linchpins to any success and progress in schools. https://t.co/hSNSrsQQBN"
+	},
+	{
 		"created_at": "Mon Jan 20 19:50:53 +0000 2020",
 		"id": 1219346580588748800,
 		"id_str": "1219346580588748800",
