@@ -1,6 +1,1532 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 19:41:28 +0000 2020",
+		"id": 1222968088926269400,
+		"id_str": "1222968088926269440",
+		"full_text": "@KatPapulkas educating folks at #disruptedfuture on #esports #girlswhogame https://t.co/xQzON3VCmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "disruptedfuture",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"text": "esports",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "girlswhogame",
+					"indices": [
+						61,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222968081791824000,
+					"id_str": "1222968081791823873",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EPja_abXsAEPpG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPja_abXsAEPpG7.jpg",
+					"url": "https://t.co/xQzON3VCmZ",
+					"display_url": "pic.twitter.com/xQzON3VCmZ",
+					"expanded_url": "https://twitter.com/shareski/status/1222968088926269440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 292,
+									"y": 215,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 89,
+									"y": 142,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 368,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 152,
+									"y": 244,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 368,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 152,
+									"y": 244,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 50,
+									"y": 81,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222968081791824000,
+					"id_str": "1222968081791823873",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EPja_abXsAEPpG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPja_abXsAEPpG7.jpg",
+					"url": "https://t.co/xQzON3VCmZ",
+					"display_url": "pic.twitter.com/xQzON3VCmZ",
+					"expanded_url": "https://twitter.com/shareski/status/1222968088926269440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 292,
+									"y": 215,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 89,
+									"y": 142,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 368,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 152,
+									"y": 244,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 368,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 152,
+									"y": 244,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 50,
+									"y": 81,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11173922,
+		"in_reply_to_user_id_str": "11173922",
+		"in_reply_to_screen_name": "KatPapulkas",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KatPapulkas educating folks at #disruptedfuture on #esports #girlswhogame https://t.co/xQzON3VCmZ"
+	},
+	{
+		"created_at": "Thu Jan 30 18:27:17 +0000 2020",
+		"id": 1222949419349414000,
+		"id_str": "1222949419349413888",
+		"full_text": "For years, education has learned from business and industry and at times fawned over them but how often are business and industry able and willing to learn from schools? Contrary to popular belief, schools have a lot of good things going on to teach the world. #DisruptedFuture",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisruptedFuture",
+					"indices": [
+						261,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "For years, education has learned from business and industry and at times fawned over them but how often are business and industry able and willing to learn from schools? Contrary to popular belief, schools have a lot of good things going on to teach the world. #DisruptedFuture"
+	},
+	{
+		"created_at": "Thu Jan 30 16:38:41 +0000 2020",
+		"id": 1222922087133864000,
+		"id_str": "1222922087133863937",
+		"full_text": "Unemployment rates are becoming an increasingly poor measure of economic health. #DisruptedFuture https://t.co/n781z8wq8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisruptedFuture",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n781z8wq8c",
+					"expanded_url": "https://smartasset.com/career/problems-with-the-unemployment-rate",
+					"display_url": "smartasset.com/career/problem…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Unemployment rates are becoming an increasingly poor measure of economic health. #DisruptedFuture https://t.co/n781z8wq8c"
+	},
+	{
+		"created_at": "Thu Jan 30 16:23:20 +0000 2020",
+		"id": 1222906718633357300,
+		"id_str": "1222918226641854464",
+		"full_text": "Break your brand: your brand can be a prison that locks you in and control you. You need to vulnerable and take risks #disruptedfuture @davidusher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "disruptedfuture",
+					"indices": [
+						118,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidusher",
+					"name": "David Usher",
+					"id": 7951862,
+					"id_str": "7951862",
+					"indices": [
+						135,
+						146
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2340718912,
+			"id_str": "2340718912",
+			"name": "Never See Come Sea",
+			"screen_name": "RJaiks",
+			"location": "",
+			"description": "Life long dream of living in my bikini #islandgirlwannabe #travelblogger 🏝🇨🇦🇹🇹",
+			"url": "https://t.co/lnZYAdoxgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lnZYAdoxgH",
+							"expanded_url": "http://www.neverseecomesea.com",
+							"display_url": "neverseecomesea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 526,
+			"listed_count": 7,
+			"created_at": "Thu Feb 13 06:23:27 +0000 2014",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182047272869208064/SnA5g-7u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182047272869208064/SnA5g-7u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2340718912/1570657185",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Break your brand: your brand can be a prison that locks you in and control you. You need to vulnerable and take risks #disruptedfuture @davidusher"
+	},
+	{
+		"created_at": "Thu Jan 30 14:27:56 +0000 2020",
+		"id": 1222889183922020400,
+		"id_str": "1222889183922020352",
+		"full_text": "Spending the day here. #DisruptedFuture https://t.co/KbRoXHvAIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisruptedFuture",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222889175831150600,
+					"id_str": "1222889175831150593",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiTOe0WAAEdoL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiTOe0WAAEdoL-.jpg",
+					"url": "https://t.co/KbRoXHvAIq",
+					"display_url": "pic.twitter.com/KbRoXHvAIq",
+					"expanded_url": "https://twitter.com/shareski/status/1222889183922020352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 857,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 12,
+									"y": 516,
+									"h": 287,
+									"w": 287
+								},
+								{
+									"x": 26,
+									"y": 232,
+									"h": 563,
+									"w": 563
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 486,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 7,
+									"y": 293,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 15,
+									"y": 131,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 1464,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 22,
+									"y": 882,
+									"h": 490,
+									"w": 490
+								},
+								{
+									"x": 46,
+									"y": 396,
+									"h": 962,
+									"w": 962
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 1464,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 22,
+									"y": 882,
+									"h": 490,
+									"w": 490
+								},
+								{
+									"x": 46,
+									"y": 396,
+									"h": 962,
+									"w": 962
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222889175831150600,
+					"id_str": "1222889175831150593",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiTOe0WAAEdoL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiTOe0WAAEdoL-.jpg",
+					"url": "https://t.co/KbRoXHvAIq",
+					"display_url": "pic.twitter.com/KbRoXHvAIq",
+					"expanded_url": "https://twitter.com/shareski/status/1222889183922020352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 857,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 12,
+									"y": 516,
+									"h": 287,
+									"w": 287
+								},
+								{
+									"x": 26,
+									"y": 232,
+									"h": 563,
+									"w": 563
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 486,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 7,
+									"y": 293,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 15,
+									"y": 131,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 1464,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 22,
+									"y": 882,
+									"h": 490,
+									"w": 490
+								},
+								{
+									"x": 46,
+									"y": 396,
+									"h": 962,
+									"w": 962
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 1464,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 22,
+									"y": 882,
+									"h": 490,
+									"w": 490
+								},
+								{
+									"x": 46,
+									"y": 396,
+									"h": 962,
+									"w": 962
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spending the day here. #DisruptedFuture https://t.co/KbRoXHvAIq"
+	},
+	{
+		"created_at": "Thu Jan 30 04:10:05 +0000 2020",
+		"id": 1222733696135876600,
+		"id_str": "1222733696135876608",
+		"full_text": "@jessed44 @Edwalker33 @masters1_hk @mcleod I'm with ya. The book is really about sparking conversations moreso than trying to be definitive. We recognize it's complicated but if we can figure out what we agree on, it makes it much easier to figure out the how part.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessed44",
+					"name": "Jesse Dowell",
+					"id": 88467714,
+					"id_str": "88467714",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Edwalker33",
+					"name": "Ed Walker",
+					"id": 463478080,
+					"id_str": "463478080",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "masters1_hk",
+					"name": "Heidi K",
+					"id": 1216889385783898000,
+					"id_str": "1216889385783898113",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1222729321334366200,
+		"in_reply_to_status_id_str": "1222729321334366214",
+		"in_reply_to_user_id": 88467714,
+		"in_reply_to_user_id_str": "88467714",
+		"in_reply_to_screen_name": "jessed44",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jessed44 @Edwalker33 @masters1_hk @mcleod I'm with ya. The book is really about sparking conversations moreso than trying to be definitive. We recognize it's complicated but if we can figure out what we agree on, it makes it much easier to figure out the how part."
+	},
+	{
+		"created_at": "Thu Jan 30 03:04:03 +0000 2020",
+		"id": 1222717078144077800,
+		"id_str": "1222717078144077825",
+		"full_text": "@jessed44 @Edwalker33 @masters1_hk @mcleod I would also add that \"designing instruction/learning\" should be the job and what teaching ought to be. If we're still just assuming teaching=knowledge dump then we have a bigger conversation to be had.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessed44",
+					"name": "Jesse Dowell",
+					"id": 88467714,
+					"id_str": "88467714",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Edwalker33",
+					"name": "Ed Walker",
+					"id": 463478080,
+					"id_str": "463478080",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "masters1_hk",
+					"name": "Heidi K",
+					"id": 1216889385783898000,
+					"id_str": "1216889385783898113",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1222712793029402600,
+		"in_reply_to_status_id_str": "1222712793029402624",
+		"in_reply_to_user_id": 88467714,
+		"in_reply_to_user_id_str": "88467714",
+		"in_reply_to_screen_name": "jessed44",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jessed44 @Edwalker33 @masters1_hk @mcleod I would also add that \"designing instruction/learning\" should be the job and what teaching ought to be. If we're still just assuming teaching=knowledge dump then we have a bigger conversation to be had."
+	},
+	{
+		"created_at": "Thu Jan 30 03:00:11 +0000 2020",
+		"id": 1222716106923622400,
+		"id_str": "1222716106923622400",
+		"full_text": "@jessed44 @Edwalker33 @masters1_hk @mcleod Fair question. In the end, I would advocate for greater autonmy 4 teachers to make decisions about what goes on in their classrooms if it means more student ownership.All that to say, it's not easy but what is best for kids? I welcome the push back and efforts to change a system",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			322
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessed44",
+					"name": "Jesse Dowell",
+					"id": 88467714,
+					"id_str": "88467714",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Edwalker33",
+					"name": "Ed Walker",
+					"id": 463478080,
+					"id_str": "463478080",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "masters1_hk",
+					"name": "Heidi K",
+					"id": 1216889385783898000,
+					"id_str": "1216889385783898113",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						35,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1222712793029402600,
+		"in_reply_to_status_id_str": "1222712793029402624",
+		"in_reply_to_user_id": 88467714,
+		"in_reply_to_user_id_str": "88467714",
+		"in_reply_to_screen_name": "jessed44",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39247,
+			"friends_count": 8007,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jessed44 @Edwalker33 @masters1_hk @mcleod Fair question. In the end, I would advocate for greater autonmy 4 teachers to make decisions about what goes on in their classrooms if it means more student ownership.All that to say, it's not easy but what is best for kids? I welcome the push back and efforts to change a system"
+	},
+	{
 		"created_at": "Thu Jan 30 00:54:52 +0000 2020",
 		"id": 1222684570849439700,
 		"id_str": "1222684570849439744",
