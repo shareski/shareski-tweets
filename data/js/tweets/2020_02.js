@@ -1,6 +1,828 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 22:37:43 +0000 2020",
+		"id": 1226273933210423300,
+		"id_str": "1226273933210423296",
+		"full_text": "Me when my wife says “This looks like my kind of store” https://t.co/PVwHqNJ223",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226273921642532900,
+					"id_str": "1226273921642532865",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQSZonjUEAEovnl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQSZonjUEAEovnl.jpg",
+					"url": "https://t.co/PVwHqNJ223",
+					"display_url": "pic.twitter.com/PVwHqNJ223",
+					"expanded_url": "https://twitter.com/shareski/status/1226273933210423296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226273921642532900,
+					"id_str": "1226273921642532865",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQSZonjUEAEovnl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQSZonjUEAEovnl.jpg",
+					"url": "https://t.co/PVwHqNJ223",
+					"display_url": "pic.twitter.com/PVwHqNJ223",
+					"expanded_url": "https://twitter.com/shareski/status/1226273933210423296/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EQSZonjUEAEovnl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 8013,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me when my wife says “This looks like my kind of store” https://t.co/PVwHqNJ223"
+	},
+	{
+		"created_at": "Sat Feb 08 18:30:17 +0000 2020",
+		"id": 1226211666179657700,
+		"id_str": "1226211666179657728",
+		"full_text": "@krissyvenosdale But mad at a parody?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "krissyvenosdale",
+					"name": "Krissy Venosdale",
+					"id": 20246389,
+					"id_str": "20246389",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226209124351758300,
+		"in_reply_to_status_id_str": "1226209124351758336",
+		"in_reply_to_user_id": 20246389,
+		"in_reply_to_user_id_str": "20246389",
+		"in_reply_to_screen_name": "krissyvenosdale",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 8013,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@krissyvenosdale But mad at a parody?"
+	},
+	{
+		"created_at": "Sat Feb 08 18:10:28 +0000 2020",
+		"id": 1226206678195916800,
+		"id_str": "1226206678195916800",
+		"full_text": "@mrbadura trying to “send it” https://t.co/PGXerCQcUW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226206658914730000,
+					"id_str": "1226206658914729984",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226206658914729984/pu/img/GP4hOswc7UX3a6fk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226206658914729984/pu/img/GP4hOswc7UX3a6fk.jpg",
+					"url": "https://t.co/PGXerCQcUW",
+					"display_url": "pic.twitter.com/PGXerCQcUW",
+					"expanded_url": "https://twitter.com/shareski/status/1226206678195916800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226206658914730000,
+					"id_str": "1226206658914729984",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226206658914729984/pu/img/GP4hOswc7UX3a6fk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226206658914729984/pu/img/GP4hOswc7UX3a6fk.jpg",
+					"url": "https://t.co/PGXerCQcUW",
+					"display_url": "pic.twitter.com/PGXerCQcUW",
+					"expanded_url": "https://twitter.com/shareski/status/1226206678195916800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6673,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226206658914729984/pu/vid/1280x720/2y7Rz3oJch0Ai5ky.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226206658914729984/pu/vid/480x270/jGK31LjSH4WKVgj5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226206658914729984/pu/vid/640x360/TUiJx9z_WEnBZXAY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1226206658914729984/pu/pl/-Y86Knv-gNxIipd9.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 8013,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mrbadura trying to “send it” https://t.co/PGXerCQcUW"
+	},
+	{
+		"created_at": "Sat Feb 08 05:03:41 +0000 2020",
+		"id": 1226008678551023600,
+		"id_str": "1226008678551023617",
+		"full_text": "Does this prove that : \nA. People are stupid.\nB. People are lazy.\nC. There are accounts that tweet stuff like this it's actually believable. https://t.co/7FAzS399VQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7FAzS399VQ",
+					"expanded_url": "https://twitter.com/educelebrity/status/1225905842509242371",
+					"display_url": "twitter.com/educelebrity/s…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39242,
+			"friends_count": 8013,
+			"listed_count": 1402,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225905842509242400,
+		"quoted_status_id_str": "1225905842509242371",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7FAzS399VQ",
+			"expanded": "https://twitter.com/educelebrity/status/1225905842509242371",
+			"display": "twitter.com/educelebrity/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 07 22:15:03 +0000 2020",
+			"id": 1225905842509242400,
+			"id_str": "1225905842509242371",
+			"full_text": "Public Service Announcement: Always read the profile of someone before you choose to respond to a tweet and subsequently block them. https://t.co/Vrg14Y1tKT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1225905835731120000,
+						"id_str": "1225905835731120128",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/EQNK3MrU8AA33wH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQNK3MrU8AA33wH.jpg",
+						"url": "https://t.co/Vrg14Y1tKT",
+						"display_url": "pic.twitter.com/Vrg14Y1tKT",
+						"expanded_url": "https://twitter.com/EduCelebrity/status/1225905842509242371/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 785,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 785,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225905835731120000,
+						"id_str": "1225905835731120128",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/EQNK3MrU8AA33wH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQNK3MrU8AA33wH.jpg",
+						"url": "https://t.co/Vrg14Y1tKT",
+						"display_url": "pic.twitter.com/Vrg14Y1tKT",
+						"expanded_url": "https://twitter.com/EduCelebrity/status/1225905842509242371/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 785,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 785,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1153483865673142300,
+				"id_str": "1153483865673142272",
+				"name": "Typical EduCelebrity",
+				"screen_name": "EduCelebrity",
+				"location": "Your Next Inservice!",
+				"description": "My six months in the classroom have taught me the skills to make you a great teacher like me, one bloated platitude at a time! Opinions seen here are the truth.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14956,
+				"friends_count": 1477,
+				"listed_count": 46,
+				"created_at": "Tue Jul 23 01:55:59 +0000 2019",
+				"favourites_count": 7819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154711030402039809/-D3E3Zz9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154711030402039809/-D3E3Zz9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1153483865673142272/1563850215",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 185,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does this prove that : \nA. People are stupid.\nB. People are lazy.\nC. There are accounts that tweet stuff like this it's actually believable. https://t.co/7FAzS399VQ"
+	},
+	{
 		"created_at": "Fri Feb 07 17:33:55 +0000 2020",
 		"id": 1225835089986109400,
 		"id_str": "1225835089986109442",
