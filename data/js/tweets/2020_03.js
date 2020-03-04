@@ -1,6 +1,1298 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 22:15:49 +0000 2020",
+		"id": 1234965730807947300,
+		"id_str": "1234965730807947266",
+		"full_text": "All stars. #VaLIN #alplearn https://t.co/DIfIST1FqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VaLIN",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DIfIST1FqQ",
+					"expanded_url": "https://twitter.com/msuyoung/status/1234959902189248517",
+					"display_url": "twitter.com/msuyoung/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39262,
+			"friends_count": 8146,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234959902189248500,
+		"quoted_status_id_str": "1234959902189248517",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DIfIST1FqQ",
+			"expanded": "https://twitter.com/msuyoung/status/1234959902189248517",
+			"display": "twitter.com/msuyoung/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 03 21:52:39 +0000 2020",
+			"id": 1234959902189248500,
+			"id_str": "1234959902189248517",
+			"full_text": "The CPS ”Virginia is for Learners Innovation Network” #VaLIN  Leadership Team worked with 34 other Virginia district teams and coaches to align acts of innovation with the CPS Empower 2025 strategic plan. #dreamteam #ideaswereflowing #energized #sparkstoflames @shareski https://t.co/BQKsSxx2E8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VaLIN",
+						"indices": [
+							54,
+							60
+						]
+					},
+					{
+						"text": "dreamteam",
+						"indices": [
+							205,
+							215
+						]
+					},
+					{
+						"text": "ideaswereflowing",
+						"indices": [
+							216,
+							233
+						]
+					},
+					{
+						"text": "energized",
+						"indices": [
+							234,
+							244
+						]
+					},
+					{
+						"text": "sparkstoflames",
+						"indices": [
+							245,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							261,
+							270
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1234959883218321400,
+						"id_str": "1234959883218321409",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/ESN1eH8WAAE1Yc8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESN1eH8WAAE1Yc8.jpg",
+						"url": "https://t.co/BQKsSxx2E8",
+						"display_url": "pic.twitter.com/BQKsSxx2E8",
+						"expanded_url": "https://twitter.com/Msuyoung/status/1234959902189248517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234959883218321400,
+						"id_str": "1234959883218321409",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/ESN1eH8WAAE1Yc8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESN1eH8WAAE1Yc8.jpg",
+						"url": "https://t.co/BQKsSxx2E8",
+						"display_url": "pic.twitter.com/BQKsSxx2E8",
+						"expanded_url": "https://twitter.com/Msuyoung/status/1234959902189248517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746372586,
+				"id_str": "746372586",
+				"name": "Sheli Porter, Ed.D.🌻",
+				"screen_name": "Msuyoung",
+				"location": "Chesapeake, VA",
+				"description": "Works with Chesapeake Public Schools and GWU. Wife, Mom, Public Educator, Adjunct Professor, & Friend. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1171,
+				"friends_count": 1228,
+				"listed_count": 4,
+				"created_at": "Thu Aug 09 02:25:15 +0000 2012",
+				"favourites_count": 7714,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2693,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171917091131265025/CXHOCGy0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171917091131265025/CXHOCGy0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746372586/1499906312",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5635c19c2b5078d1",
+				"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+				"place_type": "admin",
+				"name": "Virginia",
+				"full_name": "Virginia, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.67529,
+								36.540739
+							],
+							[
+								-75.16644,
+								36.540739
+							],
+							[
+								-75.16644,
+								39.466012
+							],
+							[
+								-83.67529,
+								39.466012
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All stars. #VaLIN #alplearn https://t.co/DIfIST1FqQ"
+	},
+	{
+		"created_at": "Tue Mar 03 16:33:53 +0000 2020",
+		"id": 1234879680060285000,
+		"id_str": "1234879680060284928",
+		"full_text": "@bonstewart @davecormier He’s a fancy boy.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1234837816003190800,
+		"in_reply_to_status_id_str": "1234837816003190785",
+		"in_reply_to_user_id": 6532522,
+		"in_reply_to_user_id_str": "6532522",
+		"in_reply_to_screen_name": "bonstewart",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39262,
+			"friends_count": 8146,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bonstewart @davecormier He’s a fancy boy."
+	},
+	{
+		"created_at": "Tue Mar 03 16:18:05 +0000 2020",
+		"id": 1234875703759442000,
+		"id_str": "1234875703759441920",
+		"full_text": "These folks learn and play together well. @cpschoolsva #VaLIN #alplearn @ALPlearn I’m excited to learn with and from them. @AlainaTrott @Msuyoung @RyanWieck @good_elo @LDohey https://t.co/1BkJPpICPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VaLIN",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpschoolsva",
+					"name": "𝘾𝙝𝙚𝙨𝙖𝙥𝙚𝙖𝙠𝙚 𝙋𝙪𝙗𝙡𝙞𝙘 𝙎𝙘𝙝𝙤𝙤𝙡𝙨",
+					"id": 1007301612254220300,
+					"id_str": "1007301612254220288",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "AlainaTrott",
+					"name": "Alaina Trott",
+					"id": 880083531103424500,
+					"id_str": "880083531103424514",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"screen_name": "Msuyoung",
+					"name": "Sheli Porter, Ed.D.🌻",
+					"id": 746372586,
+					"id_str": "746372586",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"screen_name": "RyanWieck",
+					"name": "exSCIted_about_CPS",
+					"id": 1042473479352856600,
+					"id_str": "1042473479352856578",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"screen_name": "good_elo",
+					"name": "Monica Agudelo",
+					"id": 1027977567406575600,
+					"id_str": "1027977567406575616",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"screen_name": "LDohey",
+					"name": "Linda Dohey",
+					"id": 798252825235116000,
+					"id_str": "798252825235116032",
+					"indices": [
+						167,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1BkJPpICPT",
+					"expanded_url": "https://twitter.com/alainatrott/status/1234871470624530432",
+					"display_url": "twitter.com/alainatrott/st…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39262,
+			"friends_count": 8146,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234871470624530400,
+		"quoted_status_id_str": "1234871470624530432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1BkJPpICPT",
+			"expanded": "https://twitter.com/alainatrott/status/1234871470624530432",
+			"display": "twitter.com/alainatrott/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 03 16:01:16 +0000 2020",
+			"id": 1234871470624530400,
+			"id_str": "1234871470624530432",
+			"full_text": "The #VALIN team from @cpschoolsva taking on the LEGO design challenge with a little district spirit in the mix! #VAis4Learners #ALPlearn #EmpowerCPS 💡 https://t.co/7rqU6Arpnj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VALIN",
+						"indices": [
+							4,
+							10
+						]
+					},
+					{
+						"text": "VAis4Learners",
+						"indices": [
+							112,
+							126
+						]
+					},
+					{
+						"text": "ALPlearn",
+						"indices": [
+							127,
+							136
+						]
+					},
+					{
+						"text": "EmpowerCPS",
+						"indices": [
+							137,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cpschoolsva",
+						"name": "𝘾𝙝𝙚𝙨𝙖𝙥𝙚𝙖𝙠𝙚 𝙋𝙪𝙗𝙡𝙞𝙘 𝙎𝙘𝙝𝙤𝙤𝙡𝙨",
+						"id": 1007301612254220300,
+						"id_str": "1007301612254220288",
+						"indices": [
+							21,
+							33
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1234871465012535300,
+						"id_str": "1234871465012535299",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/ESMlDgdWoAM7KkC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESMlDgdWoAM7KkC.jpg",
+						"url": "https://t.co/7rqU6Arpnj",
+						"display_url": "pic.twitter.com/7rqU6Arpnj",
+						"expanded_url": "https://twitter.com/AlainaTrott/status/1234871470624530432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1936,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234871465012535300,
+						"id_str": "1234871465012535299",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/ESMlDgdWoAM7KkC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESMlDgdWoAM7KkC.jpg",
+						"url": "https://t.co/7rqU6Arpnj",
+						"display_url": "pic.twitter.com/7rqU6Arpnj",
+						"expanded_url": "https://twitter.com/AlainaTrott/status/1234871470624530432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1936,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880083531103424500,
+				"id_str": "880083531103424514",
+				"name": "Alaina Trott",
+				"screen_name": "AlainaTrott",
+				"location": "Chesapeake, VA",
+				"description": "Director, Strategic Initiatives & Partnerships @EmpowerCPS. Servant leadership, equity edu, collaboration, innovation & strategic planning. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 880,
+				"friends_count": 671,
+				"listed_count": 8,
+				"created_at": "Wed Jun 28 15:20:39 +0000 2017",
+				"favourites_count": 4916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163966362953408512/KXI3Inl__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163966362953408512/KXI3Inl__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/880083531103424514/1534105261",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These folks learn and play together well. @cpschoolsva #VaLIN #alplearn @ALPlearn I’m excited to learn with and from them. @AlainaTrott @Msuyoung @RyanWieck @good_elo @LDohey https://t.co/1BkJPpICPT"
+	},
+	{
+		"created_at": "Tue Mar 03 15:44:21 +0000 2020",
+		"id": 1234867215108886500,
+		"id_str": "1234867215108886529",
+		"full_text": "I'm grateful to be supporting this group of passionate, thoughtful educators. Also you should have seen what @MrSiverioITRT was wearing yesterday. Choice. #VaLIN #alplearn @mcataldo @laurelmasterson @itrtmatt https://t.co/DiKFrqRxB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VaLIN",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrSiverioITRT",
+					"name": "Mr. Michale Siverio",
+					"id": 3319178318,
+					"id_str": "3319178318",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"screen_name": "mcataldo",
+					"name": "Mike Cataldo",
+					"id": 15532545,
+					"id_str": "15532545",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"screen_name": "laurelmasterson",
+					"name": "LMasterson",
+					"id": 3460171283,
+					"id_str": "3460171283",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"screen_name": "itrtmatt",
+					"name": "Matt Roadruck",
+					"id": 3424116683,
+					"id_str": "3424116683",
+					"indices": [
+						199,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DiKFrqRxB0",
+					"expanded_url": "https://twitter.com/MrSiverioITRT/status/1234862479416664069",
+					"display_url": "twitter.com/MrSiverioITRT/…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "I was told there would be snacks. Working every day to bring a little more joy into the world. Currently ranked #12. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39262,
+			"friends_count": 8146,
+			"listed_count": 1400,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234862479416664000,
+		"quoted_status_id_str": "1234862479416664069",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DiKFrqRxB0",
+			"expanded": "https://twitter.com/MrSiverioITRT/status/1234862479416664069",
+			"display": "twitter.com/MrSiverioITRT/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 03 15:25:32 +0000 2020",
+			"id": 1234862479416664000,
+			"id_str": "1234862479416664069",
+			"full_text": "@NPSchools collaborating to innovate our schools #VaLIN #ALPlearn #VAis4Learners #LightTheSpark https://t.co/kcXmyuylPn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VaLIN",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "ALPlearn",
+						"indices": [
+							56,
+							65
+						]
+					},
+					{
+						"text": "VAis4Learners",
+						"indices": [
+							66,
+							80
+						]
+					},
+					{
+						"text": "LightTheSpark",
+						"indices": [
+							81,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NPSchools",
+						"name": "NorfolkPublicSchools",
+						"id": 95218306,
+						"id_str": "95218306",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1234862468318584800,
+						"id_str": "1234862468318584832",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/ESMc31KXYAAe4kc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESMc31KXYAAe4kc.jpg",
+						"url": "https://t.co/kcXmyuylPn",
+						"display_url": "pic.twitter.com/kcXmyuylPn",
+						"expanded_url": "https://twitter.com/MrSiverioITRT/status/1234862479416664069/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234862468318584800,
+						"id_str": "1234862468318584832",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/ESMc31KXYAAe4kc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESMc31KXYAAe4kc.jpg",
+						"url": "https://t.co/kcXmyuylPn",
+						"display_url": "pic.twitter.com/kcXmyuylPn",
+						"expanded_url": "https://twitter.com/MrSiverioITRT/status/1234862479416664069/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 95218306,
+			"in_reply_to_user_id_str": "95218306",
+			"in_reply_to_screen_name": "NPSchools",
+			"user": {
+				"id": 3319178318,
+				"id_str": "3319178318",
+				"name": "Mr. Michale Siverio",
+				"screen_name": "MrSiverioITRT",
+				"location": "",
+				"description": "NPS Intructional Techology Coach. Google Certified Educator 1&2. Teacher supporter. PhD student in Instructional Design and Technology at ODU. Lifelong Learner.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 200,
+				"friends_count": 320,
+				"listed_count": 1,
+				"created_at": "Tue Aug 18 20:59:11 +0000 2015",
+				"favourites_count": 717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 656,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204536887274278912/msptaYrQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204536887274278912/msptaYrQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3319178318/1580253818",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm grateful to be supporting this group of passionate, thoughtful educators. Also you should have seen what @MrSiverioITRT was wearing yesterday. Choice. #VaLIN #alplearn @mcataldo @laurelmasterson @itrtmatt https://t.co/DiKFrqRxB0"
+	},
+	{
 		"created_at": "Mon Mar 02 19:14:00 +0000 2020",
 		"id": 1234557586223063000,
 		"id_str": "1234557586223063043",
