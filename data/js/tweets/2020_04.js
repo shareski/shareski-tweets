@@ -1,6 +1,1164 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 00:32:15 +0000 2020",
+		"id": 1254931397174718500,
+		"id_str": "1254931397174718464",
+		"full_text": "@courosa Will you be wearing a sports jacket like in the picture?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254863740429725700,
+		"in_reply_to_status_id_str": "1254863740429725697",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8445,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@courosa Will you be wearing a sports jacket like in the picture?"
+	},
+	{
+		"created_at": "Mon Apr 27 23:11:24 +0000 2020",
+		"id": 1254911053239947300,
+		"id_str": "1254911053239947270",
+		"full_text": "I'm so blessed to be able to learn with and from such thoughtful smart people. My hope is others connect with these smart people. https://t.co/X7KtxJ8b0I https://t.co/FNrxXS67lG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X7KtxJ8b0I",
+					"expanded_url": "http://shareski.ca/y/covid19",
+					"display_url": "shareski.ca/y/covid19",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/FNrxXS67lG",
+					"expanded_url": "https://twitter.com/AlainaTrott/status/1254909975073361921",
+					"display_url": "twitter.com/AlainaTrott/st…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8445,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254909975073362000,
+		"quoted_status_id_str": "1254909975073361921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FNrxXS67lG",
+			"expanded": "https://twitter.com/AlainaTrott/status/1254909975073361921",
+			"display": "twitter.com/AlainaTrott/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 27 23:07:07 +0000 2020",
+			"id": 1254909975073362000,
+			"id_str": "1254909975073361921",
+			"full_text": "Thanks to @shareski for coaching me through my very first podcast and shining a light on all the beautiful work being done to inspire hope, engage hearts, and empower ALL students during this global challenge. https://t.co/5gVFq0K4bp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							10,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5gVFq0K4bp",
+						"expanded_url": "https://twitter.com/shareski/status/1254883532230414336",
+						"display_url": "twitter.com/shareski/statu…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880083531103424500,
+				"id_str": "880083531103424514",
+				"name": "Alaina Trott",
+				"screen_name": "AlainaTrott",
+				"location": "Chesapeake, VA",
+				"description": "Director, Strategic Initiatives & Partnerships @EmpowerCPS. Servant leadership, equity edu, collaboration, innovation & strategic planning. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 927,
+				"friends_count": 686,
+				"listed_count": 8,
+				"created_at": "Wed Jun 28 15:20:39 +0000 2017",
+				"favourites_count": 5183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2280,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1163966362953408512/KXI3Inl__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163966362953408512/KXI3Inl__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/880083531103424514/1534105261",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1254883532230414300,
+			"quoted_status_id_str": "1254883532230414336",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5gVFq0K4bp",
+				"expanded": "https://twitter.com/shareski/status/1254883532230414336",
+				"display": "twitter.com/shareski/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so blessed to be able to learn with and from such thoughtful smart people. My hope is others connect with these smart people. https://t.co/X7KtxJ8b0I https://t.co/FNrxXS67lG"
+	},
+	{
+		"created_at": "Mon Apr 27 22:18:00 +0000 2020",
+		"id": 1254897612089589800,
+		"id_str": "1254897612089589768",
+		"full_text": "Of course, it's free. https://t.co/j5k5r8xhMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j5k5r8xhMM",
+					"expanded_url": "https://twitter.com/courosa/status/1254826356656861184",
+					"display_url": "twitter.com/courosa/status…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8445,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254826356656861200,
+		"quoted_status_id_str": "1254826356656861184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j5k5r8xhMM",
+			"expanded": "https://twitter.com/courosa/status/1254826356656861184",
+			"display": "twitter.com/courosa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 27 17:34:51 +0000 2020",
+			"id": 1254826356656861200,
+			"id_str": "1254826356656861184",
+			"full_text": "If you're looking for support or seeking understanding, please register for this session around the teaching parent. \n@shareski and I believe you'll leave with both.  Wednesday at 12PM CDT https://t.co/BTezHCefAS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							118,
+							127
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BTezHCefAS",
+						"expanded_url": "http://shareski.ca/y/connectedathome",
+						"display_url": "shareski.ca/y/connectedath…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739293,
+				"id_str": "739293",
+				"name": "Dr. Alec Couros",
+				"screen_name": "courosa",
+				"location": "University of Regina, Canada.",
+				"description": "Professor of #edtech & #media, #education researcher, #consultant, #connected educator, keynote #speaker #open scholar, and father of 4 amazing children!",
+				"url": "https://t.co/hJctNpUjOT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hJctNpUjOT",
+								"expanded_url": "http://couros.ca/",
+								"display_url": "couros.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133323,
+				"friends_count": 73080,
+				"listed_count": 4359,
+				"created_at": "Wed Jan 31 18:30:03 +0000 2007",
+				"favourites_count": 37614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 125055,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/480186733221249027/bzI2RIfo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/480186733221249027/bzI2RIfo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739293/1413870084",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Of course, it's free. https://t.co/j5k5r8xhMM"
+	},
+	{
+		"created_at": "Mon Apr 27 21:22:03 +0000 2020",
+		"id": 1254883532230414300,
+		"id_str": "1254883532230414336",
+		"full_text": "New Podcast episode is up featuring @AlainaTrott who is helping to lead the equity issue. https://t.co/pGgv7MPzu8 #Valin #VAIS @Amos_ALP @ALPlearn @cpschoolsva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Valin",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "VAIS",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlainaTrott",
+					"name": "Alaina Trott",
+					"id": 880083531103424500,
+					"id_str": "880083531103424514",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "Amos_ALP",
+					"name": "Amos Fodchuk",
+					"id": 747340304,
+					"id_str": "747340304",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "cpschoolsva",
+					"name": "𝘾𝙝𝙚𝙨𝙖𝙥𝙚𝙖𝙠𝙚 𝙋𝙪𝙗𝙡𝙞𝙘 𝙎𝙘𝙝𝙤𝙤𝙡𝙨",
+					"id": 1007301612254220300,
+					"id_str": "1007301612254220288",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pGgv7MPzu8",
+					"expanded_url": "http://shareski.ca/y/49l",
+					"display_url": "shareski.ca/y/49l",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8445,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Podcast episode is up featuring @AlainaTrott who is helping to lead the equity issue. https://t.co/pGgv7MPzu8 #Valin #VAIS @Amos_ALP @ALPlearn @cpschoolsva"
+	},
+	{
+		"created_at": "Mon Apr 27 16:36:08 +0000 2020",
+		"id": 1254811578785915000,
+		"id_str": "1254811578785914880",
+		"full_text": "If you're looking for support or seeking understanding, please register for this session around the teaching parent. @courosa and I believe you'll leave with both.  Wednesday at 12PM CDT https://t.co/cL2v5UEc7p https://t.co/MD8hcZZ7Ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cL2v5UEc7p",
+					"expanded_url": "http://shareski.ca/y/connectedathome",
+					"display_url": "shareski.ca/y/connectedath…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1254811494153248800,
+					"id_str": "1254811494153248768",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EWn8Z9kU4AAadYj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWn8Z9kU4AAadYj.png",
+					"url": "https://t.co/MD8hcZZ7Ha",
+					"display_url": "pic.twitter.com/MD8hcZZ7Ha",
+					"expanded_url": "https://twitter.com/shareski/status/1254811578785914880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 784,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 784,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254811494153248800,
+					"id_str": "1254811494153248768",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EWn8Z9kU4AAadYj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWn8Z9kU4AAadYj.png",
+					"url": "https://t.co/MD8hcZZ7Ha",
+					"display_url": "pic.twitter.com/MD8hcZZ7Ha",
+					"expanded_url": "https://twitter.com/shareski/status/1254811578785914880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 784,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 784,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8445,
+			"listed_count": 1401,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're looking for support or seeking understanding, please register for this session around the teaching parent. @courosa and I believe you'll leave with both.  Wednesday at 12PM CDT https://t.co/cL2v5UEc7p https://t.co/MD8hcZZ7Ha"
+	},
+	{
+		"created_at": "Mon Apr 27 03:08:19 +0000 2020",
+		"id": 1254594180791312400,
+		"id_str": "1254608286453608448",
+		"full_text": "Leadership During a Storm https://t.co/6ExLWUOWyW https://t.co/jYZfs5RfwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ExLWUOWyW",
+					"expanded_url": "http://thepowerofwhy.ca/2020/04/26/leadership-during-a-storm/",
+					"display_url": "thepowerofwhy.ca/2020/04/26/lea…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1254594179130372000,
+					"id_str": "1254594179130372096",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EWk2wkBWsAAd-Mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWk2wkBWsAAd-Mt.jpg",
+					"url": "https://t.co/jYZfs5RfwG",
+					"display_url": "pic.twitter.com/jYZfs5RfwG",
+					"expanded_url": "https://twitter.com/DaveWEberwein/status/1254594180791312385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254594179130372000,
+					"id_str": "1254594179130372096",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EWk2wkBWsAAd-Mt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWk2wkBWsAAd-Mt.jpg",
+					"url": "https://t.co/jYZfs5RfwG",
+					"display_url": "pic.twitter.com/jYZfs5RfwG",
+					"expanded_url": "https://twitter.com/DaveWEberwein/status/1254594180791312385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230335426,
+			"id_str": "230335426",
+			"name": "Dave Eberwein",
+			"screen_name": "DaveWEberwein",
+			"location": "Saanich, British Columbia",
+			"description": "Father to 2 great kids, husband to a wonderful wife, and an avid trail hiker. Superintendent of Schools in Saanich, BC",
+			"url": "https://t.co/PBNZzHmcXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PBNZzHmcXh",
+							"expanded_url": "http://www.thepowerofwhy.ca",
+							"display_url": "thepowerofwhy.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036,
+			"friends_count": 196,
+			"listed_count": 29,
+			"created_at": "Sat Dec 25 02:59:33 +0000 2010",
+			"favourites_count": 1112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919259877968568325/f4blnpUh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919259877968568325/f4blnpUh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230335426/1508098194",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Leadership During a Storm https://t.co/6ExLWUOWyW https://t.co/jYZfs5RfwG"
+	},
+	{
 		"created_at": "Sun Apr 26 23:59:04 +0000 2020",
 		"id": 1254560659305451500,
 		"id_str": "1254560659305451521",
