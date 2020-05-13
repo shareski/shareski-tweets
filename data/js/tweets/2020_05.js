@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 00:36:10 +0000 2020",
+		"id": 1260368203592523800,
+		"id_str": "1260368203592523776",
+		"full_text": "Seriously, delightful. Makes me wish my kids went here. @sd63schools @saanich @DaveWEberwein #bced @bctf https://t.co/m0Ds03WseF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bced",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sd63schools",
+					"name": "SD 63 Saanich",
+					"id": 480844675,
+					"id_str": "480844675",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "saanich",
+					"name": "District of Saanich",
+					"id": 139231675,
+					"id_str": "139231675",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "DaveWEberwein",
+					"name": "Dave Eberwein",
+					"id": 230335426,
+					"id_str": "230335426",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"screen_name": "bctf",
+					"name": "BCTF",
+					"id": 18230352,
+					"id_str": "18230352",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m0Ds03WseF",
+					"expanded_url": "https://twitter.com/SD63Claremont/status/1255918556832608256",
+					"display_url": "twitter.com/SD63Claremont/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8528,
+			"listed_count": 1385,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255918556832608300,
+		"quoted_status_id_str": "1255918556832608256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m0Ds03WseF",
+			"expanded": "https://twitter.com/SD63Claremont/status/1255918556832608256",
+			"display": "twitter.com/SD63Claremont/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 17:54:52 +0000 2020",
+			"id": 1255918556832608300,
+			"id_str": "1255918556832608256",
+			"full_text": "Spartans, We Miss You! A message to our Claremont students. Wishing you all good health and happiness from our homes. \n#SpartanNation #StayConnected #TogetherWeGotThis \n\nVideo edited by Ms. Wallace\nhttps://t.co/sNyboQZjLb via @YouTube",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpartanNation",
+						"indices": [
+							119,
+							133
+						]
+					},
+					{
+						"text": "StayConnected",
+						"indices": [
+							134,
+							148
+						]
+					},
+					{
+						"text": "TogetherWeGotThis",
+						"indices": [
+							149,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube at 🏠",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							226,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sNyboQZjLb",
+						"expanded_url": "https://youtu.be/JQyRUWQVCno",
+						"display_url": "youtu.be/JQyRUWQVCno",
+						"indices": [
+							198,
+							221
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 556309631,
+				"id_str": "556309631",
+				"name": "Claremont Secondary",
+				"screen_name": "SD63Claremont",
+				"location": "250-658-5221",
+				"description": "4980 Wesley Road, Victoria, BC  V8Y 1Y9",
+				"url": "http://t.co/WnIG9RDaIj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WnIG9RDaIj",
+								"expanded_url": "http://www.claremont.sd63.bc.ca",
+								"display_url": "claremont.sd63.bc.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 603,
+				"friends_count": 31,
+				"listed_count": 3,
+				"created_at": "Tue Apr 17 21:46:52 +0000 2012",
+				"favourites_count": 250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080894",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1115064698674614272/zLmoNV0F_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115064698674614272/zLmoNV0F_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/556309631/1379972793",
+				"profile_link_color": "8F0B0B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seriously, delightful. Makes me wish my kids went here. @sd63schools @saanich @DaveWEberwein #bced @bctf https://t.co/m0Ds03WseF"
+	},
+	{
+		"created_at": "Tue May 12 04:59:49 +0000 2020",
+		"id": 1260072164578881500,
+		"id_str": "1260072164578881538",
+		"full_text": "#RIPJerryStiller the link between my 2 of my favourite shows. https://t.co/JspV0Zni4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPJerryStiller",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260072153715638300,
+					"id_str": "1260072153715638272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXys8pmVAAAkK0Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXys8pmVAAAkK0Q.jpg",
+					"url": "https://t.co/JspV0Zni4H",
+					"display_url": "pic.twitter.com/JspV0Zni4H",
+					"expanded_url": "https://twitter.com/shareski/status/1260072164578881538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260072153715638300,
+					"id_str": "1260072153715638272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXys8pmVAAAkK0Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXys8pmVAAAkK0Q.jpg",
+					"url": "https://t.co/JspV0Zni4H",
+					"display_url": "pic.twitter.com/JspV0Zni4H",
+					"expanded_url": "https://twitter.com/shareski/status/1260072164578881538/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXys8pmVAAAkK0Q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39344,
+			"friends_count": 8528,
+			"listed_count": 1385,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RIPJerryStiller the link between my 2 of my favourite shows. https://t.co/JspV0Zni4H"
+	},
+	{
 		"created_at": "Tue May 12 00:05:35 +0000 2020",
 		"id": 1259998115513294800,
 		"id_str": "1259998115513294848",
