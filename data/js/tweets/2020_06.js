@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 21:08:01 +0000 2020",
+		"id": 1274448947105239000,
+		"id_str": "1274448947105239041",
+		"full_text": "@missionaryman6 True.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "missionaryman6",
+					"name": "gluten rocks",
+					"id": 1180178156361175000,
+					"id_str": "1180178156361175040",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1274444100733821000,
+		"in_reply_to_status_id_str": "1274444100733820933",
+		"in_reply_to_user_id": 1180178156361175000,
+		"in_reply_to_user_id_str": "1180178156361175040",
+		"in_reply_to_screen_name": "missionaryman6",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39112,
+			"friends_count": 8664,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@missionaryman6 True."
+	},
+	{
+		"created_at": "Sat Jun 20 19:40:06 +0000 2020",
+		"id": 1274424117710577700,
+		"id_str": "1274426820243288064",
+		"full_text": "PLEASE PLEASE PLEASE PLEASE share this information with any secondary school teacher, PRINCIPAL, superintendent you happen to know! PLEASE! Such an opportunity to interact with a genius of secondary &amp; college education innovation should be embraced. https://t.co/gKXM1y7dpP https://t.co/YZoZ8QQOUc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gKXM1y7dpP",
+					"expanded_url": "https://constructingmodernknowledge.com/?p=4261",
+					"display_url": "constructingmodernknowledge.com/?p=4261",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1274424023997284400,
+					"id_str": "1274424023997284353",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea-p5cuVAAEHU5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea-p5cuVAAEHU5q.jpg",
+					"url": "https://t.co/YZoZ8QQOUc",
+					"display_url": "pic.twitter.com/YZoZ8QQOUc",
+					"expanded_url": "https://twitter.com/garystager/status/1274424117710577664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274424023997284400,
+					"id_str": "1274424023997284353",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea-p5cuVAAEHU5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea-p5cuVAAEHU5q.jpg",
+					"url": "https://t.co/YZoZ8QQOUc",
+					"display_url": "pic.twitter.com/YZoZ8QQOUc",
+					"expanded_url": "https://twitter.com/garystager/status/1274424117710577664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8870632,
+			"id_str": "8870632",
+			"name": "Gary Stager - New Invent To Learn Book!",
+			"screen_name": "garystager",
+			"location": "iPhone: 33.836876,-118.351767",
+			"description": "Progressive educator, journalist, speaker, professor – https://t.co/742f1rbKrw -Expertise = edtech, 1:1 computing, online teaching, school reform, jazz",
+			"url": "https://t.co/n7beHj1qWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n7beHj1qWh",
+							"expanded_url": "http://www.cmkfutures.com/gary",
+							"display_url": "cmkfutures.com/gary",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/742f1rbKrw",
+							"expanded_url": "http://inventtolearn.com",
+							"display_url": "inventtolearn.com",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23902,
+			"friends_count": 14631,
+			"listed_count": 1273,
+			"created_at": "Fri Sep 14 07:35:56 +0000 2007",
+			"favourites_count": 8853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8870632/1547243862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PLEASE PLEASE PLEASE PLEASE share this information with any secondary school teacher, PRINCIPAL, superintendent you happen to know! PLEASE! Such an opportunity to interact with a genius of secondary &amp; college education innovation should be embraced. https://t.co/gKXM1y7dpP https://t.co/YZoZ8QQOUc"
+	},
+	{
+		"created_at": "Sat Jun 20 19:25:23 +0000 2020",
+		"id": 1274423119369785300,
+		"id_str": "1274423119369785344",
+		"full_text": "Currently arguing with my wife over why yellow cake is not the same as lemon cake. Makes no sense. Then brown cake should be a thing in addition to chocolate. She doesn’t even question these things. https://t.co/SJwBEIKRXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274423112805712000,
+					"id_str": "1274423112805711872",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea-pEaRVAAAijkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea-pEaRVAAAijkF.jpg",
+					"url": "https://t.co/SJwBEIKRXP",
+					"display_url": "pic.twitter.com/SJwBEIKRXP",
+					"expanded_url": "https://twitter.com/shareski/status/1274423119369785344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274423112805712000,
+					"id_str": "1274423112805711872",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ea-pEaRVAAAijkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ea-pEaRVAAAijkF.jpg",
+					"url": "https://t.co/SJwBEIKRXP",
+					"display_url": "pic.twitter.com/SJwBEIKRXP",
+					"expanded_url": "https://twitter.com/shareski/status/1274423119369785344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							128,
+							123
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ea-pEaRVAAAijkF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39112,
+			"friends_count": 8664,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently arguing with my wife over why yellow cake is not the same as lemon cake. Makes no sense. Then brown cake should be a thing in addition to chocolate. She doesn’t even question these things. https://t.co/SJwBEIKRXP"
+	},
+	{
 		"created_at": "Fri Jun 19 19:02:40 +0000 2020",
 		"id": 1274055012419698700,
 		"id_str": "1274055012419698688",
