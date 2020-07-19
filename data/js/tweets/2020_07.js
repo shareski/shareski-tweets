@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 22:51:44 +0000 2020",
+		"id": 1284621906616844300,
+		"id_str": "1284621906616844288",
+		"full_text": "@NoLayingUp one the reasons I live watching the Memorial is because of its similarities to Augusta. Not only in the course but the fact it seems to have more birdies and bogies than other courses. Any stat that shows which courses on tour have the fewest pars?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1151892168,
+		"in_reply_to_user_id_str": "1151892168",
+		"in_reply_to_screen_name": "NoLayingUp",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39085,
+			"friends_count": 8724,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NoLayingUp one the reasons I live watching the Memorial is because of its similarities to Augusta. Not only in the course but the fact it seems to have more birdies and bogies than other courses. Any stat that shows which courses on tour have the fewest pars?"
+	},
+	{
+		"created_at": "Sat Jul 18 04:02:20 +0000 2020",
+		"id": 1284337685046325200,
+		"id_str": "1284337685046325252",
+		"full_text": "@mpcapps1 https://t.co/91KI2H29BH",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpcapps1",
+					"name": "Michael Capps",
+					"id": 829055912803463200,
+					"id_str": "829055912803463168",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284337677840482300,
+					"id_str": "1284337677840482304",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdLiUDNVAAAITr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdLiUDNVAAAITr4.jpg",
+					"url": "https://t.co/91KI2H29BH",
+					"display_url": "pic.twitter.com/91KI2H29BH",
+					"expanded_url": "https://twitter.com/shareski/status/1284337685046325252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284337677840482300,
+					"id_str": "1284337677840482304",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EdLiUDNVAAAITr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EdLiUDNVAAAITr4.jpg",
+					"url": "https://t.co/91KI2H29BH",
+					"display_url": "pic.twitter.com/91KI2H29BH",
+					"expanded_url": "https://twitter.com/shareski/status/1284337685046325252/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EdLiUDNVAAAITr4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1284326097589547000,
+		"in_reply_to_status_id_str": "1284326097589547010",
+		"in_reply_to_user_id": 829055912803463200,
+		"in_reply_to_user_id_str": "829055912803463168",
+		"in_reply_to_screen_name": "mpcapps1",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39085,
+			"friends_count": 8724,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mpcapps1 https://t.co/91KI2H29BH"
+	},
+	{
+		"created_at": "Sat Jul 18 01:38:48 +0000 2020",
+		"id": 1284071390107361300,
+		"id_str": "1284301561401769987",
+		"full_text": "Communicating with patients who lipread whilst wearing a mask..  I hope you find this useful! 🙂😷🚑 #Communication #Inclusion #PatientCare #Paramedic @Google #LiveTranscribeApp #COVID19 #TeamSECAmb https://t.co/DC6Ima2Ktw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Communication",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "Inclusion",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "PatientCare",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "Paramedic",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "LiveTranscribeApp",
+					"indices": [
+						156,
+						174
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "TeamSECAmb",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Google",
+					"name": "Google",
+					"id": 20536157,
+					"id_str": "20536157",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284071021243441200,
+					"id_str": "1284071021243441152",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284071021243441152/pu/img/ecKhxF4w2lBp911I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284071021243441152/pu/img/ecKhxF4w2lBp911I.jpg",
+					"url": "https://t.co/DC6Ima2Ktw",
+					"display_url": "pic.twitter.com/DC6Ima2Ktw",
+					"expanded_url": "https://twitter.com/SECAmb_Danny/status/1284071390107361285/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284071021243441200,
+					"id_str": "1284071021243441152",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284071021243441152/pu/img/ecKhxF4w2lBp911I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284071021243441152/pu/img/ecKhxF4w2lBp911I.jpg",
+					"url": "https://t.co/DC6Ima2Ktw",
+					"display_url": "pic.twitter.com/DC6Ima2Ktw",
+					"expanded_url": "https://twitter.com/SECAmb_Danny/status/1284071390107361285/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42900,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284071021243441152/pu/vid/640x360/0_EWU_lemf2-Vect.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1284071021243441152/pu/pl/3eSYkHFb-gnrrGHT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284071021243441152/pu/vid/1280x720/jDA7HHMblF_SBFJk.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284071021243441152/pu/vid/480x270/Z7UVECpbCL7GS_BE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1184759998393606100,
+			"id_str": "1184759998393606144",
+			"name": "Danny Hughes",
+			"screen_name": "SECAmb_Danny",
+			"location": "Sussex",
+			"description": "Paramedic @SECAmbulance | Ex RAF Medic | Interested in Critical Care & Clinical Education | Paraglider & Kayaker | **All views my own**",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1136,
+			"friends_count": 2728,
+			"listed_count": 2,
+			"created_at": "Thu Oct 17 09:18:01 +0000 2019",
+			"favourites_count": 1885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230241103816908800/BpZHHvnn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230241103816908800/BpZHHvnn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1184759998393606144/1586611735",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6505,
+		"favorite_count": 11884,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Communicating with patients who lipread whilst wearing a mask..  I hope you find this useful! 🙂😷🚑 #Communication #Inclusion #PatientCare #Paramedic @Google #LiveTranscribeApp #COVID19 #TeamSECAmb https://t.co/DC6Ima2Ktw"
+	},
+	{
 		"created_at": "Sat Jul 18 00:47:41 +0000 2020",
 		"id": 1284288697555226600,
 		"id_str": "1284288697555226625",
