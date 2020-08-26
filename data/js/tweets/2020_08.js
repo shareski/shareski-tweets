@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 25 23:12:29 +0000 2020",
+		"id": 1298397867229319200,
+		"id_str": "1298397867229319168",
+		"full_text": "Thank you for saying this. https://t.co/d07DzR1RSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d07DzR1RSy",
+					"expanded_url": "https://twitter.com/mrsscissons/status/1298393765246144512",
+					"display_url": "twitter.com/mrsscissons/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39200,
+			"friends_count": 8882,
+			"listed_count": 1379,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298393765246144500,
+		"quoted_status_id_str": "1298393765246144512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d07DzR1RSy",
+			"expanded": "https://twitter.com/mrsscissons/status/1298393765246144512",
+			"display": "twitter.com/mrsscissons/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 25 22:56:11 +0000 2020",
+			"id": 1298393765246144500,
+			"id_str": "1298393765246144512",
+			"full_text": "@shareski I would equally say - staff need to also be checking in and reminder principals of all these things too- they are shouldering so much, but need to know it’s not all on them",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1297659874818416600,
+			"in_reply_to_status_id_str": "1297659874818416641",
+			"in_reply_to_user_id": 362650542,
+			"in_reply_to_user_id_str": "362650542",
+			"in_reply_to_screen_name": "MrsScissons",
+			"user": {
+				"id": 362650542,
+				"id_str": "362650542",
+				"name": "Danielle Scissons",
+				"screen_name": "MrsScissons",
+				"location": "",
+				"description": "Teacher. Wife. B.Ed , M.Ed. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 815,
+				"friends_count": 1219,
+				"listed_count": 24,
+				"created_at": "Fri Aug 26 19:12:42 +0000 2011",
+				"favourites_count": 1737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2591,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1533236172/261822_10150210358707823_566702822_7247916_5907264_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533236172/261822_10150210358707823_566702822_7247916_5907264_n_normal.jpg",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for saying this. https://t.co/d07DzR1RSy"
+	},
+	{
+		"created_at": "Tue Aug 25 22:12:18 +0000 2020",
+		"id": 1298382722637807600,
+		"id_str": "1298382722637807616",
+		"full_text": "Check it out folks and download a free copy. https://t.co/IUlZdmAZFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUlZdmAZFW",
+					"expanded_url": "https://twitter.com/garystager/status/1298376674350731264",
+					"display_url": "twitter.com/garystager/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39200,
+			"friends_count": 8882,
+			"listed_count": 1379,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298376674350731300,
+		"quoted_status_id_str": "1298376674350731264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IUlZdmAZFW",
+			"expanded": "https://twitter.com/garystager/status/1298376674350731264",
+			"display": "twitter.com/garystager/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 25 21:48:16 +0000 2020",
+			"id": 1298376674350731300,
+			"id_str": "1298376674350731264",
+			"full_text": "@shareski New eBook on Outdoor Learning by one of the world's finest school architects &amp; educational designers. https://t.co/eMIteT4uPg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eMIteT4uPg",
+						"expanded_url": "http://stager.tv/blog/?p=5694",
+						"display_url": "stager.tv/blog/?p=5694",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 8870632,
+				"id_str": "8870632",
+				"name": "Gary Stager - New Invent To Learn Book!",
+				"screen_name": "garystager",
+				"location": "iPhone: 33.836876,-118.351767",
+				"description": "Progressive educator, journalist, speaker, professor – https://t.co/742f1rbKrw -Expertise = edtech, 1:1 computing, online teaching, school reform, jazz",
+				"url": "https://t.co/n7beHj1qWh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7beHj1qWh",
+								"expanded_url": "http://www.cmkfutures.com/gary",
+								"display_url": "cmkfutures.com/gary",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/742f1rbKrw",
+								"expanded_url": "http://inventtolearn.com",
+								"display_url": "inventtolearn.com",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23874,
+				"friends_count": 14732,
+				"listed_count": 1265,
+				"created_at": "Fri Sep 14 07:35:56 +0000 2007",
+				"favourites_count": 9805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685967610/peewee_icon5_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8870632/1547243862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check it out folks and download a free copy. https://t.co/IUlZdmAZFW"
+	},
+	{
 		"created_at": "Mon Aug 24 18:59:46 +0000 2020",
 		"id": 1297971880985424000,
 		"id_str": "1297971880985423872",
