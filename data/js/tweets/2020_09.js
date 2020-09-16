@@ -1,10 +1,1009 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 00:58:33 +0000 2020",
+		"id": 1306034704689188900,
+		"id_str": "1306034704689188864",
+		"full_text": "@RafranzDavis Define long.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RafranzDavis",
+					"name": "Rafranz⁷",
+					"id": 15825051,
+					"id_str": "15825051",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306032718703218700,
+		"in_reply_to_status_id_str": "1306032718703218689",
+		"in_reply_to_user_id": 15825051,
+		"in_reply_to_user_id_str": "15825051",
+		"in_reply_to_screen_name": "RafranzDavis",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 8983,
+			"listed_count": 1376,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RafranzDavis Define long."
+	},
+	{
+		"created_at": "Tue Sep 15 19:25:51 +0000 2020",
+		"id": 1305890453955293200,
+		"id_str": "1305950977380331520",
+		"full_text": "So proud of @teachertong on the Wall of Chefs @FoodNetworkCA  Got my popcorn, got to watch. You make us all proud not just of your skills, but who you are.  You say \"opening space for creativity and joy\" - you are all that. #sd36learn #adst #Surreybc https://t.co/ykODPvijRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd36learn",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"text": "adst",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "Surreybc",
+					"indices": [
+						241,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachertong",
+					"name": "Joe Tong 湯溢傑 (he/him)",
+					"id": 371123110,
+					"id_str": "371123110",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "FoodNetworkCA",
+					"name": "Food Network Canada",
+					"id": 14500608,
+					"id_str": "14500608",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305890451606573000,
+					"id_str": "1305890451606573063",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh90cmOVkAcMZq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh90cmOVkAcMZq6.jpg",
+					"url": "https://t.co/ykODPvijRJ",
+					"display_url": "pic.twitter.com/ykODPvijRJ",
+					"expanded_url": "https://twitter.com/jordantinney/status/1305890453955293184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 894,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1003,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305890451606573000,
+					"id_str": "1305890451606573063",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh90cmOVkAcMZq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh90cmOVkAcMZq6.jpg",
+					"url": "https://t.co/ykODPvijRJ",
+					"display_url": "pic.twitter.com/ykODPvijRJ",
+					"expanded_url": "https://twitter.com/jordantinney/status/1305890453955293184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 894,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1003,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 67921017,
+			"id_str": "67921017",
+			"name": "Jordan Tinney",
+			"screen_name": "jordantinney",
+			"location": "Vancouver, Canada",
+			"description": "Superintendent in Surrey, BC. 73,000 students and 130 schools. Passionate supporter of public education and trying to help make a difference for all children.",
+			"url": "https://t.co/pwhccxmY0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pwhccxmY0j",
+							"expanded_url": "http://jordantinney.org",
+							"display_url": "jordantinney.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11185,
+			"friends_count": 2763,
+			"listed_count": 134,
+			"created_at": "Sat Aug 22 16:15:17 +0000 2009",
+			"favourites_count": 1243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300450368053108738/g9klh416_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300450368053108738/g9klh416_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/67921017/1544589779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So proud of @teachertong on the Wall of Chefs @FoodNetworkCA  Got my popcorn, got to watch. You make us all proud not just of your skills, but who you are.  You say \"opening space for creativity and joy\" - you are all that. #sd36learn #adst #Surreybc https://t.co/ykODPvijRJ"
+	},
+	{
+		"created_at": "Tue Sep 15 17:19:08 +0000 2020",
+		"id": 1305919089307652000,
+		"id_str": "1305919089307652097",
+		"full_text": "Speaking of Google Maps, here's a fun activity if you can round up 99 phones. https://t.co/enQbrtzmGR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/enQbrtzmGR",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1305723768380116997",
+					"display_url": "twitter.com/nowthisnews/st…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 8983,
+			"listed_count": 1376,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305723768380117000,
+		"quoted_status_id_str": "1305723768380116997",
+		"quoted_status_permalink": {
+			"url": "https://t.co/enQbrtzmGR",
+			"expanded": "https://twitter.com/nowthisnews/status/1305723768380116997",
+			"display": "twitter.com/nowthisnews/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 15 04:23:00 +0000 2020",
+			"id": 1305723768380117000,
+			"id_str": "1305723768380116997",
+			"full_text": "This artist tricked Google Maps into a fake traffic jam by carting around 99 phones https://t.co/N3gZniCRGH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1224817104349810700,
+						"id_str": "1224817104349810688",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/EP9uUepX0AY5PN8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EP9uUepX0AY5PN8.jpg",
+						"url": "https://t.co/N3gZniCRGH",
+						"display_url": "pic.twitter.com/N3gZniCRGH",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1305723768380116997/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1224817104349810700,
+						"id_str": "1224817104349810688",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/EP9uUepX0AY5PN8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EP9uUepX0AY5PN8.jpg",
+						"url": "https://t.co/N3gZniCRGH",
+						"display_url": "pic.twitter.com/N3gZniCRGH",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1305723768380116997/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 186487,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1224817104349810688/pl/uJPCq-98OgGlntg_.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1224817104349810688/vid/480x480/8nncYWY5fe990Shn.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1224817104349810688/vid/720x720/I12m50LaQGV_1pQ9.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1224817104349810688/vid/320x320/SMTwVxD5u-gpgNsd.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Artists Tricks Google Maps With 99 Smartphones",
+							"description": "This artist tricked Google Maps into a fake traffic jam by carting around 99 phones",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701725963,
+				"id_str": "701725963",
+				"name": "NowThis",
+				"screen_name": "nowthisnews",
+				"location": "The Internet & NYC",
+				"description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+				"url": "http://t.co/1NLX7sJ52o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1NLX7sJ52o",
+								"expanded_url": "http://nowthisnews.com/",
+								"display_url": "nowthisnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2sCY2rymF7",
+								"expanded_url": "http://go.nowth.is/KnowThis",
+								"display_url": "go.nowth.is/KnowThis",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2681999,
+				"friends_count": 11937,
+				"listed_count": 8610,
+				"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+				"favourites_count": 12922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 171083,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7FDBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 550,
+			"favorite_count": 1874,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Speaking of Google Maps, here's a fun activity if you can round up 99 phones. https://t.co/enQbrtzmGR"
+	},
+	{
+		"created_at": "Tue Sep 15 17:18:21 +0000 2020",
+		"id": 1305918892821196800,
+		"id_str": "1305918892821196801",
+		"full_text": "I take an unusally high amount of satisfaction when I beat the Google map time estimation.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 8983,
+			"listed_count": 1376,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I take an unusally high amount of satisfaction when I beat the Google map time estimation."
+	},
+	{
+		"created_at": "Tue Sep 15 05:19:01 +0000 2020",
+		"id": 1305737864966144000,
+		"id_str": "1305737864966144002",
+		"full_text": "It’s been years since I’ve advocated for teachers to use social media. After watching the Social Dilemma that’s not likely to change. I think the work to overcome its built in features to monetize isn’t worth the benefit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 8983,
+			"listed_count": 1376,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s been years since I’ve advocated for teachers to use social media. After watching the Social Dilemma that’s not likely to change. I think the work to overcome its built in features to monetize isn’t worth the benefit."
+	},
+	{
+		"created_at": "Tue Sep 15 02:57:17 +0000 2020",
+		"id": 1305702198697848800,
+		"id_str": "1305702198697848833",
+		"full_text": "@bluebomber6 Go back to the episode about the CFL’s venture into the US. That was fascinating.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluebomber6",
+					"name": "Jeff Hoeppner",
+					"id": 301855786,
+					"id_str": "301855786",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1305698711331385300,
+		"in_reply_to_status_id_str": "1305698711331385345",
+		"in_reply_to_user_id": 301855786,
+		"in_reply_to_user_id_str": "301855786",
+		"in_reply_to_screen_name": "bluebomber6",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39267,
+			"friends_count": 8983,
+			"listed_count": 1376,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bluebomber6 Go back to the episode about the CFL’s venture into the US. That was fascinating."
+	},
+	{
 		"created_at": "Tue Sep 15 00:14:11 +0000 2020",
 		"id": 1305661152467193900,
 		"id_str": "1305661152467193856",
-		"full_text": "⁦@bluebomber6⁩ you might really enjoy this chat.  https://t.co/Kgj8FJziTG",
+		"full_text": "@bluebomber6 you might really enjoy this chat.  https://t.co/Kgj8FJziTG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -125,7 +1124,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "⁦@bluebomber6⁩ you might really enjoy this chat.  https://t.co/Kgj8FJziTG"
+		"text": "@bluebomber6 you might really enjoy this chat.  https://t.co/Kgj8FJziTG"
 	},
 	{
 		"created_at": "Tue Sep 15 00:11:40 +0000 2020",
