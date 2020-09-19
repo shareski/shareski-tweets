@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 23:29:37 +0000 2020",
+		"id": 1307099486829908000,
+		"id_str": "1307099486829907968",
+		"full_text": "My boy. #herschelhasmyheart https://t.co/CR7gnNMewS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						8,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307099455628423200,
+					"id_str": "1307099455628423169",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EiPAB5LWsAEDyk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiPAB5LWsAEDyk0.jpg",
+					"url": "https://t.co/CR7gnNMewS",
+					"display_url": "pic.twitter.com/CR7gnNMewS",
+					"expanded_url": "https://twitter.com/shareski/status/1307099486829907968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1812,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307099455628423200,
+					"id_str": "1307099455628423169",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EiPAB5LWsAEDyk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiPAB5LWsAEDyk0.jpg",
+					"url": "https://t.co/CR7gnNMewS",
+					"display_url": "pic.twitter.com/CR7gnNMewS",
+					"expanded_url": "https://twitter.com/shareski/status/1307099486829907968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1812,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39261,
+			"friends_count": 8984,
+			"listed_count": 1381,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My boy. #herschelhasmyheart https://t.co/CR7gnNMewS"
+	},
+	{
+		"created_at": "Fri Sep 18 14:28:21 +0000 2020",
+		"id": 1306963273271578600,
+		"id_str": "1306963273271578625",
+		"full_text": "Add this one to your calendar. https://t.co/sk2OlZi0yM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sk2OlZi0yM",
+					"expanded_url": "https://twitter.com/EdCanNet/status/1306232079756255242",
+					"display_url": "twitter.com/EdCanNet/statu…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39261,
+			"friends_count": 8984,
+			"listed_count": 1381,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306232079756255200,
+		"quoted_status_id_str": "1306232079756255242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sk2OlZi0yM",
+			"expanded": "https://twitter.com/EdCanNet/status/1306232079756255242",
+			"display": "twitter.com/EdCanNet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 16 14:02:51 +0000 2020",
+			"id": 1306232079756255200,
+			"id_str": "1306232079756255242",
+			"full_text": "Interested in learning about taking a more proactive approach to building a culture of #educator #wellness?\n\nRegister now for this free webinar on September 21st at 4:00 pm (EST) ➡️ https://t.co/Rg6mPNvZm6\n\n@TeacherFit_ https://t.co/fpobo09Z9k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "educator",
+						"indices": [
+							87,
+							96
+						]
+					},
+					{
+						"text": "wellness",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TeacherFit_",
+						"name": "TeacherFit",
+						"id": 735149785062182900,
+						"id_str": "735149785062182912",
+						"indices": [
+							207,
+							219
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Rg6mPNvZm6",
+						"expanded_url": "http://ow.ly/Ejy550BprzP",
+						"display_url": "ow.ly/Ejy550BprzP",
+						"indices": [
+							182,
+							205
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1306232077952651300,
+						"id_str": "1306232077952651270",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EiCrJ3iWkAYlIp1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiCrJ3iWkAYlIp1.jpg",
+						"url": "https://t.co/fpobo09Z9k",
+						"display_url": "pic.twitter.com/fpobo09Z9k",
+						"expanded_url": "https://twitter.com/EdCanNet/status/1306232079756255242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306232077952651300,
+						"id_str": "1306232077952651270",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/EiCrJ3iWkAYlIp1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiCrJ3iWkAYlIp1.jpg",
+						"url": "https://t.co/fpobo09Z9k",
+						"display_url": "pic.twitter.com/fpobo09Z9k",
+						"expanded_url": "https://twitter.com/EdCanNet/status/1306232079756255242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21773756,
+				"id_str": "21773756",
+				"name": "EdCan Network",
+				"screen_name": "EdCanNet",
+				"location": "Toronto, Canada",
+				"description": "Connecting Canadian K-12 educators with the most relevant research | Connecter les enseignants canadiens aux recherches les plus pertinentes.\nMag: @edcanpub 🌿",
+				"url": "https://t.co/YIc7ToPNGs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YIc7ToPNGs",
+								"expanded_url": "http://edcan.ca",
+								"display_url": "edcan.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7173,
+				"friends_count": 2318,
+				"listed_count": 344,
+				"created_at": "Tue Feb 24 17:28:02 +0000 2009",
+				"favourites_count": 3289,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9956,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240267026230378496/B77hg3iy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240267026230378496/B77hg3iy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21773756/1593023794",
+				"profile_link_color": "00909E",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Add this one to your calendar. https://t.co/sk2OlZi0yM"
+	},
+	{
 		"created_at": "Thu Sep 17 14:51:29 +0000 2020",
 		"id": 1306550833098756000,
 		"id_str": "1306606707477327873",
