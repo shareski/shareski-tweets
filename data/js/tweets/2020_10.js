@@ -1,6 +1,755 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 01:19:36 +0000 2020",
+		"id": 1314737313167990800,
+		"id_str": "1314737313167990787",
+		"full_text": "@shakespearenut I’m truly grateful",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shakespearenut",
+					"name": "Jess Torley (Wilson)",
+					"id": 74274225,
+					"id_str": "74274225",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314734288059785200,
+		"in_reply_to_status_id_str": "1314734288059785218",
+		"in_reply_to_user_id": 74274225,
+		"in_reply_to_user_id_str": "74274225",
+		"in_reply_to_screen_name": "shakespearenut",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39212,
+			"friends_count": 9008,
+			"listed_count": 1380,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shakespearenut I’m truly grateful"
+	},
+	{
+		"created_at": "Sat Oct 10 01:06:27 +0000 2020",
+		"id": 1314734004516479000,
+		"id_str": "1314734004516478976",
+		"full_text": "@shakespearenut He’s 88 and plays 150 rounds a year.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shakespearenut",
+					"name": "Jess Torley (Wilson)",
+					"id": 74274225,
+					"id_str": "74274225",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314733284169969700,
+		"in_reply_to_status_id_str": "1314733284169969666",
+		"in_reply_to_user_id": 74274225,
+		"in_reply_to_user_id_str": "74274225",
+		"in_reply_to_screen_name": "shakespearenut",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39212,
+			"friends_count": 9008,
+			"listed_count": 1380,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shakespearenut He’s 88 and plays 150 rounds a year."
+	},
+	{
+		"created_at": "Sat Oct 10 00:47:02 +0000 2020",
+		"id": 1314729115128221700,
+		"id_str": "1314729115128221697",
+		"full_text": "Not to brag.  Actually totally to brag, I played my 💯th round today with my Dad. https://t.co/MOELFvlmVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314729108559917000,
+					"id_str": "1314729108559917058",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej7bKJOUcAIbvLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej7bKJOUcAIbvLw.jpg",
+					"url": "https://t.co/MOELFvlmVQ",
+					"display_url": "pic.twitter.com/MOELFvlmVQ",
+					"expanded_url": "https://twitter.com/shareski/status/1314729115128221697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314729108559917000,
+					"id_str": "1314729108559917058",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej7bKJOUcAIbvLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej7bKJOUcAIbvLw.jpg",
+					"url": "https://t.co/MOELFvlmVQ",
+					"display_url": "pic.twitter.com/MOELFvlmVQ",
+					"expanded_url": "https://twitter.com/shareski/status/1314729115128221697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1538,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39212,
+			"friends_count": 9008,
+			"listed_count": 1380,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not to brag.  Actually totally to brag, I played my 💯th round today with my Dad. https://t.co/MOELFvlmVQ"
+	},
+	{
+		"created_at": "Fri Oct 09 20:24:19 +0000 2020",
+		"id": 1314520876759560200,
+		"id_str": "1314663001580920832",
+		"full_text": "My next project... reading all the blog posts I saved about \"how to\" do Hybrid Learning (coming 10/20 for me). What has helped YOU in hybrid - if you're teaching online AND in person at the same time?\n#hybridlearning https://t.co/UV8gwUKWtG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hybridlearning",
+					"indices": [
+						201,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UV8gwUKWtG",
+					"expanded_url": "https://twitter.com/froehlichm/status/1313579427830411270",
+					"display_url": "twitter.com/froehlichm/sta…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 344350209,
+			"id_str": "344350209",
+			"name": "Joy Kirr",
+			"screen_name": "JoyKirr",
+			"location": "Illinois, USA",
+			"description": "Always learning (from mistakes, too) & trying to keep up with students. \nGr7 ELA NBCT - she/her\n#AntiRacist #StuVoice #ShiftThis #GeniusHour #LifelongLearner",
+			"url": "https://t.co/yBAQNBxzbi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yBAQNBxzbi",
+							"expanded_url": "http://geniushour.blogspot.com",
+							"display_url": "geniushour.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24809,
+			"friends_count": 10442,
+			"listed_count": 885,
+			"created_at": "Thu Jul 28 22:55:23 +0000 2011",
+			"favourites_count": 27316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBDFC1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059990845217271808/yIi9LIH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059990845217271808/yIi9LIH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344350209/1575237346",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313579427830411300,
+		"quoted_status_id_str": "1313579427830411270",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UV8gwUKWtG",
+			"expanded": "https://twitter.com/froehlichm/status/1313579427830411270",
+			"display": "twitter.com/froehlichm/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 20:38:35 +0000 2020",
+			"id": 1313579427830411300,
+			"id_str": "1313579427830411270",
+			"full_text": "New blog post: Tips for Navigating Hybrid Learning\n\nhttps://t.co/cu0m3YAtXp\n\n#onlinelearning #edumatch #teachbetter #divergentedu https://t.co/nvLCt7RH08",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onlinelearning",
+						"indices": [
+							77,
+							92
+						]
+					},
+					{
+						"text": "edumatch",
+						"indices": [
+							93,
+							102
+						]
+					},
+					{
+						"text": "teachbetter",
+						"indices": [
+							103,
+							115
+						]
+					},
+					{
+						"text": "divergentedu",
+						"indices": [
+							116,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cu0m3YAtXp",
+						"expanded_url": "https://mandyfroehlich.com/2020/10/05/tips-for-navigating-hybrid-learning/",
+						"display_url": "mandyfroehlich.com/2020/10/05/tip…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313578261725708300,
+						"id_str": "1313578261725708289",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EjrEeCrWAAEEZ88.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjrEeCrWAAEEZ88.png",
+						"url": "https://t.co/nvLCt7RH08",
+						"display_url": "pic.twitter.com/nvLCt7RH08",
+						"expanded_url": "https://twitter.com/froehlichm/status/1313579427830411270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1248,
+								"h": 728,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313578261725708300,
+						"id_str": "1313578261725708289",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EjrEeCrWAAEEZ88.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjrEeCrWAAEEZ88.png",
+						"url": "https://t.co/nvLCt7RH08",
+						"display_url": "pic.twitter.com/nvLCt7RH08",
+						"expanded_url": "https://twitter.com/froehlichm/status/1313579427830411270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1248,
+								"h": 728,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190070853,
+				"id_str": "190070853",
+				"name": "Mandy Froehlich",
+				"screen_name": "froehlichm",
+				"location": "WI",
+				"description": "Educator & Consultant • Keynoter • Former Tech Director • #MentalHealth Advocate • #FireWithinBook 🔥 #DivergentEDU 🔥 #ReignitetheFlames • #EduMatch • Adjunct",
+				"url": "https://t.co/JATS3wzxWq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JATS3wzxWq",
+								"expanded_url": "https://www.mandyfroehlich.com",
+								"display_url": "mandyfroehlich.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17219,
+				"friends_count": 13758,
+				"listed_count": 275,
+				"created_at": "Mon Sep 13 00:37:18 +0000 2010",
+				"favourites_count": 19868,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16282,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1298790580466724866/oLBC-Mh6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298790580466724866/oLBC-Mh6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190070853/1598578929",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My next project... reading all the blog posts I saved about \"how to\" do Hybrid Learning (coming 10/20 for me). What has helped YOU in hybrid - if you're teaching online AND in person at the same time?\n#hybridlearning https://t.co/UV8gwUKWtG"
+	},
+	{
 		"created_at": "Thu Oct 08 03:36:04 +0000 2020",
 		"id": 1314046879970123800,
 		"id_str": "1314046879970123776",
