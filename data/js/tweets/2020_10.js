@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 02:10:13 +0000 2020",
+		"id": 1315837213767164000,
+		"id_str": "1315837213767163906",
+		"full_text": "When I was in little league I used to pump my arm like Joe at the plate. One of my early heroes too. https://t.co/s1BPZTqvZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s1BPZTqvZq",
+					"expanded_url": "https://twitter.com/rexchapman/status/1315676273197436930",
+					"display_url": "twitter.com/rexchapman/sta…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39215,
+			"friends_count": 9016,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315676273197437000,
+		"quoted_status_id_str": "1315676273197436930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s1BPZTqvZq",
+			"expanded": "https://twitter.com/rexchapman/status/1315676273197436930",
+			"display": "twitter.com/rexchapman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 15:30:42 +0000 2020",
+			"id": 1315676273197437000,
+			"id_str": "1315676273197436930",
+			"full_text": "2020 continues to suck. \n\nHall of Famer Joe Morgan has passed away at age 77. \n\nOne of my first idols in sports. \n\nRest, Joe. Rest, sir.💔 https://t.co/sHQq7tXE6B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1315668163653140500,
+						"id_str": "1315668163653140480",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315668163653140480/pu/img/2Pjv4neEWPU5--qF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315668163653140480/pu/img/2Pjv4neEWPU5--qF.jpg",
+						"url": "https://t.co/sHQq7tXE6B",
+						"display_url": "pic.twitter.com/sHQq7tXE6B",
+						"expanded_url": "https://twitter.com/BSmile/status/1315669224447258625/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1315669224447258600,
+						"source_status_id_str": "1315669224447258625",
+						"source_user_id": 19479487,
+						"source_user_id_str": "19479487"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315668163653140500,
+						"id_str": "1315668163653140480",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315668163653140480/pu/img/2Pjv4neEWPU5--qF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315668163653140480/pu/img/2Pjv4neEWPU5--qF.jpg",
+						"url": "https://t.co/sHQq7tXE6B",
+						"display_url": "pic.twitter.com/sHQq7tXE6B",
+						"expanded_url": "https://twitter.com/BSmile/status/1315669224447258625/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1315669224447258600,
+						"source_status_id_str": "1315669224447258625",
+						"source_user_id": 19479487,
+						"source_user_id_str": "19479487",
+						"video_info": {
+							"aspect_ratio": [
+								479,
+								360
+							],
+							"duration_millis": 51419,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1315668163653140480/pu/vid/358x270/VfNZQhzCroY8XFpb.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1315668163653140480/pu/pl/2ewWVwwvE8eOx0VB.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1315668163653140480/pu/vid/478x360/ec8QqEOglFvy7A63.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1315668163653140480/pu/vid/958x720/lUqG1FFygIGu7NP5.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 19479487,
+								"id_str": "19479487",
+								"name": "Baseball by BSmile",
+								"screen_name": "BSmile",
+								"location": "Northeast USA",
+								"description": "Baseball Photo Historian | Digital Artist \nPhoto Editing/Restoration/Colorization \n~ Vintage image content enhanced by @BSmile",
+								"url": "https://t.co/pLdLdlzle5",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/pLdLdlzle5",
+												"expanded_url": "https://twitter.com/BSmile",
+												"display_url": "twitter.com/BSmile",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 43934,
+								"friends_count": 472,
+								"listed_count": 643,
+								"created_at": "Sun Jan 25 05:54:18 +0000 2009",
+								"favourites_count": 37360,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 45366,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1259170556596846597/n2-XJh-q_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259170556596846597/n2-XJh-q_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/19479487/1557755584",
+								"profile_link_color": "9E7740",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324703658,
+				"id_str": "324703658",
+				"name": "Rex Chapman🏇🏼",
+				"screen_name": "RexChapman",
+				"location": "Lexington/Phoenix ",
+				"description": "I hold the microphone like a grudge",
+				"url": "https://t.co/WW075Yadro",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WW075Yadro",
+								"expanded_url": "http://adultswim.com/streams",
+								"display_url": "adultswim.com/streams",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 988298,
+				"friends_count": 17760,
+				"listed_count": 3029,
+				"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+				"favourites_count": 182520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108694,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E21F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+				"profile_link_color": "2C12EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "100D14",
+				"profile_text_color": "EB0E20",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 598,
+			"favorite_count": 4960,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I was in little league I used to pump my arm like Joe at the plate. One of my early heroes too. https://t.co/s1BPZTqvZq"
+	},
+	{
 		"created_at": "Tue Oct 13 00:43:45 +0000 2020",
 		"id": 1315815452963029000,
 		"id_str": "1315815452963028992",
