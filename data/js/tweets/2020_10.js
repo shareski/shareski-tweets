@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 22:56:09 +0000 2020",
+		"id": 1320137030186139600,
+		"id_str": "1320137030186139648",
+		"full_text": "Slow cooking ribs. Last time I mentioned ribs almost 12 years ago,  it led to a whole thing. https://t.co/YJgkGmeWes @woscholar @paulrwood @wfryer @briangrenier @jmaklary @jutecht @djakes @ewanmcintosh @willrich45 @MikeGras @chrislehmann",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woscholar",
+					"name": "Scott S. Floyd",
+					"id": 7123302,
+					"id_str": "7123302",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "paulrwood",
+					"name": "Paul R Wood",
+					"id": 9885022,
+					"id_str": "9885022",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"screen_name": "briangrenier",
+					"name": "Brian Grenier",
+					"id": 1467511,
+					"id_str": "1467511",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"screen_name": "jmaklary",
+					"name": "John Maklary",
+					"id": 7104332,
+					"id_str": "7104332",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"screen_name": "jutecht",
+					"name": "Jeff Utecht",
+					"id": 824214,
+					"id_str": "824214",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"screen_name": "djakes",
+					"name": "David Jakes",
+					"id": 6581222,
+					"id_str": "6581222",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"screen_name": "ewanmcintosh",
+					"name": "Ewan McIntosh",
+					"id": 625753,
+					"id_str": "625753",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"screen_name": "willrich45",
+					"name": "Will Richardson",
+					"id": 1349941,
+					"id_str": "1349941",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"screen_name": "MikeGras",
+					"name": "Michael Gras, M.Ed.",
+					"id": 11137092,
+					"id_str": "11137092",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"screen_name": "chrislehmann",
+					"name": "Chris Lehmann",
+					"id": 7108702,
+					"id_str": "7108702",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YJgkGmeWes",
+					"expanded_url": "https://www.flickr.com/photos/tags/ribfest08/",
+					"display_url": "flickr.com/photos/tags/ri…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39212,
+			"friends_count": 9036,
+			"listed_count": 1379,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slow cooking ribs. Last time I mentioned ribs almost 12 years ago,  it led to a whole thing. https://t.co/YJgkGmeWes @woscholar @paulrwood @wfryer @briangrenier @jmaklary @jutecht @djakes @ewanmcintosh @willrich45 @MikeGras @chrislehmann"
+	},
+	{
 		"created_at": "Fri Oct 23 23:23:30 +0000 2020",
 		"id": 1319781522719658000,
 		"id_str": "1319781522719657984",
