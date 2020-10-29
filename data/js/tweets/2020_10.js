@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 05:49:45 +0000 2020",
+		"id": 1321328277928116200,
+		"id_str": "1321328277928116227",
+		"full_text": "Teachers are incredible https://t.co/4YrNXKmP6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YrNXKmP6M",
+					"expanded_url": "https://twitter.com/scofro14/status/1321322253951393792",
+					"display_url": "twitter.com/scofro14/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39195,
+			"friends_count": 9037,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321322253951393800,
+		"quoted_status_id_str": "1321322253951393792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4YrNXKmP6M",
+			"expanded": "https://twitter.com/scofro14/status/1321322253951393792",
+			"display": "twitter.com/scofro14/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 05:25:48 +0000 2020",
+			"id": 1321322253951393800,
+			"id_str": "1321322253951393792",
+			"full_text": "@shareski Following as a mom to an online learner in gr. 6.\n\nHonestly, I'm so impressed with her online teacher. The class is making progress with students being more engaged &amp; focused during instruction.",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1321288949378224000,
+			"in_reply_to_status_id_str": "1321288949378224129",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 117423122,
+				"id_str": "117423122",
+				"name": "ֆƈօʄʀօ14",
+				"screen_name": "scofro14",
+				"location": "Treaty 4 Territory",
+				"description": "I like to take pictures, bake, workout & watch my kids roll their eyes at me. Cat & reptile lover. Views are my own & do not represent my employer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 661,
+				"friends_count": 1982,
+				"listed_count": 49,
+				"created_at": "Thu Feb 25 14:30:01 +0000 2010",
+				"favourites_count": 10010,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10127,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318605777175793664/Ig5YKCrR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318605777175793664/Ig5YKCrR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117423122/1598802068",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2c1be03622fe39b8",
+				"url": "https://api.twitter.com/1.1/geo/id/2c1be03622fe39b8.json",
+				"place_type": "city",
+				"name": "Regina",
+				"full_name": "Regina, Saskatchewan",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-104.778398,
+								50.39659
+							],
+							[
+								-104.50339,
+								50.39659
+							],
+							[
+								-104.50339,
+								50.513682
+							],
+							[
+								-104.778398,
+								50.513682
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teachers are incredible https://t.co/4YrNXKmP6M"
+	},
+	{
+		"created_at": "Wed Oct 28 03:41:47 +0000 2020",
+		"id": 1321296074414428200,
+		"id_str": "1321296074414428161",
+		"full_text": "@jonbecker Also I don’t think they cheated.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321295542224326700,
+		"in_reply_to_status_id_str": "1321295542224326663",
+		"in_reply_to_user_id": 12363792,
+		"in_reply_to_user_id_str": "12363792",
+		"in_reply_to_screen_name": "jonbecker",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39195,
+			"friends_count": 9037,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jonbecker Also I don’t think they cheated."
+	},
+	{
 		"created_at": "Wed Oct 28 00:31:21 +0000 2020",
 		"id": 1321248153220251600,
 		"id_str": "1321248153220251649",
@@ -687,7 +1051,7 @@ Grailbird.data.tweets_2020_10 =
 				"name": "Jennifer Engbrecht ♪",
 				"screen_name": "prairiemusik",
 				"location": "Manitoba, Canada",
-				"description": "🎶 FI Music Teacher LRSD 🇨🇦 MB, Canada 👨‍👩‍👦‍👦 Family 🌿 Nature 🏖 Beach 🌎@ESGEnviroClub on Twitter and Instagram, Outdoor Education Manitoba Group on FB",
+				"description": "🎶 FI Music Teacher LRSD 🇨🇦 MB, Canada 👨👩👦👦 Family 🌿 Nature 🏖 Beach 🌎@ESGEnviroClub on Twitter and Instagram, Outdoor Education Manitoba Group on FB",
 				"url": "https://t.co/qJMhXUSszi",
 				"entities": {
 					"url": {
