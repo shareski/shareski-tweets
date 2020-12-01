@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 18:13:28 +0000 2020",
+		"id": 1333474239681216500,
+		"id_str": "1333474239681216513",
+		"full_text": "Thanks for having me. https://t.co/nnx2ggTdgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnx2ggTdgF",
+					"expanded_url": "https://twitter.com/andrewmead73/status/1333467199282024452",
+					"display_url": "twitter.com/andrewmead73/s…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39148,
+			"friends_count": 9116,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333467199282024400,
+		"quoted_status_id_str": "1333467199282024452",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nnx2ggTdgF",
+			"expanded": "https://twitter.com/andrewmead73/status/1333467199282024452",
+			"display": "twitter.com/andrewmead73/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 30 17:45:29 +0000 2020",
+			"id": 1333467199282024400,
+			"id_str": "1333467199282024452",
+			"full_text": "A delightful treat to have @shareski speak with teaching staff at @MMShanover today. Always great to hear him speak. A perfect message at the perfect time. Grateful. https://t.co/SeHNPFTp6a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							27,
+							36
+						]
+					},
+					{
+						"screen_name": "MMShanover",
+						"name": "Mitchell MS",
+						"id": 768868401271844900,
+						"id_str": "768868401271844864",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1333467194525626400,
+						"id_str": "1333467194525626372",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EoFtWTFWMAQDuia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoFtWTFWMAQDuia.jpg",
+						"url": "https://t.co/SeHNPFTp6a",
+						"display_url": "pic.twitter.com/SeHNPFTp6a",
+						"expanded_url": "https://twitter.com/andrewmead73/status/1333467199282024452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1333467194525626400,
+						"id_str": "1333467194525626372",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EoFtWTFWMAQDuia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoFtWTFWMAQDuia.jpg",
+						"url": "https://t.co/SeHNPFTp6a",
+						"display_url": "pic.twitter.com/SeHNPFTp6a",
+						"expanded_url": "https://twitter.com/andrewmead73/status/1333467199282024452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1333467194525683700,
+						"id_str": "1333467194525683712",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EoFtWTFXEAAZcy8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoFtWTFXEAAZcy8.jpg",
+						"url": "https://t.co/SeHNPFTp6a",
+						"display_url": "pic.twitter.com/SeHNPFTp6a",
+						"expanded_url": "https://twitter.com/andrewmead73/status/1333467199282024452/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 658,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1562,
+								"h": 856,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248957048,
+				"id_str": "248957048",
+				"name": "Andrew Mead",
+				"screen_name": "andrewmead73",
+				"location": "Manitoba, Canada",
+				"description": "Poppa. Teacher first. Principal teacher. Former athlete. I take pictures while I work. B. Ed. and M. E. Ad. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3147,
+				"friends_count": 2017,
+				"listed_count": 157,
+				"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+				"favourites_count": 7732,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20974,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1179564236793532416/6G40qULz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179564236793532416/6G40qULz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1569294578",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for having me. https://t.co/nnx2ggTdgF"
+	},
+	{
+		"created_at": "Mon Nov 30 04:08:54 +0000 2020",
+		"id": 1333261697985912800,
+		"id_str": "1333261697985912832",
+		"full_text": "@LSpencerEdD It may not be possible https://t.co/qnCGdealSh",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LSpencerEdD",
+					"name": "Laura Spencer, Ed.D.",
+					"id": 74666759,
+					"id_str": "74666759",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qnCGdealSh",
+					"expanded_url": "https://discussions.apple.com/thread/251262056",
+					"display_url": "discussions.apple.com/thread/2512620…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1333247526544183300,
+		"in_reply_to_status_id_str": "1333247526544183296",
+		"in_reply_to_user_id": 74666759,
+		"in_reply_to_user_id_str": "74666759",
+		"in_reply_to_screen_name": "LSpencerEdD",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39148,
+			"friends_count": 9116,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LSpencerEdD It may not be possible https://t.co/qnCGdealSh"
+	},
+	{
+		"created_at": "Mon Nov 30 02:46:41 +0000 2020",
+		"id": 1333241010038603800,
+		"id_str": "1333241010038603779",
+		"full_text": "I have my macbook hooked up to 2 displays. I want to use keynote on my macbook display and one other but not the third. I'm not mirroring but the third screen still wants to display keynote. How do I disable that screen so it can be used for another application?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39148,
+			"friends_count": 9116,
+			"listed_count": 1378,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I have my macbook hooked up to 2 displays. I want to use keynote on my macbook display and one other but not the third. I'm not mirroring but the third screen still wants to display keynote. How do I disable that screen so it can be used for another application?"
+	},
+	{
 		"created_at": "Mon Nov 30 01:14:10 +0000 2020",
 		"id": 1333217727301894100,
 		"id_str": "1333217727301894144",
