@@ -1,6 +1,1012 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 00:58:29 +0000 2020",
+		"id": 1334300944557727700,
+		"id_str": "1334300944557727744",
+		"full_text": "Looking for a district or individual who has worked to maximize the use of EAs (Educational Assistants) who might be able to provide PD to other districts.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39149,
+			"friends_count": 9117,
+			"listed_count": 1375,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Looking for a district or individual who has worked to maximize the use of EAs (Educational Assistants) who might be able to provide PD to other districts."
+	},
+	{
+		"created_at": "Thu Dec 03 00:21:00 +0000 2020",
+		"id": 1334291511496769500,
+		"id_str": "1334291511496769537",
+		"full_text": "@WallwinS @YourTerraceBay @fryed https://t.co/QD5dNQCdR6",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WallwinS",
+					"name": "Stacey Wallwin 🇨🇦",
+					"id": 911735346,
+					"id_str": "911735346",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "YourTerraceBay",
+					"name": "Terrace Bay",
+					"id": 189258301,
+					"id_str": "189258301",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "fryed",
+					"name": "Donna Miller Fry",
+					"id": 13210942,
+					"id_str": "13210942",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334291505066885000,
+					"id_str": "1334291505066885120",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoRbDfJVQAAMFk9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoRbDfJVQAAMFk9.jpg",
+					"url": "https://t.co/QD5dNQCdR6",
+					"display_url": "pic.twitter.com/QD5dNQCdR6",
+					"expanded_url": "https://twitter.com/shareski/status/1334291511496769537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334291505066885000,
+					"id_str": "1334291505066885120",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoRbDfJVQAAMFk9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoRbDfJVQAAMFk9.jpg",
+					"url": "https://t.co/QD5dNQCdR6",
+					"display_url": "pic.twitter.com/QD5dNQCdR6",
+					"expanded_url": "https://twitter.com/shareski/status/1334291511496769537/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EoRbDfJVQAAMFk9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334288602944200700,
+		"in_reply_to_status_id_str": "1334288602944200705",
+		"in_reply_to_user_id": 911735346,
+		"in_reply_to_user_id_str": "911735346",
+		"in_reply_to_screen_name": "WallwinS",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39149,
+			"friends_count": 9117,
+			"listed_count": 1375,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@WallwinS @YourTerraceBay @fryed https://t.co/QD5dNQCdR6"
+	},
+	{
+		"created_at": "Thu Dec 03 00:01:08 +0000 2020",
+		"id": 1334273502170509300,
+		"id_str": "1334286509306904577",
+		"full_text": "Thanks @amckiel for organizing this great chat. Really enjoyed listening to @shareski, @joevans, @RobCFisher, @MsWelbergen, and @RexFB. #mbedchat #makingwavea https://t.co/Hn8U4Bitw7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mbedchat",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "makingwavea",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amckiel",
+					"name": "Andy McKiel",
+					"id": 9842422,
+					"id_str": "9842422",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "joevans",
+					"name": "John Evans",
+					"id": 5779592,
+					"id_str": "5779592",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"screen_name": "RobCFisher",
+					"name": "Rob Fisher(baldfury)",
+					"id": 10675442,
+					"id_str": "10675442",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"screen_name": "MsWelbergen",
+					"name": "Sandy Welbergen",
+					"id": 119784868,
+					"id_str": "119784868",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "RexFB",
+					"name": "Rex Ferguson-Baird",
+					"id": 1225414633,
+					"id_str": "1225414633",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334273496038379500,
+					"id_str": "1334273496038379522",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRKrOSWEAIBM5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRKrOSWEAIBM5D.jpg",
+					"url": "https://t.co/Hn8U4Bitw7",
+					"display_url": "pic.twitter.com/Hn8U4Bitw7",
+					"expanded_url": "https://twitter.com/andrewmead73/status/1334273502170509313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1723,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334273496038379500,
+					"id_str": "1334273496038379522",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRKrOSWEAIBM5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRKrOSWEAIBM5D.jpg",
+					"url": "https://t.co/Hn8U4Bitw7",
+					"display_url": "pic.twitter.com/Hn8U4Bitw7",
+					"expanded_url": "https://twitter.com/andrewmead73/status/1334273502170509313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1723,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248957048,
+			"id_str": "248957048",
+			"name": "Andrew Mead",
+			"screen_name": "andrewmead73",
+			"location": "Manitoba, Canada",
+			"description": "Poppa. Teacher first. Principal teacher. Former athlete. I take pictures while I work. B. Ed. and M. E. Ad. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3147,
+			"friends_count": 2018,
+			"listed_count": 157,
+			"created_at": "Tue Feb 08 02:08:00 +0000 2011",
+			"favourites_count": 7737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179564236793532416/6G40qULz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179564236793532416/6G40qULz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248957048/1569294578",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1deb40889ae04ca2",
+			"url": "https://api.twitter.com/1.1/geo/id/1deb40889ae04ca2.json",
+			"place_type": "city",
+			"name": "Springfield",
+			"full_name": "Springfield, Manitoba",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-97.027038,
+							49.795804
+						],
+						[
+							-96.360063,
+							49.795804
+						],
+						[
+							-96.360063,
+							50.06293
+						],
+						[
+							-97.027038,
+							50.06293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @amckiel for organizing this great chat. Really enjoyed listening to @shareski, @joevans, @RobCFisher, @MsWelbergen, and @RexFB. #mbedchat #makingwavea https://t.co/Hn8U4Bitw7"
+	},
+	{
+		"created_at": "Wed Dec 02 16:03:12 +0000 2020",
+		"id": 1334166234057752600,
+		"id_str": "1334166234057752576",
+		"full_text": "The fun thing is, I have no idea exactly what we'll be doing here except we want to explore some out of the box PD concepts. You can pop in a join. https://t.co/RFncPQZsBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RFncPQZsBf",
+					"expanded_url": "https://twitter.com/fryed/status/1334147021528186882",
+					"display_url": "twitter.com/fryed/status/1…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39149,
+			"friends_count": 9117,
+			"listed_count": 1375,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334147021528187000,
+		"quoted_status_id_str": "1334147021528186882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RFncPQZsBf",
+			"expanded": "https://twitter.com/fryed/status/1334147021528186882",
+			"display": "twitter.com/fryed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 02 14:46:51 +0000 2020",
+			"id": 1334147021528187000,
+			"id_str": "1334147021528186882",
+			"full_text": "Manitoba is #MakingWaves today with @shareski and guests.  \n\nWe want you to join us from anywhere!\n\n4 p.m. CST, 5 EST, 6:30 Newfoundland \n\n#onted #mbedchat #nled #yukoneducation @NLESDLit @NLESDCA @WallwinS @MProom31 @lavallee_terry \n\nhttps://t.co/K5rrn7giv2 https://t.co/6ECnIllNbi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MakingWaves",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"text": "onted",
+						"indices": [
+							139,
+							145
+						]
+					},
+					{
+						"text": "mbedchat",
+						"indices": [
+							146,
+							155
+						]
+					},
+					{
+						"text": "nled",
+						"indices": [
+							156,
+							161
+						]
+					},
+					{
+						"text": "yukoneducation",
+						"indices": [
+							162,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							36,
+							45
+						]
+					},
+					{
+						"screen_name": "NLESDLit",
+						"name": "NLESDLit",
+						"id": 1092473831590162400,
+						"id_str": "1092473831590162432",
+						"indices": [
+							178,
+							187
+						]
+					},
+					{
+						"screen_name": "NLESDCA",
+						"name": "NLESD",
+						"id": 1605899233,
+						"id_str": "1605899233",
+						"indices": [
+							188,
+							196
+						]
+					},
+					{
+						"screen_name": "WallwinS",
+						"name": "Stacey Wallwin 🇨🇦",
+						"id": 911735346,
+						"id_str": "911735346",
+						"indices": [
+							197,
+							206
+						]
+					},
+					{
+						"screen_name": "MProom31",
+						"name": "Michelle Cyrenne Parrish",
+						"id": 35575571,
+						"id_str": "35575571",
+						"indices": [
+							207,
+							216
+						]
+					},
+					{
+						"screen_name": "lavallee_terry",
+						"name": "😀😀Terry LaVallee😀😀",
+						"id": 891752973151465500,
+						"id_str": "891752973151465473",
+						"indices": [
+							217,
+							232
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K5rrn7giv2",
+						"expanded_url": "https://drive.google.com/file/d/1cBBqvdEvNV6CAgkcC34K9aK59rYDtNxq/view",
+						"display_url": "drive.google.com/file/d/1cBBqvd…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1334146991937372200,
+						"id_str": "1334146991937372162",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/EoPXntyVQAIfi4v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoPXntyVQAIfi4v.jpg",
+						"url": "https://t.co/6ECnIllNbi",
+						"display_url": "pic.twitter.com/6ECnIllNbi",
+						"expanded_url": "https://twitter.com/fryed/status/1334147021528186882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1582,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 894,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334146991937372200,
+						"id_str": "1334146991937372162",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/EoPXntyVQAIfi4v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoPXntyVQAIfi4v.jpg",
+						"url": "https://t.co/6ECnIllNbi",
+						"display_url": "pic.twitter.com/6ECnIllNbi",
+						"expanded_url": "https://twitter.com/fryed/status/1334147021528186882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1582,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 894,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13210942,
+				"id_str": "13210942",
+				"name": "Donna Miller Fry",
+				"screen_name": "fryed",
+				"location": "Manitoba, Canada",
+				"description": "Learner, Connected Educator, Network Builder EdCan/CEA Advisory Council, Superintendent/CEO - Pine Creek School Division, C21 CEO, #edcan she/her",
+				"url": "https://t.co/YBvvsmj2yI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YBvvsmj2yI",
+								"expanded_url": "https://blog.donnamillerfry.com/",
+								"display_url": "blog.donnamillerfry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10560,
+				"friends_count": 11599,
+				"listed_count": 459,
+				"created_at": "Thu Feb 07 16:49:37 +0000 2008",
+				"favourites_count": 38253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13210942/1551808558",
+				"profile_link_color": "C72084",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The fun thing is, I have no idea exactly what we'll be doing here except we want to explore some out of the box PD concepts. You can pop in a join. https://t.co/RFncPQZsBf"
+	},
+	{
 		"created_at": "Tue Dec 01 18:10:30 +0000 2020",
 		"id": 1333835881447182300,
 		"id_str": "1333835881447182336",
