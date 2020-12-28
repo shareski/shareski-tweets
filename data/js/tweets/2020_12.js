@@ -1,6 +1,1382 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 27 23:27:00 +0000 2020",
+		"id": 1343337615467008000,
+		"id_str": "1343337615467008000",
+		"full_text": "The #deanie for fancy book learnin' type tweet goes to @gsiemens https://t.co/aMc0e1lZMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsiemens",
+					"name": "George Siemens",
+					"id": 18613,
+					"id_str": "18613",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aMc0e1lZMg",
+					"expanded_url": "https://twitter.com/gsiemens/status/1339343799194009602",
+					"display_url": "twitter.com/gsiemens/statu…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339343799194009600,
+		"quoted_status_id_str": "1339343799194009602",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aMc0e1lZMg",
+			"expanded": "https://twitter.com/gsiemens/status/1339343799194009602",
+			"display": "twitter.com/gsiemens/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 16 22:57:00 +0000 2020",
+			"id": 1339343799194009600,
+			"id_str": "1339343799194009602",
+			"full_text": "@shareski @davecormier @bonstewart I vouch for Bonnie. Not Dave. This obsequious behaviour in soliciting an award is unbecoming of a prospective #deanie nominee.",
+			"truncated": false,
+			"display_text_range": [
+				35,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "deanie",
+						"indices": [
+							145,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "davecormier",
+						"name": "dave cormier",
+						"id": 789991,
+						"id_str": "789991",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"screen_name": "bonstewart",
+						"name": "Dr. Bonnie Stewart",
+						"id": 6532522,
+						"id_str": "6532522",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1339339082267168800,
+			"in_reply_to_status_id_str": "1339339082267168768",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 18613,
+				"id_str": "18613",
+				"name": "George Siemens",
+				"screen_name": "gsiemens",
+				"location": "Texas, Australia, Airports",
+				"description": "Malphabet",
+				"url": "https://t.co/z1JC6Wshs8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z1JC6Wshs8",
+								"expanded_url": "https://twitter.com/gsiemens",
+								"display_url": "twitter.com/gsiemens",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23310,
+				"friends_count": 1173,
+				"listed_count": 1625,
+				"created_at": "Thu Nov 23 18:45:36 +0000 2006",
+				"favourites_count": 1694,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1332,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282964688070795264/e5WQYNcH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282964688070795264/e5WQYNcH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18613/1592692184",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for fancy book learnin' type tweet goes to @gsiemens https://t.co/aMc0e1lZMg"
+	},
+	{
+		"created_at": "Sun Dec 27 20:59:57 +0000 2020",
+		"id": 1343300609559019500,
+		"id_str": "1343300609559019520",
+		"full_text": "@mrbadura @JenBadura @danica_badura @caleb_badura That would be a treat.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JenBadura",
+					"name": "Jennifer",
+					"id": 25944433,
+					"id_str": "25944433",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "danica_badura",
+					"name": "Danica Badura",
+					"id": 705889010338496500,
+					"id_str": "705889010338496512",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "caleb_badura",
+					"name": "Caleb Badura",
+					"id": 1539567391,
+					"id_str": "1539567391",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343281807475826700,
+		"in_reply_to_status_id_str": "1343281807475826688",
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrbadura @JenBadura @danica_badura @caleb_badura That would be a treat."
+	},
+	{
+		"created_at": "Sun Dec 27 19:42:12 +0000 2020",
+		"id": 1343281043177017300,
+		"id_str": "1343281043177017344",
+		"full_text": "@mrbadura @JenBadura @danica_badura @caleb_badura Do they allow fivesomes at Riverside?",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JenBadura",
+					"name": "Jennifer",
+					"id": 25944433,
+					"id_str": "25944433",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "danica_badura",
+					"name": "Danica Badura",
+					"id": 705889010338496500,
+					"id_str": "705889010338496512",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "caleb_badura",
+					"name": "Caleb Badura",
+					"id": 1539567391,
+					"id_str": "1539567391",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343277247193604000,
+		"in_reply_to_status_id_str": "1343277247193604097",
+		"in_reply_to_user_id": 22180206,
+		"in_reply_to_user_id_str": "22180206",
+		"in_reply_to_screen_name": "mrbadura",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrbadura @JenBadura @danica_badura @caleb_badura Do they allow fivesomes at Riverside?"
+	},
+	{
+		"created_at": "Sun Dec 27 17:01:00 +0000 2020",
+		"id": 1343240475914866700,
+		"id_str": "1343240475914866688",
+		"full_text": "The #deanie for headwear variety during Zoom calls goes to .... @tborash https://t.co/wdHNrlR4F4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tborash",
+					"name": "Tony Borash",
+					"id": 44922814,
+					"id_str": "44922814",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338886852061761500,
+					"id_str": "1338886852061761538",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSuf4uVEAIo4ys.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpSuf4uVEAIo4ys.png",
+					"url": "https://t.co/wdHNrlR4F4",
+					"display_url": "pic.twitter.com/wdHNrlR4F4",
+					"expanded_url": "https://twitter.com/shareski/status/1343240475914866688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338886852061761500,
+					"id_str": "1338886852061761538",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSuf4uVEAIo4ys.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpSuf4uVEAIo4ys.png",
+					"url": "https://t.co/wdHNrlR4F4",
+					"display_url": "pic.twitter.com/wdHNrlR4F4",
+					"expanded_url": "https://twitter.com/shareski/status/1343240475914866688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 255,
+							"h": 231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for headwear variety during Zoom calls goes to .... @tborash https://t.co/wdHNrlR4F4"
+	},
+	{
+		"created_at": "Sun Dec 27 16:47:00 +0000 2020",
+		"id": 1343236952334553000,
+		"id_str": "1343236952334553089",
+		"full_text": "The #deanie for cutest golfing family goes to... #ColonyB aka @mrbadura @JenBadura @danica_badura @caleb_badura https://t.co/los9oEbURg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "ColonyB",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrbadura",
+					"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+					"id": 22180206,
+					"id_str": "22180206",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "JenBadura",
+					"name": "Jennifer",
+					"id": 25944433,
+					"id_str": "25944433",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "danica_badura",
+					"name": "Danica Badura",
+					"id": 705889010338496500,
+					"id_str": "705889010338496512",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "caleb_badura",
+					"name": "Caleb Badura",
+					"id": 1539567391,
+					"id_str": "1539567391",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/los9oEbURg",
+					"expanded_url": "https://twitter.com/mrbadura/status/1332856444379672576",
+					"display_url": "twitter.com/mrbadura/statu…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332856444379672600,
+		"quoted_status_id_str": "1332856444379672576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/los9oEbURg",
+			"expanded": "https://twitter.com/mrbadura/status/1332856444379672576",
+			"display": "twitter.com/mrbadura/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 29 01:18:34 +0000 2020",
+			"id": 1332856444379672600,
+			"id_str": "1332856444379672576",
+			"full_text": "The Match\n\nA good one indeed this evening. \n\n@JenBadura &amp; @caleb_badura take home the title 3 &amp; 2. \n\nDishes and scooping snow for us until Christmas @danica_badura.\n\nNonetheless, I had a wonderful time talking crap, missing putts and leaning on my partner.\n\n#colonyb #golf https://t.co/Y4amfHjff7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "colonyb",
+						"indices": [
+							266,
+							274
+						]
+					},
+					{
+						"text": "golf",
+						"indices": [
+							275,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JenBadura",
+						"name": "Jennifer",
+						"id": 25944433,
+						"id_str": "25944433",
+						"indices": [
+							45,
+							55
+						]
+					},
+					{
+						"screen_name": "caleb_badura",
+						"name": "Caleb Badura",
+						"id": 1539567391,
+						"id_str": "1539567391",
+						"indices": [
+							62,
+							75
+						]
+					},
+					{
+						"screen_name": "danica_badura",
+						"name": "Danica Badura",
+						"id": 705889010338496500,
+						"id_str": "705889010338496512",
+						"indices": [
+							157,
+							171
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1332856439321325600,
+						"id_str": "1332856439321325569",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/En9B3qpW8AEL7v4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/En9B3qpW8AEL7v4.jpg",
+						"url": "https://t.co/Y4amfHjff7",
+						"display_url": "pic.twitter.com/Y4amfHjff7",
+						"expanded_url": "https://twitter.com/mrbadura/status/1332856444379672576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1332856439321325600,
+						"id_str": "1332856439321325569",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/En9B3qpW8AEL7v4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/En9B3qpW8AEL7v4.jpg",
+						"url": "https://t.co/Y4amfHjff7",
+						"display_url": "pic.twitter.com/Y4amfHjff7",
+						"expanded_url": "https://twitter.com/mrbadura/status/1332856444379672576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22180206,
+				"id_str": "22180206",
+				"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+				"screen_name": "mrbadura",
+				"location": "United States",
+				"description": "Son, Husband, Dad, K-12 Tech Coach, Golf Coach, Gardener, Maker of Meals",
+				"url": "https://t.co/DT1GQRUqFO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DT1GQRUqFO",
+								"expanded_url": "http://www.craigbadura.com/",
+								"display_url": "craigbadura.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11883,
+				"friends_count": 9999,
+				"listed_count": 538,
+				"created_at": "Fri Feb 27 19:42:55 +0000 2009",
+				"favourites_count": 12817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297870977557299208/avArJQNf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297870977557299208/avArJQNf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22180206/1599774801",
+				"profile_link_color": "B50025",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for cutest golfing family goes to... #ColonyB aka @mrbadura @JenBadura @danica_badura @caleb_badura https://t.co/los9oEbURg"
+	},
+	{
+		"created_at": "Sun Dec 27 03:21:29 +0000 2020",
+		"id": 1343034238996648000,
+		"id_str": "1343034238996647941",
+		"full_text": "@RyanWieck https://t.co/BuyGZy93qf",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanWieck",
+					"name": "exSCIted_about_CPS",
+					"id": 1042473479352856600,
+					"id_str": "1042473479352856578",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343034232453517300,
+					"id_str": "1343034232453517312",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqNqhMqU0AAMPGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqNqhMqU0AAMPGv.jpg",
+					"url": "https://t.co/BuyGZy93qf",
+					"display_url": "pic.twitter.com/BuyGZy93qf",
+					"expanded_url": "https://twitter.com/shareski/status/1343034238996647941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343034232453517300,
+					"id_str": "1343034232453517312",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqNqhMqU0AAMPGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqNqhMqU0AAMPGv.jpg",
+					"url": "https://t.co/BuyGZy93qf",
+					"display_url": "pic.twitter.com/BuyGZy93qf",
+					"expanded_url": "https://twitter.com/shareski/status/1343034238996647941/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							39,
+							22
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EqNqhMqU0AAMPGv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343032015638167600,
+		"in_reply_to_status_id_str": "1343032015638167552",
+		"in_reply_to_user_id": 1042473479352856600,
+		"in_reply_to_user_id_str": "1042473479352856578",
+		"in_reply_to_screen_name": "RyanWieck",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39103,
+			"friends_count": 9246,
+			"listed_count": 1374,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RyanWieck https://t.co/BuyGZy93qf"
+	},
+	{
 		"created_at": "Sun Dec 27 01:00:00 +0000 2020",
 		"id": 1342998634250580000,
 		"id_str": "1342998634250579969",
