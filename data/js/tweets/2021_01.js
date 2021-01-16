@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 22:15:43 +0000 2021",
+		"id": 1350205046923825200,
+		"id_str": "1350205046923825154",
+		"full_text": "@WillyB @jonbecker @ijohnpederson This tweet has #deanie written all over it.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WillyB",
+					"name": "Ben Wildeboer",
+					"id": 12143902,
+					"id_str": "12143902",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "ijohnpederson",
+					"name": "John Pederson",
+					"id": 1070632973735731200,
+					"id_str": "1070632973735731200",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350195320521633800,
+		"in_reply_to_status_id_str": "1350195320521633794",
+		"in_reply_to_user_id": 12143902,
+		"in_reply_to_user_id_str": "12143902",
+		"in_reply_to_screen_name": "WillyB",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38991,
+			"friends_count": 9467,
+			"listed_count": 1365,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WillyB @jonbecker @ijohnpederson This tweet has #deanie written all over it."
+	},
+	{
+		"created_at": "Fri Jan 15 19:46:28 +0000 2021",
+		"id": 1350167487464161300,
+		"id_str": "1350167487464161280",
+		"full_text": "In other news, both my batteries in my cars are pooched.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38991,
+			"friends_count": 9467,
+			"listed_count": 1365,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In other news, both my batteries in my cars are pooched."
+	},
+	{
+		"created_at": "Fri Jan 15 19:17:32 +0000 2021",
+		"id": 1350151727153115100,
+		"id_str": "1350160207477817345",
+		"full_text": "Last week I shared that I would be doing a mini inquiry unit on Sleep. It worked really well. Thanks for the feedback @shareski Brief post that includes a link for sharing I used for provocation of discussion.https://t.co/avwYOIy0ak #SocialEmotionalLearning https://t.co/Lmn9w2r2fR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialEmotionalLearning",
+					"indices": [
+						233,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/avwYOIy0ak",
+					"expanded_url": "https://pipedreams.edublogs.org/2021/01/15/thinking-about-sleep/#.YAHgEehKjD4",
+					"display_url": "pipedreams.edublogs.org/2021/01/15/thi…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350151359325212700,
+					"id_str": "1350151359325212673",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350151359325212673/pu/img/GH00258JaMuFBGIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350151359325212673/pu/img/GH00258JaMuFBGIQ.jpg",
+					"url": "https://t.co/Lmn9w2r2fR",
+					"display_url": "pic.twitter.com/Lmn9w2r2fR",
+					"expanded_url": "https://twitter.com/zbpipe/status/1350151727153115137/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350151359325212700,
+					"id_str": "1350151359325212673",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350151359325212673/pu/img/GH00258JaMuFBGIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350151359325212673/pu/img/GH00258JaMuFBGIQ.jpg",
+					"url": "https://t.co/Lmn9w2r2fR",
+					"display_url": "pic.twitter.com/Lmn9w2r2fR",
+					"expanded_url": "https://twitter.com/zbpipe/status/1350151727153115137/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1406,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							703,
+							360
+						],
+						"duration_millis": 44400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350151359325212673/pu/vid/526x270/ZzlWMNhKJpyavweX.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350151359325212673/pu/vid/1406x720/vFZceRAUiy7-IzON.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350151359325212673/pu/vid/702x360/nw50udpi4Bi6DPoN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350151359325212673/pu/pl/1GyRw8trLFq-AsNW.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19158946,
+			"id_str": "19158946",
+			"name": "Zoe Branigan-Pipe",
+			"screen_name": "zbpipe",
+			"location": "Hamilton, Ontario",
+			"description": "Educator & Activist- Social Justice, & Equity are drivers; Coping with anxiety; Globetrotter; from #HamOnt and I'm a Vegan Runner!",
+			"url": "https://t.co/83acFzSspa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83acFzSspa",
+							"expanded_url": "http://pipedreams-education.ca/",
+							"display_url": "pipedreams-education.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7144,
+			"friends_count": 2388,
+			"listed_count": 409,
+			"created_at": "Sun Jan 18 21:40:02 +0000 2009",
+			"favourites_count": 17768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19158946/1605409274",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last week I shared that I would be doing a mini inquiry unit on Sleep. It worked really well. Thanks for the feedback @shareski Brief post that includes a link for sharing I used for provocation of discussion.https://t.co/avwYOIy0ak #SocialEmotionalLearning https://t.co/Lmn9w2r2fR"
+	},
+	{
+		"created_at": "Fri Jan 15 02:39:12 +0000 2021",
+		"id": 1349908968672383000,
+		"id_str": "1349908968672382976",
+		"full_text": "@DarlinDylan @courosa We’re basically twins.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarlinDylan",
+					"name": "Matoosh Monias",
+					"id": 25451007,
+					"id_str": "25451007",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349906333567369200,
+		"in_reply_to_status_id_str": "1349906333567369219",
+		"in_reply_to_user_id": 25451007,
+		"in_reply_to_user_id_str": "25451007",
+		"in_reply_to_screen_name": "DarlinDylan",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38991,
+			"friends_count": 9467,
+			"listed_count": 1365,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DarlinDylan @courosa We’re basically twins."
+	},
+	{
 		"created_at": "Fri Jan 15 01:12:54 +0000 2021",
 		"id": 1349887250746654700,
 		"id_str": "1349887250746654720",
