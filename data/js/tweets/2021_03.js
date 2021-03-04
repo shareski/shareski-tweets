@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 17:01:44 +0000 2021",
+		"id": 1367158260130664400,
+		"id_str": "1367158260130664451",
+		"full_text": "Sad to learn of the loss of @langwitches. Silvia was an exemplary educator who embodied the principles of sharing and thoughtfulness. She will be missed. RIP @langwitches cc @MellieRene4 https://t.co/0BuTnLvehf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Rosenthal Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Rosenthal Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"screen_name": "MellieRene4",
+					"name": "Melanie Holtsman",
+					"id": 9081902,
+					"id_str": "9081902",
+					"indices": [
+						174,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367158135379484700,
+					"id_str": "1367158135379484673",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EvkfFKMUYAEa2Fg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvkfFKMUYAEa2Fg.jpg",
+					"url": "https://t.co/0BuTnLvehf",
+					"display_url": "pic.twitter.com/0BuTnLvehf",
+					"expanded_url": "https://twitter.com/shareski/status/1367158260130664451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367158135379484700,
+					"id_str": "1367158135379484673",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EvkfFKMUYAEa2Fg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvkfFKMUYAEa2Fg.jpg",
+					"url": "https://t.co/0BuTnLvehf",
+					"display_url": "pic.twitter.com/0BuTnLvehf",
+					"expanded_url": "https://twitter.com/shareski/status/1367158260130664451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/GsJVzEeMpH",
+			"url": "https://t.co/xNwidZoCqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xNwidZoCqU",
+							"expanded_url": "http://about.me/shareski",
+							"display_url": "about.me/shareski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GsJVzEeMpH",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39025,
+			"friends_count": 9720,
+			"listed_count": 1360,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066718916695621632/cd6jHbKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sad to learn of the loss of @langwitches. Silvia was an exemplary educator who embodied the principles of sharing and thoughtfulness. She will be missed. RIP @langwitches cc @MellieRene4 https://t.co/0BuTnLvehf"
+	},
+	{
 		"created_at": "Wed Mar 03 00:20:06 +0000 2021",
 		"id": 1366906192472072200,
 		"id_str": "1366906192472072194",
