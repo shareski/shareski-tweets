@@ -1,10 +1,768 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 21:33:29 +0000 2021",
+		"id": 1368676201489780700,
+		"id_str": "1368676201489780742",
+		"full_text": "Sunday vibe. #herscelhasmyheart #harriethasmyheart https://t.co/egyXzFDO8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herscelhasmyheart",
+					"indices": [
+						13,
+						31
+					]
+				},
+				{
+					"text": "harriethasmyheart",
+					"indices": [
+						32,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368676127422570500,
+					"id_str": "1368676127422570497",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368676127422570497/pu/img/4a-vlt-h8q2b_EKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368676127422570497/pu/img/4a-vlt-h8q2b_EKm.jpg",
+					"url": "https://t.co/egyXzFDO8w",
+					"display_url": "pic.twitter.com/egyXzFDO8w",
+					"expanded_url": "https://twitter.com/shareski/status/1368676201489780742/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368676127422570500,
+					"id_str": "1368676127422570497",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368676127422570497/pu/img/4a-vlt-h8q2b_EKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368676127422570497/pu/img/4a-vlt-h8q2b_EKm.jpg",
+					"url": "https://t.co/egyXzFDO8w",
+					"display_url": "pic.twitter.com/egyXzFDO8w",
+					"expanded_url": "https://twitter.com/shareski/status/1368676201489780742/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1368676127422570497/pu/pl/QMSLVipwiMgHkSvQ.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368676127422570497/pu/vid/480x852/Y6TtoAzGzQOm97Ny.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368676127422570497/pu/vid/320x568/dN9i5pcGcRrWx52b.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368676127422570497/pu/vid/720x1280/xv0YBy_SYibnANme.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39039,
+			"friends_count": 9757,
+			"listed_count": 1359,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunday vibe. #herscelhasmyheart #harriethasmyheart https://t.co/egyXzFDO8w"
+	},
+	{
+		"created_at": "Sun Mar 07 20:06:21 +0000 2021",
+		"id": 1368654270434742300,
+		"id_str": "1368654270434742273",
+		"full_text": "“There are very few instances in life in which pants are required.” https://t.co/ac8NSXNxRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ac8NSXNxRL",
+					"expanded_url": "https://www.cnn.com/2021/03/07/health/pandemic-year-lessons-wellness/index.html",
+					"display_url": "cnn.com/2021/03/07/hea…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39039,
+			"friends_count": 9757,
+			"listed_count": 1359,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There are very few instances in life in which pants are required.” https://t.co/ac8NSXNxRL"
+	},
+	{
+		"created_at": "Sun Mar 07 19:37:13 +0000 2021",
+		"id": 1368646942549414000,
+		"id_str": "1368646942549413888",
+		"full_text": "Rory’s pooched https://t.co/kgqLdD49iT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kgqLdD49iT",
+					"expanded_url": "https://twitter.com/NoLayingUp/status/1368646256336265219",
+					"display_url": "twitter.com/NoLayingUp/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39039,
+			"friends_count": 9757,
+			"listed_count": 1359,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368646256336265200,
+		"quoted_status_id_str": "1368646256336265219",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kgqLdD49iT",
+			"expanded": "https://twitter.com/NoLayingUp/status/1368646256336265219",
+			"display": "twitter.com/NoLayingUp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 07 19:34:30 +0000 2021",
+			"id": 1368646256336265200,
+			"id_str": "1368646256336265219",
+			"full_text": "RIP https://t.co/Ra5GDp04HO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				3
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1368646118171684900,
+						"id_str": "1368646118171684873",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/Ev5oZKDXMAkj4F1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ev5oZKDXMAkj4F1.jpg",
+						"url": "https://t.co/Ra5GDp04HO",
+						"display_url": "pic.twitter.com/Ra5GDp04HO",
+						"expanded_url": "https://twitter.com/NoLayingUp/status/1368646256336265219/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1263,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1368646118171684900,
+						"id_str": "1368646118171684873",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/Ev5oZKDXMAkj4F1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ev5oZKDXMAkj4F1.jpg",
+						"url": "https://t.co/Ra5GDp04HO",
+						"display_url": "pic.twitter.com/Ra5GDp04HO",
+						"expanded_url": "https://twitter.com/NoLayingUp/status/1368646256336265219/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1263,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1151892168,
+				"id_str": "1151892168",
+				"name": "No Laying Up",
+				"screen_name": "NoLayingUp",
+				"location": "Neptune Beach, FL",
+				"description": "Golf fanalysts. Podcast. #TourSauce founders. NLU Fam: @troncarternlu @bigrandynlu @ngschuNLU (merch ?'s) & @djpie. Tweets here by Soly. nolayingup@gmail.com",
+				"url": "https://t.co/V7ny1knWiZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V7ny1knWiZ",
+								"expanded_url": "http://www.nolayingup.com",
+								"display_url": "nolayingup.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 259032,
+				"friends_count": 363,
+				"listed_count": 2125,
+				"created_at": "Tue Feb 05 20:09:42 +0000 2013",
+				"favourites_count": 31987,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864178054373023745/ItQQsPEa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864178054373023745/ItQQsPEa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151892168/1487805337",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 299,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rory’s pooched https://t.co/kgqLdD49iT"
+	},
+	{
+		"created_at": "Sun Mar 07 06:35:56 +0000 2021",
+		"id": 1368450325485551600,
+		"id_str": "1368450325485551618",
+		"full_text": "@MaureenLee45 Interesting. That’s certainly a downside. My Skeecher are great for the whole day and long hikes.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaureenLee45",
+					"name": "Maureen Lee",
+					"id": 2337874939,
+					"id_str": "2337874939",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368440776355500000,
+		"in_reply_to_status_id_str": "1368440776355500034",
+		"in_reply_to_user_id": 2337874939,
+		"in_reply_to_user_id_str": "2337874939",
+		"in_reply_to_screen_name": "MaureenLee45",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39039,
+			"friends_count": 9757,
+			"listed_count": 1359,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MaureenLee45 Interesting. That’s certainly a downside. My Skeecher are great for the whole day and long hikes."
+	},
+	{
 		"created_at": "Sun Mar 07 00:50:47 +0000 2021",
 		"id": 1368363466092728300,
 		"id_str": "1368363466092728327",
-		"full_text": "⁦@djakes⁩ chicken pot pie https://t.co/EcSd1Qrb1q",
+		"full_text": "@djakes chicken pot pie https://t.co/EcSd1Qrb1q",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -193,7 +951,7 @@ Grailbird.data.tweets_2021_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "⁦@djakes⁩ chicken pot pie https://t.co/EcSd1Qrb1q"
+		"text": "@djakes chicken pot pie https://t.co/EcSd1Qrb1q"
 	},
 	{
 		"created_at": "Sat Mar 06 21:59:26 +0000 2021",
@@ -396,7 +1154,7 @@ Grailbird.data.tweets_2021_03 =
 		"created_at": "Sat Mar 06 21:54:24 +0000 2021",
 		"id": 1368319074984358000,
 		"id_str": "1368319074984357890",
-		"full_text": "⁦@NoLayingUp⁩ why leave out Corey Conners? https://t.co/cueFm4DAaC",
+		"full_text": "@NoLayingUp why leave out Corey Conners? https://t.co/cueFm4DAaC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -585,7 +1343,7 @@ Grailbird.data.tweets_2021_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "⁦@NoLayingUp⁩ why leave out Corey Conners? https://t.co/cueFm4DAaC"
+		"text": "@NoLayingUp why leave out Corey Conners? https://t.co/cueFm4DAaC"
 	},
 	{
 		"created_at": "Sat Mar 06 21:26:14 +0000 2021",
