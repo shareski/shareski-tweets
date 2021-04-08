@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 08 00:48:32 +0000 2021",
+		"id": 1379956274364706800,
+		"id_str": "1379959310004801539",
+		"full_text": "May I submit my first quote from @shareski #overheardinthenaiduhouse https://t.co/d6444vUQCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "overheardinthenaiduhouse",
+					"indices": [
+						43,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379956271021842400,
+					"id_str": "1379956271021842432",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EyaW6svUYAAr8y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyaW6svUYAAr8y0.jpg",
+					"url": "https://t.co/d6444vUQCB",
+					"display_url": "pic.twitter.com/d6444vUQCB",
+					"expanded_url": "https://twitter.com/park_star/status/1379956274364706820/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379956271021842400,
+					"id_str": "1379956271021842432",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EyaW6svUYAAr8y0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyaW6svUYAAr8y0.jpg",
+					"url": "https://t.co/d6444vUQCB",
+					"display_url": "pic.twitter.com/d6444vUQCB",
+					"expanded_url": "https://twitter.com/park_star/status/1379956274364706820/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15199255,
+			"id_str": "15199255",
+			"name": "Michelle N",
+			"screen_name": "park_star",
+			"location": "",
+			"description": "I talk about Math and Math Ed a lot. I also think my husband, sons & puppies are pretty awesome. My coworkers are amazing but I definitely don't speak for them.",
+			"url": "https://t.co/yK33xqQjBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yK33xqQjBz",
+							"expanded_url": "http://meandthedoor.wordpress.com",
+							"display_url": "meandthedoor.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 942,
+			"listed_count": 107,
+			"created_at": "Sun Jun 22 17:54:43 +0000 2008",
+			"favourites_count": 41575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929146793174036480/okz5aqOc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929146793174036480/okz5aqOc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15199255/1406044022",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "May I submit my first quote from @shareski #overheardinthenaiduhouse https://t.co/d6444vUQCB"
+	},
+	{
 		"created_at": "Wed Apr 07 00:53:03 +0000 2021",
 		"id": 1379598060150395000,
 		"id_str": "1379598060150394883",
