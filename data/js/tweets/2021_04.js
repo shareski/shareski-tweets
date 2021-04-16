@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 22:05:15 +0000 2021",
+		"id": 1382817319714316300,
+		"id_str": "1382817319714316290",
+		"full_text": "Never budge in on someone’s tee time  https://t.co/HdUCtbhCnw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdUCtbhCnw",
+					"expanded_url": "https://twitter.com/MyBookieBet/status/1382345464046096384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1382345464046096384%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Ftwitter.com%2F",
+					"display_url": "twitter.com/MyBookieBet/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39031,
+			"friends_count": 9897,
+			"listed_count": 1362,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382345464046096400,
+		"quoted_status_id_str": "1382345464046096384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HdUCtbhCnw",
+			"expanded": "https://twitter.com/MyBookieBet/status/1382345464046096384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1382345464046096384%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Ftwitter.com%2F",
+			"display": "twitter.com/MyBookieBet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 14:50:16 +0000 2021",
+			"id": 1382345464046096400,
+			"id_str": "1382345464046096384",
+			"full_text": "Nothing like a good old fashioned fight on the golf course. https://t.co/7o1KPquag8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382345399080517600,
+						"id_str": "1382345399080517637",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382345399080517637/pu/img/kG0clsUYeyHHBPHj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382345399080517637/pu/img/kG0clsUYeyHHBPHj.jpg",
+						"url": "https://t.co/7o1KPquag8",
+						"display_url": "pic.twitter.com/7o1KPquag8",
+						"expanded_url": "https://twitter.com/MyBookieBet/status/1382345464046096384/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382345399080517600,
+						"id_str": "1382345399080517637",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382345399080517637/pu/img/kG0clsUYeyHHBPHj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382345399080517637/pu/img/kG0clsUYeyHHBPHj.jpg",
+						"url": "https://t.co/7o1KPquag8",
+						"display_url": "pic.twitter.com/7o1KPquag8",
+						"expanded_url": "https://twitter.com/MyBookieBet/status/1382345464046096384/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 37000,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382345399080517637/pu/vid/320x320/eMpX-Y-rvsghxMAV.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382345399080517637/pu/vid/640x640/tqGxlO0lK9kYAV-z.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382345399080517637/pu/vid/540x540/srBFBOPaoe7ow3C3.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1382345399080517637/pu/pl/YGkTgowngS5TJv10.m3u8?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 538611136,
+				"id_str": "538611136",
+				"name": "MyBookie Sportsbook",
+				"screen_name": "MyBookieBet",
+				"location": "mybookie.ag",
+				"description": "The People's Sportsbook. Get a 50% bonus on your first deposit with promo code MYBOOKIETW.",
+				"url": "https://t.co/ZMSQeYnH6V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZMSQeYnH6V",
+								"expanded_url": "http://bit.ly/MYBOOKIETW",
+								"display_url": "bit.ly/MYBOOKIETW",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56074,
+				"friends_count": 75,
+				"listed_count": 101,
+				"created_at": "Wed Mar 28 01:04:12 +0000 2012",
+				"favourites_count": 16326,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10448,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274001209091928065/qg7yTgBt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274001209091928065/qg7yTgBt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/538611136/1596727987",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1117,
+			"favorite_count": 7637,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never budge in on someone’s tee time  https://t.co/HdUCtbhCnw"
+	},
+	{
+		"created_at": "Thu Apr 15 20:21:54 +0000 2021",
+		"id": 1382791313796472800,
+		"id_str": "1382791313796472834",
+		"full_text": "@michellek107 @amandacdykes New music.  https://t.co/7MECBPfcwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michellek107",
+					"name": "Michelle \"Fully Vaccinated/Still Masking\" Baldwin",
+					"id": 14528703,
+					"id_str": "14528703",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda C. Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7MECBPfcwI",
+					"expanded_url": "https://open.spotify.com/track/0qHStRWxklLltXfjTuiCnl?si=A9Td-hpHRt6LAzuusr2knA",
+					"display_url": "open.spotify.com/track/0qHStRWx…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14528703,
+		"in_reply_to_user_id_str": "14528703",
+		"in_reply_to_screen_name": "michellek107",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39031,
+			"friends_count": 9897,
+			"listed_count": 1362,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@michellek107 @amandacdykes New music.  https://t.co/7MECBPfcwI"
+	},
+	{
 		"created_at": "Wed Apr 14 23:48:56 +0000 2021",
 		"id": 1382481025654259700,
 		"id_str": "1382481025654259715",
@@ -536,10 +1003,10 @@ Grailbird.data.tweets_2021_04 =
 		"user": {
 			"id": 251495359,
 			"id_str": "251495359",
-			"name": "Nick Chiappini 🏳️‍🌈⚗️",
+			"name": "Nick Chiappini 🏳️🌈⚗️",
 			"screen_name": "ndchiappini",
 			"location": "Lenape-Hakni Lands (NJ)",
-			"description": "Chem Postdoc. 🏳️‍🌈he/him. Equitable sci and weird rxns are my passion.  Bathed in blue light at Princeton (Knowles group).  Kathryn Hahn evangelist.",
+			"description": "Chem Postdoc. 🏳️🌈he/him. Equitable sci and weird rxns are my passion.  Bathed in blue light at Princeton (Knowles group).  Kathryn Hahn evangelist.",
 			"url": null,
 			"entities": {
 				"description": {
