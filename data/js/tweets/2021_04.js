@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 20:18:08 +0000 2021",
+		"id": 1384964689604534300,
+		"id_str": "1384964689604534272",
+		"full_text": "I forgot you can actually print it out. https://t.co/aO26YdBUVP https://t.co/JavoGoSpKy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aO26YdBUVP",
+					"expanded_url": "https://shareski.ca/y/shifts",
+					"display_url": "shareski.ca/y/shifts",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/JavoGoSpKy",
+					"expanded_url": "https://twitter.com/RosePillay1/status/1384963344390574084",
+					"display_url": "twitter.com/RosePillay1/st…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39043,
+			"friends_count": 9923,
+			"listed_count": 1363,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384963344390574000,
+		"quoted_status_id_str": "1384963344390574084",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JavoGoSpKy",
+			"expanded": "https://twitter.com/RosePillay1/status/1384963344390574084",
+			"display": "twitter.com/RosePillay1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 21 20:12:47 +0000 2021",
+			"id": 1384963344390574000,
+			"id_str": "1384963344390574084",
+			"full_text": "Thank you @Jill_Kitch @tobincareen @JodieSuss @ADeSantis78 for making time in your day with a visit from Pillay! Enjoyed Pro-D planning with you ☺\nGrateful 🙏 too for the ideas, inspiration, &amp; insights via @shareski https://t.co/6mEXJ7Aqys",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jill_Kitch",
+						"name": "Jill Kitching",
+						"id": 2155474992,
+						"id_str": "2155474992",
+						"indices": [
+							10,
+							21
+						]
+					},
+					{
+						"screen_name": "tobincareen",
+						"name": "Sandra Tobin-Careen",
+						"id": 17917364,
+						"id_str": "17917364",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "JodieSuss",
+						"name": "Jodie Sussex",
+						"id": 2343707185,
+						"id_str": "2343707185",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"screen_name": "ADeSantis78",
+						"name": "A DeSantis",
+						"id": 300338914,
+						"id_str": "300338914",
+						"indices": [
+							46,
+							58
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							209,
+							218
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384963306927054800,
+						"id_str": "1384963306927054848",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/EzhgyjBWYAAYvHq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzhgyjBWYAAYvHq.jpg",
+						"url": "https://t.co/6mEXJ7Aqys",
+						"display_url": "pic.twitter.com/6mEXJ7Aqys",
+						"expanded_url": "https://twitter.com/RosePillay1/status/1384963344390574084/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384963306927054800,
+						"id_str": "1384963306927054848",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/EzhgyjBWYAAYvHq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzhgyjBWYAAYvHq.jpg",
+						"url": "https://t.co/6mEXJ7Aqys",
+						"display_url": "pic.twitter.com/6mEXJ7Aqys",
+						"expanded_url": "https://twitter.com/RosePillay1/status/1384963344390574084/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 325805788,
+				"id_str": "325805788",
+				"name": "Rose Pillay",
+				"screen_name": "RosePillay1",
+				"location": "Vancouver, British Columbia",
+				"description": "Catholic. Educator.  Educational Consultant.  Professional Learner. Connector of Disparate Dots. Ebullient. Learn, Laugh, Live & Love",
+				"url": "https://t.co/9Om7QQpnpE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Om7QQpnpE",
+								"expanded_url": "http://about.me/rosepillay",
+								"display_url": "about.me/rosepillay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3746,
+				"friends_count": 4463,
+				"listed_count": 160,
+				"created_at": "Tue Jun 28 22:13:19 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1380748738033897477/F9Z2h73__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380748738033897477/F9Z2h73__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/325805788/1531434397",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I forgot you can actually print it out. https://t.co/aO26YdBUVP https://t.co/JavoGoSpKy"
+	},
+	{
+		"created_at": "Wed Apr 21 18:17:45 +0000 2021",
+		"id": 1384924877883416600,
+		"id_str": "1384934394692083713",
+		"full_text": "We are thrilled to learn alongside education leaders across Canada at this afternoon's @DellTech Virtual Education Roadshow. Hope you'll join us to explore reflections on leadership and blended learning this afternoon at 3:15. @shareski #FutureForwardEDU #ALPlearn https://t.co/hIjtGv4oT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FutureForwardEDU",
+					"indices": [
+						237,
+						254
+					]
+				},
+				{
+					"text": "ALPlearn",
+					"indices": [
+						255,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						227,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384924041023197200,
+					"id_str": "1384924041023197193",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezg9E-IWEAkaaLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezg9E-IWEAkaaLf.jpg",
+					"url": "https://t.co/hIjtGv4oT6",
+					"display_url": "pic.twitter.com/hIjtGv4oT6",
+					"expanded_url": "https://twitter.com/Amos_ALP/status/1384924877883416576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1131,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1131,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384924041023197200,
+					"id_str": "1384924041023197193",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezg9E-IWEAkaaLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezg9E-IWEAkaaLf.jpg",
+					"url": "https://t.co/hIjtGv4oT6",
+					"display_url": "pic.twitter.com/hIjtGv4oT6",
+					"expanded_url": "https://twitter.com/Amos_ALP/status/1384924877883416576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1131,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1131,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 747340304,
+			"id_str": "747340304",
+			"name": "Amos Fodchuk",
+			"screen_name": "Amos_ALP",
+			"location": "Chapel Hill, NC",
+			"description": "Connecting people around a common purpose: to fundamentally enhance the way we and others learn.",
+			"url": "http://t.co/bpA6cyEX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bpA6cyEX",
+							"expanded_url": "http://advancedpartnerships.com",
+							"display_url": "advancedpartnerships.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1550,
+			"friends_count": 926,
+			"listed_count": 44,
+			"created_at": "Thu Aug 09 14:37:34 +0000 2012",
+			"favourites_count": 2525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/747340304/1605619771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are thrilled to learn alongside education leaders across Canada at this afternoon's @DellTech Virtual Education Roadshow. Hope you'll join us to explore reflections on leadership and blended learning this afternoon at 3:15. @shareski #FutureForwardEDU #ALPlearn https://t.co/hIjtGv4oT6"
+	},
+	{
+		"created_at": "Wed Apr 21 16:24:24 +0000 2021",
+		"id": 1384905868647538700,
+		"id_str": "1384905868647538691",
+		"full_text": "The benefit of virtual meetings is how precise we can be with start/end times.People don't tend to arrive early or stay late which means we miss out on opportunities to connect and build trust. Including those things in your meetings is not a waste of time. You're building trust",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39043,
+			"friends_count": 9923,
+			"listed_count": 1363,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The benefit of virtual meetings is how precise we can be with start/end times.People don't tend to arrive early or stay late which means we miss out on opportunities to connect and build trust. Including those things in your meetings is not a waste of time. You're building trust"
+	},
+	{
+		"created_at": "Wed Apr 21 02:08:38 +0000 2021",
+		"id": 1384690511311683600,
+		"id_str": "1384690511311683584",
+		"full_text": "If you’re involved with and thinking about changing high schools you may want to look at the work I led with some outstanding #bced leaders. Lots of useful considerations for meaningful changes. https://t.co/iJ9mGMyowC https://t.co/JdjS7eQXif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bced",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJ9mGMyowC",
+					"expanded_url": "http://shareski.ca/y/shifts",
+					"display_url": "shareski.ca/y/shifts",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384690507993866200,
+					"id_str": "1384690507993866247",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EzdorjzUYAcyDE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzdorjzUYAcyDE1.jpg",
+					"url": "https://t.co/JdjS7eQXif",
+					"display_url": "pic.twitter.com/JdjS7eQXif",
+					"expanded_url": "https://twitter.com/shareski/status/1384690511311683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384690507993866200,
+					"id_str": "1384690507993866247",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EzdorjzUYAcyDE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzdorjzUYAcyDE1.jpg",
+					"url": "https://t.co/JdjS7eQXif",
+					"display_url": "pic.twitter.com/JdjS7eQXif",
+					"expanded_url": "https://twitter.com/shareski/status/1384690511311683584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39043,
+			"friends_count": 9923,
+			"listed_count": 1363,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’re involved with and thinking about changing high schools you may want to look at the work I led with some outstanding #bced leaders. Lots of useful considerations for meaningful changes. https://t.co/iJ9mGMyowC https://t.co/JdjS7eQXif"
+	},
+	{
 		"created_at": "Wed Apr 21 00:35:57 +0000 2021",
 		"id": 1384667184828350500,
 		"id_str": "1384667184828350466",
