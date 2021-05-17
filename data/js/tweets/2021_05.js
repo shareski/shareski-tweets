@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 18:14:11 +0000 2021",
+		"id": 1393993196988813300,
+		"id_str": "1393993196988813312",
+		"full_text": "The kind of thinking Dawkins displays here is at minimum dangerous. The idea that people with disabilities make the world a worse place is actually evil. https://t.co/xLiF5HkNfF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLiF5HkNfF",
+					"expanded_url": "https://twitter.com/brokenbottleboy/status/1393882552264499202",
+					"display_url": "twitter.com/brokenbottlebo…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39005,
+			"friends_count": 9974,
+			"listed_count": 1362,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393882552264499200,
+		"quoted_status_id_str": "1393882552264499202",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xLiF5HkNfF",
+			"expanded": "https://twitter.com/brokenbottleboy/status/1393882552264499202",
+			"display": "twitter.com/brokenbottlebo…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 16 10:54:32 +0000 2021",
+			"id": 1393882552264499200,
+			"id_str": "1393882552264499202",
+			"full_text": "The host here — the father of a child with Down Syndrome — does incredibly well to not lose it in the face of Dawkins’ grim and indefensible rhetoric. Dawkins is advocating eugenics with the thinnest layer of politeness on top. https://t.co/91yiTfexgt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1392176849426468900,
+						"id_str": "1392176849426468866",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392176849426468866/pu/img/ZsSmFZeH1JoFZXt2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392176849426468866/pu/img/ZsSmFZeH1JoFZXt2.jpg",
+						"url": "https://t.co/91yiTfexgt",
+						"display_url": "pic.twitter.com/91yiTfexgt",
+						"expanded_url": "https://twitter.com/RTERadio1/status/1392179711338553346/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1392179711338553300,
+						"source_status_id_str": "1392179711338553346",
+						"source_user_id": 57336315,
+						"source_user_id_str": "57336315"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392176849426468900,
+						"id_str": "1392176849426468866",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392176849426468866/pu/img/ZsSmFZeH1JoFZXt2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392176849426468866/pu/img/ZsSmFZeH1JoFZXt2.jpg",
+						"url": "https://t.co/91yiTfexgt",
+						"display_url": "pic.twitter.com/91yiTfexgt",
+						"expanded_url": "https://twitter.com/RTERadio1/status/1392179711338553346/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1392179711338553300,
+						"source_status_id_str": "1392179711338553346",
+						"source_user_id": 57336315,
+						"source_user_id_str": "57336315",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 121960,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1392176849426468866/pu/pl/hOKU5ZHsJOmPBQXK.m3u8?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392176849426468866/pu/vid/480x600/Hpo9IesLXLCJdhR4.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392176849426468866/pu/vid/720x900/X8fPQ6n8Fk3_FSOz.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392176849426468866/pu/vid/320x400/6A-grayRWSHINYsE.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 57336315,
+								"id_str": "57336315",
+								"name": "RTÉ Radio 1",
+								"screen_name": "RTERadio1",
+								"location": "Ireland",
+								"description": "Ireland's Number One. News, arts, drama, music, documentary and debate on 88-90FM, LW252, online, digital radio, satellite, iOS and Android.",
+								"url": "https://t.co/dqh64EuQLU",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/dqh64EuQLU",
+												"expanded_url": "http://www.rte.ie/radio1",
+												"display_url": "rte.ie/radio1",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 154864,
+								"friends_count": 16685,
+								"listed_count": 751,
+								"created_at": "Thu Jul 16 13:39:50 +0000 2009",
+								"favourites_count": 5296,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 54863,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0877CC",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/877171219258368000/obnD9ZiL_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/877171219258368000/obnD9ZiL_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/57336315/1563978150",
+								"profile_link_color": "0A0A0A",
+								"profile_sidebar_border_color": "E8EDF0",
+								"profile_sidebar_fill_color": "9CDCFC",
+								"profile_text_color": "080808",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16288901,
+				"id_str": "16288901",
+				"name": "Mic Wright 🏳️‍🌈🌋🏴‍☠️",
+				"screen_name": "brokenbottleboy",
+				"location": "London",
+				"description": "Writer of a daily media newsletter (sign up 👇) and creator of The Paper Thing, a newspaper review show. More besides. \"The sad part is I'm a very good tailor.\"",
+				"url": "https://t.co/J8ceY5xHDg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J8ceY5xHDg",
+								"expanded_url": "http://brokenbottleboy.substack.com",
+								"display_url": "brokenbottleboy.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25361,
+				"friends_count": 15257,
+				"listed_count": 639,
+				"created_at": "Sun Sep 14 23:37:58 +0000 2008",
+				"favourites_count": 134654,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 317317,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1379872968197734409/A3AX_2G0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379872968197734409/A3AX_2G0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16288901/1619339462",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 859,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The kind of thinking Dawkins displays here is at minimum dangerous. The idea that people with disabilities make the world a worse place is actually evil. https://t.co/xLiF5HkNfF"
+	},
+	{
 		"created_at": "Sat May 15 18:37:54 +0000 2021",
 		"id": 1393636777357885400,
 		"id_str": "1393636777357885451",
