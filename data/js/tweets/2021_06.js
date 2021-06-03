@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 20:53:36 +0000 2021",
+		"id": 1400193906684227600,
+		"id_str": "1400193906684227584",
+		"full_text": "Ice cream anyone? #herschelhasmyheart https://t.co/fQQVDGyv2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						18,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400193898773762000,
+					"id_str": "1400193898773762048",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E2587rEUUAADQSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2587rEUUAADQSg.jpg",
+					"url": "https://t.co/fQQVDGyv2L",
+					"display_url": "pic.twitter.com/fQQVDGyv2L",
+					"expanded_url": "https://twitter.com/shareski/status/1400193906684227584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400193898773762000,
+					"id_str": "1400193898773762048",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E2587rEUUAADQSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2587rEUUAADQSg.jpg",
+					"url": "https://t.co/fQQVDGyv2L",
+					"display_url": "pic.twitter.com/fQQVDGyv2L",
+					"expanded_url": "https://twitter.com/shareski/status/1400193906684227584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38808,
+			"friends_count": 10004,
+			"listed_count": 1362,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ice cream anyone? #herschelhasmyheart https://t.co/fQQVDGyv2L"
+	},
+	{
+		"created_at": "Wed Jun 02 16:04:04 +0000 2021",
+		"id": 1400121044950683600,
+		"id_str": "1400121044950683650",
+		"full_text": "@courosa @8Amber8 @kmishmael You're never around.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "kmishmael",
+					"name": "Kristina Ishmael she/her",
+					"id": 58933798,
+					"id_str": "58933798",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1400120874548801500,
+		"in_reply_to_status_id_str": "1400120874548801538",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38808,
+			"friends_count": 10004,
+			"listed_count": 1362,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@courosa @8Amber8 @kmishmael You're never around."
+	},
+	{
 		"created_at": "Tue Jun 01 22:32:07 +0000 2021",
 		"id": 1399856310284394500,
 		"id_str": "1399856310284394496",
