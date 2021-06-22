@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 18:44:32 +0000 2021",
+		"id": 1406764315114446800,
+		"id_str": "1407046794681458692",
+		"full_text": "🔥 from @dirkchatelain 👇🏽\n\n“Golf is a slog — a sport you pursue over a lifetime, a marathon of peaks and valleys, a maddening quest shoving you away and pulling you back, over and over again. But on the good days? The game is magical.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dirkchatelain",
+					"name": "Dirk Chatelain",
+					"id": 55131039,
+					"id_str": "55131039",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22180206,
+			"id_str": "22180206",
+			"name": "Ｃｒａｉｇ Ｂａｄｕｒａ",
+			"screen_name": "mrbadura",
+			"location": "United States",
+			"description": "Son, Husband, Dad, K-12 Tech Coach, Golf Coach, Gardener, Maker of Meals",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11778,
+			"friends_count": 9972,
+			"listed_count": 535,
+			"created_at": "Fri Feb 27 19:42:55 +0000 2009",
+			"favourites_count": 13173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297870977557299208/avArJQNf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297870977557299208/avArJQNf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22180206/1622649064",
+			"profile_link_color": "B50025",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🔥 from @dirkchatelain 👇🏽\n\n“Golf is a slog — a sport you pursue over a lifetime, a marathon of peaks and valleys, a maddening quest shoving you away and pulling you back, over and over again. But on the good days? The game is magical.”"
+	},
+	{
 		"created_at": "Sun Jun 20 23:46:52 +0000 2021",
 		"id": 1406760492832460800,
 		"id_str": "1406760492832460804",
