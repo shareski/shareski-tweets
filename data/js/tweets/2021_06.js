@@ -1,10 +1,344 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 18:52:40 +0000 2021",
+		"id": 1408878326370930700,
+		"id_str": "1409223169337135109",
+		"full_text": "Drone photographer Lior Patel followed a herd of sheep for several months, as the herd was shepherded to its summer pasture. Entrancing and relaxing. https://t.co/2VyAFtwYnZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408877463573250000,
+					"id_str": "1408877463573250055",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408877463573250055/pu/img/djSh-EIOasQn22vg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408877463573250055/pu/img/djSh-EIOasQn22vg.jpg",
+					"url": "https://t.co/2VyAFtwYnZ",
+					"display_url": "pic.twitter.com/2VyAFtwYnZ",
+					"expanded_url": "https://twitter.com/ariehkovler/status/1408878326370930690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408877463573250000,
+					"id_str": "1408877463573250055",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408877463573250055/pu/img/djSh-EIOasQn22vg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408877463573250055/pu/img/djSh-EIOasQn22vg.jpg",
+					"url": "https://t.co/2VyAFtwYnZ",
+					"display_url": "pic.twitter.com/2VyAFtwYnZ",
+					"expanded_url": "https://twitter.com/ariehkovler/status/1408878326370930690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73661,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408877463573250055/pu/vid/480x270/n9eK6tyNS8bRaKHM.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408877463573250055/pu/vid/640x360/YOeRJKHMZwN1ho90.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408877463573250055/pu/vid/1152x648/7kbSu5Ou_Nm7Jgki.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408877463573250055/pu/pl/V3030Nz5Hb23gnAn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19334118,
+			"id_str": "19334118",
+			"name": "Arieh Kovler",
+			"screen_name": "ariehkovler",
+			"location": "Israel",
+			"description": "Writer, political analyst, comms consultant. I mainly tweet on UK, Israeli, US and world politics and current affairs. Media opps contact arieh@ariehkovler.com",
+			"url": "https://t.co/6kQWkPnhj5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kQWkPnhj5",
+							"expanded_url": "https://arieh.substack.com",
+							"display_url": "arieh.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86294,
+			"friends_count": 400,
+			"listed_count": 818,
+			"created_at": "Thu Jan 22 10:54:58 +0000 2009",
+			"favourites_count": 17353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 67308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000183147469/4b5dbbaf39a9dde382353efcccf42218_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000183147469/4b5dbbaf39a9dde382353efcccf42218_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19334118/1584256703",
+			"profile_link_color": "1E6E67",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2133,
+		"favorite_count": 8515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Drone photographer Lior Patel followed a herd of sheep for several months, as the herd was shepherded to its summer pasture. Entrancing and relaxing. https://t.co/2VyAFtwYnZ"
+	},
+	{
+		"created_at": "Sun Jun 27 02:57:33 +0000 2021",
+		"id": 1408982808148668400,
+		"id_str": "1408982808148668422",
+		"full_text": "Mowed the lawn. @amandacdykes also wrote this earlier in the week. https://t.co/wHarTtp2iv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda C. Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wHarTtp2iv",
+					"expanded_url": "http://shareski.ca/y/4b8",
+					"display_url": "shareski.ca/y/4b8",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38794,
+			"friends_count": 10030,
+			"listed_count": 1360,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mowed the lawn. @amandacdykes also wrote this earlier in the week. https://t.co/wHarTtp2iv"
+	},
+	{
 		"created_at": "Sat Jun 26 22:19:30 +0000 2021",
 		"id": 1408912835292188700,
 		"id_str": "1408912835292188678",
-		"full_text": "⁦@Shawhelp⁩ I am on my in home wifi. What gives? https://t.co/CRgb82QlKk",
+		"full_text": "@Shawhelp I am on my in home wifi. What gives? https://t.co/CRgb82QlKk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -194,7 +528,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "⁦@Shawhelp⁩ I am on my in home wifi. What gives? https://t.co/CRgb82QlKk"
+		"text": "@Shawhelp I am on my in home wifi. What gives? https://t.co/CRgb82QlKk"
 	},
 	{
 		"created_at": "Sat Jun 26 21:10:32 +0000 2021",
