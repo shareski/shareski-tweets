@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 01:14:46 +0000 2021",
+		"id": 1413657117039505400,
+		"id_str": "1413667981117181952",
+		"full_text": "This week for me has been all about great conversations. @ALPlearn has a gathering every Thursday @3 and I can’t say enough about the people in these boxes.. feeling fortunate #alplearn @JorgeDoesPBL @WheatleyMoylan @RachelFruin @gjlyman @tborash @tntowslee @shareski https://t.co/srs94XV73h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "3",
+					"name": "Blair",
+					"id": 287253599,
+					"id_str": "287253599",
+					"indices": [
+						98,
+						100
+					]
+				},
+				{
+					"screen_name": "JorgeDoesPBL",
+					"name": "Jorge Valenzuela — Lifelong Learning Defined",
+					"id": 4135038053,
+					"id_str": "4135038053",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"screen_name": "WheatleyMoylan",
+					"name": "Wheatley Moylan",
+					"id": 224119839,
+					"id_str": "224119839",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"screen_name": "RachelFruin",
+					"name": "Rachel Fruin",
+					"id": 2375844584,
+					"id_str": "2375844584",
+					"indices": [
+						216,
+						228
+					]
+				},
+				{
+					"screen_name": "gjlyman",
+					"name": "Gaynell Lyman",
+					"id": 132606571,
+					"id_str": "132606571",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"screen_name": "tborash",
+					"name": "Tony Borash",
+					"id": 44922814,
+					"id_str": "44922814",
+					"indices": [
+						238,
+						246
+					]
+				},
+				{
+					"screen_name": "tntowslee",
+					"name": "Tim Towslee",
+					"id": 1020013148,
+					"id_str": "1020013148",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						258,
+						267
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413657111377109000,
+					"id_str": "1413657111377108995",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E55RpyXWYAM7NN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E55RpyXWYAM7NN6.jpg",
+					"url": "https://t.co/srs94XV73h",
+					"display_url": "pic.twitter.com/srs94XV73h",
+					"expanded_url": "https://twitter.com/cben1teach/status/1413657117039505411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413657111377109000,
+					"id_str": "1413657111377108995",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E55RpyXWYAM7NN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E55RpyXWYAM7NN6.jpg",
+					"url": "https://t.co/srs94XV73h",
+					"display_url": "pic.twitter.com/srs94XV73h",
+					"expanded_url": "https://twitter.com/cben1teach/status/1413657117039505411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228178336,
+			"id_str": "228178336",
+			"name": "Craig Bennett",
+			"screen_name": "cben1teach",
+			"location": "Charleston,SC",
+			"description": "Be passionate about something.",
+			"url": "https://t.co/l6t2N768Bv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l6t2N768Bv",
+							"expanded_url": "http://www.alplearn.com",
+							"display_url": "alplearn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835,
+			"friends_count": 829,
+			"listed_count": 20,
+			"created_at": "Sat Dec 18 23:42:15 +0000 2010",
+			"favourites_count": 4862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348055227430273030/EeStvIG9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348055227430273030/EeStvIG9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228178336/1394314180",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011bbf607c5c73cc",
+			"url": "https://api.twitter.com/1.1/geo/id/011bbf607c5c73cc.json",
+			"place_type": "city",
+			"name": "Hanahan",
+			"full_name": "Hanahan, SC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.042452,
+							32.899879
+						],
+						[
+							-79.951585,
+							32.899879
+						],
+						[
+							-79.951585,
+							32.9779489
+						],
+						[
+							-80.042452,
+							32.9779489
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This week for me has been all about great conversations. @ALPlearn has a gathering every Thursday @3 and I can’t say enough about the people in these boxes.. feeling fortunate #alplearn @JorgeDoesPBL @WheatleyMoylan @RachelFruin @gjlyman @tborash @tntowslee @shareski https://t.co/srs94XV73h"
+	},
+	{
+		"created_at": "Fri Jul 09 14:18:16 +0000 2021",
+		"id": 1413502767809798100,
+		"id_str": "1413502767809798156",
+		"full_text": "Technology is More than a Tool. https://t.co/h4IZgLKDgB I wrote this 10 years ago. I think it still stands.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h4IZgLKDgB",
+					"expanded_url": "https://shareski.ca/y/au",
+					"display_url": "shareski.ca/y/au",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38780,
+			"friends_count": 10042,
+			"listed_count": 1357,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Technology is More than a Tool. https://t.co/h4IZgLKDgB I wrote this 10 years ago. I think it still stands."
+	},
+	{
 		"created_at": "Thu Jul 08 23:43:50 +0000 2021",
 		"id": 1413282711393824800,
 		"id_str": "1413282711393824771",
