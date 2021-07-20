@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 16:39:35 +0000 2021",
+		"id": 1417162210762055700,
+		"id_str": "1417162210762055680",
+		"full_text": "Thanks for finding this. IP address links back to Nigerian scammers #whackamole https://t.co/U48Caa5if9 https://t.co/iCcbrRT6K6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "whackamole",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U48Caa5if9",
+					"expanded_url": "http://shareski.ca/y/catfishing",
+					"display_url": "shareski.ca/y/catfishing",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/iCcbrRT6K6",
+					"expanded_url": "https://twitter.com/LAURAda28051967/status/1416781091692818433",
+					"display_url": "twitter.com/LAURAda2805196…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38775,
+			"friends_count": 10056,
+			"listed_count": 1355,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416781091692818400,
+		"quoted_status_id_str": "1416781091692818433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iCcbrRT6K6",
+			"expanded": "https://twitter.com/LAURAda28051967/status/1416781091692818433",
+			"display": "twitter.com/LAURAda2805196…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 18 15:25:09 +0000 2021",
+			"id": 1416781091692818400,
+			"id_str": "1416781091692818433",
+			"full_text": "@MarkHar43768157 is using image of @shareski. Do a Search Image on Google.  Same with trying to look professional by photoshopping Senator Mark Pryor.  Pathetic attempt to come off as legit. https://t.co/NAmgGzjH6B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkHar43768157",
+						"name": "Mark Harrison Schmidt",
+						"id": 1270327475126636500,
+						"id_str": "1270327475126636547",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							35,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NAmgGzjH6B",
+						"expanded_url": "https://twitter.com/LAURAda28051967/status/1416508972526415883",
+						"display_url": "twitter.com/LAURAda2805196…",
+						"indices": [
+							191,
+							214
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1270327475126636500,
+			"in_reply_to_user_id_str": "1270327475126636547",
+			"in_reply_to_screen_name": "MarkHar43768157",
+			"user": {
+				"id": 1171450286122197000,
+				"id_str": "1171450286122196992",
+				"name": "LAURA daSilva",
+				"screen_name": "LAURAda28051967",
+				"location": "",
+				"description": "Here for the animals.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 545,
+				"friends_count": 627,
+				"listed_count": 1,
+				"created_at": "Tue Sep 10 15:48:26 +0000 2019",
+				"favourites_count": 177671,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 147885,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1388920039231922177/UDeXW6wV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388920039231922177/UDeXW6wV_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1416508972526416000,
+			"quoted_status_id_str": "1416508972526415883",
+			"quoted_status_permalink": {
+				"url": "https://t.co/NAmgGzjH6B",
+				"expanded": "https://twitter.com/LAURAda28051967/status/1416508972526415883",
+				"display": "twitter.com/LAURAda2805196…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for finding this. IP address links back to Nigerian scammers #whackamole https://t.co/U48Caa5if9 https://t.co/iCcbrRT6K6"
+	},
+	{
 		"created_at": "Sun Jul 18 19:36:59 +0000 2021",
 		"id": 1416844469798772700,
 		"id_str": "1416844469798772737",
