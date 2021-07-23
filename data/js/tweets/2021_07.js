@@ -1,6 +1,154 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 04:51:51 +0000 2021",
+		"id": 1418071267538788400,
+		"id_str": "1418071267538788353",
+		"full_text": "@msdurall https://t.co/LcZmfqb7L4 @8Amber8 @kmishmael",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msdurall",
+					"name": "Kim",
+					"id": 3031646044,
+					"id_str": "3031646044",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "kmishmael",
+					"name": "Kristina Ishmael she/her",
+					"id": 58933798,
+					"id_str": "58933798",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LcZmfqb7L4",
+					"expanded_url": "http://ideasandthoughts.org/podcast/outside-the-classroom-episode-7-with-amber-teamann-and-kristina-ishmael/",
+					"display_url": "ideasandthoughts.org/podcast/outsid…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418066298672660500,
+		"in_reply_to_status_id_str": "1418066298672660485",
+		"in_reply_to_user_id": 3031646044,
+		"in_reply_to_user_id_str": "3031646044",
+		"in_reply_to_screen_name": "msdurall",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38779,
+			"friends_count": 10056,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@msdurall https://t.co/LcZmfqb7L4 @8Amber8 @kmishmael"
+	},
+	{
 		"created_at": "Thu Jul 22 01:10:18 +0000 2021",
 		"id": 1418011683470069800,
 		"id_str": "1418015514228518916",
