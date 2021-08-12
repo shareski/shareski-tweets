@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 19:55:06 +0000 2021",
+		"id": 1425488258218315800,
+		"id_str": "1425546336049319936",
+		"full_text": "A Leroy, Sask., man has been charged by @RCMPSK with dangerous operation of an aircraft after landing his helicopter in a Tisdale parking lot so his passenger could run in and buy an ice cream cake. #westcdnag https://t.co/xuKodwTs2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "westcdnag",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RCMPSK",
+					"name": "RCMP Saskatchewan",
+					"id": 575646270,
+					"id_str": "575646270",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425488256427339800,
+					"id_str": "1425488256427339776",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E8haBEPXsAAplVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8haBEPXsAAplVt.jpg",
+					"url": "https://t.co/xuKodwTs2j",
+					"display_url": "pic.twitter.com/xuKodwTs2j",
+					"expanded_url": "https://twitter.com/westernproducer/status/1425488258218315782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425488256427339800,
+					"id_str": "1425488256427339776",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E8haBEPXsAAplVt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8haBEPXsAAplVt.jpg",
+					"url": "https://t.co/xuKodwTs2j",
+					"display_url": "pic.twitter.com/xuKodwTs2j",
+					"expanded_url": "https://twitter.com/westernproducer/status/1425488258218315782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18838998,
+			"id_str": "18838998",
+			"name": "The Western Producer",
+			"screen_name": "westernproducer",
+			"location": "Canada",
+			"description": "Canada's best source for agricultural news.  https://t.co/ncy1FAXkZS",
+			"url": "http://t.co/wPIvudWMSi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wPIvudWMSi",
+							"expanded_url": "http://www.producer.com",
+							"display_url": "producer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ncy1FAXkZS",
+							"expanded_url": "https://www.facebook.com/westernproducer/",
+							"display_url": "facebook.com/westernproduce…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25787,
+			"friends_count": 6671,
+			"listed_count": 422,
+			"created_at": "Sat Jan 10 16:51:43 +0000 2009",
+			"favourites_count": 1834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011670642683346944/sV4mdaJO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011670642683346944/sV4mdaJO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18838998/1407356568",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Leroy, Sask., man has been charged by @RCMPSK with dangerous operation of an aircraft after landing his helicopter in a Tisdale parking lot so his passenger could run in and buy an ice cream cake. #westcdnag https://t.co/xuKodwTs2j"
+	},
+	{
 		"created_at": "Tue Aug 10 21:01:28 +0000 2021",
 		"id": 1425200648732168200,
 		"id_str": "1425200648732168200",
