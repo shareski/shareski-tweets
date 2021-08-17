@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 23:40:08 +0000 2021",
+		"id": 1427414906765197300,
+		"id_str": "1427414906765197317",
+		"full_text": "@rrodgers @ChristianDFloyd https://t.co/ovUVzNsPH5",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rrodgers",
+					"name": "ᖇa͏n͏d͏y ᖇo͏d͏g͏e͏r͏s",
+					"id": 7664032,
+					"id_str": "7664032",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ChristianDFloyd",
+					"name": "Christian Floyd",
+					"id": 256192378,
+					"id_str": "256192378",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427414900205293600,
+					"id_str": "1427414900205293568",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E88ySfnWEAAxfSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E88ySfnWEAAxfSA.jpg",
+					"url": "https://t.co/ovUVzNsPH5",
+					"display_url": "pic.twitter.com/ovUVzNsPH5",
+					"expanded_url": "https://twitter.com/shareski/status/1427414906765197317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427414900205293600,
+					"id_str": "1427414900205293568",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E88ySfnWEAAxfSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E88ySfnWEAAxfSA.jpg",
+					"url": "https://t.co/ovUVzNsPH5",
+					"display_url": "pic.twitter.com/ovUVzNsPH5",
+					"expanded_url": "https://twitter.com/shareski/status/1427414906765197317/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E88ySfnWEAAxfSA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1427414508478386200,
+		"in_reply_to_status_id_str": "1427414508478386180",
+		"in_reply_to_user_id": 7664032,
+		"in_reply_to_user_id_str": "7664032",
+		"in_reply_to_screen_name": "rrodgers",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38796,
+			"friends_count": 10085,
+			"listed_count": 1355,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@rrodgers @ChristianDFloyd https://t.co/ovUVzNsPH5"
+	},
+	{
+		"created_at": "Mon Aug 16 23:29:20 +0000 2021",
+		"id": 1427412190655656000,
+		"id_str": "1427412190655655942",
+		"full_text": "Thank you @erinbrie and @andrewmead73. I think. https://t.co/ITyMJhL0vS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erinbrie",
+					"name": "Erin Clarke",
+					"id": 262384868,
+					"id_str": "262384868",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "andrewmead73",
+					"name": "Andrew Mead",
+					"id": 248957048,
+					"id_str": "248957048",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427412183693119500,
+					"id_str": "1427412183693119491",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E88v0X0X0AM2v5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E88v0X0X0AM2v5v.jpg",
+					"url": "https://t.co/ITyMJhL0vS",
+					"display_url": "pic.twitter.com/ITyMJhL0vS",
+					"expanded_url": "https://twitter.com/shareski/status/1427412190655655942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427412183693119500,
+					"id_str": "1427412183693119491",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E88v0X0X0AM2v5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E88v0X0X0AM2v5v.jpg",
+					"url": "https://t.co/ITyMJhL0vS",
+					"display_url": "pic.twitter.com/ITyMJhL0vS",
+					"expanded_url": "https://twitter.com/shareski/status/1427412190655655942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38796,
+			"friends_count": 10085,
+			"listed_count": 1355,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @erinbrie and @andrewmead73. I think. https://t.co/ITyMJhL0vS"
+	},
+	{
+		"created_at": "Mon Aug 16 12:08:48 +0000 2021",
+		"id": 1427240927437938700,
+		"id_str": "1427240927437938688",
+		"full_text": "“I have a window air conditioner but haven’t bothered to put it in. It hasn’t been that hot” My Dad after I asked if he finds it hot in his condo. https://t.co/rTWqVqB487",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427240915740004400,
+					"id_str": "1427240915740004353",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E86UDQ-WEAEobpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E86UDQ-WEAEobpT.jpg",
+					"url": "https://t.co/rTWqVqB487",
+					"display_url": "pic.twitter.com/rTWqVqB487",
+					"expanded_url": "https://twitter.com/shareski/status/1427240927437938688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427240915740004400,
+					"id_str": "1427240915740004353",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E86UDQ-WEAEobpT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E86UDQ-WEAEobpT.jpg",
+					"url": "https://t.co/rTWqVqB487",
+					"display_url": "pic.twitter.com/rTWqVqB487",
+					"expanded_url": "https://twitter.com/shareski/status/1427240927437938688/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 286,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							143
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E86UDQ-WEAEobpT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38796,
+			"friends_count": 10085,
+			"listed_count": 1355,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I have a window air conditioner but haven’t bothered to put it in. It hasn’t been that hot” My Dad after I asked if he finds it hot in his condo. https://t.co/rTWqVqB487"
+	},
+	{
 		"created_at": "Mon Aug 16 01:16:35 +0000 2021",
 		"id": 1427076792033202200,
 		"id_str": "1427076792033202176",
