@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 14:26:29 +0000 2021",
+		"id": 1430174081584926700,
+		"id_str": "1430174680544129034",
+		"full_text": "How might best practices address the importance of assessment? Join edus on Sept. 1st @3 EST to share, discuss, &amp; co-create strategies to empower students to take a key role in their own assessment. @Delltech @OECMcollaborate https://t.co/DevocZdCMk @shareski https://t.co/geOK4T9uPU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "3",
+					"name": "Blair",
+					"id": 287253599,
+					"id_str": "287253599",
+					"indices": [
+						86,
+						88
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						213,
+						229
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DevocZdCMk",
+					"expanded_url": "https://oecm.ca/professional-learning-ontario-educators",
+					"display_url": "oecm.ca/professional-l…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430173858313777200,
+					"id_str": "1430173858313777152",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E9j_i_fXsAAiLc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9j_i_fXsAAiLc2.jpg",
+					"url": "https://t.co/geOK4T9uPU",
+					"display_url": "pic.twitter.com/geOK4T9uPU",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1430174081584926727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430173858313777200,
+					"id_str": "1430173858313777152",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E9j_i_fXsAAiLc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9j_i_fXsAAiLc2.jpg",
+					"url": "https://t.co/geOK4T9uPU",
+					"display_url": "pic.twitter.com/geOK4T9uPU",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1430174081584926727/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 271,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11173922,
+			"id_str": "11173922",
+			"name": "Katina",
+			"screen_name": "KatPapulkas",
+			"location": "Toronto",
+			"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+			"url": "http://t.co/tAT55fZBXP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tAT55fZBXP",
+							"expanded_url": "http://www.globalfieldtrip.com",
+							"display_url": "globalfieldtrip.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 4094,
+			"listed_count": 72,
+			"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+			"favourites_count": 5830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How might best practices address the importance of assessment? Join edus on Sept. 1st @3 EST to share, discuss, &amp; co-create strategies to empower students to take a key role in their own assessment. @Delltech @OECMcollaborate https://t.co/DevocZdCMk @shareski https://t.co/geOK4T9uPU"
+	},
+	{
 		"created_at": "Tue Aug 24 00:35:13 +0000 2021",
 		"id": 1429965482896068600,
 		"id_str": "1429965482896068608",
