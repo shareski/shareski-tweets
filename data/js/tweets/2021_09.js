@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 00:24:27 +0000 2021",
+		"id": 1434311428534591500,
+		"id_str": "1434311428534591489",
+		"full_text": "@briley8557 Harbor Golf Club &amp; Resort Inc\n(306) 854-2300\nhttps://t.co/kIyZytpHYY",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "briley8557",
+					"name": "Bob Riley",
+					"id": 26793911,
+					"id_str": "26793911",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kIyZytpHYY",
+					"expanded_url": "https://goo.gl/maps/cxmifGKwhm8yrz8t7",
+					"display_url": "goo.gl/maps/cxmifGKwh…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1434305589962809300,
+		"in_reply_to_status_id_str": "1434305589962809345",
+		"in_reply_to_user_id": 26793911,
+		"in_reply_to_user_id_str": "26793911",
+		"in_reply_to_screen_name": "briley8557",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38812,
+			"friends_count": 10099,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@briley8557 Harbor Golf Club &amp; Resort Inc\n(306) 854-2300\nhttps://t.co/kIyZytpHYY"
+	},
+	{
+		"created_at": "Sat Sep 04 23:13:47 +0000 2021",
+		"id": 1434293645100785700,
+		"id_str": "1434293645100785669",
+		"full_text": "What a day and view for golf. https://t.co/POEoG03JOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434293595578806300,
+					"id_str": "1434293595578806274",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E-eibQwXsAIKxnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-eibQwXsAIKxnz.jpg",
+					"url": "https://t.co/POEoG03JOe",
+					"display_url": "pic.twitter.com/POEoG03JOe",
+					"expanded_url": "https://twitter.com/shareski/status/1434293645100785669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434293595578806300,
+					"id_str": "1434293595578806274",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E-eibQwXsAIKxnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-eibQwXsAIKxnz.jpg",
+					"url": "https://t.co/POEoG03JOe",
+					"display_url": "pic.twitter.com/POEoG03JOe",
+					"expanded_url": "https://twitter.com/shareski/status/1434293645100785669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38812,
+			"friends_count": 10099,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a day and view for golf. https://t.co/POEoG03JOe"
+	},
+	{
+		"created_at": "Sat Sep 04 16:01:29 +0000 2021",
+		"id": 1434184854955040800,
+		"id_str": "1434184854955040769",
+		"full_text": "That’s a big one. https://t.co/P6yFX6J3Sm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434184844846645200,
+					"id_str": "1434184844846645256",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/E-c_hItVQAgcHG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-c_hItVQAgcHG0.jpg",
+					"url": "https://t.co/P6yFX6J3Sm",
+					"display_url": "pic.twitter.com/P6yFX6J3Sm",
+					"expanded_url": "https://twitter.com/shareski/status/1434184854955040769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434184844846645200,
+					"id_str": "1434184844846645256",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/E-c_hItVQAgcHG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-c_hItVQAgcHG0.jpg",
+					"url": "https://t.co/P6yFX6J3Sm",
+					"display_url": "pic.twitter.com/P6yFX6J3Sm",
+					"expanded_url": "https://twitter.com/shareski/status/1434184854955040769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38812,
+			"friends_count": 10099,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s a big one. https://t.co/P6yFX6J3Sm"
+	},
+	{
+		"created_at": "Sat Sep 04 15:51:19 +0000 2021",
+		"id": 1434182294810632200,
+		"id_str": "1434182294810632194",
+		"full_text": "@ReniHorban It’s the same all year",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReniHorban",
+					"name": "Reni Horban",
+					"id": 858944630,
+					"id_str": "858944630",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1434149784529555500,
+		"in_reply_to_status_id_str": "1434149784529555463",
+		"in_reply_to_user_id": 858944630,
+		"in_reply_to_user_id_str": "858944630",
+		"in_reply_to_screen_name": "ReniHorban",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38812,
+			"friends_count": 10099,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ReniHorban It’s the same all year"
+	},
+	{
 		"created_at": "Sat Sep 04 00:26:59 +0000 2021",
 		"id": 1433949678366695400,
 		"id_str": "1433949678366695429",
