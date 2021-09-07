@@ -1,6 +1,964 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 20:20:22 +0000 2021",
+		"id": 1434974777488281600,
+		"id_str": "1434974777488281600",
+		"full_text": "This is my world. It’s awesome. #herschelhasmyheart #woodyhasmyheart #harriethasmyheart https://t.co/TZHkMBhiiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						32,
+						51
+					]
+				},
+				{
+					"text": "woodyhasmyheart",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"text": "harriethasmyheart",
+					"indices": [
+						69,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434974770991288300,
+					"id_str": "1434974770991288320",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E-oN846VUAAhBnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-oN846VUAAhBnf.jpg",
+					"url": "https://t.co/TZHkMBhiiU",
+					"display_url": "pic.twitter.com/TZHkMBhiiU",
+					"expanded_url": "https://twitter.com/shareski/status/1434974777488281600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1466,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 859,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434974770991288300,
+					"id_str": "1434974770991288320",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E-oN846VUAAhBnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-oN846VUAAhBnf.jpg",
+					"url": "https://t.co/TZHkMBhiiU",
+					"display_url": "pic.twitter.com/TZHkMBhiiU",
+					"expanded_url": "https://twitter.com/shareski/status/1434974777488281600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1466,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 859,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my world. It’s awesome. #herschelhasmyheart #woodyhasmyheart #harriethasmyheart https://t.co/TZHkMBhiiU"
+	},
+	{
+		"created_at": "Mon Sep 06 19:16:42 +0000 2021",
+		"id": 1434958758204125200,
+		"id_str": "1434958758204125189",
+		"full_text": "@NoLayingUp @1dad2lads SG has been more of a discussion in recent years. But watching match play over the years seems to be more about putting. SG is a stroke play stat. Certainly important but perhaps less so in match play. Maybe.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "1dad2lads",
+					"name": "Undefeated Champion of Tweeter",
+					"id": 15969719,
+					"id_str": "15969719",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1434956783278231600,
+		"in_reply_to_status_id_str": "1434956783278231562",
+		"in_reply_to_user_id": 1151892168,
+		"in_reply_to_user_id_str": "1151892168",
+		"in_reply_to_screen_name": "NoLayingUp",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NoLayingUp @1dad2lads SG has been more of a discussion in recent years. But watching match play over the years seems to be more about putting. SG is a stroke play stat. Certainly important but perhaps less so in match play. Maybe."
+	},
+	{
+		"created_at": "Mon Sep 06 18:58:59 +0000 2021",
+		"id": 1434954296337043500,
+		"id_str": "1434954296337043456",
+		"full_text": "@NoLayingUp @pnester89 https://t.co/2ULmIrRZkv",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "pnester89",
+					"name": "Patrick Nester",
+					"id": 101434517,
+					"id_str": "101434517",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434954290213187600,
+					"id_str": "1434954290213187586",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E-n7UwEUcAIRIUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E-n7UwEUcAIRIUc.jpg",
+					"url": "https://t.co/2ULmIrRZkv",
+					"display_url": "pic.twitter.com/2ULmIrRZkv",
+					"expanded_url": "https://twitter.com/shareski/status/1434954296337043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434954290213187600,
+					"id_str": "1434954290213187586",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E-n7UwEUcAIRIUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E-n7UwEUcAIRIUc.jpg",
+					"url": "https://t.co/2ULmIrRZkv",
+					"display_url": "pic.twitter.com/2ULmIrRZkv",
+					"expanded_url": "https://twitter.com/shareski/status/1434954296337043456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							187,
+							98
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E-n7UwEUcAIRIUc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1434954049007276000,
+		"in_reply_to_status_id_str": "1434954049007276035",
+		"in_reply_to_user_id": 1151892168,
+		"in_reply_to_user_id_str": "1151892168",
+		"in_reply_to_screen_name": "NoLayingUp",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@NoLayingUp @pnester89 https://t.co/2ULmIrRZkv"
+	},
+	{
+		"created_at": "Mon Sep 06 18:45:44 +0000 2021",
+		"id": 1434950963362738200,
+		"id_str": "1434950963362738181",
+		"full_text": "Once again, match play seems to be more about putting than in stroke play. Does that make a Kisner pic more appealing? Even if he just plays foursomes and gets you 2 or 2.5 points. #SolheimCup #RyderCup @NoLayingUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SolheimCup",
+					"indices": [
+						181,
+						192
+					]
+				},
+				{
+					"text": "RyderCup",
+					"indices": [
+						193,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						203,
+						214
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Once again, match play seems to be more about putting than in stroke play. Does that make a Kisner pic more appealing? Even if he just plays foursomes and gets you 2 or 2.5 points. #SolheimCup #RyderCup @NoLayingUp"
+	},
+	{
+		"created_at": "Mon Sep 06 04:20:18 +0000 2021",
+		"id": 1434733171224944600,
+		"id_str": "1434733171224944640",
+		"full_text": "@bradleyrbaker @SagebrushGC @GolfCanada @GolfChannel @golfski27 @StrongerGolf looks amazing",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bradleyrbaker",
+					"name": "Brad Baker",
+					"id": 104046408,
+					"id_str": "104046408",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SagebrushGC",
+					"name": "Sagebrush Golf Club",
+					"id": 1373893643044487200,
+					"id_str": "1373893643044487168",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "GolfCanada",
+					"name": "Golf Canada",
+					"id": 25384840,
+					"id_str": "25384840",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "GolfChannel",
+					"name": "Golf Channel",
+					"id": 28349128,
+					"id_str": "28349128",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "golfski27",
+					"name": "Randy Smith",
+					"id": 264926200,
+					"id_str": "264926200",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "StrongerGolf",
+					"name": "Mark Strong",
+					"id": 147370595,
+					"id_str": "147370595",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1434730294981058600,
+		"in_reply_to_status_id_str": "1434730294981058562",
+		"in_reply_to_user_id": 104046408,
+		"in_reply_to_user_id_str": "104046408",
+		"in_reply_to_screen_name": "bradleyrbaker",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bradleyrbaker @SagebrushGC @GolfCanada @GolfChannel @golfski27 @StrongerGolf looks amazing"
+	},
+	{
+		"created_at": "Mon Sep 06 03:35:04 +0000 2021",
+		"id": 1434721787577659400,
+		"id_str": "1434721787577659398",
+		"full_text": "I've never been to Eastern Europe but from every movie I've ever seen it can only be described as bleak. I don't believe the sun ever shines there.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38817,
+			"friends_count": 10103,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I've never been to Eastern Europe but from every movie I've ever seen it can only be described as bleak. I don't believe the sun ever shines there."
+	},
+	{
 		"created_at": "Mon Sep 06 00:11:44 +0000 2021",
 		"id": 1434670614447415300,
 		"id_str": "1434670614447415302",
