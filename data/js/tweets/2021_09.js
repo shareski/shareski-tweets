@@ -1,6 +1,839 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 00:30:04 +0000 2021",
+		"id": 1439023885148639200,
+		"id_str": "1439023885148639236",
+		"full_text": "@dschoening @stumpteacher https://t.co/W3DXZuhPLm",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dschoening",
+					"name": "Devin Schoening",
+					"id": 16873753,
+					"id_str": "16873753",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "stumpteacher",
+					"name": "Josh Stumpenhorst",
+					"id": 160354526,
+					"id_str": "160354526",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439023878953595000,
+					"id_str": "1439023878953594880",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_hwl_hVcAA2Ma8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_hwl_hVcAA2Ma8.jpg",
+					"url": "https://t.co/W3DXZuhPLm",
+					"display_url": "pic.twitter.com/W3DXZuhPLm",
+					"expanded_url": "https://twitter.com/shareski/status/1439023885148639236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439023878953595000,
+					"id_str": "1439023878953594880",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_hwl_hVcAA2Ma8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_hwl_hVcAA2Ma8.jpg",
+					"url": "https://t.co/W3DXZuhPLm",
+					"display_url": "pic.twitter.com/W3DXZuhPLm",
+					"expanded_url": "https://twitter.com/shareski/status/1439023885148639236/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							55
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_hwl_hVcAA2Ma8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1439014904502132700,
+		"in_reply_to_status_id_str": "1439014904502132738",
+		"in_reply_to_user_id": 16873753,
+		"in_reply_to_user_id_str": "16873753",
+		"in_reply_to_screen_name": "dschoening",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38840,
+			"friends_count": 10167,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dschoening @stumpteacher https://t.co/W3DXZuhPLm"
+	},
+	{
+		"created_at": "Fri Sep 17 15:27:23 +0000 2021",
+		"id": 1438887315535921200,
+		"id_str": "1438887315535921154",
+		"full_text": "I wonder if @courosa has gotten over me changing my Twitter profile image.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38840,
+			"friends_count": 10167,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I wonder if @courosa has gotten over me changing my Twitter profile image."
+	},
+	{
+		"created_at": "Fri Sep 17 15:03:36 +0000 2021",
+		"id": 1438881329584636000,
+		"id_str": "1438881329584635904",
+		"full_text": "What word would you like to use more in day to day conversation? My would be matriculate. cc @AndrewTSchaefer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndrewTSchaefer",
+					"name": "Andy Schaefer",
+					"id": 18448804,
+					"id_str": "18448804",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38840,
+			"friends_count": 10167,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "What word would you like to use more in day to day conversation? My would be matriculate. cc @AndrewTSchaefer"
+	},
+	{
+		"created_at": "Fri Sep 17 03:19:38 +0000 2021",
+		"id": 1438704168357662700,
+		"id_str": "1438704168357662723",
+		"full_text": "All my Francophone followers, this is for you! @OECMCollaborate @delltech @ALPlearn https://t.co/3aUUUSwvwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3aUUUSwvwE",
+					"expanded_url": "https://twitter.com/d_tremblay/status/1438631598572941314",
+					"display_url": "twitter.com/d_tremblay/sta…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38840,
+			"friends_count": 10167,
+			"listed_count": 1356,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438631598572941300,
+		"quoted_status_id_str": "1438631598572941314",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3aUUUSwvwE",
+			"expanded": "https://twitter.com/d_tremblay/status/1438631598572941314",
+			"display": "twitter.com/d_tremblay/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 16 22:31:16 +0000 2021",
+			"id": 1438631598572941300,
+			"id_str": "1438631598572941314",
+			"full_text": "J'ai eu le privilège de travailler avec Dell Technologies, OECM et ALP pour préparer une offre d'ateliers en français de qualité avec des présentateurs hors pair. Inscrivez-vous dès maintenant : https://t.co/g5jeWR6o3d? @asavard1234 @JackieLeardi @daniellelarouc3 @IdeeEducation https://t.co/5lsVSBgLQU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "asavard1234",
+						"name": "André Savard",
+						"id": 489005530,
+						"id_str": "489005530",
+						"indices": [
+							220,
+							232
+						]
+					},
+					{
+						"screen_name": "JackieLeardi",
+						"name": "Jackie Leardi",
+						"id": 4078525078,
+						"id_str": "4078525078",
+						"indices": [
+							233,
+							246
+						]
+					},
+					{
+						"screen_name": "daniellelarouc3",
+						"name": "Danielle Larouche",
+						"id": 3947895875,
+						"id_str": "3947895875",
+						"indices": [
+							247,
+							263
+						]
+					},
+					{
+						"screen_name": "IdeeEducation",
+						"name": "Idée Éducation",
+						"id": 766002397542027300,
+						"id_str": "766002397542027264",
+						"indices": [
+							264,
+							278
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/g5jeWR6o3d",
+						"expanded_url": "https://oecm.ca/professional-learning-ontario-educators",
+						"display_url": "oecm.ca/professional-l…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1438631124322951200,
+						"id_str": "1438631124322951168",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/E_cLYqgXIAAIaIP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_cLYqgXIAAIaIP.jpg",
+						"url": "https://t.co/5lsVSBgLQU",
+						"display_url": "pic.twitter.com/5lsVSBgLQU",
+						"expanded_url": "https://twitter.com/d_tremblay/status/1438631598572941314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1583,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 927,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438631124322951200,
+						"id_str": "1438631124322951168",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/E_cLYqgXIAAIaIP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_cLYqgXIAAIaIP.jpg",
+						"url": "https://t.co/5lsVSBgLQU",
+						"display_url": "pic.twitter.com/5lsVSBgLQU",
+						"expanded_url": "https://twitter.com/d_tremblay/status/1438631598572941314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1583,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 927,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9955212,
+				"id_str": "9955212",
+				"name": "Dominic P. Tremblay",
+				"screen_name": "d_tremblay",
+				"location": "Belleville, Ontario",
+				"description": "Ontario Certified Teacher. K-12 Curriculum Consultant. Willing to network with other educators around the world (anglophones ou francophones).",
+				"url": "http://t.co/924kNOfn7d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/924kNOfn7d",
+								"expanded_url": "http://dominictremblay.com",
+								"display_url": "dominictremblay.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3634,
+				"friends_count": 2069,
+				"listed_count": 197,
+				"created_at": "Mon Nov 05 03:30:39 +0000 2007",
+				"favourites_count": 639,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4766,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003065730923982848/Su9f4GKS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003065730923982848/Su9f4GKS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9955212/1502562588",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "98BEFD",
+				"profile_text_color": "00117B",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All my Francophone followers, this is for you! @OECMCollaborate @delltech @ALPlearn https://t.co/3aUUUSwvwE"
+	},
+	{
 		"created_at": "Thu Sep 16 21:47:35 +0000 2021",
 		"id": 1438620607583752200,
 		"id_str": "1438620607583752198",
