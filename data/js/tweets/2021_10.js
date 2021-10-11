@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 03:52:30 +0000 2021",
+		"id": 1447047359519658000,
+		"id_str": "1447047359519657986",
+		"full_text": "Feeling grateful to share you and our team with my colleagues in #bced https://t.co/sStA3uxKOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bced",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sStA3uxKOW",
+					"expanded_url": "https://twitter.com/kalebrashad/status/1446855048571588614",
+					"display_url": "twitter.com/kalebrashad/st…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38834,
+			"friends_count": 10180,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1446855048571588600,
+		"quoted_status_id_str": "1446855048571588614",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sStA3uxKOW",
+			"expanded": "https://twitter.com/kalebrashad/status/1446855048571588614",
+			"display": "twitter.com/kalebrashad/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 09 15:08:19 +0000 2021",
+			"id": 1446855048571588600,
+			"id_str": "1446855048571588614",
+			"full_text": "Brother Dean @shareski, \nThank you for sharing this reflection. Loved building community together around shared, sacred purposes. Looking forward to supporting our friends north of the border in their pursuit.\nDelight 3: \"Kaleb Rashad &amp; his icebreaker\" https://t.co/M3iJP9aHwN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							13,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M3iJP9aHwN",
+						"expanded_url": "http://disq.us/t/3mr754w",
+						"display_url": "disq.us/t/3mr754w",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 353414062,
+				"id_str": "353414062",
+				"name": "Dr. Rashad, Creative Director",
+				"screen_name": "kalebrashad",
+				"location": "Back to the South, Wakanda",
+				"description": "Co-Founder https://t.co/4rdkh4jTjY | Designing schools for collective liberation 🙌🏾 @hthgse @hightechhigh | Dopewalking with the Ancestors 🔥",
+				"url": "https://t.co/AOtcbGcBxS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AOtcbGcBxS",
+								"expanded_url": "http://linktr.ee/drkalebrashad",
+								"display_url": "linktr.ee/drkalebrashad",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4rdkh4jTjY",
+								"expanded_url": "http://CenterforLoveandJustice.org",
+								"display_url": "CenterforLoveandJustice.org",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15004,
+				"friends_count": 14629,
+				"listed_count": 574,
+				"created_at": "Fri Aug 12 01:26:21 +0000 2011",
+				"favourites_count": 52078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22982,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1416916931769249795/WJXnfm9K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416916931769249795/WJXnfm9K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/353414062/1614455255",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feeling grateful to share you and our team with my colleagues in #bced https://t.co/sStA3uxKOW"
+	},
+	{
 		"created_at": "Sat Oct 09 22:51:44 +0000 2021",
 		"id": 1446971673119502300,
 		"id_str": "1446971673119502340",
