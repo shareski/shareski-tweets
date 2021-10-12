@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 17:28:10 +0000 2021",
+		"id": 1447580462600294400,
+		"id_str": "1447615016782475268",
+		"full_text": "Complete games in all of MLB in 2021: 50\n\nComplete games by the A’s in 1980: 94 https://t.co/6WuDf1mGJ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447580455193268200,
+					"id_str": "1447580455193268225",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FBbWwR-X0AEHxh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBbWwR-X0AEHxh7.jpg",
+					"url": "https://t.co/6WuDf1mGJ9",
+					"display_url": "pic.twitter.com/6WuDf1mGJ9",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1447580462600294405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447580455193268200,
+					"id_str": "1447580455193268225",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FBbWwR-X0AEHxh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBbWwR-X0AEHxh7.jpg",
+					"url": "https://t.co/6WuDf1mGJ9",
+					"display_url": "pic.twitter.com/6WuDf1mGJ9",
+					"expanded_url": "https://twitter.com/Super70sSports/status/1447580462600294405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2259809232,
+			"id_str": "2259809232",
+			"name": "Super 70s Sports",
+			"screen_name": "Super70sSports",
+			"location": "Chicago, IL",
+			"description": "Store: https://t.co/YYUk1Wj1My; Media/business: rickycobbs7s@gmail.com; Cameo: https://t.co/krUTdFuB0J",
+			"url": "https://t.co/OpcBZS1fMu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OpcBZS1fMu",
+							"expanded_url": "http://therickycobb.com",
+							"display_url": "therickycobb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YYUk1Wj1My",
+							"expanded_url": "http://Super70sSportsStore.com",
+							"display_url": "Super70sSportsStore.com",
+							"indices": [
+								7,
+								30
+							]
+						},
+						{
+							"url": "https://t.co/krUTdFuB0J",
+							"expanded_url": "https://www.cameo.com/super70ssports",
+							"display_url": "cameo.com/super70ssports",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 473293,
+			"friends_count": 1032,
+			"listed_count": 2114,
+			"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+			"favourites_count": 185324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 276,
+		"favorite_count": 2433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Complete games in all of MLB in 2021: 50\n\nComplete games by the A’s in 1980: 94 https://t.co/6WuDf1mGJ9"
+	},
+	{
+		"created_at": "Mon Oct 11 17:13:48 +0000 2021",
+		"id": 1447611401158250500,
+		"id_str": "1447611401158250502",
+		"full_text": "I might add this to my workout routine https://t.co/0uoSzaalq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0uoSzaalq3",
+					"expanded_url": "https://vm.tiktok.com/ZM889gVTt/",
+					"display_url": "vm.tiktok.com/ZM889gVTt/",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38838,
+			"friends_count": 10181,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I might add this to my workout routine https://t.co/0uoSzaalq3"
+	},
+	{
 		"created_at": "Sun Oct 10 03:52:30 +0000 2021",
 		"id": 1447047359519658000,
 		"id_str": "1447047359519657986",
