@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 16:41:54 +0000 2021",
+		"id": 1447965762526711800,
+		"id_str": "1447965762526711810",
+		"full_text": "Who doesn't want to explore the research and methods around Play Based Learning? I'm looking forward to this one as well! #alplearn https://t.co/qhC02O9BV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhC02O9BV2",
+					"expanded_url": "https://twitter.com/zbpipe/status/1447958069439340553",
+					"display_url": "twitter.com/zbpipe/status/…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38835,
+			"friends_count": 10180,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447958069439340500,
+		"quoted_status_id_str": "1447958069439340553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qhC02O9BV2",
+			"expanded": "https://twitter.com/zbpipe/status/1447958069439340553",
+			"display": "twitter.com/zbpipe/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 16:11:20 +0000 2021",
+			"id": 1447958069439340500,
+			"id_str": "1447958069439340553",
+			"full_text": "Super pumped to share my experiences, research and ideas around Play-based Learning and SEL in this Webinar Series sponsored by @OECMCollaborate Register (Free)  for Part one - Wednesday, Oct 13: https://t.co/2KXFHIi0uv @shareski @KatPapulkas https://t.co/jZFXjqLgWx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OECMCollaborate",
+						"name": "OECM",
+						"id": 1059475840709353500,
+						"id_str": "1059475840709353472",
+						"indices": [
+							128,
+							144
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							220,
+							229
+						]
+					},
+					{
+						"screen_name": "KatPapulkas",
+						"name": "Katina",
+						"id": 11173922,
+						"id_str": "11173922",
+						"indices": [
+							230,
+							242
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2KXFHIi0uv",
+						"expanded_url": "https://zoom.us/meeting/register/tJYldOCqqj4uHdcOTP0Mhpapkj3qkdVaKX0K",
+						"display_url": "zoom.us/meeting/regist…",
+						"indices": [
+							196,
+							219
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1447954622535110700,
+						"id_str": "1447954622535110667",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FBgrDr8XEAs8bJN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBgrDr8XEAs8bJN.jpg",
+						"url": "https://t.co/jZFXjqLgWx",
+						"display_url": "pic.twitter.com/jZFXjqLgWx",
+						"expanded_url": "https://twitter.com/zbpipe/status/1447958069439340553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 398,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1256,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1447954622535110700,
+						"id_str": "1447954622535110667",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/FBgrDr8XEAs8bJN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBgrDr8XEAs8bJN.jpg",
+						"url": "https://t.co/jZFXjqLgWx",
+						"display_url": "pic.twitter.com/jZFXjqLgWx",
+						"expanded_url": "https://twitter.com/zbpipe/status/1447958069439340553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 398,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1256,
+								"h": 735,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19158946,
+				"id_str": "19158946",
+				"name": "Zoe Branigan-Pipe",
+				"screen_name": "zbpipe",
+				"location": "Hamilton, Ontario",
+				"description": "Educator & Activist- Social Justice, & Equity are drivers; Coping with anxiety; Globetrotter; from #HamOnt and I'm a Vegan Runner!",
+				"url": "https://t.co/83acFzSspa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83acFzSspa",
+								"expanded_url": "http://pipedreams-education.ca/",
+								"display_url": "pipedreams-education.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7274,
+				"friends_count": 2589,
+				"listed_count": 407,
+				"created_at": "Sun Jan 18 21:40:02 +0000 2009",
+				"favourites_count": 23120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23049,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19158946/1605409274",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who doesn't want to explore the research and methods around Play Based Learning? I'm looking forward to this one as well! #alplearn https://t.co/qhC02O9BV2"
+	},
+	{
+		"created_at": "Tue Oct 12 04:00:45 +0000 2021",
+		"id": 1447774215428616200,
+		"id_str": "1447774215428616195",
+		"full_text": "@mrskcj I just watched the 4th quarter. He’s just so fun to watch.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrskcj",
+					"name": "MrsKCJ",
+					"id": 18279429,
+					"id_str": "18279429",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447768247223390200,
+		"in_reply_to_status_id_str": "1447768247223390217",
+		"in_reply_to_user_id": 18279429,
+		"in_reply_to_user_id_str": "18279429",
+		"in_reply_to_screen_name": "mrskcj",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38835,
+			"friends_count": 10180,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrskcj I just watched the 4th quarter. He’s just so fun to watch."
+	},
+	{
+		"created_at": "Tue Oct 12 03:32:28 +0000 2021",
+		"id": 1447767096306372600,
+		"id_str": "1447767096306372612",
+		"full_text": "Lamar Jackson is the best player.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38835,
+			"friends_count": 10180,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Lamar Jackson is the best player."
+	},
+	{
 		"created_at": "Mon Oct 11 17:28:10 +0000 2021",
 		"id": 1447580462600294400,
 		"id_str": "1447615016782475268",
