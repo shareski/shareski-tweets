@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 00:29:00 +0000 2021",
+		"id": 1450620027414237200,
+		"id_str": "1450620027414237191",
+		"full_text": "@froehlichm That’s an interesting statement full of nuance. Define “online learning”. Define “learning” Is learning for everyone? Yes. I do think everyone can learn online but online school or a course? Maybe not. Bottom line, It’s complicated.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "froehlichm",
+					"name": "Mandy Froehlich",
+					"id": 190070853,
+					"id_str": "190070853",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450563697336782800,
+		"in_reply_to_status_id_str": "1450563697336782853",
+		"in_reply_to_user_id": 190070853,
+		"in_reply_to_user_id_str": "190070853",
+		"in_reply_to_screen_name": "froehlichm",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38832,
+			"friends_count": 10190,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@froehlichm That’s an interesting statement full of nuance. Define “online learning”. Define “learning” Is learning for everyone? Yes. I do think everyone can learn online but online school or a course? Maybe not. Bottom line, It’s complicated."
+	},
+	{
+		"created_at": "Tue Oct 19 18:23:22 +0000 2021",
+		"id": 1450528011619639300,
+		"id_str": "1450528011619639296",
+		"full_text": "Of all my accomplishments this is very high in my list. Making Woody experience his first laugh. Putting this on my resume right beside parallel parking and napping expertise. Enjoy. #woodyhasmyheart https://t.co/eMkDkQT35y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woodyhasmyheart",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450527863258685400,
+					"id_str": "1450527863258685441",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450527863258685441/pu/img/8gpvzrFoQ6Rbcmfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450527863258685441/pu/img/8gpvzrFoQ6Rbcmfn.jpg",
+					"url": "https://t.co/eMkDkQT35y",
+					"display_url": "pic.twitter.com/eMkDkQT35y",
+					"expanded_url": "https://twitter.com/shareski/status/1450528011619639296/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450527863258685400,
+					"id_str": "1450527863258685441",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1450527863258685441/pu/img/8gpvzrFoQ6Rbcmfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1450527863258685441/pu/img/8gpvzrFoQ6Rbcmfn.jpg",
+					"url": "https://t.co/eMkDkQT35y",
+					"display_url": "pic.twitter.com/eMkDkQT35y",
+					"expanded_url": "https://twitter.com/shareski/status/1450528011619639296/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 38185,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450527863258685441/pu/vid/480x600/DPj5SqcesLM7e4B5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1450527863258685441/pu/pl/9Brtqhylq2NL6I9i.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450527863258685441/pu/vid/720x900/KVhKj5-Z6jh42yTm.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1450527863258685441/pu/vid/320x400/vv1tzNmUKz3wLSyo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38832,
+			"friends_count": 10190,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Of all my accomplishments this is very high in my list. Making Woody experience his first laugh. Putting this on my resume right beside parallel parking and napping expertise. Enjoy. #woodyhasmyheart https://t.co/eMkDkQT35y"
+	},
+	{
 		"created_at": "Tue Oct 19 00:40:38 +0000 2021",
 		"id": 1450260567617413000,
 		"id_str": "1450260567617413123",
