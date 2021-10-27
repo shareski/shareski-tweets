@@ -1,6 +1,828 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 18:02:48 +0000 2021",
+		"id": 1453058647869829000,
+		"id_str": "1453059554023985159",
+		"full_text": "You are invited to a Zoom meeting! MinecraftEDU &amp; Esports, Sharing Financial Lit Games; Many ideas/templates for engaging online/offline games; Inuit designed Board Game @mangiok @DellTech @OECMCollaborate  @shareski @KatPapulkas @alplearn Register:\nhttps://t.co/2KXFHIi0uv https://t.co/OKFhQKttXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mangiok",
+					"name": "Thomassie Mangiok",
+					"id": 33328926,
+					"id_str": "33328926",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						193,
+						209
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						221,
+						233
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2KXFHIi0uv",
+					"expanded_url": "https://zoom.us/meeting/register/tJYldOCqqj4uHdcOTP0Mhpapkj3qkdVaKX0K",
+					"display_url": "zoom.us/meeting/regist…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1453055863476953000,
+					"id_str": "1453055863476953088",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FCpKm_VXoAAH9Dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCpKm_VXoAAH9Dg.jpg",
+					"url": "https://t.co/OKFhQKttXE",
+					"display_url": "pic.twitter.com/OKFhQKttXE",
+					"expanded_url": "https://twitter.com/zbpipe/status/1453058647869829120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453055863476953000,
+					"id_str": "1453055863476953088",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FCpKm_VXoAAH9Dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCpKm_VXoAAH9Dg.jpg",
+					"url": "https://t.co/OKFhQKttXE",
+					"display_url": "pic.twitter.com/OKFhQKttXE",
+					"expanded_url": "https://twitter.com/zbpipe/status/1453058647869829120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19158946,
+			"id_str": "19158946",
+			"name": "Zoe Branigan-Pipe",
+			"screen_name": "zbpipe",
+			"location": "Hamilton, Ontario",
+			"description": "Educator & Activist- Social Justice, & Equity are drivers; Coping with anxiety; Globetrotter; from #HamOnt and I'm a Vegan Runner!",
+			"url": "https://t.co/83acFzSspa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83acFzSspa",
+							"expanded_url": "http://pipedreams-education.ca/",
+							"display_url": "pipedreams-education.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7275,
+			"friends_count": 2597,
+			"listed_count": 405,
+			"created_at": "Sun Jan 18 21:40:02 +0000 2009",
+			"favourites_count": 23377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337076091161350144/VAISU3UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19158946/1605409274",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You are invited to a Zoom meeting! MinecraftEDU &amp; Esports, Sharing Financial Lit Games; Many ideas/templates for engaging online/offline games; Inuit designed Board Game @mangiok @DellTech @OECMCollaborate  @shareski @KatPapulkas @alplearn Register:\nhttps://t.co/2KXFHIi0uv https://t.co/OKFhQKttXE"
+	},
+	{
+		"created_at": "Tue Oct 26 17:56:36 +0000 2021",
+		"id": 1453057993298305000,
+		"id_str": "1453057993298305033",
+		"full_text": "@AkaBreeee Happened years ago when I was in the classroom but our local union negotiated for elementary teachers not to do outside yard duty. Allowed all teachers to have morning and afternoon breaks.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AkaBreeee",
+					"name": "Brianna just moved her whole life",
+					"id": 566806253,
+					"id_str": "566806253",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453051863633318000,
+		"in_reply_to_status_id_str": "1453051863633317889",
+		"in_reply_to_user_id": 566806253,
+		"in_reply_to_user_id_str": "566806253",
+		"in_reply_to_screen_name": "AkaBreeee",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38834,
+			"friends_count": 10194,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AkaBreeee Happened years ago when I was in the classroom but our local union negotiated for elementary teachers not to do outside yard duty. Allowed all teachers to have morning and afternoon breaks."
+	},
+	{
+		"created_at": "Tue Oct 26 17:33:46 +0000 2021",
+		"id": 1453052246044954600,
+		"id_str": "1453052246044954639",
+		"full_text": "Finish this sentence. “I was wrong about ________”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38834,
+			"friends_count": 10194,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Finish this sentence. “I was wrong about ________”"
+	},
+	{
+		"created_at": "Tue Oct 26 14:02:57 +0000 2021",
+		"id": 1452999194302718000,
+		"id_str": "1452999194302717970",
+		"full_text": "Julie is supportive, thoughtful and kind. Top quality human.  Grateful to work with @foss_j12 #alplearn https://t.co/2jODkxMQbX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "foss_j12",
+					"name": "Julie Foss",
+					"id": 817647312,
+					"id_str": "817647312",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2jODkxMQbX",
+					"expanded_url": "https://twitter.com/alplearn/status/1452742023883198467",
+					"display_url": "twitter.com/alplearn/statu…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38834,
+			"friends_count": 10194,
+			"listed_count": 1354,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1452742023883198500,
+		"quoted_status_id_str": "1452742023883198467",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2jODkxMQbX",
+			"expanded": "https://twitter.com/alplearn/status/1452742023883198467",
+			"display": "twitter.com/alplearn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 25 21:01:03 +0000 2021",
+			"id": 1452742023883198500,
+			"id_str": "1452742023883198467",
+			"full_text": "Ed Consultant, @foss_j12 is inspired everyday by the people ALP gets to work alongside and is energized by the power we have to make amazing things happen when we listen, reflect, and learn forward, together. Learn more about Julie at https://t.co/2PorfWXIKs\n\n#MeetALP #ALPLearn https://t.co/L2ntIn4Vjd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MeetALP",
+						"indices": [
+							260,
+							268
+						]
+					},
+					{
+						"text": "ALPLearn",
+						"indices": [
+							269,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "foss_j12",
+						"name": "Julie Foss",
+						"id": 817647312,
+						"id_str": "817647312",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2PorfWXIKs",
+						"expanded_url": "https://alplearn.com/faculty/julie-foss-2/",
+						"display_url": "alplearn.com/faculty/julie-…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1452741750850834400,
+						"id_str": "1452741750850834433",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FCks7OnX0AEzkmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCks7OnX0AEzkmG.jpg",
+						"url": "https://t.co/L2ntIn4Vjd",
+						"display_url": "pic.twitter.com/L2ntIn4Vjd",
+						"expanded_url": "https://twitter.com/ALPlearn/status/1452742023883198467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1524,
+								"h": 728,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 573,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 325,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1452741750850834400,
+						"id_str": "1452741750850834433",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FCks7OnX0AEzkmG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCks7OnX0AEzkmG.jpg",
+						"url": "https://t.co/L2ntIn4Vjd",
+						"display_url": "pic.twitter.com/L2ntIn4Vjd",
+						"expanded_url": "https://twitter.com/ALPlearn/status/1452742023883198467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1524,
+								"h": 728,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 573,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 325,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801168060740698100,
+				"id_str": "801168060740698112",
+				"name": "Team ALP",
+				"screen_name": "ALPlearn",
+				"location": "Carrboro, NC",
+				"description": "Equal parts partner, designer, and change agent, we strive to empower every learner to be the change their community needs.",
+				"url": "https://t.co/ThNCdaLyqa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ThNCdaLyqa",
+								"expanded_url": "https://alplearn.com",
+								"display_url": "alplearn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1203,
+				"friends_count": 1756,
+				"listed_count": 5,
+				"created_at": "Tue Nov 22 20:58:45 +0000 2016",
+				"favourites_count": 9917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2849,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948969629812166657/x-PGfJU6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948969629812166657/x-PGfJU6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801168060740698112/1515087077",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Julie is supportive, thoughtful and kind. Top quality human.  Grateful to work with @foss_j12 #alplearn https://t.co/2jODkxMQbX"
+	},
+	{
 		"created_at": "Tue Oct 26 00:15:36 +0000 2021",
 		"id": 1452790981192044500,
 		"id_str": "1452790981192044546",
