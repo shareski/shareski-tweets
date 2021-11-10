@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 00:50:01 +0000 2021",
+		"id": 1458235461860663300,
+		"id_str": "1458235461860663300",
+		"full_text": "https://t.co/G0STZDcNG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458235455569232000,
+					"id_str": "1458235455569231876",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyxa7gVgAQkAD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDyxa7gVgAQkAD4.jpg",
+					"url": "https://t.co/G0STZDcNG3",
+					"display_url": "pic.twitter.com/G0STZDcNG3",
+					"expanded_url": "https://twitter.com/shareski/status/1458235461860663300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458235455569232000,
+					"id_str": "1458235455569231876",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FDyxa7gVgAQkAD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDyxa7gVgAQkAD4.jpg",
+					"url": "https://t.co/G0STZDcNG3",
+					"display_url": "pic.twitter.com/G0STZDcNG3",
+					"expanded_url": "https://twitter.com/shareski/status/1458235461860663300/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38876,
+			"friends_count": 10265,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/G0STZDcNG3"
+	},
+	{
+		"created_at": "Tue Nov 09 22:36:30 +0000 2021",
+		"id": 1458201863090851800,
+		"id_str": "1458201863090851842",
+		"full_text": "What happened right after this was part Mcgyver part super hero. After seeing his face I vowed to return his “‘ammer” to him. Currently my greatest moment as a grandparent. #herschelhasmyheart https://t.co/nGsE3Wd03d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						173,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458201782408999000,
+					"id_str": "1458201782408998912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458201782408998912/pu/img/hv2p89QIBdi-iIQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458201782408998912/pu/img/hv2p89QIBdi-iIQm.jpg",
+					"url": "https://t.co/nGsE3Wd03d",
+					"display_url": "pic.twitter.com/nGsE3Wd03d",
+					"expanded_url": "https://twitter.com/shareski/status/1458201863090851842/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458201782408999000,
+					"id_str": "1458201782408998912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1458201782408998912/pu/img/hv2p89QIBdi-iIQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1458201782408998912/pu/img/hv2p89QIBdi-iIQm.jpg",
+					"url": "https://t.co/nGsE3Wd03d",
+					"display_url": "pic.twitter.com/nGsE3Wd03d",
+					"expanded_url": "https://twitter.com/shareski/status/1458201863090851842/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							35,
+							64
+						],
+						"duration_millis": 19298,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458201782408998912/pu/vid/480x876/ZNXgqBXLn2BBecH1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1458201782408998912/pu/pl/q5nj0Lr108mXpYqW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458201782408998912/pu/vid/320x584/8KqGxzT9wiZTvKf6.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1458201782408998912/pu/vid/700x1280/Xfwb5goTc2fMJKg1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38876,
+			"friends_count": 10265,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What happened right after this was part Mcgyver part super hero. After seeing his face I vowed to return his “‘ammer” to him. Currently my greatest moment as a grandparent. #herschelhasmyheart https://t.co/nGsE3Wd03d"
+	},
+	{
+		"created_at": "Tue Nov 09 18:33:55 +0000 2021",
+		"id": 1458140814027096000,
+		"id_str": "1458140814027096067",
+		"full_text": "Well done Steve and team. #MetroVanHS https://t.co/mpcnhTbdLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MetroVanHS",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mpcnhTbdLB",
+					"expanded_url": "https://twitter.com/steverauh/status/1457783251724955655",
+					"display_url": "twitter.com/steverauh/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38876,
+			"friends_count": 10265,
+			"listed_count": 1353,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457783251724955600,
+		"quoted_status_id_str": "1457783251724955655",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mpcnhTbdLB",
+			"expanded": "https://twitter.com/steverauh/status/1457783251724955655",
+			"display": "twitter.com/steverauh/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 18:53:06 +0000 2021",
+			"id": 1457783251724955600,
+			"id_str": "1457783251724955655",
+			"full_text": "I have been meaning to put a piano in our cafeteria for years. Finally did and kids lined up to play. Game changer for the atmosphere in there! #westvaned #wearewvss https://t.co/k1RvLn2G3j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "westvaned",
+						"indices": [
+							144,
+							154
+						]
+					},
+					{
+						"text": "wearewvss",
+						"indices": [
+							155,
+							165
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1457783208452366300,
+						"id_str": "1457783208452366338",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457783208452366338/pu/img/Q6CgHDbmrU6XlsWV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457783208452366338/pu/img/Q6CgHDbmrU6XlsWV.jpg",
+						"url": "https://t.co/k1RvLn2G3j",
+						"display_url": "pic.twitter.com/k1RvLn2G3j",
+						"expanded_url": "https://twitter.com/SteveRauh/status/1457783251724955655/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1457783208452366300,
+						"id_str": "1457783208452366338",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1457783208452366338/pu/img/Q6CgHDbmrU6XlsWV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1457783208452366338/pu/img/Q6CgHDbmrU6XlsWV.jpg",
+						"url": "https://t.co/k1RvLn2G3j",
+						"display_url": "pic.twitter.com/k1RvLn2G3j",
+						"expanded_url": "https://twitter.com/SteveRauh/status/1457783251724955655/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 14410,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1457783208452366338/pu/pl/JzLbYBm8pniKU9jk.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1457783208452366338/pu/vid/320x568/6e-fDTlzyh96iFsu.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1457783208452366338/pu/vid/720x1280/3o6xs9aaBE1HzF2S.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1457783208452366338/pu/vid/480x852/MIJ1U_pUypnj1fHC.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119153045,
+				"id_str": "119153045",
+				"name": "Steve Rauh",
+				"screen_name": "SteveRauh",
+				"location": "West Vancouver, BC",
+				"description": "Principal, West Vancouver Secondary School",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1393,
+				"friends_count": 995,
+				"listed_count": 74,
+				"created_at": "Tue Mar 02 20:43:13 +0000 2010",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3615,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1226855411/JB3_7015_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226855411/JB3_7015_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done Steve and team. #MetroVanHS https://t.co/mpcnhTbdLB"
+	},
+	{
 		"created_at": "Tue Nov 09 01:01:23 +0000 2021",
 		"id": 1457875936129413000,
 		"id_str": "1457875936129413124",
