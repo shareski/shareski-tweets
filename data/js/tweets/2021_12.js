@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 21:28:38 +0000 2021",
+		"id": 1468331641219076000,
+		"id_str": "1468331641219076099",
+		"full_text": "Greg is the unofficial documenter this work. Thank you! #alplearn 2 https://t.co/Jet0pypmNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jet0pypmNh",
+					"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024",
+					"display_url": "twitter.com/MrHockley/stat…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38888,
+			"friends_count": 10292,
+			"listed_count": 1351,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468327621385601000,
+		"quoted_status_id_str": "1468327621385601024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jet0pypmNh",
+			"expanded": "https://twitter.com/MrHockley/status/1468327621385601024",
+			"display": "twitter.com/MrHockley/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 07 21:12:39 +0000 2021",
+			"id": 1468327621385601000,
+			"id_str": "1468327621385601024",
+			"full_text": "Day 2 working virtually w/ Lower Mainland PVP colleagues &amp; ALP leaders @kalebrashad @shareski @Amos_ALP  #MetroVanHS - liked the big picture thinking on adaptive change and liberators design. My #sketchnotes attached. https://t.co/CjvnoGY9Td https://t.co/cmQ8l0luBl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MetroVanHS",
+						"indices": [
+							109,
+							120
+						]
+					},
+					{
+						"text": "sketchnotes",
+						"indices": [
+							199,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kalebrashad",
+						"name": "Dr. Rashad, Creative Director",
+						"id": 353414062,
+						"id_str": "353414062",
+						"indices": [
+							75,
+							87
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							88,
+							97
+						]
+					},
+					{
+						"screen_name": "Amos_ALP",
+						"name": "Amos Fodchuk",
+						"id": 747340304,
+						"id_str": "747340304",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CjvnoGY9Td",
+						"expanded_url": "https://twitter.com/mrhockley/status/1456678736342835202",
+						"display_url": "twitter.com/mrhockley/stat…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1468327617438699500,
+						"id_str": "1468327617438699523",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCMMENUUAMvSy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCMMENUUAMvSy_.jpg",
+						"url": "https://t.co/cmQ8l0luBl",
+						"display_url": "pic.twitter.com/cmQ8l0luBl",
+						"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468327617438699500,
+						"id_str": "1468327617438699523",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCMMENUUAMvSy_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCMMENUUAMvSy_.jpg",
+						"url": "https://t.co/cmQ8l0luBl",
+						"display_url": "pic.twitter.com/cmQ8l0luBl",
+						"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1468327618340479000,
+						"id_str": "1468327618340478978",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCMMHkUYAI8OfL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCMMHkUYAI8OfL.jpg",
+						"url": "https://t.co/cmQ8l0luBl",
+						"display_url": "pic.twitter.com/cmQ8l0luBl",
+						"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1468327617447170000,
+						"id_str": "1468327617447170050",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCMMEPVkAIBE1p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCMMEPVkAIBE1p.jpg",
+						"url": "https://t.co/cmQ8l0luBl",
+						"display_url": "pic.twitter.com/cmQ8l0luBl",
+						"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1468327617489084400,
+						"id_str": "1468327617489084416",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCMMEZVIAAwOYA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCMMEZVIAAwOYA.jpg",
+						"url": "https://t.co/cmQ8l0luBl",
+						"display_url": "pic.twitter.com/cmQ8l0luBl",
+						"expanded_url": "https://twitter.com/MrHockley/status/1468327621385601024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 777,
+								"h": 1016,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 777,
+								"h": 1016,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104049767,
+				"id_str": "104049767",
+				"name": "Gregory Hockley",
+				"screen_name": "MrHockley",
+				"location": "North Vancouver",
+				"description": "NVSD District Principal - Passionate about my family, life, & learning. CURIOUS about DISRUPTION that leads to INNOVATION & MOTIVATION that leads to LEARNING.",
+				"url": "https://t.co/OT2h7p4t3Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OT2h7p4t3Z",
+								"expanded_url": "http://thehawksnest2020.wordpress.com",
+								"display_url": "thehawksnest2020.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 515,
+				"friends_count": 421,
+				"listed_count": 68,
+				"created_at": "Tue Jan 12 03:00:14 +0000 2010",
+				"favourites_count": 2112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2120,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370198934065352707/_oBXjCV__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370198934065352707/_oBXjCV__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104049767/1391021775",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1456678736342835200,
+			"quoted_status_id_str": "1456678736342835202",
+			"quoted_status_permalink": {
+				"url": "https://t.co/CjvnoGY9Td",
+				"expanded": "https://twitter.com/mrhockley/status/1456678736342835202",
+				"display": "twitter.com/mrhockley/stat…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greg is the unofficial documenter this work. Thank you! #alplearn 2 https://t.co/Jet0pypmNh"
+	},
+	{
+		"created_at": "Tue Dec 07 18:48:00 +0000 2021",
+		"id": 1468291219583381500,
+		"id_str": "1468291219583381507",
+		"full_text": "Grateful to be spending time with the leaders of #MetroVanHS led today by @kalebrashad #alplearn https://t.co/NdB6o2QFS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MetroVanHS",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kalebrashad",
+					"name": "Dr. Rashad, Creative Director",
+					"id": 353414062,
+					"id_str": "353414062",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468291212406706200,
+					"id_str": "1468291212406706180",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FGBrFA5UUAQ5goz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGBrFA5UUAQ5goz.jpg",
+					"url": "https://t.co/NdB6o2QFS9",
+					"display_url": "pic.twitter.com/NdB6o2QFS9",
+					"expanded_url": "https://twitter.com/shareski/status/1468291219583381507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468291212406706200,
+					"id_str": "1468291212406706180",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FGBrFA5UUAQ5goz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGBrFA5UUAQ5goz.jpg",
+					"url": "https://t.co/NdB6o2QFS9",
+					"display_url": "pic.twitter.com/NdB6o2QFS9",
+					"expanded_url": "https://twitter.com/shareski/status/1468291219583381507/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38888,
+			"friends_count": 10292,
+			"listed_count": 1351,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grateful to be spending time with the leaders of #MetroVanHS led today by @kalebrashad #alplearn https://t.co/NdB6o2QFS9"
+	},
+	{
 		"created_at": "Tue Dec 07 00:39:00 +0000 2021",
 		"id": 1468017161520173000,
 		"id_str": "1468017161520173058",
