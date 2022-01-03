@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 02 18:48:19 +0000 2022",
+		"id": 1477713381641515000,
+		"id_str": "1477713381641515008",
+		"full_text": "ICYMI here are your 2021 #Deanie award winners. https://t.co/URi7qetCNu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Deanie",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/URi7qetCNu",
+					"expanded_url": "https://shareski.ca/y/4bl",
+					"display_url": "shareski.ca/y/4bl",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38939,
+			"friends_count": 10396,
+			"listed_count": 1345,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI here are your 2021 #Deanie award winners. https://t.co/URi7qetCNu"
+	},
+	{
 		"created_at": "Sat Jan 01 23:55:44 +0000 2022",
 		"id": 1477428358401216500,
 		"id_str": "1477428358401216525",
@@ -118,7 +243,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Sat Jan 01 22:56:19 +0000 2022",
 		"id": 1477413405850054700,
 		"id_str": "1477413405850054663",
-		"full_text": "Confession: I often add an emoji to a text that I have no idea what it means. 👃💄🧑‍🌾",
+		"full_text": "Confession: I often add an emoji to a text that I have no idea what it means. 👃💄🧑🌾",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -218,7 +343,7 @@ Grailbird.data.tweets_2022_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "Confession: I often add an emoji to a text that I have no idea what it means. 👃💄🧑‍🌾"
+		"text": "Confession: I often add an emoji to a text that I have no idea what it means. 👃💄🧑🌾"
 	},
 	{
 		"created_at": "Sat Jan 01 19:51:44 +0000 2022",
