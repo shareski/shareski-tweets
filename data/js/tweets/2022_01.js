@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 20:07:01 +0000 2022",
+		"id": 1478223918079033300,
+		"id_str": "1478457963668934656",
+		"full_text": "Happy New Year &amp; all the best for 2022!  Keep safe &amp;healthy &amp; we will all get through this next season.. There are some amazing PL sessions coming up in January &amp; February....be sure to check them out &amp; register here: https://t.co/DevocZdCMk @OECMCollaborate @DellTech @ALPlearn https://t.co/nCoarJPwKx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						262,
+						278
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						279,
+						288
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						289,
+						298
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DevocZdCMk",
+					"expanded_url": "https://oecm.ca/professional-learning-ontario-educators",
+					"display_url": "oecm.ca/professional-l…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478223916296544300,
+					"id_str": "1478223916296544272",
+					"indices": [
+						299,
+						322
+					],
+					"media_url": "http://pbs.twimg.com/media/FIO00eVXoBA0yu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIO00eVXoBA0yu4.jpg",
+					"url": "https://t.co/nCoarJPwKx",
+					"display_url": "pic.twitter.com/nCoarJPwKx",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1478223918079033347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 213,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478223916296544300,
+					"id_str": "1478223916296544272",
+					"indices": [
+						299,
+						322
+					],
+					"media_url": "http://pbs.twimg.com/media/FIO00eVXoBA0yu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIO00eVXoBA0yu4.jpg",
+					"url": "https://t.co/nCoarJPwKx",
+					"display_url": "pic.twitter.com/nCoarJPwKx",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1478223918079033347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 213,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11173922,
+			"id_str": "11173922",
+			"name": "Katina",
+			"screen_name": "KatPapulkas",
+			"location": "Toronto",
+			"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+			"url": "http://t.co/tAT55fZBXP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tAT55fZBXP",
+							"expanded_url": "http://www.globalfieldtrip.com",
+							"display_url": "globalfieldtrip.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2706,
+			"friends_count": 4170,
+			"listed_count": 71,
+			"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+			"favourites_count": 6184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy New Year &amp; all the best for 2022!  Keep safe &amp;healthy &amp; we will all get through this next season.. There are some amazing PL sessions coming up in January &amp; February....be sure to check them out &amp; register here: https://t.co/DevocZdCMk @OECMCollaborate @DellTech @ALPlearn https://t.co/nCoarJPwKx"
+	},
+	{
+		"created_at": "Tue Jan 04 19:11:06 +0000 2022",
+		"id": 1476801093396885500,
+		"id_str": "1478443889719758852",
+		"full_text": "Who is the one educator that you’d love to meet and talk with before the start of school next year? https://t.co/0DefsDedED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476801085742354400,
+					"id_str": "1476801085742354432",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH6mw1eVkAAWDNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH6mw1eVkAAWDNP.jpg",
+					"url": "https://t.co/0DefsDedED",
+					"display_url": "pic.twitter.com/0DefsDedED",
+					"expanded_url": "https://twitter.com/MRsalakas/status/1476801093396885506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476801085742354400,
+					"id_str": "1476801085742354432",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH6mw1eVkAAWDNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH6mw1eVkAAWDNP.jpg",
+					"url": "https://t.co/0DefsDedED",
+					"display_url": "pic.twitter.com/0DefsDedED",
+					"expanded_url": "https://twitter.com/MRsalakas/status/1476801093396885506/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FH6mw1eVkAAWDNP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302870540,
+			"id_str": "302870540",
+			"name": "Brett Salakas",
+			"screen_name": "MRsalakas",
+			"location": "Sydney, Australia",
+			"description": "HP Education Ambassador. Founder #aussieED, C/F #TheWalkingED & @WorldSTEMedu | Teacher-Speaker-Poet | I ❤️sharing | READ-TEACH-CONQUER-REPEAT",
+			"url": "https://t.co/9ksNmcMzoL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9ksNmcMzoL",
+							"expanded_url": "http://salakas.live",
+							"display_url": "salakas.live",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30719,
+			"friends_count": 28943,
+			"listed_count": 746,
+			"created_at": "Sat May 21 22:14:03 +0000 2011",
+			"favourites_count": 68381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099445708967501824/Ujryw-s3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099445708967501824/Ujryw-s3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302870540/1451128495",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who is the one educator that you’d love to meet and talk with before the start of school next year? https://t.co/0DefsDedED"
+	},
+	{
 		"created_at": "Mon Jan 03 17:44:45 +0000 2022",
 		"id": 1478059774109372400,
 		"id_str": "1478059774109372421",
