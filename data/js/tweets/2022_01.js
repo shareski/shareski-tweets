@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 15:45:44 +0000 2022",
+		"id": 1487089519086248000,
+		"id_str": "1487089519086247944",
+		"full_text": "@ijohnpederson https://t.co/zxdT80GZfX https://t.co/SrYoWW5RsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ijohnpederson",
+					"name": "John Pederson",
+					"id": 1070632973735731200,
+					"id_str": "1070632973735731200",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zxdT80GZfX",
+					"expanded_url": "https://twitter.com/Amos_ALP/status/1487082131864051712",
+					"display_url": "twitter.com/Amos_ALP/statu…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1487089489214423000,
+					"id_str": "1487089489214423045",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1487089489214423045/pu/img/9F_y9y0GeAvjKVjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1487089489214423045/pu/img/9F_y9y0GeAvjKVjI.jpg",
+					"url": "https://t.co/SrYoWW5RsN",
+					"display_url": "pic.twitter.com/SrYoWW5RsN",
+					"expanded_url": "https://twitter.com/shareski/status/1487089519086247944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487089489214423000,
+					"id_str": "1487089489214423045",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1487089489214423045/pu/img/9F_y9y0GeAvjKVjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1487089489214423045/pu/img/9F_y9y0GeAvjKVjI.jpg",
+					"url": "https://t.co/SrYoWW5RsN",
+					"display_url": "pic.twitter.com/SrYoWW5RsN",
+					"expanded_url": "https://twitter.com/shareski/status/1487089519086247944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 4866,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1487089489214423045/pu/pl/Uan3QgDXy3gctYo7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1487089489214423045/pu/vid/720x1280/iXQIMRQW1pd6Sig6.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1487089489214423045/pu/vid/480x852/QDDRGpja6s09M-9C.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1487089489214423045/pu/vid/320x568/U-8vdzIpbrK5kzdh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1070632973735731200,
+		"in_reply_to_user_id_str": "1070632973735731200",
+		"in_reply_to_screen_name": "ijohnpederson",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38954,
+			"friends_count": 10421,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1487082131864051700,
+		"quoted_status_id_str": "1487082131864051712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zxdT80GZfX",
+			"expanded": "https://twitter.com/Amos_ALP/status/1487082131864051712",
+			"display": "twitter.com/Amos_ALP/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 28 15:16:23 +0000 2022",
+			"id": 1487082131864051700,
+			"id_str": "1487082131864051712",
+			"full_text": "@shareski @cben1teach Coincidentally, the 2018, 2019 and 2022 Champion is also the Commissioner. Your feedback is valuable to us. After a thorough, objective review, we deem the result to be valid. #threepeat #cornholedynasty #ALPlearn https://t.co/sOM7l4CH0P",
+			"truncated": false,
+			"display_text_range": [
+				22,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "threepeat",
+						"indices": [
+							198,
+							208
+						]
+					},
+					{
+						"text": "cornholedynasty",
+						"indices": [
+							209,
+							225
+						]
+					},
+					{
+						"text": "ALPlearn",
+						"indices": [
+							226,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "cben1teach",
+						"name": "Craig Bennett",
+						"id": 228178336,
+						"id_str": "228178336",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1487082125778116600,
+						"id_str": "1487082125778116610",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/FKMtUILWYAIqvqm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKMtUILWYAIqvqm.jpg",
+						"url": "https://t.co/sOM7l4CH0P",
+						"display_url": "pic.twitter.com/sOM7l4CH0P",
+						"expanded_url": "https://twitter.com/Amos_ALP/status/1487082131864051712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 913,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1487082125778116600,
+						"id_str": "1487082125778116610",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/FKMtUILWYAIqvqm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKMtUILWYAIqvqm.jpg",
+						"url": "https://t.co/sOM7l4CH0P",
+						"display_url": "pic.twitter.com/sOM7l4CH0P",
+						"expanded_url": "https://twitter.com/Amos_ALP/status/1487082131864051712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 913,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1486841968286175200,
+			"in_reply_to_status_id_str": "1486841968286175232",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 747340304,
+				"id_str": "747340304",
+				"name": "Amos Fodchuk",
+				"screen_name": "Amos_ALP",
+				"location": "Chapel Hill, NC",
+				"description": "Connecting people around a common purpose: to fundamentally enhance the way we and others learn.",
+				"url": "http://t.co/bpA6cyEX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bpA6cyEX",
+								"expanded_url": "http://advancedpartnerships.com",
+								"display_url": "advancedpartnerships.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1578,
+				"friends_count": 988,
+				"listed_count": 41,
+				"created_at": "Thu Aug 09 14:37:34 +0000 2012",
+				"favourites_count": 2753,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/747340304/1605619771",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0ede8cdea6150001",
+				"url": "https://api.twitter.com/1.1/geo/id/0ede8cdea6150001.json",
+				"place_type": "poi",
+				"name": "Pinehurst, Village Of",
+				"full_name": "Pinehurst, Village Of",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.470102,
+								35.203936999999996
+							],
+							[
+								-79.470102,
+								35.203936999999996
+							],
+							[
+								-79.470102,
+								35.203936999999996
+							],
+							[
+								-79.470102,
+								35.203936999999996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ijohnpederson https://t.co/zxdT80GZfX https://t.co/SrYoWW5RsN"
+	},
+	{
+		"created_at": "Fri Jan 28 14:59:27 +0000 2022",
+		"id": 1487077871122202600,
+		"id_str": "1487077871122202625",
+		"full_text": "Wordle 223 4/6*\n\n⬜⬜⬜🟨🟨\n⬜⬜⬜🟨🟨\n🟨🟩⬜⬜⬜\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38954,
+			"friends_count": 10421,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 223 4/6*\n\n⬜⬜⬜🟨🟨\n⬜⬜⬜🟨🟨\n🟨🟩⬜⬜⬜\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Fri Jan 28 14:39:34 +0000 2022",
+		"id": 1487068010393129000,
+		"id_str": "1487072865619001345",
+		"full_text": "We’re exploring our strengths as individuals and as a team. @tborash sharing thoughts virtually. #alplearn https://t.co/Uf345APyCm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tborash",
+					"name": "Tony Borash",
+					"id": 44922814,
+					"id_str": "44922814",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1487067980722622500,
+					"id_str": "1487067980722622466",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FKMgcxvUUAI4bpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKMgcxvUUAI4bpy.jpg",
+					"url": "https://t.co/Uf345APyCm",
+					"display_url": "pic.twitter.com/Uf345APyCm",
+					"expanded_url": "https://twitter.com/ALPlearn/status/1487068010393128968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1487067980722622500,
+					"id_str": "1487067980722622466",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FKMgcxvUUAI4bpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKMgcxvUUAI4bpy.jpg",
+					"url": "https://t.co/Uf345APyCm",
+					"display_url": "pic.twitter.com/Uf345APyCm",
+					"expanded_url": "https://twitter.com/ALPlearn/status/1487068010393128968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801168060740698100,
+			"id_str": "801168060740698112",
+			"name": "Team ALP",
+			"screen_name": "ALPlearn",
+			"location": "Carrboro, NC",
+			"description": "Equal parts partner, designer, and change agent, we strive to empower every learner to be the change their community needs.",
+			"url": "https://t.co/ThNCdaLyqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ThNCdaLyqa",
+							"expanded_url": "https://alplearn.com",
+							"display_url": "alplearn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1233,
+			"friends_count": 1760,
+			"listed_count": 5,
+			"created_at": "Tue Nov 22 20:58:45 +0000 2016",
+			"favourites_count": 9953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948969629812166657/x-PGfJU6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948969629812166657/x-PGfJU6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801168060740698112/1515087077",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re exploring our strengths as individuals and as a team. @tborash sharing thoughts virtually. #alplearn https://t.co/Uf345APyCm"
+	},
+	{
 		"created_at": "Thu Jan 27 23:22:04 +0000 2022",
 		"id": 1486841968286175200,
 		"id_str": "1486841968286175232",
