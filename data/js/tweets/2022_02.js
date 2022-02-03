@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 01:09:39 +0000 2022",
+		"id": 1489043373017153500,
+		"id_str": "1489043373017153536",
+		"full_text": "@dvillage2 @SeanNosek @Amos_ALP @chrkennedy Looks like we have some work to do....",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvillage2",
+					"name": "Dan Village",
+					"id": 418448251,
+					"id_str": "418448251",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SeanNosek",
+					"name": "Sean Nosek",
+					"id": 772027904,
+					"id_str": "772027904",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Amos_ALP",
+					"name": "Amos Fodchuk",
+					"id": 747340304,
+					"id_str": "747340304",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "chrkennedy",
+					"name": "Chris Kennedy",
+					"id": 2056741,
+					"id_str": "2056741",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1489030831398015000,
+		"in_reply_to_status_id_str": "1489030831398014982",
+		"in_reply_to_user_id": 418448251,
+		"in_reply_to_user_id_str": "418448251",
+		"in_reply_to_screen_name": "dvillage2",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38957,
+			"friends_count": 10423,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dvillage2 @SeanNosek @Amos_ALP @chrkennedy Looks like we have some work to do...."
+	},
+	{
+		"created_at": "Wed Feb 02 23:19:04 +0000 2022",
+		"id": 1489015541150871600,
+		"id_str": "1489015541150871553",
+		"full_text": "Pay attention to the #westvaned team. Their curiosity is infectious https://t.co/3DEOsOlGHQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "westvaned",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3DEOsOlGHQ",
+					"expanded_url": "https://twitter.com/seannosek/status/1488905754304081920",
+					"display_url": "twitter.com/seannosek/stat…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38957,
+			"friends_count": 10423,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1488905754304082000,
+		"quoted_status_id_str": "1488905754304081920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3DEOsOlGHQ",
+			"expanded": "https://twitter.com/seannosek/status/1488905754304081920",
+			"display": "twitter.com/seannosek/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 02 16:02:49 +0000 2022",
+			"id": 1488905754304082000,
+			"id_str": "1488905754304081920",
+			"full_text": "School in the Metaverse? It's not if; It's when. https://t.co/JNmpDvyS1a @shareski @Amos_ALP @chrkennedy #westvaned #crypto #blockchain #school #future https://t.co/JuYSLl1bXV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "westvaned",
+						"indices": [
+							105,
+							115
+						]
+					},
+					{
+						"text": "crypto",
+						"indices": [
+							116,
+							123
+						]
+					},
+					{
+						"text": "blockchain",
+						"indices": [
+							124,
+							135
+						]
+					},
+					{
+						"text": "school",
+						"indices": [
+							136,
+							143
+						]
+					},
+					{
+						"text": "future",
+						"indices": [
+							144,
+							151
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							73,
+							82
+						]
+					},
+					{
+						"screen_name": "Amos_ALP",
+						"name": "Amos Fodchuk",
+						"id": 747340304,
+						"id_str": "747340304",
+						"indices": [
+							83,
+							92
+						]
+					},
+					{
+						"screen_name": "chrkennedy",
+						"name": "Chris Kennedy",
+						"id": 2056741,
+						"id_str": "2056741",
+						"indices": [
+							93,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JNmpDvyS1a",
+						"expanded_url": "http://shorturl.at/nIMRU",
+						"display_url": "shorturl.at/nIMRU",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1488905216976035800,
+						"id_str": "1488905216976035842",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FKmnaAIVIAIDBgh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKmnaAIVIAIDBgh.jpg",
+						"url": "https://t.co/JuYSLl1bXV",
+						"display_url": "pic.twitter.com/JuYSLl1bXV",
+						"expanded_url": "https://twitter.com/SeanNosek/status/1488905754304081920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1488905216976035800,
+						"id_str": "1488905216976035842",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FKmnaAIVIAIDBgh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKmnaAIVIAIDBgh.jpg",
+						"url": "https://t.co/JuYSLl1bXV",
+						"display_url": "pic.twitter.com/JuYSLl1bXV",
+						"expanded_url": "https://twitter.com/SeanNosek/status/1488905754304081920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772027904,
+				"id_str": "772027904",
+				"name": "Sean Nosek",
+				"screen_name": "SeanNosek",
+				"location": "",
+				"description": "Associate Superintendent West Vancouver Schools, Author Ken Foster’s Vancouver, Kickstarter entrepreneur, TEDx speaker, vinyl enthusiast.",
+				"url": "https://t.co/TO5CKvPMa7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TO5CKvPMa7",
+								"expanded_url": "http://www.seannosek.com",
+								"display_url": "seannosek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2014,
+				"friends_count": 1970,
+				"listed_count": 54,
+				"created_at": "Tue Aug 21 18:37:44 +0000 2012",
+				"favourites_count": 10188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2201,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1222036778078502914/UEABZEFK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222036778078502914/UEABZEFK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772027904/1580192669",
+				"profile_link_color": "6E7A72",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pay attention to the #westvaned team. Their curiosity is infectious https://t.co/3DEOsOlGHQ"
+	},
+	{
+		"created_at": "Wed Feb 02 14:34:17 +0000 2022",
+		"id": 1488883475318861800,
+		"id_str": "1488883475318861825",
+		"full_text": "The streak continues https://t.co/OwCKYtij0q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488883451860172800,
+					"id_str": "1488883451860172805",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKmTnGwVQAUPT5m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKmTnGwVQAUPT5m.jpg",
+					"url": "https://t.co/OwCKYtij0q",
+					"display_url": "pic.twitter.com/OwCKYtij0q",
+					"expanded_url": "https://twitter.com/shareski/status/1488883475318861825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488883451860172800,
+					"id_str": "1488883451860172805",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FKmTnGwVQAUPT5m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKmTnGwVQAUPT5m.jpg",
+					"url": "https://t.co/OwCKYtij0q",
+					"display_url": "pic.twitter.com/OwCKYtij0q",
+					"expanded_url": "https://twitter.com/shareski/status/1488883475318861825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38957,
+			"friends_count": 10423,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The streak continues https://t.co/OwCKYtij0q"
+	},
+	{
+		"created_at": "Wed Feb 02 14:31:05 +0000 2022",
+		"id": 1488882672919203800,
+		"id_str": "1488882672919203843",
+		"full_text": "Morning office views. https://t.co/rs6GaRRl8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488882567293988900,
+					"id_str": "1488882567293988866",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FKmSznfUcAIubdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKmSznfUcAIubdp.jpg",
+					"url": "https://t.co/rs6GaRRl8A",
+					"display_url": "pic.twitter.com/rs6GaRRl8A",
+					"expanded_url": "https://twitter.com/shareski/status/1488882672919203843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488882567293988900,
+					"id_str": "1488882567293988866",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FKmSznfUcAIubdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKmSznfUcAIubdp.jpg",
+					"url": "https://t.co/rs6GaRRl8A",
+					"display_url": "pic.twitter.com/rs6GaRRl8A",
+					"expanded_url": "https://twitter.com/shareski/status/1488882672919203843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38957,
+			"friends_count": 10423,
+			"listed_count": 1344,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368019232517066754/xDwCqD4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Morning office views. https://t.co/rs6GaRRl8A"
+	},
+	{
 		"created_at": "Tue Feb 01 23:50:36 +0000 2022",
 		"id": 1488661090259161000,
 		"id_str": "1488661090259161093",
