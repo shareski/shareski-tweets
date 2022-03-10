@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 09 22:12:24 +0000 2022",
+		"id": 1501682340526841900,
+		"id_str": "1501682340526841860",
+		"full_text": "🎶 Josie's on a vacation far away \nCome around and talk it over 🎶",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39003,
+			"friends_count": 10488,
+			"listed_count": 1342,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "🎶 Josie's on a vacation far away \nCome around and talk it over 🎶"
+	},
+	{
+		"created_at": "Wed Mar 09 21:31:29 +0000 2022",
+		"id": 1501672042722115600,
+		"id_str": "1501672042722115590",
+		"full_text": "https://t.co/gWEsC47DYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501672038938730500,
+					"id_str": "1501672038938730496",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNcCw2IUYAAHVrY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNcCw2IUYAAHVrY.jpg",
+					"url": "https://t.co/gWEsC47DYG",
+					"display_url": "pic.twitter.com/gWEsC47DYG",
+					"expanded_url": "https://twitter.com/shareski/status/1501672042722115590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1027,
+							"h": 1114,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 1114,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501672038938730500,
+					"id_str": "1501672038938730496",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNcCw2IUYAAHVrY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNcCw2IUYAAHVrY.jpg",
+					"url": "https://t.co/gWEsC47DYG",
+					"display_url": "pic.twitter.com/gWEsC47DYG",
+					"expanded_url": "https://twitter.com/shareski/status/1501672042722115590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1027,
+							"h": 1114,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 1114,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Working daily to reduce my ignorance. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39003,
+			"friends_count": 10488,
+			"listed_count": 1342,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/gWEsC47DYG"
+	},
+	{
+		"created_at": "Wed Mar 09 21:30:37 +0000 2022",
+		"id": 1501662322531750000,
+		"id_str": "1501671824102412288",
+		"full_text": "What superb people. Thank you for your leadership and service, team. @Stephanie_Malia you’re in this photo in spirit.\n\n#VALIN @ALPlearn @VA_Partners4Edu @scl_va https://t.co/KJMGMlIgTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VALIN",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stephanie_Malia",
+					"name": "Stephanie Malia Krauss",
+					"id": 1671343752,
+					"id_str": "1671343752",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "ALPlearn",
+					"name": "Team ALP",
+					"id": 801168060740698100,
+					"id_str": "801168060740698112",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"screen_name": "VA_Partners4Edu",
+					"name": "Commonwealth Learning Partnership",
+					"id": 1238546642594345000,
+					"id_str": "1238546642594344960",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"screen_name": "scl_va",
+					"name": "VaSCL",
+					"id": 1020688179484069900,
+					"id_str": "1020688179484069890",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501662316458352600,
+					"id_str": "1501662316458352640",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb567EXIAA5Yjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb567EXIAA5Yjq.jpg",
+					"url": "https://t.co/KJMGMlIgTV",
+					"display_url": "pic.twitter.com/KJMGMlIgTV",
+					"expanded_url": "https://twitter.com/Amos_ALP/status/1501662322531749891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501662316458352600,
+					"id_str": "1501662316458352640",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb567EXIAA5Yjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb567EXIAA5Yjq.jpg",
+					"url": "https://t.co/KJMGMlIgTV",
+					"display_url": "pic.twitter.com/KJMGMlIgTV",
+					"expanded_url": "https://twitter.com/Amos_ALP/status/1501662322531749891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 747340304,
+			"id_str": "747340304",
+			"name": "Amos Fodchuk",
+			"screen_name": "Amos_ALP",
+			"location": "Chapel Hill, NC",
+			"description": "Connecting people around a common purpose: to fundamentally enhance the way we and others learn.",
+			"url": "http://t.co/bpA6cyEX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bpA6cyEX",
+							"expanded_url": "http://advancedpartnerships.com",
+							"display_url": "advancedpartnerships.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 1048,
+			"listed_count": 41,
+			"created_at": "Thu Aug 09 14:37:34 +0000 2012",
+			"favourites_count": 2826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474647265244504064/zDBu3E1A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/747340304/1605619771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What superb people. Thank you for your leadership and service, team. @Stephanie_Malia you’re in this photo in spirit.\n\n#VALIN @ALPlearn @VA_Partners4Edu @scl_va https://t.co/KJMGMlIgTV"
+	},
+	{
 		"created_at": "Tue Mar 08 22:47:48 +0000 2022",
 		"id": 1501328861446951000,
 		"id_str": "1501328861446950916",
@@ -564,7 +1112,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Tue Mar 08 18:32:25 +0000 2022",
 		"id": 1501264593183645700,
 		"id_str": "1501264593183645700",
-		"full_text": "We’re talking about stories led by ⁦@kalebrashad⁩ #MetroVanHS #alplearn https://t.co/jn6nG3VbY8",
+		"full_text": "We’re talking about stories led by @kalebrashad #MetroVanHS #alplearn https://t.co/jn6nG3VbY8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -769,7 +1317,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "We’re talking about stories led by ⁦@kalebrashad⁩ #MetroVanHS #alplearn https://t.co/jn6nG3VbY8"
+		"text": "We’re talking about stories led by @kalebrashad #MetroVanHS #alplearn https://t.co/jn6nG3VbY8"
 	},
 	{
 		"created_at": "Tue Mar 08 00:01:40 +0000 2022",
