@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 00:51:20 +0000 2022",
+		"id": 1518029790841905200,
+		"id_str": "1518029790841905153",
+		"full_text": "@JamesRCBedford @COSLMBCA @RobCFisher @mbteachers Congrats to Rob. A tremendous leader.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesRCBedford",
+					"name": "James Bedford",
+					"id": 3033122222,
+					"id_str": "3033122222",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "COSLMBCA",
+					"name": "Rob Fisher, Chairperson, Council of School Leaders",
+					"id": 308852535,
+					"id_str": "308852535",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "RobCFisher",
+					"name": "Rob Fisher(baldfury)",
+					"id": 10675442,
+					"id_str": "10675442",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "mbteachers",
+					"name": "MB Teachers' Society",
+					"id": 281594138,
+					"id_str": "281594138",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517915218063601700,
+		"in_reply_to_status_id_str": "1517915218063601664",
+		"in_reply_to_user_id": 3033122222,
+		"in_reply_to_user_id_str": "3033122222",
+		"in_reply_to_screen_name": "JamesRCBedford",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39053,
+			"friends_count": 10555,
+			"listed_count": 1339,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JamesRCBedford @COSLMBCA @RobCFisher @mbteachers Congrats to Rob. A tremendous leader."
+	},
+	{
+		"created_at": "Sat Apr 23 23:25:00 +0000 2022",
+		"id": 1518008065135714300,
+		"id_str": "1518008065135714306",
+		"full_text": "@jesflres https://t.co/Yi8XUHSFo5",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesflres",
+					"name": "Jessica Flores 🇺🇦",
+					"id": 1494693992591724500,
+					"id_str": "1494693992591724550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518008058911203300,
+					"id_str": "1518008058911203328",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FREMSW2VIAA9wWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FREMSW2VIAA9wWW.jpg",
+					"url": "https://t.co/Yi8XUHSFo5",
+					"display_url": "pic.twitter.com/Yi8XUHSFo5",
+					"expanded_url": "https://twitter.com/shareski/status/1518008065135714306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518008058911203300,
+					"id_str": "1518008058911203328",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FREMSW2VIAA9wWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FREMSW2VIAA9wWW.jpg",
+					"url": "https://t.co/Yi8XUHSFo5",
+					"display_url": "pic.twitter.com/Yi8XUHSFo5",
+					"expanded_url": "https://twitter.com/shareski/status/1518008065135714306/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 472,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							236
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FREMSW2VIAA9wWW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517503826210742300,
+		"in_reply_to_status_id_str": "1517503826210742274",
+		"in_reply_to_user_id": 1494693992591724500,
+		"in_reply_to_user_id_str": "1494693992591724550",
+		"in_reply_to_screen_name": "jesflres",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39053,
+			"friends_count": 10555,
+			"listed_count": 1339,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@jesflres https://t.co/Yi8XUHSFo5"
+	},
+	{
+		"created_at": "Sat Apr 23 20:58:28 +0000 2022",
+		"id": 1517971186520666000,
+		"id_str": "1517971186520666112",
+		"full_text": "@NoLayingUp what is the most boring tournament to watch and why is it the Zurich?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1151892168,
+		"in_reply_to_user_id_str": "1151892168",
+		"in_reply_to_screen_name": "NoLayingUp",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39053,
+			"friends_count": 10555,
+			"listed_count": 1339,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NoLayingUp what is the most boring tournament to watch and why is it the Zurich?"
+	},
+	{
+		"created_at": "Sat Apr 23 17:30:39 +0000 2022",
+		"id": 1517918888767668200,
+		"id_str": "1517918888767668224",
+		"full_text": "Why do I dislike the new Twitter interface?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39053,
+			"friends_count": 10555,
+			"listed_count": 1339,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Why do I dislike the new Twitter interface?"
+	},
+	{
 		"created_at": "Fri Apr 22 15:44:15 +0000 2022",
 		"id": 1517529723554861000,
 		"id_str": "1517529723554861058",
