@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 21:24:38 +0000 2022",
+		"id": 1519427326362243000,
+		"id_str": "1519427326362243072",
+		"full_text": "At least once in your life you should let a 2 year old and 4 year old cut your hair. #harriethasmyheart #herschelhasmyheart https://t.co/x1yq8XkQkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "harriethasmyheart",
+					"indices": [
+						85,
+						103
+					]
+				},
+				{
+					"text": "herschelhasmyheart",
+					"indices": [
+						104,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519427215192203300,
+					"id_str": "1519427215192203271",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519427215192203271/pu/img/MPBHhgwDB07HJS1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519427215192203271/pu/img/MPBHhgwDB07HJS1w.jpg",
+					"url": "https://t.co/x1yq8XkQkW",
+					"display_url": "pic.twitter.com/x1yq8XkQkW",
+					"expanded_url": "https://twitter.com/shareski/status/1519427326362243072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519427215192203300,
+					"id_str": "1519427215192203271",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519427215192203271/pu/img/MPBHhgwDB07HJS1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519427215192203271/pu/img/MPBHhgwDB07HJS1w.jpg",
+					"url": "https://t.co/x1yq8XkQkW",
+					"display_url": "pic.twitter.com/x1yq8XkQkW",
+					"expanded_url": "https://twitter.com/shareski/status/1519427326362243072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 15276,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519427215192203271/pu/vid/480x1036/jhJXnFaOIM_IS0Cp.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519427215192203271/pu/vid/320x690/YWb_nGAEprufaBXi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519427215192203271/pu/vid/592x1280/BkqwmbgJCHxY1pRn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519427215192203271/pu/pl/VtFNWwX87p-7LmdQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At least once in your life you should let a 2 year old and 4 year old cut your hair. #harriethasmyheart #herschelhasmyheart https://t.co/x1yq8XkQkW"
+	},
+	{
+		"created_at": "Wed Apr 27 16:27:43 +0000 2022",
+		"id": 1519352603934556200,
+		"id_str": "1519352603934556160",
+		"full_text": "Not to brag, but I'm listening to Phoebe Bridgers this morning. @michellek107 @amandacdykes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michellek107",
+					"name": "Michelle Baldwin",
+					"id": 14528703,
+					"id_str": "14528703",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda C. Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Not to brag, but I'm listening to Phoebe Bridgers this morning. @michellek107 @amandacdykes"
+	},
+	{
+		"created_at": "Wed Apr 27 15:31:27 +0000 2022",
+		"id": 1519338442361958400,
+		"id_str": "1519338442361958400",
+		"full_text": "Wordle 312 5/6*\n\n⬜⬜⬜⬜🟨\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩3 putt bogey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 312 5/6*\n\n⬜⬜⬜⬜🟨\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩3 putt bogey"
+	},
+	{
+		"created_at": "Wed Apr 27 03:06:23 +0000 2022",
+		"id": 1519150941362086000,
+		"id_str": "1519150941362085888",
+		"full_text": "@SuptEnfield @WCSDTweet @HighlineSchools Congrats Susan. Excited to follow you and your new work. They are lucky to have you.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuptEnfield",
+					"name": "Susan Enfield",
+					"id": 2916040579,
+					"id_str": "2916040579",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "WCSDTweet",
+					"name": "Washoe Schools",
+					"id": 36862950,
+					"id_str": "36862950",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "HighlineSchools",
+					"name": "Highline Schools",
+					"id": 130304151,
+					"id_str": "130304151",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519135658559770600,
+		"in_reply_to_status_id_str": "1519135658559770624",
+		"in_reply_to_user_id": 2916040579,
+		"in_reply_to_user_id_str": "2916040579",
+		"in_reply_to_screen_name": "SuptEnfield",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SuptEnfield @WCSDTweet @HighlineSchools Congrats Susan. Excited to follow you and your new work. They are lucky to have you."
+	},
+	{
+		"created_at": "Wed Apr 27 02:35:36 +0000 2022",
+		"id": 1519143195933872000,
+		"id_str": "1519143195933872128",
+		"full_text": "@imcguy I did. I don’t care. I’ve not yet paid any attention to how this works.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imcguy",
+					"name": "Chad Lehman",
+					"id": 10645702,
+					"id_str": "10645702",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519141743668695000,
+		"in_reply_to_status_id_str": "1519141743668695041",
+		"in_reply_to_user_id": 10645702,
+		"in_reply_to_user_id_str": "10645702",
+		"in_reply_to_screen_name": "imcguy",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@imcguy I did. I don’t care. I’ve not yet paid any attention to how this works."
+	},
+	{
+		"created_at": "Wed Apr 27 02:26:28 +0000 2022",
+		"id": 1519140894846374000,
+		"id_str": "1519140894846373888",
+		"full_text": "These #BlueJays are beauts! https://t.co/gemLSFeXRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlueJays",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519140883530018800,
+					"id_str": "1519140883530018816",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRUSlbaUcAA6-vv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRUSlbaUcAA6-vv.jpg",
+					"url": "https://t.co/gemLSFeXRV",
+					"display_url": "pic.twitter.com/gemLSFeXRV",
+					"expanded_url": "https://twitter.com/shareski/status/1519140894846373888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519140883530018800,
+					"id_str": "1519140883530018816",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FRUSlbaUcAA6-vv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRUSlbaUcAA6-vv.jpg",
+					"url": "https://t.co/gemLSFeXRV",
+					"display_url": "pic.twitter.com/gemLSFeXRV",
+					"expanded_url": "https://twitter.com/shareski/status/1519140894846373888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FRUSlbaUcAA6-vv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10540,
+			"listed_count": 1335,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These #BlueJays are beauts! https://t.co/gemLSFeXRV"
+	},
+	{
 		"created_at": "Tue Apr 26 20:54:04 +0000 2022",
 		"id": 1519057245945745400,
 		"id_str": "1519057245945745408",
