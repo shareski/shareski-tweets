@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 22:44:00 +0000 2022",
+		"id": 1527057442462392300,
+		"id_str": "1527057442462392321",
+		"full_text": "Stop Worrying About How Much You Matter. https://t.co/Yh2oLxF3bJ (really love the suggestions at the end of the post)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yh2oLxF3bJ",
+					"expanded_url": "https://hbr.org/2015/06/stop-worrying-about-how-much-you-matter",
+					"display_url": "hbr.org/2015/06/stop-w…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1333,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stop Worrying About How Much You Matter. https://t.co/Yh2oLxF3bJ (really love the suggestions at the end of the post)"
+	},
+	{
+		"created_at": "Wed May 18 21:22:58 +0000 2022",
+		"id": 1527037052574834700,
+		"id_str": "1527037052574834688",
+		"full_text": "Happy birthday to one of my favourite humans. @amandacdykes I'll be listening to Wonder Wall on repeat as my birthday gift. https://t.co/WFgzjqNW8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandacdykes",
+					"name": "Amanda C. Dykes",
+					"id": 16285501,
+					"id_str": "16285501",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527037045402525700,
+					"id_str": "1527037045402525696",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTEgGioUYAAynVQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTEgGioUYAAynVQ.jpg",
+					"url": "https://t.co/WFgzjqNW8w",
+					"display_url": "pic.twitter.com/WFgzjqNW8w",
+					"expanded_url": "https://twitter.com/shareski/status/1527037052574834688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527037045402525700,
+					"id_str": "1527037045402525696",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTEgGioUYAAynVQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTEgGioUYAAynVQ.jpg",
+					"url": "https://t.co/WFgzjqNW8w",
+					"display_url": "pic.twitter.com/WFgzjqNW8w",
+					"expanded_url": "https://twitter.com/shareski/status/1527037052574834688/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FTEgGioUYAAynVQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1333,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday to one of my favourite humans. @amandacdykes I'll be listening to Wonder Wall on repeat as my birthday gift. https://t.co/WFgzjqNW8w"
+	},
+	{
+		"created_at": "Wed May 18 20:56:45 +0000 2022",
+		"id": 1527030453143687200,
+		"id_str": "1527030453143687168",
+		"full_text": "I think we may need to rethink feedback. https://t.co/OuWqmW8oh5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OuWqmW8oh5",
+					"expanded_url": "https://hbr.org/2019/03/the-feedback-fallacy",
+					"display_url": "hbr.org/2019/03/the-fe…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1333,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think we may need to rethink feedback. https://t.co/OuWqmW8oh5"
+	},
+	{
+		"created_at": "Wed May 18 15:52:16 +0000 2022",
+		"id": 1526953826774679600,
+		"id_str": "1526953826774679553",
+		"full_text": "I left three questions at the end of my post. I'd love to know your thoughts on the idea of family and the workplace. https://t.co/Njh9r8uIDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Njh9r8uIDR",
+					"expanded_url": "https://shareski.ca/y/4bs",
+					"display_url": "shareski.ca/y/4bs",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1333,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I left three questions at the end of my post. I'd love to know your thoughts on the idea of family and the workplace. https://t.co/Njh9r8uIDR"
+	},
+	{
+		"created_at": "Wed May 18 13:54:29 +0000 2022",
+		"id": 1526924186773356500,
+		"id_str": "1526924186773356544",
+		"full_text": "Wordle 333 3/6*\n\n⬜⬜⬜🟨🟨\n⬜🟨⬜🟨⬜\n🟩🟩🟩🟩🟩birdie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1333,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 333 3/6*\n\n⬜⬜⬜🟨🟨\n⬜🟨⬜🟨⬜\n🟩🟩🟩🟩🟩birdie"
+	},
+	{
 		"created_at": "Tue May 17 16:21:20 +0000 2022",
 		"id": 1526598752584077300,
 		"id_str": "1526598752584077313",
