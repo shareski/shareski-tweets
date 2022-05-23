@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 22 23:37:31 +0000 2022",
+		"id": 1528520464670130200,
+		"id_str": "1528520464670130177",
+		"full_text": "Pre-mature tweeting. @NoLayingUp https://t.co/vCzW2f2dR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoLayingUp",
+					"name": "No Laying Up",
+					"id": 1151892168,
+					"id_str": "1151892168",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vCzW2f2dR0",
+					"expanded_url": "https://twitter.com/OldTakesExposed/status/1528520256226041858",
+					"display_url": "twitter.com/OldTakesExpose…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38978,
+			"friends_count": 10545,
+			"listed_count": 1332,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1528520256226041900,
+		"quoted_status_id_str": "1528520256226041858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vCzW2f2dR0",
+			"expanded": "https://twitter.com/OldTakesExposed/status/1528520256226041858",
+			"display": "twitter.com/OldTakesExpose…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 22 23:36:42 +0000 2022",
+			"id": 1528520256226041900,
+			"id_str": "1528520256226041858",
+			"full_text": "https://t.co/Zxs47SGZMP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1528520253440934000,
+						"id_str": "1528520253440933888",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTZlEnJWQAAg6wc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTZlEnJWQAAg6wc.jpg",
+						"url": "https://t.co/Zxs47SGZMP",
+						"display_url": "pic.twitter.com/Zxs47SGZMP",
+						"expanded_url": "https://twitter.com/OldTakesExposed/status/1528520256226041858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 770,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 770,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1528520253440934000,
+						"id_str": "1528520253440933888",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTZlEnJWQAAg6wc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTZlEnJWQAAg6wc.jpg",
+						"url": "https://t.co/Zxs47SGZMP",
+						"display_url": "pic.twitter.com/Zxs47SGZMP",
+						"expanded_url": "https://twitter.com/OldTakesExposed/status/1528520256226041858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 770,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 770,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 172580748,
+				"id_str": "172580748",
+				"name": "Freezing Cold Takes",
+				"screen_name": "OldTakesExposed",
+				"location": "West Palm Beach, FL",
+				"description": "Fred Segal .Unprophetic (mostly sports) takes,& other fun stuff. No politics! “Freezing Cold Takes: NFL” available for pre-order! (See pinned Tweet)",
+				"url": "https://t.co/AlQxSdsrpL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AlQxSdsrpL",
+								"expanded_url": "https://www.instagram.com/freezingcoldtakes/",
+								"display_url": "instagram.com/freezingcoldta…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 585428,
+				"friends_count": 2718,
+				"listed_count": 1703,
+				"created_at": "Fri Jul 30 02:00:09 +0000 2010",
+				"favourites_count": 58383,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050155943881830400/w498snqr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050155943881830400/w498snqr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/172580748/1557369350",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 906,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pre-mature tweeting. @NoLayingUp https://t.co/vCzW2f2dR0"
+	},
+	{
 		"created_at": "Sat May 21 21:52:50 +0000 2022",
 		"id": 1528131729134960600,
 		"id_str": "1528131729134960640",
