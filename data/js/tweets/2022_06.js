@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 01:17:16 +0000 2022",
+		"id": 1532894221698474000,
+		"id_str": "1532894221698473984",
+		"full_text": "@ijohnpederson https://t.co/POsCY2zpTr",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ijohnpederson",
+					"name": "John Pederson",
+					"id": 1070632973735731200,
+					"id_str": "1070632973735731200",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532894211900579800,
+					"id_str": "1532894211900579843",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FUXvKgKWIAMqqtt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUXvKgKWIAMqqtt.jpg",
+					"url": "https://t.co/POsCY2zpTr",
+					"display_url": "pic.twitter.com/POsCY2zpTr",
+					"expanded_url": "https://twitter.com/shareski/status/1532894221698473984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532894211900579800,
+					"id_str": "1532894211900579843",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FUXvKgKWIAMqqtt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUXvKgKWIAMqqtt.jpg",
+					"url": "https://t.co/POsCY2zpTr",
+					"display_url": "pic.twitter.com/POsCY2zpTr",
+					"expanded_url": "https://twitter.com/shareski/status/1532894221698473984/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FUXvKgKWIAMqqtt.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532842508316815400,
+		"in_reply_to_status_id_str": "1532842508316815360",
+		"in_reply_to_user_id": 1070632973735731200,
+		"in_reply_to_user_id_str": "1070632973735731200",
+		"in_reply_to_screen_name": "ijohnpederson",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10565,
+			"listed_count": 1332,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ijohnpederson https://t.co/POsCY2zpTr"
+	},
+	{
+		"created_at": "Fri Jun 03 15:23:04 +0000 2022",
+		"id": 1532744684279410700,
+		"id_str": "1532744684279410693",
+		"full_text": "This is how it ended. #alplearn https://t.co/Lkv4CRWLCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532744679921537000,
+					"id_str": "1532744679921537024",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FUVnKmIX0AAB_Um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUVnKmIX0AAB_Um.jpg",
+					"url": "https://t.co/Lkv4CRWLCS",
+					"display_url": "pic.twitter.com/Lkv4CRWLCS",
+					"expanded_url": "https://twitter.com/shareski/status/1532744684279410693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532744679921537000,
+					"id_str": "1532744679921537024",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FUVnKmIX0AAB_Um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUVnKmIX0AAB_Um.jpg",
+					"url": "https://t.co/Lkv4CRWLCS",
+					"display_url": "pic.twitter.com/Lkv4CRWLCS",
+					"expanded_url": "https://twitter.com/shareski/status/1532744684279410693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38989,
+			"friends_count": 10565,
+			"listed_count": 1332,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 124707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500521037599068173/F7aqtwjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how it ended. #alplearn https://t.co/Lkv4CRWLCS"
+	},
+	{
 		"created_at": "Thu Jun 02 23:44:35 +0000 2022",
 		"id": 1532508508029059000,
 		"id_str": "1532508508029059079",
@@ -198,7 +600,7 @@ Grailbird.data.tweets_2022_06 =
 			"created_at": "Thu Jun 02 23:24:25 +0000 2022",
 			"id": 1532503434196287500,
 			"id_str": "1532503434196287493",
-			"full_text": "⁦@drrobertdillon⁩ s’more creation. #alplearn https://t.co/g1WXGxqDwz",
+			"full_text": "@drrobertdillon s’more creation. #alplearn https://t.co/g1WXGxqDwz",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -409,7 +811,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Thu Jun 02 23:24:25 +0000 2022",
 		"id": 1532503434196287500,
 		"id_str": "1532503434196287493",
-		"full_text": "⁦@drrobertdillon⁩ s’more creation. #alplearn https://t.co/g1WXGxqDwz",
+		"full_text": "@drrobertdillon s’more creation. #alplearn https://t.co/g1WXGxqDwz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -607,7 +1009,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "⁦@drrobertdillon⁩ s’more creation. #alplearn https://t.co/g1WXGxqDwz"
+		"text": "@drrobertdillon s’more creation. #alplearn https://t.co/g1WXGxqDwz"
 	},
 	{
 		"created_at": "Thu Jun 02 19:15:38 +0000 2022",
@@ -1833,7 +2235,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Thu Jun 02 13:54:26 +0000 2022",
 		"id": 1532359991251837000,
 		"id_str": "1532359991251836928",
-		"full_text": "One of my favourite people sharing a heartfelt story of learning. ⁦@builders_global⁩ #alplearn https://t.co/IvRBaTrojt",
+		"full_text": "One of my favourite people sharing a heartfelt story of learning. @builders_global #alplearn https://t.co/IvRBaTrojt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2031,7 +2433,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "One of my favourite people sharing a heartfelt story of learning. ⁦@builders_global⁩ #alplearn https://t.co/IvRBaTrojt"
+		"text": "One of my favourite people sharing a heartfelt story of learning. @builders_global #alplearn https://t.co/IvRBaTrojt"
 	},
 	{
 		"created_at": "Thu Jun 02 13:17:53 +0000 2022",
