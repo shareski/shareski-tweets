@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 15:33:32 +0000 2022",
+		"id": 1554852976899940400,
+		"id_str": "1554852976899940352",
+		"full_text": "This is gold. Scully was an artist. https://t.co/uri36p1jBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uri36p1jBm",
+					"expanded_url": "https://twitter.com/sharpfootball/status/1554675110979706881",
+					"display_url": "twitter.com/sharpfootball/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39042,
+			"friends_count": 10659,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554675110979707000,
+		"quoted_status_id_str": "1554675110979706881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uri36p1jBm",
+			"expanded": "https://twitter.com/sharpfootball/status/1554675110979706881",
+			"display": "twitter.com/sharpfootball/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 03 03:46:45 +0000 2022",
+			"id": 1554675110979707000,
+			"id_str": "1554675110979706881",
+			"full_text": "how the hell do you tell the story of a wolf attacking a boy during an at bat calmly, colorfully and without missing a pitch? Vin Scully was an absolute artist \nhttps://t.co/aLjUYv7mme",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336124121697165300,
+						"id_str": "1336124121697165312",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1336124121697165312/pu/img/P0dDPaorNRqDvV6N.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1336124121697165312/pu/img/P0dDPaorNRqDvV6N.jpg",
+						"url": "https://t.co/aLjUYv7mme",
+						"display_url": "pic.twitter.com/aLjUYv7mme",
+						"expanded_url": "https://twitter.com/BaseballQuotes1/status/1336136291390525441/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1336136291390525400,
+						"source_status_id_str": "1336136291390525441",
+						"source_user_id": 613512037,
+						"source_user_id_str": "613512037"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336124121697165300,
+						"id_str": "1336124121697165312",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1336124121697165312/pu/img/P0dDPaorNRqDvV6N.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1336124121697165312/pu/img/P0dDPaorNRqDvV6N.jpg",
+						"url": "https://t.co/aLjUYv7mme",
+						"display_url": "pic.twitter.com/aLjUYv7mme",
+						"expanded_url": "https://twitter.com/BaseballQuotes1/status/1336136291390525441/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1336136291390525400,
+						"source_status_id_str": "1336136291390525441",
+						"source_user_id": 613512037,
+						"source_user_id_str": "613512037",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 105806,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1336124121697165312/pu/vid/480x270/AJWtX89IFQoEh3ez.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1336124121697165312/pu/pl/WzI4jZCXYCAtimEZ.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1336124121697165312/pu/vid/1280x720/LOD3HaELSlBwucUm.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1336124121697165312/pu/vid/640x360/OnBTStHXO9b-tFxI.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 613512037,
+								"id_str": "613512037",
+								"name": "Baseball Quotes",
+								"screen_name": "BaseballQuotes1",
+								"location": "The Diamond",
+								"description": "Quoting America's Pastime in 280 characters or less",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 160201,
+								"friends_count": 657,
+								"listed_count": 839,
+								"created_at": "Wed Jun 20 15:07:36 +0000 2012",
+								"favourites_count": 57362,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 36799,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/559155402693423105/J1HBp3ht_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/559155402693423105/J1HBp3ht_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/613512037/1437348323",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68758745,
+				"id_str": "68758745",
+				"name": "Warren Sharp",
+				"screen_name": "SharpFootball",
+				"location": "ws@sharpfootballanalysis.com",
+				"description": "Inventing custom, predictive NFL analytics & visualized data at https://t.co/iKdUa4MmXQ & https://t.co/XnqMiytvTO | @NBCSports | @ringer",
+				"url": "https://t.co/IMwW2g7jNZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IMwW2g7jNZ",
+								"expanded_url": "https://bit.ly/my-2022-book",
+								"display_url": "bit.ly/my-2022-book",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iKdUa4MmXQ",
+								"expanded_url": "http://SharpFootballAnalysis.com",
+								"display_url": "SharpFootballAnalysis.com",
+								"indices": [
+									64,
+									87
+								]
+							},
+							{
+								"url": "https://t.co/XnqMiytvTO",
+								"expanded_url": "https://www.SharpFootballStats.com",
+								"display_url": "SharpFootballStats.com",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281415,
+				"friends_count": 834,
+				"listed_count": 5115,
+				"created_at": "Tue Aug 25 17:55:38 +0000 2009",
+				"favourites_count": 15426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35731,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145917090303533057/SI9rHI_5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145917090303533057/SI9rHI_5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68758745/1563213131",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "FFFB00",
+				"profile_text_color": "404040",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1668,
+			"favorite_count": 12915,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is gold. Scully was an artist. https://t.co/uri36p1jBm"
+	},
+	{
 		"created_at": "Wed Aug 03 01:11:40 +0000 2022",
 		"id": 1554636081403945000,
 		"id_str": "1554636081403944960",
