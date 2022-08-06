@@ -1,6 +1,963 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 01:11:34 +0000 2022",
+		"id": 1555723219943964700,
+		"id_str": "1555723219943964692",
+		"full_text": "He’s the only one who loves Wallace. #woodyhasmyheart https://t.co/rldLuquv3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woodyhasmyheart",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555721149362970600,
+					"id_str": "1555721149362970624",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555721149362970624/pu/img/eXAGyAkldIqVOZRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555721149362970624/pu/img/eXAGyAkldIqVOZRm.jpg",
+					"url": "https://t.co/rldLuquv3o",
+					"display_url": "pic.twitter.com/rldLuquv3o",
+					"expanded_url": "https://twitter.com/shareski/status/1555723219943964692/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555721149362970600,
+					"id_str": "1555721149362970624",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555721149362970624/pu/img/eXAGyAkldIqVOZRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555721149362970624/pu/img/eXAGyAkldIqVOZRm.jpg",
+					"url": "https://t.co/rldLuquv3o",
+					"display_url": "pic.twitter.com/rldLuquv3o",
+					"expanded_url": "https://twitter.com/shareski/status/1555723219943964692/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 14770,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555721149362970624/pu/vid/592x1280/lIGskzTTgYH8nlD0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555721149362970624/pu/pl/cCj5bbFqBTzjceUH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555721149362970624/pu/vid/320x690/vMfgCejU3pabRjG-.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555721149362970624/pu/vid/480x1036/J6sDNiVVZ0kdsjDx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39036,
+			"friends_count": 10658,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He’s the only one who loves Wallace. #woodyhasmyheart https://t.co/rldLuquv3o"
+	},
+	{
+		"created_at": "Fri Aug 05 16:19:02 +0000 2022",
+		"id": 1555589202871451600,
+		"id_str": "1555589202871451651",
+		"full_text": "How are you thinking about including students in your professional learning? #alplearn https://t.co/5xAYG598Ii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5xAYG598Ii",
+					"expanded_url": "https://twitter.com/katy_alp/status/1555141282602909696",
+					"display_url": "twitter.com/katy_alp/statu…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39036,
+			"friends_count": 10658,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555141282602909700,
+		"quoted_status_id_str": "1555141282602909696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5xAYG598Ii",
+			"expanded": "https://twitter.com/katy_alp/status/1555141282602909696",
+			"display": "twitter.com/katy_alp/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 04 10:39:09 +0000 2022",
+			"id": 1555141282602909700,
+			"id_str": "1555141282602909696",
+			"full_text": "So excited to see this story! @ChathamCoSch integrates the Tech Team Resources from our collaboration with @NCBCE, @nchalifaxschools @teachlearntech and @Jackson3Frankie!  @ALPlearn \nCCS Summer Tech Team helps the district by teaching students https://t.co/CVcuKJGrYT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChathamCoSch",
+						"name": "Chatham County Schools",
+						"id": 113994766,
+						"id_str": "113994766",
+						"indices": [
+							30,
+							43
+						]
+					},
+					{
+						"screen_name": "NCBCE",
+						"name": "NCBCE",
+						"id": 142407350,
+						"id_str": "142407350",
+						"indices": [
+							107,
+							113
+						]
+					},
+					{
+						"screen_name": "teachlearntech",
+						"name": "John Ross",
+						"id": 454181641,
+						"id_str": "454181641",
+						"indices": [
+							133,
+							148
+						]
+					},
+					{
+						"screen_name": "Jackson3Frankie",
+						"name": "frankie jackson",
+						"id": 524427378,
+						"id_str": "524427378",
+						"indices": [
+							153,
+							169
+						]
+					},
+					{
+						"screen_name": "ALPlearn",
+						"name": "Team ALP",
+						"id": 801168060740698100,
+						"id_str": "801168060740698112",
+						"indices": [
+							172,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CVcuKJGrYT",
+						"expanded_url": "https://www.chathamnewsrecord.com/stories/ccs-summer-tech-team-helps-the-district-by-teaching-students,14000?utm_source=ActiveCampaign&utm_medium=email&utm_content=Getting+in+the+driver+s+seat%2C+remembering+Wayne%2C+an+icon+honored%2C+case+counts+up%2C+elections&utm_campaign=Wednesday+Brew+%7C+0803",
+						"display_url": "chathamnewsrecord.com/stories/ccs-su…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 747344928,
+				"id_str": "747344928",
+				"name": "Katy Fodchuk",
+				"screen_name": "Katy_ALP",
+				"location": "Chapel Hill, NC",
+				"description": "Organizational psychologist who is passionate about education systems and transformational change.",
+				"url": "http://t.co/r1G6iTGgoy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/r1G6iTGgoy",
+								"expanded_url": "http://advancedpartnerships.com",
+								"display_url": "advancedpartnerships.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 293,
+				"friends_count": 400,
+				"listed_count": 6,
+				"created_at": "Thu Aug 09 14:41:40 +0000 2012",
+				"favourites_count": 558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 194,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641989521769271297/T7Jwo5_Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641989521769271297/T7Jwo5_Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/747344928/1430751267",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How are you thinking about including students in your professional learning? #alplearn https://t.co/5xAYG598Ii"
+	},
+	{
+		"created_at": "Fri Aug 05 15:46:58 +0000 2022",
+		"id": 1555581133928161300,
+		"id_str": "1555581133928161282",
+		"full_text": "Here’s a fun thing my wife likes to do. Take an empty bottle of Aleve (day time) and fill them up with night time Advil. The fun part is when I wake up with a little headache and see her Aleve bottle and take one thinking it’s the pill listed on the bottle. My day is pooched.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39036,
+			"friends_count": 10658,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Here’s a fun thing my wife likes to do. Take an empty bottle of Aleve (day time) and fill them up with night time Advil. The fun part is when I wake up with a little headache and see her Aleve bottle and take one thinking it’s the pill listed on the bottle. My day is pooched."
+	},
+	{
+		"created_at": "Fri Aug 05 04:13:49 +0000 2022",
+		"id": 1555406697467969500,
+		"id_str": "1555406697467969537",
+		"full_text": "When you get a chance, have a listen to my conversation with @builders_global https://t.co/e3k0nxRZcR #outsidetheclassroom #alplearn https://t.co/28kSzskBZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "outsidetheclassroom",
+					"indices": [
+						102,
+						122
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "builders_global",
+					"name": "Capacity Builders Global",
+					"id": 1410983328166056000,
+					"id_str": "1410983328166055942",
+					"indices": [
+						61,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e3k0nxRZcR",
+					"expanded_url": "https://shareski.ca/y/4c0",
+					"display_url": "shareski.ca/y/4c0",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555406599933644800,
+					"id_str": "1555406599933644800",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXqD85X0AA6YpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXqD85X0AA6YpD.jpg",
+					"url": "https://t.co/28kSzskBZB",
+					"display_url": "pic.twitter.com/28kSzskBZB",
+					"expanded_url": "https://twitter.com/shareski/status/1555406697467969537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 784,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555406599933644800,
+					"id_str": "1555406599933644800",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXqD85X0AA6YpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXqD85X0AA6YpD.jpg",
+					"url": "https://t.co/28kSzskBZB",
+					"display_url": "pic.twitter.com/28kSzskBZB",
+					"expanded_url": "https://twitter.com/shareski/status/1555406697467969537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 784,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39036,
+			"friends_count": 10658,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you get a chance, have a listen to my conversation with @builders_global https://t.co/e3k0nxRZcR #outsidetheclassroom #alplearn https://t.co/28kSzskBZB"
+	},
+	{
+		"created_at": "Fri Aug 05 03:54:50 +0000 2022",
+		"id": 1555401919492792300,
+		"id_str": "1555401919492792321",
+		"full_text": "@gmbondi Exactly",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gmbondi",
+					"name": "Gino Bondi",
+					"id": 155960503,
+					"id_str": "155960503",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1555396816207655000,
+		"in_reply_to_status_id_str": "1555396816207654912",
+		"in_reply_to_user_id": 155960503,
+		"in_reply_to_user_id_str": "155960503",
+		"in_reply_to_screen_name": "gmbondi",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39036,
+			"friends_count": 10658,
+			"listed_count": 1325,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gmbondi Exactly"
+	},
+	{
 		"created_at": "Thu Aug 04 23:31:41 +0000 2022",
 		"id": 1555335697074094000,
 		"id_str": "1555335697074094081",
@@ -419,7 +1376,7 @@ Grailbird.data.tweets_2022_08 =
 								"name": "PGA TOUR",
 								"screen_name": "PGATOUR",
 								"location": "",
-								"description": "🏌️‍♂️ @KornFerryTour | \n🏌️ @ChampionsTour | \n📝 @PGATOURComms | \n🖥 @PGATOURLIVE | \n🎓 @PGATOURU | \n🇨🇦 @PGATOURCanada |\n⛳️ @PGATOURLA |\n🇪🇸 @PGATOUREsp",
+								"description": "🏌️♂️ @KornFerryTour | \n🏌️ @ChampionsTour | \n📝 @PGATOURComms | \n🖥 @PGATOURLIVE | \n🎓 @PGATOURU | \n🇨🇦 @PGATOURCanada |\n⛳️ @PGATOURLA |\n🇪🇸 @PGATOUREsp",
 								"url": "https://t.co/qB7Cu5p6Ow",
 								"entities": {
 									"url": {
