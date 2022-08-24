@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 19:00:32 +0000 2022",
+		"id": 1562152828445114400,
+		"id_str": "1562152828445114368",
+		"full_text": "Name two people who I adore and have been on my podcast. https://t.co/CYh0r5Oh36 https://t.co/p3nQz5XR8g https://t.co/9uzYzTtHRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CYh0r5Oh36",
+					"expanded_url": "https://shareski.ca/y/4b1",
+					"display_url": "shareski.ca/y/4b1",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/p3nQz5XR8g",
+					"expanded_url": "https://ideasandthoughts.org/podcast/outside-the-classroom-episode-7-with-amber-teamann-and-kristina-ishmael/",
+					"display_url": "ideasandthoughts.org/podcast/outsid…",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/9uzYzTtHRH",
+					"expanded_url": "https://twitter.com/kmishmael/status/1562128882404302848",
+					"display_url": "twitter.com/kmishmael/stat…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39004,
+			"friends_count": 10663,
+			"listed_count": 1324,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562128882404302800,
+		"quoted_status_id_str": "1562128882404302848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9uzYzTtHRH",
+			"expanded": "https://twitter.com/kmishmael/status/1562128882404302848",
+			"display": "twitter.com/kmishmael/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 23 17:25:23 +0000 2022",
+			"id": 1562128882404302800,
+			"id_str": "1562128882404302848",
+			"full_text": "Guess who @OfficeofEdTech got to meet with this morning?!? The one and only @RafranzDavis! Such a delight!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OfficeofEdTech",
+						"name": "Office of Ed Tech",
+						"id": 172779883,
+						"id_str": "172779883",
+						"indices": [
+							10,
+							25
+						]
+					},
+					{
+						"screen_name": "RafranzDavis",
+						"name": "Rafranz ⁷",
+						"id": 15825051,
+						"id_str": "15825051",
+						"indices": [
+							76,
+							89
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58933798,
+				"id_str": "58933798",
+				"name": "Kristina Ishmael (she/her)",
+				"screen_name": "kmishmael",
+				"location": "Washington, DC",
+				"description": "Learner; leader; educator; advocate. National #edtech leader. I also talk #mentalhealth #hiking #dogs & more. Views=mine.",
+				"url": "https://t.co/YRqOOjYPTB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YRqOOjYPTB",
+								"expanded_url": "http://linkedin.com/in/kmishmael",
+								"display_url": "linkedin.com/in/kmishmael",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10896,
+				"friends_count": 5458,
+				"listed_count": 404,
+				"created_at": "Tue Jul 21 21:50:51 +0000 2009",
+				"favourites_count": 62173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22939,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1559890304622157824/XouSPVoP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559890304622157824/XouSPVoP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58933798/1660674989",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Name two people who I adore and have been on my podcast. https://t.co/CYh0r5Oh36 https://t.co/p3nQz5XR8g https://t.co/9uzYzTtHRH"
+	},
+	{
 		"created_at": "Sun Aug 21 01:58:50 +0000 2022",
 		"id": 1561170935654142000,
 		"id_str": "1561170935654141953",
