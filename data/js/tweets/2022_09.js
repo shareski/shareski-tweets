@@ -1,6 +1,877 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 22:01:00 +0000 2022",
+		"id": 1566184510554837000,
+		"id_str": "1566184510554836994",
+		"full_text": "Not to brag but I have a fan club. https://t.co/APbfxlS9OF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566119303329763300,
+					"id_str": "1566119303329763328",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566119303329763328/pu/img/rr_s6J9UshwwJuKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566119303329763328/pu/img/rr_s6J9UshwwJuKK.jpg",
+					"url": "https://t.co/APbfxlS9OF",
+					"display_url": "pic.twitter.com/APbfxlS9OF",
+					"expanded_url": "https://twitter.com/shareski/status/1566184510554836994/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 363,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566119303329763300,
+					"id_str": "1566119303329763328",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566119303329763328/pu/img/rr_s6J9UshwwJuKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566119303329763328/pu/img/rr_s6J9UshwwJuKK.jpg",
+					"url": "https://t.co/APbfxlS9OF",
+					"display_url": "pic.twitter.com/APbfxlS9OF",
+					"expanded_url": "https://twitter.com/shareski/status/1566184510554836994/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 363,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							15
+						],
+						"duration_millis": 24000,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566119303329763328/pu/vid/512x960/3hKzI-s0SMqPX-lM.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566119303329763328/pu/vid/320x600/drZdSuWwHCh21zZA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566119303329763328/pu/pl/ynsNJ-zdcYPjTwB2.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39002,
+			"friends_count": 10675,
+			"listed_count": 1322,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not to brag but I have a fan club. https://t.co/APbfxlS9OF"
+	},
+	{
+		"created_at": "Sat Sep 03 18:07:37 +0000 2022",
+		"id": 1566125780295622700,
+		"id_str": "1566125780295622656",
+		"full_text": "@Wes_Kieschnick I'm not so sure. I think fun is underrated in education. https://t.co/JPgQhfBzvt",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wes_Kieschnick",
+					"name": "Weston Kieschnick #BoldSchool",
+					"id": 1499273101,
+					"id_str": "1499273101",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JPgQhfBzvt",
+					"expanded_url": "https://twitter.com/shareski/status/1566112821020336128",
+					"display_url": "twitter.com/shareski/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1565724283501809700,
+		"in_reply_to_status_id_str": "1565724283501809664",
+		"in_reply_to_user_id": 1499273101,
+		"in_reply_to_user_id_str": "1499273101",
+		"in_reply_to_screen_name": "Wes_Kieschnick",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39002,
+			"friends_count": 10675,
+			"listed_count": 1322,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566112821020336000,
+		"quoted_status_id_str": "1566112821020336128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JPgQhfBzvt",
+			"expanded": "https://twitter.com/shareski/status/1566112821020336128",
+			"display": "twitter.com/shareski/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 03 17:16:08 +0000 2022",
+			"id": 1566112821020336000,
+			"id_str": "1566112821020336128",
+			"full_text": "If you’re not aware of the @TheSavBananas you’re missing out on a sports and entertainment phenomenon. This quote from the owner @YellowTuxJesse is worth pondering. In education we get very scared to talk about fun lest it devalues our work. I think that’s dumb. https://t.co/qk9csd24Jw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheSavBananas",
+						"name": "Savannah Bananas",
+						"id": 3729933923,
+						"id_str": "3729933923",
+						"indices": [
+							27,
+							41
+						]
+					},
+					{
+						"screen_name": "YellowTuxJesse",
+						"name": "Jesse Cole",
+						"id": 69668893,
+						"id_str": "69668893",
+						"indices": [
+							129,
+							144
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1566112816406630400,
+						"id_str": "1566112816406630400",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+						"url": "https://t.co/qk9csd24Jw",
+						"display_url": "pic.twitter.com/qk9csd24Jw",
+						"expanded_url": "https://twitter.com/shareski/status/1566112821020336128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1083,
+								"h": 684,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1083,
+								"h": 684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1566112816406630400,
+						"id_str": "1566112816406630400",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+						"url": "https://t.co/qk9csd24Jw",
+						"display_url": "pic.twitter.com/qk9csd24Jw",
+						"expanded_url": "https://twitter.com/shareski/status/1566112821020336128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1083,
+								"h": 684,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1083,
+								"h": 684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739743,
+				"id_str": "739743",
+				"name": "Dean Shareski",
+				"screen_name": "shareski",
+				"location": "Moose Jaw, SK",
+				"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+				"url": "https://t.co/jBMEaODRso",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jBMEaODRso",
+								"expanded_url": "http://shareski.ca",
+								"display_url": "shareski.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PHfvBH5u7p",
+								"expanded_url": "http://shareski.ca/y/followme",
+								"display_url": "shareski.ca/y/followme",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39002,
+				"friends_count": 10675,
+				"listed_count": 1322,
+				"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+				"favourites_count": 876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 125230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "666BFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+				"profile_link_color": "384D3A",
+				"profile_sidebar_border_color": "CCC333",
+				"profile_sidebar_fill_color": "1DB2D7",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Wes_Kieschnick I'm not so sure. I think fun is underrated in education. https://t.co/JPgQhfBzvt"
+	},
+	{
+		"created_at": "Sat Sep 03 18:01:24 +0000 2022",
+		"id": 1566124215832834000,
+		"id_str": "1566124215832834048",
+		"full_text": "I try and watch #LIVGolf but after about 2 minutes I lose interest. No context, no juice, nothing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVGolf",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39002,
+			"friends_count": 10675,
+			"listed_count": 1322,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I try and watch #LIVGolf but after about 2 minutes I lose interest. No context, no juice, nothing."
+	},
+	{
+		"created_at": "Sat Sep 03 17:16:08 +0000 2022",
+		"id": 1566112821020336000,
+		"id_str": "1566112821020336128",
+		"full_text": "If you’re not aware of the @TheSavBananas you’re missing out on a sports and entertainment phenomenon. This quote from the owner @YellowTuxJesse is worth pondering. In education we get very scared to talk about fun lest it devalues our work. I think that’s dumb. https://t.co/qk9csd24Jw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSavBananas",
+					"name": "Savannah Bananas",
+					"id": 3729933923,
+					"id_str": "3729933923",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "YellowTuxJesse",
+					"name": "Jesse Cole",
+					"id": 69668893,
+					"id_str": "69668893",
+					"indices": [
+						129,
+						144
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566112816406630400,
+					"id_str": "1566112816406630400",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+					"url": "https://t.co/qk9csd24Jw",
+					"display_url": "pic.twitter.com/qk9csd24Jw",
+					"expanded_url": "https://twitter.com/shareski/status/1566112821020336128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1083,
+							"h": 684,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566112816406630400,
+					"id_str": "1566112816406630400",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbvzTxQakAA9v0j.jpg",
+					"url": "https://t.co/qk9csd24Jw",
+					"display_url": "pic.twitter.com/qk9csd24Jw",
+					"expanded_url": "https://twitter.com/shareski/status/1566112821020336128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1083,
+							"h": 684,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39002,
+			"friends_count": 10675,
+			"listed_count": 1322,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’re not aware of the @TheSavBananas you’re missing out on a sports and entertainment phenomenon. This quote from the owner @YellowTuxJesse is worth pondering. In education we get very scared to talk about fun lest it devalues our work. I think that’s dumb. https://t.co/qk9csd24Jw"
+	},
+	{
 		"created_at": "Fri Sep 02 16:05:11 +0000 2022",
 		"id": 1565732579021828000,
 		"id_str": "1565732579021828096",
