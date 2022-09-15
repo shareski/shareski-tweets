@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 20:04:26 +0000 2022",
+		"id": 1570141441665695700,
+		"id_str": "1570141441665695745",
+		"full_text": "Season 2 of #OutsideTheClassroom is in the books. Check it out and subscribe. \nhttps://t.co/23U0xYJQ1w\nhttps://t.co/dR8WL54bpf\n@garystager\n@msmclauchlan @kblakeway @jcasap @TimChilders08 @dlaufenberg @MrMacnology @builders_global @juliafallon @yoyosciteach",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OutsideTheClassroom",
+					"indices": [
+						12,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garystager",
+					"name": "Gary Stager - New Invent To Learn Book!",
+					"id": 8870632,
+					"id_str": "8870632",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"screen_name": "msmclauchlan",
+					"name": "Tara McLauchlan",
+					"id": 463200114,
+					"id_str": "463200114",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"screen_name": "kblakeway",
+					"name": "Kristi Blakeway",
+					"id": 34314576,
+					"id_str": "34314576",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "jcasap",
+					"name": "Jaime Casap",
+					"id": 14517467,
+					"id_str": "14517467",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"screen_name": "TimChilders08",
+					"name": "Tim Childers",
+					"id": 1518863935868448800,
+					"id_str": "1518863935868448769",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"screen_name": "dlaufenberg",
+					"name": "Diana Laufenberg",
+					"id": 7612982,
+					"id_str": "7612982",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"screen_name": "MrMacnology",
+					"name": "Jeremy Macdonald",
+					"id": 83196461,
+					"id_str": "83196461",
+					"indices": [
+						200,
+						212
+					]
+				},
+				{
+					"screen_name": "builders_global",
+					"name": "Capacity Builders Global",
+					"id": 1410983328166056000,
+					"id_str": "1410983328166055942",
+					"indices": [
+						213,
+						229
+					]
+				},
+				{
+					"screen_name": "juliafallon",
+					"name": "Julia Fallon",
+					"id": 10271002,
+					"id_str": "10271002",
+					"indices": [
+						230,
+						242
+					]
+				},
+				{
+					"screen_name": "yoyosciteach",
+					"name": "Patti Duncan",
+					"id": 15430059,
+					"id_str": "15430059",
+					"indices": [
+						243,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/23U0xYJQ1w",
+					"expanded_url": "https://shareski.ca/y/podcasts",
+					"display_url": "shareski.ca/y/podcasts",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/dR8WL54bpf",
+					"expanded_url": "https://youtu.be/_mfy_cNCAkw",
+					"display_url": "youtu.be/_mfy_cNCAkw",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38977,
+			"friends_count": 10680,
+			"listed_count": 1321,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Season 2 of #OutsideTheClassroom is in the books. Check it out and subscribe. \nhttps://t.co/23U0xYJQ1w\nhttps://t.co/dR8WL54bpf\n@garystager\n@msmclauchlan @kblakeway @jcasap @TimChilders08 @dlaufenberg @MrMacnology @builders_global @juliafallon @yoyosciteach"
+	},
+	{
+		"created_at": "Wed Sep 14 17:53:58 +0000 2022",
+		"id": 1570108611627724800,
+		"id_str": "1570108611627724801",
+		"full_text": "Our dog just ate the last piece of banana cream pie.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38977,
+			"friends_count": 10680,
+			"listed_count": 1321,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Our dog just ate the last piece of banana cream pie."
+	},
+	{
+		"created_at": "Wed Sep 14 15:41:54 +0000 2022",
+		"id": 1570075373945364500,
+		"id_str": "1570075373945364482",
+		"full_text": "@SarahCorwin19 kind of you to say. Thanks.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahCorwin19",
+					"name": "Sarah Corwin",
+					"id": 1453448060936282000,
+					"id_str": "1453448060936282113",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1570057062997975000,
+		"in_reply_to_status_id_str": "1570057062997975040",
+		"in_reply_to_user_id": 1453448060936282000,
+		"in_reply_to_user_id_str": "1453448060936282113",
+		"in_reply_to_screen_name": "SarahCorwin19",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38977,
+			"friends_count": 10680,
+			"listed_count": 1321,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahCorwin19 kind of you to say. Thanks."
+	},
+	{
+		"created_at": "Wed Sep 14 14:49:28 +0000 2022",
+		"id": 1570062023073079300,
+		"id_str": "1570062178383990784",
+		"full_text": "You might think this is like watching the A&amp;W Bear trying to catch a bus, and you're not wrong, but Alejandro Kirk has become a hero to all of us whose circumference is longer than our inseam. Human fire hydrants, unite. https://t.co/uBzggnjueT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uBzggnjueT",
+					"expanded_url": "https://twitter.com/BlueJays/status/1569868374309486593",
+					"display_url": "twitter.com/BlueJays/statu…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185857601,
+			"id_str": "185857601",
+			"name": "Chris Jones",
+			"screen_name": "EnswellJones",
+			"location": "Port Hope",
+			"description": "Idiot. Storyteller. Colonoscopy advocate and 9-hole golfer. Trying to make more corrections than mistakes. WGAW. (Repped by 3 Arts.)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76884,
+			"friends_count": 150,
+			"listed_count": 871,
+			"created_at": "Thu Sep 02 00:32:11 +0000 2010",
+			"favourites_count": 21959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212537266414837761/JiYjl59G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212537266414837761/JiYjl59G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/185857601/1633380218",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569868374309486600,
+		"quoted_status_id_str": "1569868374309486593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uBzggnjueT",
+			"expanded": "https://twitter.com/BlueJays/status/1569868374309486593",
+			"display": "twitter.com/BlueJays/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 01:59:21 +0000 2022",
+			"id": 1569868374309486600,
+			"id_str": "1569868374309486593",
+			"full_text": "KIRKY'S READY TO RUMBLEEEE 🏃‍♂️ @alejandro_kirk https://t.co/q6K0WJZpNi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alejandro_kirk",
+						"name": "Alejandro Kirk",
+						"id": 1133484475457916900,
+						"id_str": "1133484475457916928",
+						"indices": [
+							32,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1569868133904617500,
+						"id_str": "1569868133904617472",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FclK3f8WYAENfYK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FclK3f8WYAENfYK.jpg",
+						"url": "https://t.co/q6K0WJZpNi",
+						"display_url": "pic.twitter.com/q6K0WJZpNi",
+						"expanded_url": "https://twitter.com/BlueJays/status/1569868374309486593/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569868133904617500,
+						"id_str": "1569868133904617472",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FclK3f8WYAENfYK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FclK3f8WYAENfYK.jpg",
+						"url": "https://t.co/q6K0WJZpNi",
+						"display_url": "pic.twitter.com/q6K0WJZpNi",
+						"expanded_url": "https://twitter.com/BlueJays/status/1569868374309486593/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 20240,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569868133904617472/vid/480x270/QqDnj0A_1f8NueIR.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569868133904617472/vid/640x360/keroDdl-D7znSG0p.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1569868133904617472/pl/OsmCOVuK_OXIVcOP.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1569868133904617472/vid/1280x720/Va6_hLi5DpeO1MkP.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41468683,
+				"id_str": "41468683",
+				"name": "Toronto Blue Jays",
+				"screen_name": "BlueJays",
+				"location": "Rogers Centre",
+				"description": "We're taking things to the #NextLevel 🇨🇦 Follow us on Facebook, Instagram, YouTube and TikTok: @BlueJays",
+				"url": "https://t.co/iXmtHWFecw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iXmtHWFecw",
+								"expanded_url": "http://bluejays.com/tickets",
+								"display_url": "bluejays.com/tickets",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2400040,
+				"friends_count": 875,
+				"listed_count": 7643,
+				"created_at": "Wed May 20 22:38:01 +0000 2009",
+				"favourites_count": 16740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 98463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "134A8E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1563740077599215616/ZRt4C3wF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563740077599215616/ZRt4C3wF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41468683/1661659675",
+				"profile_link_color": "134A8E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 335,
+			"favorite_count": 3693,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You might think this is like watching the A&amp;W Bear trying to catch a bus, and you're not wrong, but Alejandro Kirk has become a hero to all of us whose circumference is longer than our inseam. Human fire hydrants, unite. https://t.co/uBzggnjueT"
+	},
+	{
 		"created_at": "Tue Sep 13 03:40:34 +0000 2022",
 		"id": 1569531455075909600,
 		"id_str": "1569531455075909632",
