@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 23:31:54 +0000 2022",
+		"id": 1573092758612758500,
+		"id_str": "1573092758612758529",
+		"full_text": "Anyone interested in bringing science and music together might find this epub book useful. It was written by my daughter a few years ago and includes some fun, original music as well as a songwriting guide. https://t.co/5gmQ2GEuUN https://t.co/xISoCCtTZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5gmQ2GEuUN",
+					"expanded_url": "https://web.archive.org/web/20140209202452/http://meredith.shareski.ca/book/Living%20Things%2012.epub",
+					"display_url": "web.archive.org/web/2014020920…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573092755194384400,
+					"id_str": "1573092755194384384",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FdS_hrgaEAAG0bN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdS_hrgaEAAG0bN.jpg",
+					"url": "https://t.co/xISoCCtTZG",
+					"display_url": "pic.twitter.com/xISoCCtTZG",
+					"expanded_url": "https://twitter.com/shareski/status/1573092758612758529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573092755194384400,
+					"id_str": "1573092755194384384",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FdS_hrgaEAAG0bN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdS_hrgaEAAG0bN.jpg",
+					"url": "https://t.co/xISoCCtTZG",
+					"display_url": "pic.twitter.com/xISoCCtTZG",
+					"expanded_url": "https://twitter.com/shareski/status/1573092758612758529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 345,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38960,
+			"friends_count": 10677,
+			"listed_count": 1320,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone interested in bringing science and music together might find this epub book useful. It was written by my daughter a few years ago and includes some fun, original music as well as a songwriting guide. https://t.co/5gmQ2GEuUN https://t.co/xISoCCtTZG"
+	},
+	{
+		"created_at": "Thu Sep 22 16:35:00 +0000 2022",
+		"id": 1571686218928095200,
+		"id_str": "1572987841025806336",
+		"full_text": "I hope everyone can find someone that loves them like Cris Collinsworth loves Aaron Rodgers. #Bears #SNF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bears",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "SNF",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19057178,
+			"id_str": "19057178",
+			"name": "Jarrett Payton",
+			"screen_name": "paytonsun",
+			"location": "info@jarrettpayton.com",
+			"description": "Motivational tweeter, @flagshipfox partner, dad to @paytonson & @paytongirl34. Son of @walterpayton. @wgnnews 4/9pm sports anchor & co-host on @GNSportsTV",
+			"url": "https://t.co/uvyajZqAGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uvyajZqAGW",
+							"expanded_url": "https://linktr.ee/Paytonsun",
+							"display_url": "linktr.ee/Paytonsun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89587,
+			"friends_count": 3055,
+			"listed_count": 916,
+			"created_at": "Fri Jan 16 06:09:45 +0000 2009",
+			"favourites_count": 4689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3184CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453974704566378496/u5uMMMaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453974704566378496/u5uMMMaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19057178/1579536424",
+			"profile_link_color": "02041A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "178CE6",
+			"profile_text_color": "E31212",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 7385,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I hope everyone can find someone that loves them like Cris Collinsworth loves Aaron Rodgers. #Bears #SNF"
+	},
+	{
 		"created_at": "Wed Sep 21 18:22:40 +0000 2022",
 		"id": 1572652548607340500,
 		"id_str": "1572652548607340545",
