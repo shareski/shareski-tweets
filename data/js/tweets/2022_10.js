@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 03:30:08 +0000 2022",
+		"id": 1578226141470539800,
+		"id_str": "1578226141470539782",
+		"full_text": "@Joe_Sanfelippo @PostleBrown @TheresaStager @AllysonApsey @tenbrinktweets @LesliePhilipps @bgrahamJPS @jasongribble @benjamingilpin @daveski61 https://t.co/6bWHPcOUm1",
+		"truncated": false,
+		"display_text_range": [
+			142,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Joe_Sanfelippo",
+					"name": "Joe Sanfelippo",
+					"id": 356626702,
+					"id_str": "356626702",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "PostleBrown",
+					"name": "Rachael Postle-Brown, Ph.D.",
+					"id": 605040254,
+					"id_str": "605040254",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "TheresaStager",
+					"name": "Principal Stager",
+					"id": 1536969096,
+					"id_str": "1536969096",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "AllysonApsey",
+					"name": "Allyson Apsey",
+					"id": 2737685264,
+					"id_str": "2737685264",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"screen_name": "tenbrinktweets",
+					"name": "Tom TenBrink",
+					"id": 357933224,
+					"id_str": "357933224",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"screen_name": "LesliePhilipps",
+					"name": "Leslie Philipps",
+					"id": 359947846,
+					"id_str": "359947846",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"screen_name": "bgrahamJPS",
+					"name": "Brandon Graham",
+					"id": 85291405,
+					"id_str": "85291405",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "jasongribble",
+					"name": "Jason Gribble",
+					"id": 741455574,
+					"id_str": "741455574",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"screen_name": "benjamingilpin",
+					"name": "Ben Gilpin",
+					"id": 171331685,
+					"id_str": "171331685",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"screen_name": "daveski61",
+					"name": "David Tchozewski",
+					"id": 25282643,
+					"id_str": "25282643",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578226130678685700,
+					"id_str": "1578226130678685697",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Feb8TdZXoAEtdoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Feb8TdZXoAEtdoa.jpg",
+					"url": "https://t.co/6bWHPcOUm1",
+					"display_url": "pic.twitter.com/6bWHPcOUm1",
+					"expanded_url": "https://twitter.com/shareski/status/1578226141470539782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578226130678685700,
+					"id_str": "1578226130678685697",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Feb8TdZXoAEtdoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Feb8TdZXoAEtdoa.jpg",
+					"url": "https://t.co/6bWHPcOUm1",
+					"display_url": "pic.twitter.com/6bWHPcOUm1",
+					"expanded_url": "https://twitter.com/shareski/status/1578226141470539782/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Feb8TdZXoAEtdoa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1578218116739383300,
+		"in_reply_to_status_id_str": "1578218116739383296",
+		"in_reply_to_user_id": 356626702,
+		"in_reply_to_user_id_str": "356626702",
+		"in_reply_to_screen_name": "Joe_Sanfelippo",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38962,
+			"friends_count": 10681,
+			"listed_count": 1321,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@Joe_Sanfelippo @PostleBrown @TheresaStager @AllysonApsey @tenbrinktweets @LesliePhilipps @bgrahamJPS @jasongribble @benjamingilpin @daveski61 https://t.co/6bWHPcOUm1"
+	},
+	{
+		"created_at": "Fri Oct 07 03:18:44 +0000 2022",
+		"id": 1578223273279717400,
+		"id_str": "1578223273279717377",
+		"full_text": "@kenoc7 @technolandy @TomSchimmer @thierck @Sportsnet @TSN_Sports @Mariners @JRODshow44 It’s not a good look.",
+		"truncated": false,
+		"display_text_range": [
+			88,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenoc7",
+					"name": "Ken O'Connor",
+					"id": 264304526,
+					"id_str": "264304526",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "technolandy",
+					"name": "Ian Landy (he/him - AZ/M/M/M)",
+					"id": 250734775,
+					"id_str": "250734775",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "TomSchimmer",
+					"name": "Tom Schimmer",
+					"id": 61558735,
+					"id_str": "61558735",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "thierck",
+					"name": "Tom Hierck",
+					"id": 243419053,
+					"id_str": "243419053",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "Sportsnet",
+					"name": "Sportsnet",
+					"id": 21660529,
+					"id_str": "21660529",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "TSN_Sports",
+					"name": "TSN",
+					"id": 25375962,
+					"id_str": "25375962",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "Mariners",
+					"name": "Seattle Mariners",
+					"id": 41488578,
+					"id_str": "41488578",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"screen_name": "JRODshow44",
+					"name": "Julio Rodriguez🇩🇴🦁",
+					"id": 1064609951589548000,
+					"id_str": "1064609951589548037",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1578217362167414800,
+		"in_reply_to_status_id_str": "1578217362167414785",
+		"in_reply_to_user_id": 264304526,
+		"in_reply_to_user_id_str": "264304526",
+		"in_reply_to_screen_name": "kenoc7",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38962,
+			"friends_count": 10681,
+			"listed_count": 1321,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kenoc7 @technolandy @TomSchimmer @thierck @Sportsnet @TSN_Sports @Mariners @JRODshow44 It’s not a good look."
+	},
+	{
 		"created_at": "Wed Oct 05 23:39:02 +0000 2022",
 		"id": 1577805594244915200,
 		"id_str": "1577805594244915202",
