@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 01:05:47 +0000 2022",
+		"id": 1589061449552625700,
+		"id_str": "1589061449552625664",
+		"full_text": "@csgamble @SchneiderBrandt I don’t think I will.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csgamble",
+					"name": "Chris Gamble",
+					"id": 19412641,
+					"id_str": "19412641",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SchneiderBrandt",
+					"name": "Brandt Schneider",
+					"id": 2311874929,
+					"id_str": "2311874929",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589054366979612700,
+		"in_reply_to_status_id_str": "1589054366979612672",
+		"in_reply_to_user_id": 19412641,
+		"in_reply_to_user_id_str": "19412641",
+		"in_reply_to_screen_name": "csgamble",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38692,
+			"friends_count": 10613,
+			"listed_count": 1308,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@csgamble @SchneiderBrandt I don’t think I will."
+	},
+	{
+		"created_at": "Sat Nov 05 21:20:21 +0000 2022",
+		"id": 1589004716176183300,
+		"id_str": "1589004716176183296",
+		"full_text": "@SchneiderBrandt Not many here. Mostly facebook and dating sites.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchneiderBrandt",
+					"name": "Brandt Schneider",
+					"id": 2311874929,
+					"id_str": "2311874929",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1588986733068447700,
+		"in_reply_to_status_id_str": "1588986733068447744",
+		"in_reply_to_user_id": 2311874929,
+		"in_reply_to_user_id_str": "2311874929",
+		"in_reply_to_screen_name": "SchneiderBrandt",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38692,
+			"friends_count": 10613,
+			"listed_count": 1308,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchneiderBrandt Not many here. Mostly facebook and dating sites."
+	},
+	{
+		"created_at": "Sat Nov 05 20:05:18 +0000 2022",
+		"id": 1588985829212713000,
+		"id_str": "1588985829212712961",
+		"full_text": "I’ve had a blue check mark for years. I don’t think it’s that valuable. I’m not here to get followers. I’m here to connect with smart people and also have a laugh. I can do that without a check mark. Also I’m admittedly naive about all the impending changes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38692,
+			"friends_count": 10613,
+			"listed_count": 1308,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’ve had a blue check mark for years. I don’t think it’s that valuable. I’m not here to get followers. I’m here to connect with smart people and also have a laugh. I can do that without a check mark. Also I’m admittedly naive about all the impending changes."
+	},
+	{
+		"created_at": "Sat Nov 05 19:02:53 +0000 2022",
+		"id": 1588970124156932000,
+		"id_str": "1588970124156932096",
+		"full_text": "Sometimes I just do what my wife tells me to do without questioning. She prefers that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38692,
+			"friends_count": 10613,
+			"listed_count": 1308,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Sometimes I just do what my wife tells me to do without questioning. She prefers that."
+	},
+	{
 		"created_at": "Fri Nov 04 23:32:49 +0000 2022",
 		"id": 1588675663686668300,
 		"id_str": "1588675663686668288",
