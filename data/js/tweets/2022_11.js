@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 01:09:40 +0000 2022",
+		"id": 1593411080449314800,
+		"id_str": "1593411080449314816",
+		"full_text": "@timstahmer @chrislehmann That’s how I met both of you.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timstahmer",
+					"name": "Tim Stahmer",
+					"id": 7110832,
+					"id_str": "7110832",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "chrislehmann",
+					"name": "Chris Lehmann",
+					"id": 7108702,
+					"id_str": "7108702",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593410842250322000,
+		"in_reply_to_status_id_str": "1593410842250321920",
+		"in_reply_to_user_id": 7110832,
+		"in_reply_to_user_id_str": "7110832",
+		"in_reply_to_screen_name": "timstahmer",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38580,
+			"friends_count": 10593,
+			"listed_count": 1304,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timstahmer @chrislehmann That’s how I met both of you."
+	},
+	{
+		"created_at": "Fri Nov 18 00:32:00 +0000 2022",
+		"id": 1593401603045920800,
+		"id_str": "1593401603045920775",
+		"full_text": "@zjgalvan @Apple @BrizardJC @MR_innovatorEDU @gudiel @davidmiyashiro @DraBaltazar @mrsjessgomez @BobNelson_FUSD @CALSAfamilia @SuptDuran @thomascmurray @BUSDFuentes @DrMariaOtt I admire your commitment to children and your leadership. Well done.",
+		"truncated": false,
+		"display_text_range": [
+			177,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zjgalvan",
+					"name": "Zandra Jo Galván",
+					"id": 3017532468,
+					"id_str": "3017532468",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"screen_name": "BrizardJC",
+					"name": "Jean-Claude Brizard",
+					"id": 414216346,
+					"id_str": "414216346",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "MR_innovatorEDU",
+					"name": "Dewayne J. McClary",
+					"id": 2826727606,
+					"id_str": "2826727606",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "gudiel",
+					"name": "Gudiel Crosthwaite, PhD",
+					"id": 36001284,
+					"id_str": "36001284",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "davidmiyashiro",
+					"name": "david miyashiro",
+					"id": 202888821,
+					"id_str": "202888821",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "DraBaltazar",
+					"name": "Blanca Baltazar-Sabbah, Ed.D. She.Her.Ella",
+					"id": 1456419740063207400,
+					"id_str": "1456419740063207444",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"screen_name": "mrsjessgomez",
+					"name": "Jessica Gomez",
+					"id": 4460068164,
+					"id_str": "4460068164",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "BobNelson_FUSD",
+					"name": "Bob Nelson",
+					"id": 495371455,
+					"id_str": "495371455",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"screen_name": "CALSAfamilia",
+					"name": "CALSA",
+					"id": 2400522709,
+					"id_str": "2400522709",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"screen_name": "SuptDuran",
+					"name": "Francisco Duran, Ed.D.",
+					"id": 1270032677429825500,
+					"id_str": "1270032677429825538",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"screen_name": "thomascmurray",
+					"name": "Thomas C. Murray",
+					"id": 50447280,
+					"id_str": "50447280",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"screen_name": "BUSDFuentes",
+					"name": "Dr. Roxane Fuentes",
+					"id": 1723902944,
+					"id_str": "1723902944",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"screen_name": "DrMariaOtt",
+					"name": "Dr. Maria G. Ott",
+					"id": 1328001565,
+					"id_str": "1328001565",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593122501298880500,
+		"in_reply_to_status_id_str": "1593122501298880512",
+		"in_reply_to_user_id": 3017532468,
+		"in_reply_to_user_id_str": "3017532468",
+		"in_reply_to_screen_name": "zjgalvan",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38580,
+			"friends_count": 10593,
+			"listed_count": 1304,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zjgalvan @Apple @BrizardJC @MR_innovatorEDU @gudiel @davidmiyashiro @DraBaltazar @mrsjessgomez @BobNelson_FUSD @CALSAfamilia @SuptDuran @thomascmurray @BUSDFuentes @DrMariaOtt I admire your commitment to children and your leadership. Well done."
+	},
+	{
+		"created_at": "Thu Nov 17 22:49:14 +0000 2022",
+		"id": 1593375739210043400,
+		"id_str": "1593375739210043393",
+		"full_text": "@ShanaVWhite I’m with ya. Pretty much crack.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShanaVWhite",
+					"name": "Shana V. White (she/her)",
+					"id": 2318665192,
+					"id_str": "2318665192",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593299635204128800,
+		"in_reply_to_status_id_str": "1593299635204128769",
+		"in_reply_to_user_id": 2318665192,
+		"in_reply_to_user_id_str": "2318665192",
+		"in_reply_to_screen_name": "ShanaVWhite",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38580,
+			"friends_count": 10593,
+			"listed_count": 1304,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ShanaVWhite I’m with ya. Pretty much crack."
+	},
+	{
 		"created_at": "Thu Nov 17 01:01:08 +0000 2022",
 		"id": 1593046543707570200,
 		"id_str": "1593046543707570177",
