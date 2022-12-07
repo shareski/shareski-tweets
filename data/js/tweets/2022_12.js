@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 00:49:42 +0000 2022",
+		"id": 1600291425186640000,
+		"id_str": "1600291425186639872",
+		"full_text": "@MarkinGail @keithbaldrey @K12StaffWB Well done!",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkinGail",
+					"name": "Gail Markin",
+					"id": 973336844,
+					"id_str": "973336844",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "keithbaldrey",
+					"name": "Keith Baldrey",
+					"id": 228529107,
+					"id_str": "228529107",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "K12StaffWB",
+					"name": "K-12 Staff Wellbeing",
+					"id": 1350154143793520600,
+					"id_str": "1350154143793520640",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1600278549423743000,
+		"in_reply_to_status_id_str": "1600278549423742976",
+		"in_reply_to_user_id": 973336844,
+		"in_reply_to_user_id_str": "973336844",
+		"in_reply_to_screen_name": "MarkinGail",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38308,
+			"friends_count": 10529,
+			"listed_count": 1295,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarkinGail @keithbaldrey @K12StaffWB Well done!"
+	},
+	{
+		"created_at": "Tue Dec 06 20:23:49 +0000 2022",
+		"id": 1600224514646102000,
+		"id_str": "1600224514646102017",
+		"full_text": "@bonstewart @schinker @davecormier You sound like my Dad circa 1981",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonstewart",
+					"name": "Bonnie Stewart (bonstewart@mstdn.social)",
+					"id": 6532522,
+					"id_str": "6532522",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "schinker",
+					"name": "John Schinker",
+					"id": 10683392,
+					"id_str": "10683392",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1600220701541077000,
+		"in_reply_to_status_id_str": "1600220701541076992",
+		"in_reply_to_user_id": 6532522,
+		"in_reply_to_user_id_str": "6532522",
+		"in_reply_to_screen_name": "bonstewart",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38308,
+			"friends_count": 10529,
+			"listed_count": 1295,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bonstewart @schinker @davecormier You sound like my Dad circa 1981"
+	},
+	{
+		"created_at": "Tue Dec 06 18:00:08 +0000 2022",
+		"id": 1600188353281814500,
+		"id_str": "1600188353281814528",
+		"full_text": "@mpiquette I’m not sure. I know @MindShareLearn has a few suggestions but I’m looking specifically for events held on Canada for school leaders. I know of @uLeadconference as well as https://t.co/uRCDI3ziGr But curious about others.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpiquette",
+					"name": "Marcia Piquette",
+					"id": 32662320,
+					"id_str": "32662320",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MindShareLearn",
+					"name": "MindShareEdTech Strategy》K20News》 Summits",
+					"id": 18130631,
+					"id_str": "18130631",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "uLeadconference",
+					"name": "uLeadconference",
+					"id": 1521927088403406800,
+					"id_str": "1521927088403406848",
+					"indices": [
+						155,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uRCDI3ziGr",
+					"expanded_url": "https://www.cassa-acgcs.ca/domain/17",
+					"display_url": "cassa-acgcs.ca/domain/17",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1600181916304494600,
+		"in_reply_to_status_id_str": "1600181916304494592",
+		"in_reply_to_user_id": 32662320,
+		"in_reply_to_user_id_str": "32662320",
+		"in_reply_to_screen_name": "mpiquette",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38308,
+			"friends_count": 10529,
+			"listed_count": 1295,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mpiquette I’m not sure. I know @MindShareLearn has a few suggestions but I’m looking specifically for events held on Canada for school leaders. I know of @uLeadconference as well as https://t.co/uRCDI3ziGr But curious about others."
+	},
+	{
+		"created_at": "Tue Dec 06 16:03:12 +0000 2022",
+		"id": 1600158927890456600,
+		"id_str": "1600158927890456576",
+		"full_text": "Shuttle driver doesn’t put on his seatbelt so you just hear a constant dinging for the 12 minute drive to the airport. Which is nice. https://t.co/VS9GBsDo9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600158917274787800,
+					"id_str": "1600158917274787841",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FjToDqhWYAEFVJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjToDqhWYAEFVJ0.jpg",
+					"url": "https://t.co/VS9GBsDo9D",
+					"display_url": "pic.twitter.com/VS9GBsDo9D",
+					"expanded_url": "https://twitter.com/shareski/status/1600158927890456576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600158917274787800,
+					"id_str": "1600158917274787841",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FjToDqhWYAEFVJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjToDqhWYAEFVJ0.jpg",
+					"url": "https://t.co/VS9GBsDo9D",
+					"display_url": "pic.twitter.com/VS9GBsDo9D",
+					"expanded_url": "https://twitter.com/shareski/status/1600158927890456576/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							106
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FjToDqhWYAEFVJ0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38308,
+			"friends_count": 10529,
+			"listed_count": 1295,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shuttle driver doesn’t put on his seatbelt so you just hear a constant dinging for the 12 minute drive to the airport. Which is nice. https://t.co/VS9GBsDo9D"
+	},
+	{
 		"created_at": "Tue Dec 06 01:16:02 +0000 2022",
 		"id": 1599935665889677300,
 		"id_str": "1599935665889677312",
