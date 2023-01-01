@@ -1,6 +1,1210 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 20:43:00 +0000 2022",
+		"id": 1609289037017120800,
+		"id_str": "1609289037017120768",
+		"full_text": "The #deanie for best student idea for a principal goes to ... @flyingmonkey13 https://t.co/jmKjyfm0Ko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyingmonkey13",
+					"name": "Erika Garcia",
+					"id": 37118504,
+					"id_str": "37118504",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jmKjyfm0Ko",
+					"expanded_url": "https://twitter.com/flyingmonkey13/status/1519501945521778688",
+					"display_url": "twitter.com/flyingmonkey13…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38213,
+			"friends_count": 10511,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519501945521778700,
+		"quoted_status_id_str": "1519501945521778688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jmKjyfm0Ko",
+			"expanded": "https://twitter.com/flyingmonkey13/status/1519501945521778688",
+			"display": "twitter.com/flyingmonkey13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 28 02:21:09 +0000 2022",
+			"id": 1519501945521778700,
+			"id_str": "1519501945521778688",
+			"full_text": "Today a student suggested I apply for our open administrative assistant position. When asked why he replied, “Because you’re always walking around. This would give you something to actually do.”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37118504,
+				"id_str": "37118504",
+				"name": "Erika Garcia",
+				"screen_name": "flyingmonkey13",
+				"location": "St. Louis, Missouri",
+				"description": "petite spitfire, student advocate, teacher supporter, passionate educator, elementary principal, beautiful disaster, justice seeker, she her, tweets mine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29162,
+				"friends_count": 20681,
+				"listed_count": 61,
+				"created_at": "Sat May 02 02:40:22 +0000 2009",
+				"favourites_count": 26059,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10724,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489408975091208194/WL5aP6h6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489408975091208194/WL5aP6h6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37118504/1594298568",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 602,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for best student idea for a principal goes to ... @flyingmonkey13 https://t.co/jmKjyfm0Ko"
+	},
+	{
+		"created_at": "Sat Dec 31 19:07:00 +0000 2022",
+		"id": 1609264877733822500,
+		"id_str": "1609264877733822464",
+		"full_text": "The #deanie for best caption contest response goes to ... @patriciampain https://t.co/aK7unwDTA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patriciampain",
+					"name": "Patricia Pain",
+					"id": 1426815145,
+					"id_str": "1426815145",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aK7unwDTA8",
+					"expanded_url": "https://twitter.com/patriciampain/status/1595276300234944514",
+					"display_url": "twitter.com/patriciampain/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38213,
+			"friends_count": 10511,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1595276300234944500,
+		"quoted_status_id_str": "1595276300234944514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aK7unwDTA8",
+			"expanded": "https://twitter.com/patriciampain/status/1595276300234944514",
+			"display": "twitter.com/patriciampain/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 23 04:41:23 +0000 2022",
+			"id": 1595276300234944500,
+			"id_str": "1595276300234944514",
+			"full_text": "@shareski “And then the fight started”",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1595199373348143000,
+			"in_reply_to_status_id_str": "1595199373348143104",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 1426815145,
+				"id_str": "1426815145",
+				"name": "Patricia Pain",
+				"screen_name": "patriciampain",
+				"location": "",
+				"description": "Mother, Partner, SD40 Curriculum Facilitator for Mentorship, Middle School die hard, Smart Learning enthusiast, learner, collaborator, open heart, human indeed.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 263,
+				"friends_count": 247,
+				"listed_count": 3,
+				"created_at": "Tue May 14 01:53:08 +0000 2013",
+				"favourites_count": 2658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1113,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1482221318233755653/JRUr2W4P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482221318233755653/JRUr2W4P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1426815145/1587269906",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for best caption contest response goes to ... @patriciampain https://t.co/aK7unwDTA8"
+	},
+	{
+		"created_at": "Sat Dec 31 16:07:30 +0000 2022",
+		"id": 1609219705297830000,
+		"id_str": "1609219705297829890",
+		"full_text": "The #deanie for favourite co-keynoter goes to ... @lorimcewen https://t.co/zfGU8I8D7z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lorimcewen",
+					"name": "Dr. Lori McEwen",
+					"id": 17780367,
+					"id_str": "17780367",
+					"indices": [
+						50,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1609033338748297200,
+					"id_str": "1609033338748297217",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FlRvS-vaYAEnjXs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlRvS-vaYAEnjXs.jpg",
+					"url": "https://t.co/zfGU8I8D7z",
+					"display_url": "pic.twitter.com/zfGU8I8D7z",
+					"expanded_url": "https://twitter.com/shareski/status/1609219705297829890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1934,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609033338748297200,
+					"id_str": "1609033338748297217",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FlRvS-vaYAEnjXs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlRvS-vaYAEnjXs.jpg",
+					"url": "https://t.co/zfGU8I8D7z",
+					"display_url": "pic.twitter.com/zfGU8I8D7z",
+					"expanded_url": "https://twitter.com/shareski/status/1609219705297829890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1934,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38213,
+			"friends_count": 10511,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for favourite co-keynoter goes to ... @lorimcewen https://t.co/zfGU8I8D7z"
+	},
+	{
+		"created_at": "Sat Dec 31 14:59:30 +0000 2022",
+		"id": 1609202593619648500,
+		"id_str": "1609202593619648516",
+		"full_text": "The #deanie for best Prezi find goes to .... @csgamble https://t.co/lxYpOuL9AF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csgamble",
+					"name": "Chris Gamble",
+					"id": 19412641,
+					"id_str": "19412641",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lxYpOuL9AF",
+					"expanded_url": "https://twitter.com/csgamble/status/1572280559669485570",
+					"display_url": "twitter.com/csgamble/statu…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38213,
+			"friends_count": 10511,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572280559669485600,
+		"quoted_status_id_str": "1572280559669485570",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lxYpOuL9AF",
+			"expanded": "https://twitter.com/csgamble/status/1572280559669485570",
+			"display": "twitter.com/csgamble/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 20 17:44:31 +0000 2022",
+			"id": 1572280559669485600,
+			"id_str": "1572280559669485570",
+			"full_text": "@shareski Apparently there is a Prezi for that :) https://t.co/Vyc8mGAbli",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Vyc8mGAbli",
+						"expanded_url": "https://prezi.com/5fidhjeosp_g/imagine-dragons-vs-arcade-fire/",
+						"display_url": "prezi.com/5fidhjeosp_g/i…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1571961383633432600,
+			"in_reply_to_status_id_str": "1571961383633432576",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 19412641,
+				"id_str": "19412641",
+				"name": "Chris Gamble",
+				"screen_name": "csgamble",
+				"location": "stony mountain manitoba",
+				"description": "M.Ed, Father, Husband, Teacher & Admin, Love for learning, literacy and tech. Luck Is what happens when preparation meets opportunity. https://t.co/aSzLYfBiJU",
+				"url": "https://t.co/vytNUqTy4Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vytNUqTy4Z",
+								"expanded_url": "http://about.me/cgamble",
+								"display_url": "about.me/cgamble",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aSzLYfBiJU",
+								"expanded_url": "http://bit.ly/VsEOVF",
+								"display_url": "bit.ly/VsEOVF",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1497,
+				"friends_count": 2366,
+				"listed_count": 55,
+				"created_at": "Fri Jan 23 20:40:20 +0000 2009",
+				"favourites_count": 2559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13987,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1593457964664463362/4Y1mmJPw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593457964664463362/4Y1mmJPw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19412641/1668744971",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for best Prezi find goes to .... @csgamble https://t.co/lxYpOuL9AF"
+	},
+	{
+		"created_at": "Sat Dec 31 13:07:00 +0000 2022",
+		"id": 1609174281040138200,
+		"id_str": "1609174281040138240",
+		"full_text": "The #deanie for best political joke response goes to ... @teach42 https://t.co/VJwYqL5X3b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teach42",
+					"name": "Steve Dembo",
+					"id": 10139,
+					"id_str": "10139",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VJwYqL5X3b",
+					"expanded_url": "https://twitter.com/teach42/status/1605693166438318080",
+					"display_url": "twitter.com/teach42/status…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38213,
+			"friends_count": 10511,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1605693166438318000,
+		"quoted_status_id_str": "1605693166438318080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VJwYqL5X3b",
+			"expanded": "https://twitter.com/teach42/status/1605693166438318080",
+			"display": "twitter.com/teach42/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 21 22:34:17 +0000 2022",
+			"id": 1605693166438318000,
+			"id_str": "1605693166438318080",
+			"full_text": "@shareski @jonbecker @chrislehmann Ask if they know when it’s  your turn to aim the space laser.",
+			"truncated": false,
+			"display_text_range": [
+				35,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "jonbecker",
+						"name": "Jon Becker",
+						"id": 12363792,
+						"id_str": "12363792",
+						"indices": [
+							10,
+							20
+						]
+					},
+					{
+						"screen_name": "chrislehmann",
+						"name": "Chris Lehmann",
+						"id": 7108702,
+						"id_str": "7108702",
+						"indices": [
+							21,
+							34
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1605688841259683800,
+			"in_reply_to_status_id_str": "1605688841259683841",
+			"in_reply_to_user_id": 739743,
+			"in_reply_to_user_id_str": "739743",
+			"in_reply_to_screen_name": "shareski",
+			"user": {
+				"id": 10139,
+				"id_str": "10139",
+				"name": "Steve Dembo",
+				"screen_name": "teach42",
+				"location": "Chicago, IL",
+				"description": "STEAM/CSAI Teacher @ Quest Academy, adjunct professor at Wilkes, D69 School Board, blogger, podcaster, and proud member of the 501st Legion! #GeekPride",
+				"url": "https://t.co/bQ6X50mW5J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bQ6X50mW5J",
+								"expanded_url": "http://teach42.com",
+								"display_url": "teach42.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26886,
+				"friends_count": 3284,
+				"listed_count": 989,
+				"created_at": "Mon Oct 23 13:40:09 +0000 2006",
+				"favourites_count": 1250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF900",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/418861967646793728/AZyGOE2m_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/418861967646793728/AZyGOE2m_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10139/1371044963",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #deanie for best political joke response goes to ... @teach42 https://t.co/VJwYqL5X3b"
+	},
+	{
 		"created_at": "Fri Dec 30 23:12:00 +0000 2022",
 		"id": 1608964146241962000,
 		"id_str": "1608964146241961986",
@@ -2220,7 +3424,7 @@ Grailbird.data.tweets_2022_12 =
 			"created_at": "Sat Apr 16 20:44:45 +0000 2022",
 			"id": 1515431023219204000,
 			"id_str": "1515431023219204097",
-			"full_text": "Teen: “Who would do that?” [about something I did that 99/100 parents also do eg put dirty dishes in dishwasher]\n\nMe: “I pray everyday: ‘God, please help me to do absolutely NOTHING that Ava approves of.’ With God’s help, I’m able to hit that 💯 mark every single day, honey.”🤣🤦🏽‍♀️",
+			"full_text": "Teen: “Who would do that?” [about something I did that 99/100 parents also do eg put dirty dishes in dishwasher]\n\nMe: “I pray everyday: ‘God, please help me to do absolutely NOTHING that Ava approves of.’ With God’s help, I’m able to hit that 💯 mark every single day, honey.”🤣🤦🏽♀️",
 			"truncated": false,
 			"display_text_range": [
 				0,
