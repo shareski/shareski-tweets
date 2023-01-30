@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 00:47:13 +0000 2023",
+		"id": 1619859746286346200,
+		"id_str": "1619859746286346240",
+		"full_text": "Dear Texas, it wasn’t my intention but it looks like I’ve brought something down from home. https://t.co/iX6BO9Fx6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1619859741835927600,
+					"id_str": "1619859741835927555",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fnrl2lIWIAMOzv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fnrl2lIWIAMOzv8.jpg",
+					"url": "https://t.co/iX6BO9Fx6n",
+					"display_url": "pic.twitter.com/iX6BO9Fx6n",
+					"expanded_url": "https://twitter.com/shareski/status/1619859746286346240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1523,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1619859741835927600,
+					"id_str": "1619859741835927555",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fnrl2lIWIAMOzv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fnrl2lIWIAMOzv8.jpg",
+					"url": "https://t.co/iX6BO9Fx6n",
+					"display_url": "pic.twitter.com/iX6BO9Fx6n",
+					"expanded_url": "https://twitter.com/shareski/status/1619859746286346240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1523,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38212,
+			"friends_count": 10543,
+			"listed_count": 1291,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear Texas, it wasn’t my intention but it looks like I’ve brought something down from home. https://t.co/iX6BO9Fx6n"
+	},
+	{
+		"created_at": "Sun Jan 29 18:57:23 +0000 2023",
+		"id": 1619771707237224400,
+		"id_str": "1619771707237224448",
+		"full_text": "So proud of the work of @KatPapulkas the wonderful #alplearn coaches and the girls doing the work! @DellTech https://t.co/xUIsezYuwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xUIsezYuwf",
+					"expanded_url": "https://twitter.com/katpapulkas/status/1619693416039972864",
+					"display_url": "twitter.com/katpapulkas/st…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38212,
+			"friends_count": 10543,
+			"listed_count": 1291,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1619693416039972900,
+		"quoted_status_id_str": "1619693416039972864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xUIsezYuwf",
+			"expanded": "https://twitter.com/katpapulkas/status/1619693416039972864",
+			"display": "twitter.com/katpapulkas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 29 13:46:17 +0000 2023",
+			"id": 1619693416039972900,
+			"id_str": "1619693416039972864",
+			"full_text": "#Girlswhogame is so much fun and our #STEM #Esports event was a blast! We had 4- K12 school districts participate in our tournament and they were incredible! The communication, collaboration, critical thinking &amp; problem solving, &amp; creativity was \"next level\". GAME ON @DellTech https://t.co/vvvl6iR23j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				285
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Girlswhogame",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							37,
+							42
+						]
+					},
+					{
+						"text": "Esports",
+						"indices": [
+							43,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DellTech",
+						"name": "Dell Technologies",
+						"id": 715901816857358300,
+						"id_str": "715901816857358336",
+						"indices": [
+							276,
+							285
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1619692961293279200,
+						"id_str": "1619692961293279232",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/FnpOKrMWIAA6h_C.png",
+						"media_url_https": "https://pbs.twimg.com/media/FnpOKrMWIAA6h_C.png",
+						"url": "https://t.co/vvvl6iR23j",
+						"display_url": "pic.twitter.com/vvvl6iR23j",
+						"expanded_url": "https://twitter.com/KatPapulkas/status/1619693416039972864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 294,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 771,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 771,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1619692961293279200,
+						"id_str": "1619692961293279232",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/FnpOKrMWIAA6h_C.png",
+						"media_url_https": "https://pbs.twimg.com/media/FnpOKrMWIAA6h_C.png",
+						"url": "https://t.co/vvvl6iR23j",
+						"display_url": "pic.twitter.com/vvvl6iR23j",
+						"expanded_url": "https://twitter.com/KatPapulkas/status/1619693416039972864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 294,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 771,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 771,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11173922,
+				"id_str": "11173922",
+				"name": "Katina",
+				"screen_name": "KatPapulkas",
+				"location": "Toronto",
+				"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+				"url": "http://t.co/tAT55fZBXP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tAT55fZBXP",
+								"expanded_url": "http://www.globalfieldtrip.com",
+								"display_url": "globalfieldtrip.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2749,
+				"friends_count": 4205,
+				"listed_count": 69,
+				"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+				"favourites_count": 6627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4734,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So proud of the work of @KatPapulkas the wonderful #alplearn coaches and the girls doing the work! @DellTech https://t.co/xUIsezYuwf"
+	},
+	{
 		"created_at": "Sun Jan 29 00:32:05 +0000 2023",
 		"id": 1619493549686546400,
 		"id_str": "1619493549686546432",
@@ -1833,7 +2378,7 @@ Grailbird.data.tweets_2023_01 =
 			"created_at": "Fri Jan 27 17:46:45 +0000 2023",
 			"id": 1619029153747181600,
 			"id_str": "1619029153747181568",
-			"full_text": "Superintendent Kennedy’s  take away from our student panel that the future will be different - in a great way! ⁦@WestVanSchools⁩ https://t.co/3QTPUQDYpb",
+			"full_text": "Superintendent Kennedy’s  take away from our student panel that the future will be different - in a great way! @WestVanSchools https://t.co/3QTPUQDYpb",
 			"truncated": false,
 			"display_text_range": [
 				0,
