@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 16:45:03 +0000 2023",
+		"id": 1622637507518005200,
+		"id_str": "1622637507518005254",
+		"full_text": "Today we launch the first of 10 webinars covering topics around coding, Truth and Reconcilation and Workplace Wellness. Have a look at all the offerings and sign up for as many as you wish! https://t.co/3wiWRB2sa4 @OECMCollaborate @DellTech @KatPapulkas #alplearn @NaturlCuriosity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						214,
+						230
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						241,
+						253
+					]
+				},
+				{
+					"screen_name": "NaturlCuriosity",
+					"name": "Natural Curiosity",
+					"id": 477036499,
+					"id_str": "477036499",
+					"indices": [
+						264,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3wiWRB2sa4",
+					"expanded_url": "https://oecm.ca/professional-learning-for-ontario-educators-2023/",
+					"display_url": "oecm.ca/professional-l…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38203,
+			"friends_count": 10544,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we launch the first of 10 webinars covering topics around coding, Truth and Reconcilation and Workplace Wellness. Have a look at all the offerings and sign up for as many as you wish! https://t.co/3wiWRB2sa4 @OECMCollaborate @DellTech @KatPapulkas #alplearn @NaturlCuriosity"
+	},
+	{
 		"created_at": "Mon Feb 06 01:20:05 +0000 2023",
 		"id": 1622404732248817700,
 		"id_str": "1622404732248817665",
