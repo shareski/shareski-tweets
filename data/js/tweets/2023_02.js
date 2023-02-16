@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 15 23:38:15 +0000 2023",
+		"id": 1626002984143360000,
+		"id_str": "1626002984143360001",
+		"full_text": "Name a professional learning event or experience from at least 2 years ago that you can say has positively impacted your practice. #alplearn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38191,
+			"friends_count": 10565,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Name a professional learning event or experience from at least 2 years ago that you can say has positively impacted your practice. #alplearn"
+	},
+	{
+		"created_at": "Wed Feb 15 20:32:16 +0000 2023",
+		"id": 1625956180874100700,
+		"id_str": "1625956180874100737",
+		"full_text": "I’m not an Eagles fan but this is what class looks like. https://t.co/kvuTq3qnsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvuTq3qnsr",
+					"expanded_url": "https://twitter.com/michael_schlact/status/1625531242799337472",
+					"display_url": "twitter.com/michael_schlac…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38191,
+			"friends_count": 10565,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1625531242799337500,
+		"quoted_status_id_str": "1625531242799337472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kvuTq3qnsr",
+			"expanded": "https://twitter.com/michael_schlact/status/1625531242799337472",
+			"display": "twitter.com/michael_schlac…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 14 16:23:43 +0000 2023",
+			"id": 1625531242799337500,
+			"id_str": "1625531242799337472",
+			"full_text": "A masterclass on losing with class.  https://t.co/rrLVlWsEnb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1625270943152214000,
+						"id_str": "1625270943152214016",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625270943152214016/pu/img/GEFIJE6WsADuels1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625270943152214016/pu/img/GEFIJE6WsADuels1.jpg",
+						"url": "https://t.co/rrLVlWsEnb",
+						"display_url": "pic.twitter.com/rrLVlWsEnb",
+						"expanded_url": "https://twitter.com/CBSSports/status/1625272009050689536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1625272009050689500,
+						"source_status_id_str": "1625272009050689536",
+						"source_user_id": 14885860,
+						"source_user_id_str": "14885860"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1625270943152214000,
+						"id_str": "1625270943152214016",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625270943152214016/pu/img/GEFIJE6WsADuels1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625270943152214016/pu/img/GEFIJE6WsADuels1.jpg",
+						"url": "https://t.co/rrLVlWsEnb",
+						"display_url": "pic.twitter.com/rrLVlWsEnb",
+						"expanded_url": "https://twitter.com/CBSSports/status/1625272009050689536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1625272009050689500,
+						"source_status_id_str": "1625272009050689536",
+						"source_user_id": 14885860,
+						"source_user_id_str": "14885860",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 97030,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1625270943152214016/pu/pl/Mz1oelrON5DHad8D.m3u8?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1625270943152214016/pu/vid/480x600/y0U4rRPTMIAXYoeF.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1625270943152214016/pu/vid/320x400/zgm_h7vv5NHptG-E.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1625270943152214016/pu/vid/720x900/il_UVU8AZ-xe3oZF.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 14885860,
+								"id_str": "14885860",
+								"name": "CBS Sports",
+								"screen_name": "CBSSports",
+								"location": "",
+								"description": "Hello, friends 👋 | 🏈🏀⛳⚽ | 📺 CBS, CBS Sports Network, Paramount+ |📱Download the CBS Sports app ⬇️",
+								"url": "https://t.co/wyCk1P2gRg",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/wyCk1P2gRg",
+												"expanded_url": "https://cbs-sports.app.link/HuoZYgv8gkb",
+												"display_url": "cbs-sports.app.link/HuoZYgv8gkb",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1366747,
+								"friends_count": 1824,
+								"listed_count": 7166,
+								"created_at": "Fri May 23 20:01:16 +0000 2008",
+								"favourites_count": 451,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 140421,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0A2E56",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1523694476514013184/OZ1IWB61_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523694476514013184/OZ1IWB61_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14885860/1675291387",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "FFFFFF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16038914,
+				"id_str": "16038914",
+				"name": "Michael Schlact",
+				"screen_name": "michael_schlact",
+				"location": "USA",
+				"description": "Field Manager + Baseball Ops for the Missoula @GoPaddleHeads. Former Pro Baseball Player. Jesus Follower | Husband | Dad | mschlact@gopaddleheads.com",
+				"url": "https://t.co/H2dNvdqpO8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H2dNvdqpO8",
+								"expanded_url": "http://gopaddleheads.com",
+								"display_url": "gopaddleheads.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36618,
+				"friends_count": 1850,
+				"listed_count": 657,
+				"created_at": "Fri Aug 29 06:47:58 +0000 2008",
+				"favourites_count": 13491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65461,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1604352065018499072/CrpK_O98_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1604352065018499072/CrpK_O98_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16038914/1674086282",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1753,
+			"favorite_count": 14167,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m not an Eagles fan but this is what class looks like. https://t.co/kvuTq3qnsr"
+	},
+	{
 		"created_at": "Mon Feb 13 15:17:38 +0000 2023",
 		"id": 1625152223960244200,
 		"id_str": "1625152223960244224",
