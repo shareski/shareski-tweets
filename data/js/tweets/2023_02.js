@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 20:23:52 +0000 2023",
+		"id": 1626920464512688000,
+		"id_str": "1627041226531942400",
+		"full_text": "📢Attention all Edus!📢📚Lit in Action: How Books that Centre Indigenous Voices Can Enact Change\n👥Join educators from Dr. Eric Jackson Institute as they share how Indigenous literature can create change.\n📅Feb 23 4:00 PM ET\n👉Register now: https://t.co/rdmhQOD0kV @DellTech",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rdmhQOD0kV",
+					"expanded_url": "https://buff.ly/3EaC7zx",
+					"display_url": "buff.ly/3EaC7zx",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11173922,
+			"id_str": "11173922",
+			"name": "Katina",
+			"screen_name": "KatPapulkas",
+			"location": "Toronto",
+			"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+			"url": "http://t.co/tAT55fZBXP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tAT55fZBXP",
+							"expanded_url": "http://www.globalfieldtrip.com",
+							"display_url": "globalfieldtrip.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2750,
+			"friends_count": 4208,
+			"listed_count": 69,
+			"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+			"favourites_count": 6680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢Attention all Edus!📢📚Lit in Action: How Books that Centre Indigenous Voices Can Enact Change\n👥Join educators from Dr. Eric Jackson Institute as they share how Indigenous literature can create change.\n📅Feb 23 4:00 PM ET\n👉Register now: https://t.co/rdmhQOD0kV @DellTech"
+	},
+	{
 		"created_at": "Sat Feb 18 00:52:15 +0000 2023",
 		"id": 1626746380923334700,
 		"id_str": "1626746380923334663",
