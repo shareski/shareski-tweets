@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 18:57:32 +0000 2023",
+		"id": 1628106664498053000,
+		"id_str": "1628106664498053120",
+		"full_text": "Join us tonight at 7pm ET with @lisaannefloyd https://t.co/UUh7YaJihp @OECMCollaborate @DellTech @KatPapulkas #alplearn https://t.co/FPlwO1maxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisaannefloyd",
+					"name": "Lisa Anne Floyd",
+					"id": 2859786382,
+					"id_str": "2859786382",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UUh7YaJihp",
+					"expanded_url": "https://zoom.us/meeting/register/tJYkceiurzosEt1ILItGKRO2Ir8t5l8ndIEf",
+					"display_url": "zoom.us/meeting/regist…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628106467269304300,
+					"id_str": "1628106467269304320",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgyNLYaYAA806R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgyNLYaYAA806R.jpg",
+					"url": "https://t.co/FPlwO1maxX",
+					"display_url": "pic.twitter.com/FPlwO1maxX",
+					"expanded_url": "https://twitter.com/shareski/status/1628106664498053120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628106467269304300,
+					"id_str": "1628106467269304320",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgyNLYaYAA806R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgyNLYaYAA806R.jpg",
+					"url": "https://t.co/FPlwO1maxX",
+					"display_url": "pic.twitter.com/FPlwO1maxX",
+					"expanded_url": "https://twitter.com/shareski/status/1628106664498053120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38189,
+			"friends_count": 10567,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us tonight at 7pm ET with @lisaannefloyd https://t.co/UUh7YaJihp @OECMCollaborate @DellTech @KatPapulkas #alplearn https://t.co/FPlwO1maxX"
+	},
+	{
 		"created_at": "Mon Feb 20 16:58:34 +0000 2023",
 		"id": 1627714340810784800,
 		"id_str": "1627714340810784774",
