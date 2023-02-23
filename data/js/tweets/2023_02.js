@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 23:41:03 +0000 2023",
+		"id": 1628518894481641500,
+		"id_str": "1628540401597521923",
+		"full_text": "Thank you (again!) @lisaannefloyd @OECMCollaborate @DellTech  @shareski @KatPapulkas for providing this free learning today. Equitable access for educators is key to supporting our students! Lisa just might make a coder out of me yet! https://t.co/6IMEgzS2Xi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisaannefloyd",
+					"name": "Lisa Anne Floyd",
+					"id": 2859786382,
+					"id_str": "2859786382",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628518841494958000,
+					"id_str": "1628518841494958095",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FpmpQhFWcA8OoF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpmpQhFWcA8OoF6.jpg",
+					"url": "https://t.co/6IMEgzS2Xi",
+					"display_url": "pic.twitter.com/6IMEgzS2Xi",
+					"expanded_url": "https://twitter.com/WallwinS/status/1628518894481641472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628518841494958000,
+					"id_str": "1628518841494958095",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FpmpQhFWcA8OoF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpmpQhFWcA8OoF6.jpg",
+					"url": "https://t.co/6IMEgzS2Xi",
+					"display_url": "pic.twitter.com/6IMEgzS2Xi",
+					"expanded_url": "https://twitter.com/WallwinS/status/1628518894481641472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911735346,
+			"id_str": "911735346",
+			"name": "Stacey Wallwin 🇨🇦",
+			"screen_name": "WallwinS",
+			"location": "Terrace Bay, Ontario",
+			"description": "Technology Enabled Teaching and Learning Contact/DeLC in Northern Ontario~Ship enthusiast https://t.co/yCUDVLnZig 📷:swallwin",
+			"url": "https://t.co/yCUDVLnZig",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yCUDVLnZig",
+							"expanded_url": "http://swallwin.wordpress.com",
+							"display_url": "swallwin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yCUDVLnZig",
+							"expanded_url": "http://swallwin.wordpress.com",
+							"display_url": "swallwin.wordpress.com",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1848,
+			"friends_count": 1676,
+			"listed_count": 130,
+			"created_at": "Mon Oct 29 04:39:12 +0000 2012",
+			"favourites_count": 4398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455524694334054405/BBEa9LVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455524694334054405/BBEa9LVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911735346/1437970604",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you (again!) @lisaannefloyd @OECMCollaborate @DellTech  @shareski @KatPapulkas for providing this free learning today. Equitable access for educators is key to supporting our students! Lisa just might make a coder out of me yet! https://t.co/6IMEgzS2Xi"
+	},
+	{
+		"created_at": "Wed Feb 22 23:19:00 +0000 2023",
+		"id": 1628534852546068500,
+		"id_str": "1628534852546068480",
+		"full_text": "What books can help our students better understand and explore Truth and Reconcilation? Find out Thursday at 4pm ET. @OECMCollaborate @DellTech @KatPapulkas #alplearn @NaturlCuriosity https://t.co/UUh7YaJihp https://t.co/Vomf1hLYZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OECMCollaborate",
+					"name": "OECM",
+					"id": 1059475840709353500,
+					"id_str": "1059475840709353472",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"screen_name": "KatPapulkas",
+					"name": "Katina",
+					"id": 11173922,
+					"id_str": "11173922",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"screen_name": "NaturlCuriosity",
+					"name": "Natural Curiosity",
+					"id": 477036499,
+					"id_str": "477036499",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UUh7YaJihp",
+					"expanded_url": "https://zoom.us/meeting/register/tJYkceiurzosEt1ILItGKRO2Ir8t5l8ndIEf",
+					"display_url": "zoom.us/meeting/regist…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628107053507178500,
+					"id_str": "1628107053507178496",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgyvTSacAACc-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgyvTSacAACc-p.jpg",
+					"url": "https://t.co/Vomf1hLYZC",
+					"display_url": "pic.twitter.com/Vomf1hLYZC",
+					"expanded_url": "https://twitter.com/shareski/status/1628534852546068480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628107053507178500,
+					"id_str": "1628107053507178496",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgyvTSacAACc-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgyvTSacAACc-p.jpg",
+					"url": "https://t.co/Vomf1hLYZC",
+					"display_url": "pic.twitter.com/Vomf1hLYZC",
+					"expanded_url": "https://twitter.com/shareski/status/1628534852546068480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 417,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38185,
+			"friends_count": 10570,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What books can help our students better understand and explore Truth and Reconcilation? Find out Thursday at 4pm ET. @OECMCollaborate @DellTech @KatPapulkas #alplearn @NaturlCuriosity https://t.co/UUh7YaJihp https://t.co/Vomf1hLYZC"
+	},
+	{
+		"created_at": "Wed Feb 22 17:51:11 +0000 2023",
+		"id": 1628452357741875200,
+		"id_str": "1628452357741875200",
+		"full_text": "I don't want to sound like a downer or anything but I've not got the wordle 2 days in a row. That hasn't happened in a year.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38185,
+			"friends_count": 10570,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I don't want to sound like a downer or anything but I've not got the wordle 2 days in a row. That hasn't happened in a year."
+	},
+	{
 		"created_at": "Tue Feb 21 18:57:32 +0000 2023",
 		"id": 1628106664498053000,
 		"id_str": "1628106664498053120",
