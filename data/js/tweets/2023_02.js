@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 01:04:57 +0000 2023",
+		"id": 1630373457979474000,
+		"id_str": "1630373457979473920",
+		"full_text": "These guys could sing and write music. https://t.co/y9I1DkKJ5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y9I1DkKJ5S",
+					"expanded_url": "https://twitter.com/tribunavacia/status/1627442191340822529",
+					"display_url": "twitter.com/tribunavacia/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38181,
+			"friends_count": 10573,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1627442191340822500,
+		"quoted_status_id_str": "1627442191340822529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y9I1DkKJ5S",
+			"expanded": "https://twitter.com/tribunavacia/status/1627442191340822529",
+			"display": "twitter.com/tribunavacia/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 19 22:57:09 +0000 2023",
+			"id": 1627442191340822500,
+			"id_str": "1627442191340822529",
+			"full_text": "BEE GEES ACAPELLA:\n\"HOW DEEP IS YOUR LOVE\" https://t.co/C5S1BCkiv4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1627441984632918000,
+						"id_str": "1627441984632918016",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627441984632918016/pu/img/5myqvvmVI8yOKFQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627441984632918016/pu/img/5myqvvmVI8yOKFQa.jpg",
+						"url": "https://t.co/C5S1BCkiv4",
+						"display_url": "pic.twitter.com/C5S1BCkiv4",
+						"expanded_url": "https://twitter.com/TribunaVacia/status/1627442191340822529/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1627441984632918000,
+						"id_str": "1627441984632918016",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627441984632918016/pu/img/5myqvvmVI8yOKFQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627441984632918016/pu/img/5myqvvmVI8yOKFQa.jpg",
+						"url": "https://t.co/C5S1BCkiv4",
+						"display_url": "pic.twitter.com/C5S1BCkiv4",
+						"expanded_url": "https://twitter.com/TribunaVacia/status/1627442191340822529/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 57684,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1627441984632918016/pu/vid/480x270/hR7D9BfjfdTU-O4R.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1627441984632918016/pu/vid/854x480/b9lQQCsqTqH5hsId.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1627441984632918016/pu/pl/r321hGp40zJoT_rI.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1627441984632918016/pu/vid/640x360/OsCvELprtSamfh5W.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1617034163206631400,
+				"id_str": "1617034163206631425",
+				"name": "TRIBUNA VACÍA",
+				"screen_name": "TribunaVacia",
+				"location": "Mundo Video Musical",
+				"description": "INTERPRETEN MI SILENCIO MADAFAKERS.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98,
+				"friends_count": 98,
+				"listed_count": 1,
+				"created_at": "Sun Jan 22 05:39:39 +0000 2023",
+				"favourites_count": 422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1617243668179734528/apN7MzVg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1617243668179734528/apN7MzVg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1617034163206631425/1674416030",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These guys could sing and write music. https://t.co/y9I1DkKJ5S"
+	},
+	{
+		"created_at": "Mon Feb 27 19:46:50 +0000 2023",
+		"id": 1630293398728102000,
+		"id_str": "1630293398728101888",
+		"full_text": "@BCSups Please share this learning opportunity for your High School leaders. https://t.co/XI1YzDiaya https://t.co/AIIeLRH3Ff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BCSups",
+					"name": "BCSSA",
+					"id": 762029564,
+					"id_str": "762029564",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XI1YzDiaya",
+					"expanded_url": "https://forms.gle/UEttSGNRjDFC1PA3A",
+					"display_url": "forms.gle/UEttSGNRjDFC1P…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1630293315869642800,
+					"id_str": "1630293315869642752",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp_3IhQakAAomR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp_3IhQakAAomR4.jpg",
+					"url": "https://t.co/AIIeLRH3Ff",
+					"display_url": "pic.twitter.com/AIIeLRH3Ff",
+					"expanded_url": "https://twitter.com/shareski/status/1630293398728101888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630293315869642800,
+					"id_str": "1630293315869642752",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp_3IhQakAAomR4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp_3IhQakAAomR4.jpg",
+					"url": "https://t.co/AIIeLRH3Ff",
+					"display_url": "pic.twitter.com/AIIeLRH3Ff",
+					"expanded_url": "https://twitter.com/shareski/status/1630293398728101888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1545,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 762029564,
+		"in_reply_to_user_id_str": "762029564",
+		"in_reply_to_screen_name": "BCSups",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38181,
+			"friends_count": 10573,
+			"listed_count": 1290,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BCSups Please share this learning opportunity for your High School leaders. https://t.co/XI1YzDiaya https://t.co/AIIeLRH3Ff"
+	},
+	{
 		"created_at": "Sun Feb 26 17:01:00 +0000 2023",
 		"id": 1629889276736315400,
 		"id_str": "1629889276736315392",
