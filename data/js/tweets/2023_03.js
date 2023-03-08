@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 16:51:18 +0000 2023",
+		"id": 1633148329076064300,
+		"id_str": "1633148329076064256",
+		"full_text": "@courosa Have you seen the guy who finds the actual games in the background of movies and TV shows? https://t.co/60f4CyVPFA",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/60f4CyVPFA",
+					"expanded_url": "https://melmagazine.com/en-us/story/ian-araujo-noproblemgambler-tiktok",
+					"display_url": "melmagazine.com/en-us/story/ia…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1632998175194620000,
+		"in_reply_to_status_id_str": "1632998175194619904",
+		"in_reply_to_user_id": 739293,
+		"in_reply_to_user_id_str": "739293",
+		"in_reply_to_screen_name": "courosa",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38165,
+			"friends_count": 10570,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@courosa Have you seen the guy who finds the actual games in the background of movies and TV shows? https://t.co/60f4CyVPFA"
+	},
+	{
+		"created_at": "Tue Mar 07 06:25:35 +0000 2023",
+		"id": 1632722197201449000,
+		"id_str": "1632990861989670912",
+		"full_text": "Join @Delltech on their 7th annual Edu Roadshow on March 30th. During this one-day conference in Toronto, you'll explore new ideas in both K12 &amp;Post-Secondary. This event allows you to talk w subject matter experts &amp;  connect with other like-minded edus. https://t.co/zBpd5isvWV https://t.co/XGqjBNe3a9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						5,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zBpd5isvWV",
+					"expanded_url": "https://buff.ly/411Ev5C",
+					"display_url": "buff.ly/411Ev5C",
+					"indices": [
+						263,
+						286
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1632722194420703200,
+					"id_str": "1632722194420703233",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/FqiYL29XoAErq8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqiYL29XoAErq8J.jpg",
+					"url": "https://t.co/XGqjBNe3a9",
+					"display_url": "pic.twitter.com/XGqjBNe3a9",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1632722197201448960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 355,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1632722194420703200,
+					"id_str": "1632722194420703233",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/FqiYL29XoAErq8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqiYL29XoAErq8J.jpg",
+					"url": "https://t.co/XGqjBNe3a9",
+					"display_url": "pic.twitter.com/XGqjBNe3a9",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1632722197201448960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 355,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11173922,
+			"id_str": "11173922",
+			"name": "Katina",
+			"screen_name": "KatPapulkas",
+			"location": "Toronto",
+			"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+			"url": "http://t.co/tAT55fZBXP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tAT55fZBXP",
+							"expanded_url": "http://www.globalfieldtrip.com",
+							"display_url": "globalfieldtrip.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752,
+			"friends_count": 4213,
+			"listed_count": 69,
+			"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+			"favourites_count": 6733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @Delltech on their 7th annual Edu Roadshow on March 30th. During this one-day conference in Toronto, you'll explore new ideas in both K12 &amp;Post-Secondary. This event allows you to talk w subject matter experts &amp;  connect with other like-minded edus. https://t.co/zBpd5isvWV https://t.co/XGqjBNe3a9"
+	},
+	{
+		"created_at": "Tue Mar 07 03:31:34 +0000 2023",
+		"id": 1632947067202191400,
+		"id_str": "1632947067202191361",
+		"full_text": "When comes to travel, you can call me MacGyver. If you knew the moves I’ve made today you’d agree. https://t.co/YY1qdyh26S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1632947047082111000,
+					"id_str": "1632947047082110976",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FqlksAZaMAALB4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FqlksAZaMAALB4h.jpg",
+					"url": "https://t.co/YY1qdyh26S",
+					"display_url": "pic.twitter.com/YY1qdyh26S",
+					"expanded_url": "https://twitter.com/shareski/status/1632947067202191361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1632947047082111000,
+					"id_str": "1632947047082110976",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FqlksAZaMAALB4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FqlksAZaMAALB4h.jpg",
+					"url": "https://t.co/YY1qdyh26S",
+					"display_url": "pic.twitter.com/YY1qdyh26S",
+					"expanded_url": "https://twitter.com/shareski/status/1632947067202191361/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							60
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FqlksAZaMAALB4h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38165,
+			"friends_count": 10570,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When comes to travel, you can call me MacGyver. If you knew the moves I’ve made today you’d agree. https://t.co/YY1qdyh26S"
+	},
+	{
 		"created_at": "Tue Mar 07 01:21:33 +0000 2023",
 		"id": 1632914349743325200,
 		"id_str": "1632914349743325184",
