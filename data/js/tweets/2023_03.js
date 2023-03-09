@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 22:54:28 +0000 2023",
+		"id": 1633602108829352000,
+		"id_str": "1633602108829351936",
+		"full_text": "Sometimes it’s best not to ask for feedback. https://t.co/KX7AcqKf9b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633602094958805000,
+					"id_str": "1633602094958804993",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fqu4cz5agAEDJsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fqu4cz5agAEDJsM.jpg",
+					"url": "https://t.co/KX7AcqKf9b",
+					"display_url": "pic.twitter.com/KX7AcqKf9b",
+					"expanded_url": "https://twitter.com/shareski/status/1633602108829351936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633602094958805000,
+					"id_str": "1633602094958804993",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fqu4cz5agAEDJsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fqu4cz5agAEDJsM.jpg",
+					"url": "https://t.co/KX7AcqKf9b",
+					"display_url": "pic.twitter.com/KX7AcqKf9b",
+					"expanded_url": "https://twitter.com/shareski/status/1633602108829351936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38165,
+			"friends_count": 10568,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes it’s best not to ask for feedback. https://t.co/KX7AcqKf9b"
+	},
+	{
+		"created_at": "Wed Mar 08 22:14:28 +0000 2023",
+		"id": 1633592043715846100,
+		"id_str": "1633592043715846145",
+		"full_text": "Privileged to a spend a couple of days with @ksdschools leadeeship and @lorimcewen exploring learner profiles. #alplearn @DellTech https://t.co/BABAHCKzQX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ksdschools",
+					"name": "Kennewick Schools",
+					"id": 42984980,
+					"id_str": "42984980",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "lorimcewen",
+					"name": "Dr. Lori McEwen",
+					"id": 17780367,
+					"id_str": "17780367",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "DellTech",
+					"name": "Dell Technologies",
+					"id": 715901816857358300,
+					"id_str": "715901816857358336",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633591991026974700,
+					"id_str": "1633591991026974721",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FquvQr0WAAE7d50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquvQr0WAAE7d50.jpg",
+					"url": "https://t.co/BABAHCKzQX",
+					"display_url": "pic.twitter.com/BABAHCKzQX",
+					"expanded_url": "https://twitter.com/shareski/status/1633592043715846145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633591991026974700,
+					"id_str": "1633591991026974721",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FquvQr0WAAE7d50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquvQr0WAAE7d50.jpg",
+					"url": "https://t.co/BABAHCKzQX",
+					"display_url": "pic.twitter.com/BABAHCKzQX",
+					"expanded_url": "https://twitter.com/shareski/status/1633592043715846145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38165,
+			"friends_count": 10568,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551800071959810051/NsUsM23z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Privileged to a spend a couple of days with @ksdschools leadeeship and @lorimcewen exploring learner profiles. #alplearn @DellTech https://t.co/BABAHCKzQX"
+	},
+	{
 		"created_at": "Tue Mar 07 16:51:18 +0000 2023",
 		"id": 1633148329076064300,
 		"id_str": "1633148329076064256",
