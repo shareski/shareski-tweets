@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 22:44:30 +0000 2023",
+		"id": 1635773928617705500,
+		"id_str": "1635773928617705473",
+		"full_text": "Any US cities able to do this for Canada? https://t.co/Z137fNScwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z137fNScwC",
+					"expanded_url": "https://twitter.com/MapleLeafs/status/1635426932564082688",
+					"display_url": "twitter.com/MapleLeafs/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38156,
+			"friends_count": 10570,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1635426932564082700,
+		"quoted_status_id_str": "1635426932564082688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z137fNScwC",
+			"expanded": "https://twitter.com/MapleLeafs/status/1635426932564082688",
+			"display": "twitter.com/MapleLeafs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 13 23:45:40 +0000 2023",
+			"id": 1635426932564082700,
+			"id_str": "1635426932564082688",
+			"full_text": "Mic issues during the American anthem?🎤 🇺🇸\n\nLeafs Nation has it covered 👏 https://t.co/gb4ZqjHwVj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1635426204315537400,
+						"id_str": "1635426204315537408",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1635426204315537408/img/xn35AKFVVfQ4bFxW.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1635426204315537408/img/xn35AKFVVfQ4bFxW.jpg",
+						"url": "https://t.co/gb4ZqjHwVj",
+						"display_url": "pic.twitter.com/gb4ZqjHwVj",
+						"expanded_url": "https://twitter.com/MapleLeafs/status/1635426932564082688/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1635426204315537400,
+						"id_str": "1635426204315537408",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1635426204315537408/img/xn35AKFVVfQ4bFxW.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1635426204315537408/img/xn35AKFVVfQ4bFxW.jpg",
+						"url": "https://t.co/gb4ZqjHwVj",
+						"display_url": "pic.twitter.com/gb4ZqjHwVj",
+						"expanded_url": "https://twitter.com/MapleLeafs/status/1635426932564082688/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 43790,
+							"variants": [
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1635426204315537408/vid/1080x1920/b8rtNqQ1kbzxFV5j.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1635426204315537408/vid/720x1280/asktGNii27rfmO8g.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1635426204315537408/pl/hRgH-w2KIP9iuU7n.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1635426204315537408/vid/480x852/CfyRwLvqkSN6TUE4.mp4?tag=16"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1635426204315537408/vid/320x568/AFI1NO8EQqc1FC4k.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55594930,
+				"id_str": "55594930",
+				"name": "Toronto Maple Leafs",
+				"screen_name": "MapleLeafs",
+				"location": "Toronto",
+				"description": "#LeafsForever",
+				"url": "https://t.co/7lPgciRba2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7lPgciRba2",
+								"expanded_url": "http://mapleleafs.com",
+								"display_url": "mapleleafs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2082300,
+				"friends_count": 188,
+				"listed_count": 7461,
+				"created_at": "Fri Jul 10 15:51:04 +0000 2009",
+				"favourites_count": 6890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 112646,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1612092491540451329/Z_nrKV7A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612092491540451329/Z_nrKV7A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55594930/1675959390",
+				"profile_link_color": "003976",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 401,
+			"favorite_count": 3253,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Any US cities able to do this for Canada? https://t.co/Z137fNScwC"
+	},
+	{
 		"created_at": "Tue Mar 14 00:19:37 +0000 2023",
 		"id": 1635435478492016600,
 		"id_str": "1635435478492016649",
