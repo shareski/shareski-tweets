@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 16 14:20:53 +0000 2023",
+		"id": 1636330979022258200,
+		"id_str": "1636371963907297283",
+		"full_text": "Interested in Esports for your district or institution?  Join us at Dell's Edu Roadshow on March 30th.  Explore our Alienware centre, see live demonstrations and watch some of our school teams share their esports &amp; #GirlsWhoGame success!  #ThriveTogether https://t.co/zBpd5isvWV https://t.co/9mFAD3nabU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsWhoGame",
+					"indices": [
+						219,
+						232
+					]
+				},
+				{
+					"text": "ThriveTogether",
+					"indices": [
+						243,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBpd5isvWV",
+					"expanded_url": "https://buff.ly/411Ev5C",
+					"display_url": "buff.ly/411Ev5C",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1636330976170082300,
+					"id_str": "1636330976170082304",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FrVqWmmWAAAYeRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrVqWmmWAAAYeRF.jpg",
+					"url": "https://t.co/9mFAD3nabU",
+					"display_url": "pic.twitter.com/9mFAD3nabU",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1636330979022258178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636330976170082300,
+					"id_str": "1636330976170082304",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FrVqWmmWAAAYeRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrVqWmmWAAAYeRF.jpg",
+					"url": "https://t.co/9mFAD3nabU",
+					"display_url": "pic.twitter.com/9mFAD3nabU",
+					"expanded_url": "https://twitter.com/KatPapulkas/status/1636330979022258178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11173922,
+			"id_str": "11173922",
+			"name": "Katina",
+			"screen_name": "KatPapulkas",
+			"location": "Toronto",
+			"description": "Passionate about technology enabled learning.  Administrator at TDSB...currently working at DELL as the Canadian Education Strategist. #Iwork4Dell",
+			"url": "http://t.co/tAT55fZBXP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tAT55fZBXP",
+							"expanded_url": "http://www.globalfieldtrip.com",
+							"display_url": "globalfieldtrip.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2755,
+			"friends_count": 4217,
+			"listed_count": 69,
+			"created_at": "Fri Dec 14 19:02:33 +0000 2007",
+			"favourites_count": 6790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087443268537851906/1Jq_K2Ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11173922/1568571499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in Esports for your district or institution?  Join us at Dell's Edu Roadshow on March 30th.  Explore our Alienware centre, see live demonstrations and watch some of our school teams share their esports &amp; #GirlsWhoGame success!  #ThriveTogether https://t.co/zBpd5isvWV https://t.co/9mFAD3nabU"
+	},
+	{
+		"created_at": "Thu Mar 16 11:07:28 +0000 2023",
+		"id": 1636323291932573700,
+		"id_str": "1636323291932573697",
+		"full_text": "It’s 7am and already had a lot of ups and downs. Missed the turn to the airport but @JasonBuccheri made an illegal u-turn to make up time. Thought I lost my Nexus card but a lovely AC person found it. Now missed my Wordle. Waiting for something good to happen to balance things",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonBuccheri",
+					"name": "Jason Buccheri",
+					"id": 292741552,
+					"id_str": "292741552",
+					"indices": [
+						84,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38159,
+			"friends_count": 10573,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s 7am and already had a lot of ups and downs. Missed the turn to the airport but @JasonBuccheri made an illegal u-turn to make up time. Thought I lost my Nexus card but a lovely AC person found it. Now missed my Wordle. Waiting for something good to happen to balance things"
+	},
+	{
+		"created_at": "Thu Mar 16 01:30:51 +0000 2023",
+		"id": 1636178182113054700,
+		"id_str": "1636178182113054721",
+		"full_text": "The difference between travelling Air Canada and Westjet is night and day. Yes I do have status on AC which accounts for a lot but @AirCanada treats me very well and makes travel enjoyable believe it or not.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirCanada",
+					"name": "Air Canada",
+					"id": 54904679,
+					"id_str": "54904679",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38159,
+			"friends_count": 10573,
+			"listed_count": 1288,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The difference between travelling Air Canada and Westjet is night and day. Yes I do have status on AC which accounts for a lot but @AirCanada treats me very well and makes travel enjoyable believe it or not."
+	},
+	{
 		"created_at": "Wed Mar 15 22:28:50 +0000 2023",
 		"id": 1636132374504427500,
 		"id_str": "1636132374504427521",
