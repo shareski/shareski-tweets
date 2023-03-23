@@ -1,6 +1,656 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 19:15:17 +0000 2023",
+		"id": 1638620382679670800,
+		"id_str": "1638620382679670785",
+		"full_text": "@WheatleyMoylan @daveschmittou @REMCAssociation Ithaca. Gratiot-Isabella RESD,",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WheatleyMoylan",
+					"name": "Wheatley Moylan",
+					"id": 224119839,
+					"id_str": "224119839",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "daveschmittou",
+					"name": "𝓓𝓪𝓿𝓮 𝓢𝓬𝓱𝓶𝓲𝓽𝓽𝓸𝓾 𝓔𝓭.𝓓. 💚",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "REMCAssociation",
+					"name": "REMC Association",
+					"id": 774618404,
+					"id_str": "774618404",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1638612916407607300,
+		"in_reply_to_status_id_str": "1638612916407607299",
+		"in_reply_to_user_id": 224119839,
+		"in_reply_to_user_id_str": "224119839",
+		"in_reply_to_screen_name": "WheatleyMoylan",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38155,
+			"friends_count": 10571,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WheatleyMoylan @daveschmittou @REMCAssociation Ithaca. Gratiot-Isabella RESD,"
+	},
+	{
+		"created_at": "Wed Mar 22 14:36:45 +0000 2023",
+		"id": 1638550283608379400,
+		"id_str": "1638550283608379393",
+		"full_text": "Grateful to be with @daveschmittou in Michigan exploring podcasting with learners. @REMCAssociation #alplearn https://t.co/xkdE66M2hT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alplearn",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daveschmittou",
+					"name": "𝓓𝓪𝓿𝓮 𝓢𝓬𝓱𝓶𝓲𝓽𝓽𝓸𝓾 𝓔𝓭.𝓓. 💚",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "REMCAssociation",
+					"name": "REMC Association",
+					"id": 774618404,
+					"id_str": "774618404",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638550274003312600,
+					"id_str": "1638550274003312641",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr1MyvSWIAEXLAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr1MyvSWIAEXLAf.jpg",
+					"url": "https://t.co/xkdE66M2hT",
+					"display_url": "pic.twitter.com/xkdE66M2hT",
+					"expanded_url": "https://twitter.com/shareski/status/1638550283608379393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638550274003312600,
+					"id_str": "1638550274003312641",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr1MyvSWIAEXLAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr1MyvSWIAEXLAf.jpg",
+					"url": "https://t.co/xkdE66M2hT",
+					"display_url": "pic.twitter.com/xkdE66M2hT",
+					"expanded_url": "https://twitter.com/shareski/status/1638550283608379393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38155,
+			"friends_count": 10571,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grateful to be with @daveschmittou in Michigan exploring podcasting with learners. @REMCAssociation #alplearn https://t.co/xkdE66M2hT"
+	},
+	{
+		"created_at": "Wed Mar 22 14:35:59 +0000 2023",
+		"id": 1638549950219862000,
+		"id_str": "1638550091865935873",
+		"full_text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx ⁦@daveschmittou⁩\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED ⁦@itc_geeks⁩ ⁦@uticaschools⁩ ⁦@Cory_Widener⁩ https://t.co/8ojms2MFrt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Podcasting",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "istecert",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "21things4",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "kidscancreate",
+					"indices": [
+						175,
+						189
+					]
+				},
+				{
+					"text": "MACUL",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "GetTECHED",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remc",
+					"name": "ömer",
+					"id": 281586514,
+					"id_str": "281586514",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"screen_name": "daveschmittou",
+					"name": "𝓓𝓪𝓿𝓮 𝓢𝓬𝓱𝓶𝓲𝓽𝓽𝓸𝓾 𝓔𝓭.𝓓. 💚",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"screen_name": "itc_geeks",
+					"name": "ITCGeeks",
+					"id": 1505000010215301000,
+					"id_str": "1505000010215301121",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"screen_name": "uticaschools",
+					"name": "Utica Schools",
+					"id": 177008745,
+					"id_str": "177008745",
+					"indices": [
+						222,
+						235
+					]
+				},
+				{
+					"screen_name": "Cory_Widener",
+					"name": "Cory Widener",
+					"id": 781173137018871800,
+					"id_str": "781173137018871808",
+					"indices": [
+						238,
+						251
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638549939935428600,
+					"id_str": "1638549939935428608",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr1MfSyWwAA0VIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr1MfSyWwAA0VIJ.jpg",
+					"url": "https://t.co/8ojms2MFrt",
+					"display_url": "pic.twitter.com/8ojms2MFrt",
+					"expanded_url": "https://twitter.com/tcconley29/status/1638549950219862016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638549939935428600,
+					"id_str": "1638549939935428608",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr1MfSyWwAA0VIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr1MfSyWwAA0VIJ.jpg",
+					"url": "https://t.co/8ojms2MFrt",
+					"display_url": "pic.twitter.com/8ojms2MFrt",
+					"expanded_url": "https://twitter.com/tcconley29/status/1638549950219862016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638549945459306500,
+					"id_str": "1638549945459306497",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr1MfnXWcAEy87u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr1MfnXWcAEy87u.jpg",
+					"url": "https://t.co/8ojms2MFrt",
+					"display_url": "pic.twitter.com/8ojms2MFrt",
+					"expanded_url": "https://twitter.com/tcconley29/status/1638549950219862016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1553022972,
+			"id_str": "1553022972",
+			"name": "Courtney Conley",
+			"screen_name": "tcconley29",
+			"location": "Macomb, MI",
+			"description": "Instructional Tech Coach @UticaSchools @itc_geeks #ISTECert #MIEExpert @21things4, Frank Miracola Award recipient, @REMC Maker/DEN Ambassador, happy wife & mom",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 883,
+			"listed_count": 11,
+			"created_at": "Fri Jun 28 13:02:29 +0000 2013",
+			"favourites_count": 3861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248419484894785537/3ncdQIo-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248419484894785537/3ncdQIo-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1553022972/1530153184",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx ⁦@daveschmittou⁩\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED ⁦@itc_geeks⁩ ⁦@uticaschools⁩ ⁦@Cory_Widener⁩ https://t.co/8ojms2MFrt"
+	},
+	{
 		"created_at": "Tue Mar 21 16:04:54 +0000 2023",
 		"id": 1638210082281324500,
 		"id_str": "1638210082281324545",
