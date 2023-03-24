@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 20:23:23 +0000 2023",
+		"id": 1638999905913172000,
+		"id_str": "1638999905913171971",
+		"full_text": "@gmbondi @AirCanada Once again, your #deanie nomination seems a sure thing.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "deanie",
+					"indices": [
+						37,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gmbondi",
+					"name": "Gino Bondi",
+					"id": 155960503,
+					"id_str": "155960503",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "AirCanada",
+					"name": "Air Canada",
+					"id": 54904679,
+					"id_str": "54904679",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1638995975657373700,
+		"in_reply_to_status_id_str": "1638995975657373696",
+		"in_reply_to_user_id": 155960503,
+		"in_reply_to_user_id_str": "155960503",
+		"in_reply_to_screen_name": "gmbondi",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38148,
+			"friends_count": 10575,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gmbondi @AirCanada Once again, your #deanie nomination seems a sure thing."
+	},
+	{
+		"created_at": "Thu Mar 23 17:00:10 +0000 2023",
+		"id": 1638948763304620000,
+		"id_str": "1638948763304620033",
+		"full_text": "Once again playing the role of contraband mule.This time transporting dishes. Like most missions Im not told the details until pickup.I was given this excuse of a bag and the handles broke.The @AirCanada agents took pity and found a box. Now walking around the airport like a hobo https://t.co/hrOFenPzXg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirCanada",
+					"name": "Air Canada",
+					"id": 54904679,
+					"id_str": "54904679",
+					"indices": [
+						193,
+						203
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638946678072811500,
+					"id_str": "1638946678072811535",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr61UfhWIA8cHeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr61UfhWIA8cHeM.jpg",
+					"url": "https://t.co/hrOFenPzXg",
+					"display_url": "pic.twitter.com/hrOFenPzXg",
+					"expanded_url": "https://twitter.com/shareski/status/1638948763304620033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638946678072811500,
+					"id_str": "1638946678072811535",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr61UfhWIA8cHeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr61UfhWIA8cHeM.jpg",
+					"url": "https://t.co/hrOFenPzXg",
+					"display_url": "pic.twitter.com/hrOFenPzXg",
+					"expanded_url": "https://twitter.com/shareski/status/1638948763304620033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638946678269943800,
+					"id_str": "1638946678269943823",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr61UgQWIA8B1Tm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr61UgQWIA8B1Tm.jpg",
+					"url": "https://t.co/hrOFenPzXg",
+					"display_url": "pic.twitter.com/hrOFenPzXg",
+					"expanded_url": "https://twitter.com/shareski/status/1638948763304620033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38148,
+			"friends_count": 10575,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Once again playing the role of contraband mule.This time transporting dishes. Like most missions Im not told the details until pickup.I was given this excuse of a bag and the handles broke.The @AirCanada agents took pity and found a box. Now walking around the airport like a hobo https://t.co/hrOFenPzXg"
+	},
+	{
+		"created_at": "Thu Mar 23 03:20:09 +0000 2023",
+		"id": 1638742402721800200,
+		"id_str": "1638742402721800194",
+		"full_text": "@WheatleyMoylan @daveschmittou @REMCAssociation We did give a shout out to your podcast!",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WheatleyMoylan",
+					"name": "Wheatley Moylan",
+					"id": 224119839,
+					"id_str": "224119839",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "daveschmittou",
+					"name": "𝓓𝓪𝓿𝓮 𝓢𝓬𝓱𝓶𝓲𝓽𝓽𝓸𝓾 𝓔𝓭.𝓓. 💚",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "REMCAssociation",
+					"name": "REMC Association",
+					"id": 774618404,
+					"id_str": "774618404",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1638621006162960400,
+		"in_reply_to_status_id_str": "1638621006162960393",
+		"in_reply_to_user_id": 224119839,
+		"in_reply_to_user_id_str": "224119839",
+		"in_reply_to_screen_name": "WheatleyMoylan",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38148,
+			"friends_count": 10575,
+			"listed_count": 1287,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WheatleyMoylan @daveschmittou @REMCAssociation We did give a shout out to your podcast!"
+	},
+	{
 		"created_at": "Wed Mar 22 19:15:17 +0000 2023",
 		"id": 1638620382679670800,
 		"id_str": "1638620382679670785",
@@ -355,7 +859,7 @@ Grailbird.data.tweets_2023_03 =
 		"created_at": "Wed Mar 22 14:35:59 +0000 2023",
 		"id": 1638549950219862000,
 		"id_str": "1638550091865935873",
-		"full_text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx ⁦@daveschmittou⁩\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED ⁦@itc_geeks⁩ ⁦@uticaschools⁩ ⁦@Cory_Widener⁩ https://t.co/8ojms2MFrt",
+		"full_text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx @daveschmittou\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED @itc_geeks @uticaschools @Cory_Widener https://t.co/8ojms2MFrt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -648,7 +1152,7 @@ Grailbird.data.tweets_2023_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx ⁦@daveschmittou⁩\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED ⁦@itc_geeks⁩ ⁦@uticaschools⁩ ⁦@Cory_Widener⁩ https://t.co/8ojms2MFrt"
+		"text": "#Podcasting with @REMC today!  Love finding new ways for students to showcase learning and to reach and engage educators. Thx @daveschmittou\n#istecert #MIEExpert #21things4 #kidscancreate #MACUL #GetTECHED @itc_geeks @uticaschools @Cory_Widener https://t.co/8ojms2MFrt"
 	},
 	{
 		"created_at": "Tue Mar 21 16:04:54 +0000 2023",
