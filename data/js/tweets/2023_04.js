@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 00:30:18 +0000 2023",
+		"id": 1645222640225857500,
+		"id_str": "1645222640225857539",
+		"full_text": "Really looking forward to this. Please join us. #ulead2023 #alplearn https://t.co/mMyp096HRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ulead2023",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mMyp096HRr",
+					"expanded_url": "https://twitter.com/uleadconference/status/1645199917529325568",
+					"display_url": "twitter.com/uleadconferenc…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. FYI: https://t.co/PHfvBH5u7p",
+			"url": "https://t.co/jBMEaODRso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaODRso",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBH5u7p",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38058,
+			"friends_count": 10578,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645199917529325600,
+		"quoted_status_id_str": "1645199917529325568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mMyp096HRr",
+			"expanded": "https://twitter.com/uleadconference/status/1645199917529325568",
+			"display": "twitter.com/uleadconferenc…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 23:00:01 +0000 2023",
+			"id": 1645199917529325600,
+			"id_str": "1645199917529325568",
+			"full_text": "Dean Shareski @shareski and Dr Katy Fodchuk @Katy_ALP  from from @ALPlearn will present \"Educator Overwhelm: What Influences Burnout in Schools and How Can We Turn the Tide Toward Wellness?\" Visit https://t.co/N27o6dmyLL for the full schedule and to plan your #ulead2023 https://t.co/rmeYGhIkhp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ulead2023",
+						"indices": [
+							260,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							14,
+							23
+						]
+					},
+					{
+						"screen_name": "Katy_ALP",
+						"name": "Katy Fodchuk",
+						"id": 747344928,
+						"id_str": "747344928",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"screen_name": "ALPlearn",
+						"name": "Team ALP",
+						"id": 801168060740698100,
+						"id_str": "801168060740698112",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/N27o6dmyLL",
+						"expanded_url": "http://ulead2023.sched.com",
+						"display_url": "ulead2023.sched.com",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1645199914454876200,
+						"id_str": "1645199914454876160",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FtTsmwWWAAAuPq_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtTsmwWWAAAuPq_.jpg",
+						"url": "https://t.co/rmeYGhIkhp",
+						"display_url": "pic.twitter.com/rmeYGhIkhp",
+						"expanded_url": "https://twitter.com/uLeadconference/status/1645199917529325568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1645199914454876200,
+						"id_str": "1645199914454876160",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FtTsmwWWAAAuPq_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtTsmwWWAAAuPq_.jpg",
+						"url": "https://t.co/rmeYGhIkhp",
+						"display_url": "pic.twitter.com/rmeYGhIkhp",
+						"expanded_url": "https://twitter.com/uLeadconference/status/1645199917529325568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1521927088403406800,
+				"id_str": "1521927088403406848",
+				"name": "uLeadconference",
+				"screen_name": "uLeadconference",
+				"location": "Banff, Alberta",
+				"description": "Alberta Teacher's Association Council for School Leadership is proud to bring together educational leaders from across the globe for the annual uLead conference",
+				"url": "https://t.co/Y5nkyA7yy8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y5nkyA7yy8",
+								"expanded_url": "http://ulead.ca",
+								"display_url": "ulead.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 2336,
+				"listed_count": 1,
+				"created_at": "Wed May 04 18:58:35 +0000 2022",
+				"favourites_count": 360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1600318321299427329/kyO4u-O-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1600318321299427329/kyO4u-O-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1521927088403406848/1651715958",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to this. Please join us. #ulead2023 #alplearn https://t.co/mMyp096HRr"
+	},
+	{
 		"created_at": "Sat Apr 08 19:47:02 +0000 2023",
 		"id": 1644788966560878600,
 		"id_str": "1644788966560878595",
