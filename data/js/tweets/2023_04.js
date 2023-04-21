@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 19:57:39 +0000 2023",
+		"id": 1649140292623437800,
+		"id_str": "1649140292623437825",
+		"full_text": "#RIPbluecheckmark for me as well. https://t.co/Q5yipGPoll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPbluecheckmark",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q5yipGPoll",
+					"expanded_url": "https://twitter.com/4lisaguerrero/status/1649125723351678978",
+					"display_url": "twitter.com/4lisaguerrero/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38008,
+			"friends_count": 10608,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649125723351679000,
+		"quoted_status_id_str": "1649125723351678978",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q5yipGPoll",
+			"expanded": "https://twitter.com/4lisaguerrero/status/1649125723351678978",
+			"display": "twitter.com/4lisaguerrero/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 18:59:46 +0000 2023",
+			"id": 1649125723351679000,
+			"id_str": "1649125723351678978",
+			"full_text": "#RIPbluecheckmark 🙏🏼 https://t.co/F0eNHtVzkN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RIPbluecheckmark",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649125713683808300,
+						"id_str": "1649125713683808279",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLfGWIWABcf3e7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLfGWIWABcf3e7.jpg",
+						"url": "https://t.co/F0eNHtVzkN",
+						"display_url": "pic.twitter.com/F0eNHtVzkN",
+						"expanded_url": "https://twitter.com/4lisaguerrero/status/1649125723351678978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 968,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649125713683808300,
+						"id_str": "1649125713683808279",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLfGWIWABcf3e7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLfGWIWABcf3e7.jpg",
+						"url": "https://t.co/F0eNHtVzkN",
+						"display_url": "pic.twitter.com/F0eNHtVzkN",
+						"expanded_url": "https://twitter.com/4lisaguerrero/status/1649125723351678978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 968,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 265705962,
+				"id_str": "265705962",
+				"name": "Lisa Guerrero 💃🏽",
+				"screen_name": "4lisaguerrero",
+				"location": "Los Angeles, CA",
+				"description": "Award Winning Investigative Journalist: INSIDE EDITION, Author: WARRIOR: MY PATH TO BEING BRAVE (Out Now Everywhere Books Are Sold), Keynote Speaker, Latina ✊🏽",
+				"url": "https://t.co/ujUyK9WIu7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ujUyK9WIu7",
+								"expanded_url": "https://www.hachettebooks.com/titles/lisa-guerrero/warrior/9780306829499/",
+								"display_url": "hachettebooks.com/titles/lisa-gu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84256,
+				"friends_count": 12822,
+				"listed_count": 623,
+				"created_at": "Mon Mar 14 01:15:49 +0000 2011",
+				"favourites_count": 262118,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105905,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1627850878769311744/UA7AFMKu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1627850878769311744/UA7AFMKu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/265705962/1682016897",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6fbf9d86326dfc1f",
+				"url": "https://api.twitter.com/1.1/geo/id/6fbf9d86326dfc1f.json",
+				"place_type": "city",
+				"name": "Babylon",
+				"full_name": "Babylon, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.343963,
+								40.675966
+							],
+							[
+								-73.313098,
+								40.675966
+							],
+							[
+								-73.313098,
+								40.712882
+							],
+							[
+								-73.343963,
+								40.712882
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "qme"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RIPbluecheckmark for me as well. https://t.co/Q5yipGPoll"
+	},
+	{
+		"created_at": "Thu Apr 20 18:55:38 +0000 2023",
+		"id": 1649124684825231400,
+		"id_str": "1649124684825231383",
+		"full_text": "Betrayal via @brittlestar https://t.co/kfNjVKA4gO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brittlestar",
+					"name": "Brittlestar",
+					"id": 19002345,
+					"id_str": "19002345",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649124679276437500,
+					"id_str": "1649124679276437504",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FuLeKIqaIAAgkSK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuLeKIqaIAAgkSK.jpg",
+					"url": "https://t.co/kfNjVKA4gO",
+					"display_url": "pic.twitter.com/kfNjVKA4gO",
+					"expanded_url": "https://twitter.com/shareski/status/1649124684825231383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649124679276437500,
+					"id_str": "1649124679276437504",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FuLeKIqaIAAgkSK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuLeKIqaIAAgkSK.jpg",
+					"url": "https://t.co/kfNjVKA4gO",
+					"display_url": "pic.twitter.com/kfNjVKA4gO",
+					"expanded_url": "https://twitter.com/shareski/status/1649124684825231383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38008,
+			"friends_count": 10608,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Betrayal via @brittlestar https://t.co/kfNjVKA4gO"
+	},
+	{
+		"created_at": "Thu Apr 20 18:00:03 +0000 2023",
+		"id": 1649110695844401200,
+		"id_str": "1649110695844401153",
+		"full_text": "When I was 8 years old I tried using his stance in a little league game. My coach told me not be an idiot. https://t.co/W8G9og9LS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W8G9og9LS3",
+					"expanded_url": "https://twitter.com/PolyesterUnis/status/1649100396718350337",
+					"display_url": "twitter.com/PolyesterUnis/…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38008,
+			"friends_count": 10608,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649100396718350300,
+		"quoted_status_id_str": "1649100396718350337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W8G9og9LS3",
+			"expanded": "https://twitter.com/PolyesterUnis/status/1649100396718350337",
+			"display": "twitter.com/PolyesterUnis/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 17:19:08 +0000 2023",
+			"id": 1649100396718350300,
+			"id_str": "1649100396718350337",
+			"full_text": "Bobby Tolan, 1977 @Pirates https://t.co/BDivQARlGC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Pirates",
+						"name": "Pittsburgh Pirates",
+						"id": 37947138,
+						"id_str": "37947138",
+						"indices": [
+							18,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649100269807083500,
+						"id_str": "1649100269807083520",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLH9UTaIAA-nGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLH9UTaIAA-nGN.jpg",
+						"url": "https://t.co/BDivQARlGC",
+						"display_url": "pic.twitter.com/BDivQARlGC",
+						"expanded_url": "https://twitter.com/PolyesterUnis/status/1649100396718350337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649100269807083500,
+						"id_str": "1649100269807083520",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLH9UTaIAA-nGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLH9UTaIAA-nGN.jpg",
+						"url": "https://t.co/BDivQARlGC",
+						"display_url": "pic.twitter.com/BDivQARlGC",
+						"expanded_url": "https://twitter.com/PolyesterUnis/status/1649100396718350337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 494,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 583541196,
+				"id_str": "583541196",
+				"name": "Vintage Jerseys & Hats",
+				"screen_name": "PolyesterUnis",
+				"location": "Astroturf Infield",
+				"description": "Collector of memories - mostly '70s & '80s Baseball. Not here to be serious or negative. Just enjoy the colorful pics. Fitted 7 5/8. You spelled awesome wrong.",
+				"url": "https://t.co/yC9TmV75sL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yC9TmV75sL",
+								"expanded_url": "http://polyesterunis.com",
+								"display_url": "polyesterunis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46580,
+				"friends_count": 12444,
+				"listed_count": 206,
+				"created_at": "Fri May 18 04:29:06 +0000 2012",
+				"favourites_count": 7803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22321,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333645851843981313/FQbEh9Pa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333645851843981313/FQbEh9Pa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/583541196/1575441188",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I was 8 years old I tried using his stance in a little league game. My coach told me not be an idiot. https://t.co/W8G9og9LS3"
+	},
+	{
 		"created_at": "Thu Apr 20 01:18:01 +0000 2023",
 		"id": 1648858525421142000,
 		"id_str": "1648858525421142017",
