@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 19:08:25 +0000 2023",
+		"id": 1651302226995056600,
+		"id_str": "1651302226995056642",
+		"full_text": "Big shoes to fill but I know @SeanNosek is up for task! Congrats my friend. https://t.co/uuQYIOS0dw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeanNosek",
+					"name": "Sean Nosek",
+					"id": 772027904,
+					"id_str": "772027904",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uuQYIOS0dw",
+					"expanded_url": "https://twitter.com/seannosek/status/1651271819192852482",
+					"display_url": "twitter.com/seannosek/stat…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37983,
+			"friends_count": 10602,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651271819192852500,
+		"quoted_status_id_str": "1651271819192852482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uuQYIOS0dw",
+			"expanded": "https://twitter.com/seannosek/status/1651271819192852482",
+			"display": "twitter.com/seannosek/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 26 17:07:35 +0000 2023",
+			"id": 1651271819192852500,
+			"id_str": "1651271819192852482",
+			"full_text": "Dear Abbotsford, I am really looking forward to working with you. Such a wonderful community. @AbbotsfordSD @City_Abbotsford @AbbyPoliceDept #abbyschools #inspired https://t.co/yMdROP0dqs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "abbyschools",
+						"indices": [
+							141,
+							153
+						]
+					},
+					{
+						"text": "inspired",
+						"indices": [
+							154,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AbbotsfordSD",
+						"name": "Abbotsford Schools",
+						"id": 70832268,
+						"id_str": "70832268",
+						"indices": [
+							94,
+							107
+						]
+					},
+					{
+						"screen_name": "City_Abbotsford",
+						"name": "City of Abbotsford",
+						"id": 93971442,
+						"id_str": "93971442",
+						"indices": [
+							108,
+							124
+						]
+					},
+					{
+						"screen_name": "AbbyPoliceDept",
+						"name": "Abbotsford Police Department",
+						"id": 300638343,
+						"id_str": "300638343",
+						"indices": [
+							125,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yMdROP0dqs",
+						"expanded_url": "https://twitter.com/AbbotsfordSD/status/1651270203957977093",
+						"display_url": "twitter.com/AbbotsfordSD/s…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772027904,
+				"id_str": "772027904",
+				"name": "Sean Nosek",
+				"screen_name": "SeanNosek",
+				"location": "",
+				"description": "Deputy Superintendent West Vancouver Schools, Author Ken Foster’s Vancouver, Kickstarter entrepreneur, TEDx speaker, vinyl enthusiast.",
+				"url": "https://t.co/xBxd1NBJFY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xBxd1NBJFY",
+								"expanded_url": "http://www.seannosek.com",
+								"display_url": "seannosek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2084,
+				"friends_count": 2024,
+				"listed_count": 58,
+				"created_at": "Tue Aug 21 18:37:44 +0000 2012",
+				"favourites_count": 11684,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2379,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1222036778078502914/UEABZEFK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222036778078502914/UEABZEFK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772027904/1580192669",
+				"profile_link_color": "6E7A72",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1651270203957977000,
+			"quoted_status_id_str": "1651270203957977093",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yMdROP0dqs",
+				"expanded": "https://twitter.com/AbbotsfordSD/status/1651270203957977093",
+				"display": "twitter.com/AbbotsfordSD/s…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big shoes to fill but I know @SeanNosek is up for task! Congrats my friend. https://t.co/uuQYIOS0dw"
+	},
+	{
+		"created_at": "Wed Apr 26 19:03:37 +0000 2023",
+		"id": 1651301020906160000,
+		"id_str": "1651301020906160128",
+		"full_text": "@chrkennedy White Spot is alive and well. https://t.co/QLA5JToerw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrkennedy",
+					"name": "Chris Kennedy",
+					"id": 2056741,
+					"id_str": "2056741",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QLA5JToerw",
+					"expanded_url": "https://twitter.com/super70ssports/status/1651233847030292482",
+					"display_url": "twitter.com/super70ssports…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2056741,
+		"in_reply_to_user_id_str": "2056741",
+		"in_reply_to_screen_name": "chrkennedy",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37983,
+			"friends_count": 10602,
+			"listed_count": 1285,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651233847030292500,
+		"quoted_status_id_str": "1651233847030292482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QLA5JToerw",
+			"expanded": "https://twitter.com/super70ssports/status/1651233847030292482",
+			"display": "twitter.com/super70ssports…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 26 14:36:42 +0000 2023",
+			"id": 1651233847030292500,
+			"id_str": "1651233847030292482",
+			"full_text": "Dining out at Long John Silver’s used to be a goddamn special occasion. You didn’t walk inside the restaurant so much as you boarded that motherfucker. Then they enriched your experience even further by giving you a pirate hat even if you were 50 years old. There was no downside. https://t.co/td4DmxhOGe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1651233842571690000,
+						"id_str": "1651233842571689984",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FupcbmOWwAAS9Za.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FupcbmOWwAAS9Za.jpg",
+						"url": "https://t.co/td4DmxhOGe",
+						"display_url": "pic.twitter.com/td4DmxhOGe",
+						"expanded_url": "https://twitter.com/Super70sSports/status/1651233847030292482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1164,
+								"h": 821,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1164,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1651233842571690000,
+						"id_str": "1651233842571689984",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FupcbmOWwAAS9Za.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FupcbmOWwAAS9Za.jpg",
+						"url": "https://t.co/td4DmxhOGe",
+						"display_url": "pic.twitter.com/td4DmxhOGe",
+						"expanded_url": "https://twitter.com/Super70sSports/status/1651233847030292482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1164,
+								"h": 821,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1164,
+								"h": 821,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2259809232,
+				"id_str": "2259809232",
+				"name": "Super 70s Sports",
+				"screen_name": "Super70sSports",
+				"location": "Chicago, IL",
+				"description": "Store: https://t.co/YYUk1WACE6; Podcast: https://t.co/94eUZKNKh1; Media/business inquiries: rickycobbs7s@gmail.com; Cameo: https://t.co/POiqDVSJHL",
+				"url": "https://t.co/OpcBZRJEnU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OpcBZRJEnU",
+								"expanded_url": "http://therickycobb.com",
+								"display_url": "therickycobb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YYUk1WACE6",
+								"expanded_url": "http://Super70sSportsStore.com",
+								"display_url": "Super70sSportsStore.com",
+								"indices": [
+									7,
+									30
+								]
+							},
+							{
+								"url": "https://t.co/94eUZKNKh1",
+								"expanded_url": "http://Super70sSports.com",
+								"display_url": "Super70sSports.com",
+								"indices": [
+									41,
+									64
+								]
+							},
+							{
+								"url": "https://t.co/POiqDVSJHL",
+								"expanded_url": "http://cameo.com/super70ssports",
+								"display_url": "cameo.com/super70ssports",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 743602,
+				"friends_count": 1112,
+				"listed_count": 2989,
+				"created_at": "Tue Dec 24 04:55:10 +0000 2013",
+				"favourites_count": 196947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61254,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051617372489035776/EbLsBBhc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2259809232/1465587763",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 203,
+			"favorite_count": 3463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@chrkennedy White Spot is alive and well. https://t.co/QLA5JToerw"
+	},
+	{
 		"created_at": "Tue Apr 25 23:55:24 +0000 2023",
 		"id": 1651012063504769000,
 		"id_str": "1651012063504769027",
