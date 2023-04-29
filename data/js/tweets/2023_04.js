@@ -1,10 +1,702 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 22:51:21 +0000 2023",
+		"id": 1652083106307002400,
+		"id_str": "1652083106307002368",
+		"full_text": "@philboyte So true.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philboyte",
+					"name": "Phil Boyte",
+					"id": 78174029,
+					"id_str": "78174029",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1652065859605504000,
+		"in_reply_to_status_id_str": "1652065859605504000",
+		"in_reply_to_user_id": 78174029,
+		"in_reply_to_user_id_str": "78174029",
+		"in_reply_to_screen_name": "philboyte",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37978,
+			"friends_count": 10600,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@philboyte So true."
+	},
+	{
+		"created_at": "Fri Apr 28 20:34:35 +0000 2023",
+		"id": 1652048688083259400,
+		"id_str": "1652048688083259392",
+		"full_text": "Don't worry #leafs or #oilers fans, this next one is not a must win game. https://t.co/wbcNXz0qbH @BrianReganComic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leafs",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "oilers",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianReganComic",
+					"name": "Brian Regan",
+					"id": 29265181,
+					"id_str": "29265181",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wbcNXz0qbH",
+					"expanded_url": "https://www.instagram.com/reel/CrlwadjtjGM/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/reel/Crlwadjtj…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37978,
+			"friends_count": 10600,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't worry #leafs or #oilers fans, this next one is not a must win game. https://t.co/wbcNXz0qbH @BrianReganComic"
+	},
+	{
+		"created_at": "Fri Apr 28 17:30:21 +0000 2023",
+		"id": 1652002326423691300,
+		"id_str": "1652002326423691264",
+		"full_text": "@thecleversheep Agree, how do schools/districts foster this? I like the share from @patriciampain and @mcraestanger about the work their doing in @newwestschools I'd love to hear more folks share they way they foster this in organic ways.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecleversheep",
+					"name": "Rodd Lucier",
+					"id": 12153722,
+					"id_str": "12153722",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "patriciampain",
+					"name": "Patricia Pain",
+					"id": 1426815145,
+					"id_str": "1426815145",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "mcraestanger",
+					"name": "Maureen McRae-Stanger",
+					"id": 260853267,
+					"id_str": "260853267",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"screen_name": "newwestschools",
+					"name": "NewWestSchools",
+					"id": 784121843888160800,
+					"id_str": "784121843888160768",
+					"indices": [
+						146,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1652001506378363000,
+		"in_reply_to_status_id_str": "1652001506378362906",
+		"in_reply_to_user_id": 12153722,
+		"in_reply_to_user_id_str": "12153722",
+		"in_reply_to_screen_name": "thecleversheep",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37978,
+			"friends_count": 10600,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecleversheep Agree, how do schools/districts foster this? I like the share from @patriciampain and @mcraestanger about the work their doing in @newwestschools I'd love to hear more folks share they way they foster this in organic ways."
+	},
+	{
+		"created_at": "Fri Apr 28 16:03:20 +0000 2023",
+		"id": 1651980424862929000,
+		"id_str": "1651980424862928897",
+		"full_text": "@djakes Have you seen this? https://t.co/FEEYdOY9Fw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djakes",
+					"name": "David Jakes",
+					"id": 6581222,
+					"id_str": "6581222",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FEEYdOY9Fw",
+					"expanded_url": "https://www.youtube.com/@lastcomiskey1990/featured",
+					"display_url": "youtube.com/@lastcomiskey1…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 6581222,
+		"in_reply_to_user_id_str": "6581222",
+		"in_reply_to_screen_name": "djakes",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37978,
+			"friends_count": 10600,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@djakes Have you seen this? https://t.co/FEEYdOY9Fw"
+	},
+	{
+		"created_at": "Fri Apr 28 06:02:16 +0000 2023",
+		"id": 1651829163345555500,
+		"id_str": "1651829163345555457",
+		"full_text": "@patriciampain @newwestschools Thanks for sharing @patriciampain I know you and the leadership of @newwestschools are committed to a connected community. @khachlaf",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patriciampain",
+					"name": "Patricia Pain",
+					"id": 1426815145,
+					"id_str": "1426815145",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "newwestschools",
+					"name": "NewWestSchools",
+					"id": 784121843888160800,
+					"id_str": "784121843888160768",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "patriciampain",
+					"name": "Patricia Pain",
+					"id": 1426815145,
+					"id_str": "1426815145",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "newwestschools",
+					"name": "NewWestSchools",
+					"id": 784121843888160800,
+					"id_str": "784121843888160768",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "khachlaf",
+					"name": "Karim Hachlaf",
+					"id": 85382241,
+					"id_str": "85382241",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1651822255100530700,
+		"in_reply_to_status_id_str": "1651822255100530688",
+		"in_reply_to_user_id": 1426815145,
+		"in_reply_to_user_id_str": "1426815145",
+		"in_reply_to_screen_name": "patriciampain",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37978,
+			"friends_count": 10600,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@patriciampain @newwestschools Thanks for sharing @patriciampain I know you and the leadership of @newwestschools are committed to a connected community. @khachlaf"
+	},
+	{
 		"created_at": "Thu Apr 27 23:46:04 +0000 2023",
 		"id": 1651734487435231200,
 		"id_str": "1651734487435231234",
-		"full_text": "My grand daughter had my phone, took this photo and sent it to ⁦@mrhooker⁩ super randomly. So I’ll just post it here as a super random tweet. #harriethasmyheart https://t.co/UQ7KWZEHGO",
+		"full_text": "My grand daughter had my phone, took this photo and sent it to @mrhooker super randomly. So I’ll just post it here as a super random tweet. #harriethasmyheart https://t.co/UQ7KWZEHGO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -202,7 +894,7 @@ Grailbird.data.tweets_2023_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "My grand daughter had my phone, took this photo and sent it to ⁦@mrhooker⁩ super randomly. So I’ll just post it here as a super random tweet. #harriethasmyheart https://t.co/UQ7KWZEHGO"
+		"text": "My grand daughter had my phone, took this photo and sent it to @mrhooker super randomly. So I’ll just post it here as a super random tweet. #harriethasmyheart https://t.co/UQ7KWZEHGO"
 	},
 	{
 		"created_at": "Wed Apr 26 19:08:25 +0000 2023",
