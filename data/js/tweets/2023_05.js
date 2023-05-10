@@ -1,10 +1,883 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 09 20:13:47 +0000 2023",
+		"id": 1656029718335090700,
+		"id_str": "1656029718335090688",
+		"full_text": "It was 18 years ago that @robwall @schwier @courosa and I decided to do a thing called a podcast. Here is our first episode. https://t.co/2PjkVLdErb https://t.co/I97Amr2URE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robwall",
+					"name": "Rob Wall",
+					"id": 5545092,
+					"id_str": "5545092",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "schwier",
+					"name": "Rick Schwier",
+					"id": 12162982,
+					"id_str": "12162982",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2PjkVLdErb",
+					"expanded_url": "https://archive.org/details/EdTechPosseEdTechPosse115062005",
+					"display_url": "archive.org/details/EdTech…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1656029533043310600,
+					"id_str": "1656029533043310592",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FvtmFhaaQAAhepm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvtmFhaaQAAhepm.jpg",
+					"url": "https://t.co/I97Amr2URE",
+					"display_url": "pic.twitter.com/I97Amr2URE",
+					"expanded_url": "https://twitter.com/shareski/status/1656029718335090688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656029533043310600,
+					"id_str": "1656029533043310592",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FvtmFhaaQAAhepm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvtmFhaaQAAhepm.jpg",
+					"url": "https://t.co/I97Amr2URE",
+					"display_url": "pic.twitter.com/I97Amr2URE",
+					"expanded_url": "https://twitter.com/shareski/status/1656029718335090688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1656029674362011600,
+					"id_str": "1656029674362011648",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FvtmNv3agAAZzzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvtmNv3agAAZzzV.jpg",
+					"url": "https://t.co/I97Amr2URE",
+					"display_url": "pic.twitter.com/I97Amr2URE",
+					"expanded_url": "https://twitter.com/shareski/status/1656029718335090688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 471,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 471,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37931,
+			"friends_count": 10595,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was 18 years ago that @robwall @schwier @courosa and I decided to do a thing called a podcast. Here is our first episode. https://t.co/2PjkVLdErb https://t.co/I97Amr2URE"
+	},
+	{
+		"created_at": "Tue May 09 14:55:53 +0000 2023",
+		"id": 1655949717300453400,
+		"id_str": "1655949717300453376",
+		"full_text": "@RachelFruin it’s your time. https://t.co/HTo5rTKiaM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelFruin",
+					"name": "Rachel Fruin",
+					"id": 2375844584,
+					"id_str": "2375844584",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HTo5rTKiaM",
+					"expanded_url": "https://twitter.com/joepompliano/status/1655918022668828674",
+					"display_url": "twitter.com/joepompliano/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2375844584,
+		"in_reply_to_user_id_str": "2375844584",
+		"in_reply_to_screen_name": "RachelFruin",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37931,
+			"friends_count": 10595,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1655918022668828700,
+		"quoted_status_id_str": "1655918022668828674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HTo5rTKiaM",
+			"expanded": "https://twitter.com/joepompliano/status/1655918022668828674",
+			"display": "twitter.com/joepompliano/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 09 12:49:56 +0000 2023",
+			"id": 1655918022668828700,
+			"id_str": "1655918022668828674",
+			"full_text": "How good is Connor Bedard?\n\nJust 90 minutes after winning the NHL Draft lottery last night, the Chicago Blackhawks had already sold 500 season ticket packages — worth $2.5 million.\n\n\"We haven't stopped smiling, and the phones haven't stopped ringing.\"\n\n(h/t @Sportico) https://t.co/50e3WvmQX8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Sportico",
+						"name": "Sportico",
+						"id": 1232091440454389800,
+						"id_str": "1232091440454389760",
+						"indices": [
+							258,
+							267
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1655917063662084000,
+						"id_str": "1655917063662084098",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/Fvr_y8UWIAIMSyi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fvr_y8UWIAIMSyi.jpg",
+						"url": "https://t.co/50e3WvmQX8",
+						"display_url": "pic.twitter.com/50e3WvmQX8",
+						"expanded_url": "https://twitter.com/JoePompliano/status/1655918022668828674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1655917063662084000,
+						"id_str": "1655917063662084098",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/Fvr_y8UWIAIMSyi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fvr_y8UWIAIMSyi.jpg",
+						"url": "https://t.co/50e3WvmQX8",
+						"display_url": "pic.twitter.com/50e3WvmQX8",
+						"expanded_url": "https://twitter.com/JoePompliano/status/1655918022668828674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1230676218770579500,
+				"id_str": "1230676218770579456",
+				"name": "Joe Pompliano",
+				"screen_name": "JoePompliano",
+				"location": "",
+				"description": "Sports + Business | Investing at Pomp Investments | Join 100,000+ others and sign up for my newsletter: https://t.co/jw1SiKBsmh",
+				"url": "https://t.co/8rwBk6ES7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8rwBk6ES7u",
+								"expanded_url": "https://www.joepompliano.com/",
+								"display_url": "joepompliano.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jw1SiKBsmh",
+								"expanded_url": "http://readhuddleup.com",
+								"display_url": "readhuddleup.com",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 529394,
+				"friends_count": 1567,
+				"listed_count": 2792,
+				"created_at": "Fri Feb 21 02:10:58 +0000 2020",
+				"favourites_count": 79928,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1482849191214915587/o-aZo4xw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482849191214915587/o-aZo4xw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230676218770579456/1634679162",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 601,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RachelFruin it’s your time. https://t.co/HTo5rTKiaM"
+	},
+	{
+		"created_at": "Tue May 09 04:12:16 +0000 2023",
+		"id": 1655787745699045400,
+		"id_str": "1655787745699045376",
+		"full_text": "Indeed. Kevin was a wonderful advocate for students and teachers. https://t.co/o08W3RI9is",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o08W3RI9is",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1655738933781872640",
+					"display_url": "twitter.com/chrkennedy/sta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37931,
+			"friends_count": 10595,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1655738933781872600,
+		"quoted_status_id_str": "1655738933781872640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o08W3RI9is",
+			"expanded": "https://twitter.com/chrkennedy/status/1655738933781872640",
+			"display": "twitter.com/chrkennedy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 09 00:58:18 +0000 2023",
+			"id": 1655738933781872600,
+			"id_str": "1655738933781872640",
+			"full_text": "So wonderful to see @kevmowat legacy continue to be celebrated.  He was hugely impactful across Canada. https://t.co/ocs8AUYF3Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kevmowat",
+						"name": "Kevin Mowat",
+						"id": 275742585,
+						"id_str": "275742585",
+						"indices": [
+							20,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ocs8AUYF3Y",
+						"expanded_url": "https://twitter.com/_msla_/status/1655735948188041216",
+						"display_url": "twitter.com/_msla_/status/…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2056741,
+				"id_str": "2056741",
+				"name": "Chris Kennedy",
+				"screen_name": "chrkennedy",
+				"location": "ÜT: 49.120583,-123.165359",
+				"description": "I am the Superintendent of Schools of the West Vancouver School District in British Columbia.",
+				"url": "https://t.co/gp9Rz6Rj2T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gp9Rz6Rj2T",
+								"expanded_url": "http://cultureofyes.ca/",
+								"display_url": "cultureofyes.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12036,
+				"friends_count": 2132,
+				"listed_count": 421,
+				"created_at": "Fri Mar 23 22:00:07 +0000 2007",
+				"favourites_count": 14586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1360303071138516992/7Ch4V-Qh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360303071138516992/7Ch4V-Qh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2056741/1398824805",
+				"profile_link_color": "0900FF",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3100dc510186d8b6",
+				"url": "https://api.twitter.com/1.1/geo/id/3100dc510186d8b6.json",
+				"place_type": "city",
+				"name": "Richmond",
+				"full_name": "Richmond, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.304549,
+								49.08609
+							],
+							[
+								-122.957124,
+								49.08609
+							],
+							[
+								-122.957124,
+								49.262393
+							],
+							[
+								-123.304549,
+								49.262393
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1655735948188041200,
+			"quoted_status_id_str": "1655735948188041216",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ocs8AUYF3Y",
+				"expanded": "https://twitter.com/_msla_/status/1655735948188041216",
+				"display": "twitter.com/_msla_/status/…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indeed. Kevin was a wonderful advocate for students and teachers. https://t.co/o08W3RI9is"
+	},
+	{
 		"created_at": "Mon May 08 15:34:10 +0000 2023",
 		"id": 1655596966150307800,
 		"id_str": "1655596966150307840",
-		"full_text": "Grateful to chat with ⁦@brendasherry⁩ for the 11th episode of The Canadian-Ed Leadership Show. Full episode found here. https://t.co/t7NXqbwNEr #alplearn https://t.co/hKD8Ah4KnH",
+		"full_text": "Grateful to chat with @brendasherry for the 11th episode of The Canadian-Ed Leadership Show. Full episode found here. https://t.co/t7NXqbwNEr #alplearn https://t.co/hKD8Ah4KnH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -243,7 +1116,7 @@ Grailbird.data.tweets_2023_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Grateful to chat with ⁦@brendasherry⁩ for the 11th episode of The Canadian-Ed Leadership Show. Full episode found here. https://t.co/t7NXqbwNEr #alplearn https://t.co/hKD8Ah4KnH"
+		"text": "Grateful to chat with @brendasherry for the 11th episode of The Canadian-Ed Leadership Show. Full episode found here. https://t.co/t7NXqbwNEr #alplearn https://t.co/hKD8Ah4KnH"
 	},
 	{
 		"created_at": "Fri May 05 18:17:19 +0000 2023",
