@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 12 21:09:49 +0000 2023",
+		"id": 1657130983156768800,
+		"id_str": "1657130983156768768",
+		"full_text": "I’m going to write a post about my history with podcasting but I did find my very first podcast. Shout outs to @budtheteacher and others. \nhttps://t.co/5rEB8TBjtG @daveschmittou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "budtheteacher",
+					"name": "Bud Hunt",
+					"id": 1424681,
+					"id_str": "1424681",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"screen_name": "daveschmittou",
+					"name": "𝓓𝓪𝓿𝓮 𝓢𝓬𝓱𝓶𝓲𝓽𝓽𝓸𝓾 𝓔𝓭.𝓓. 💚",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5rEB8TBjtG",
+					"expanded_url": "https://ideasandthoughts.org/2005/06/02/the-new-podcast-is-here/",
+					"display_url": "ideasandthoughts.org/2005/06/02/the…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37918,
+			"friends_count": 10594,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m going to write a post about my history with podcasting but I did find my very first podcast. Shout outs to @budtheteacher and others. \nhttps://t.co/5rEB8TBjtG @daveschmittou"
+	},
+	{
+		"created_at": "Fri May 12 17:18:59 +0000 2023",
+		"id": 1657072896022544400,
+		"id_str": "1657072896022544387",
+		"full_text": "@danmcguirempls this is the only evidence I have, dunking on an 8 ft basket. https://t.co/e6bfLtv49R",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danmcguirempls",
+					"name": "@danmcguire@openedtech.social, OERtist",
+					"id": 779771093368250400,
+					"id_str": "779771093368250368",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657072885960413200,
+					"id_str": "1657072885960413185",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv8bAp6aEAEbPdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv8bAp6aEAEbPdV.jpg",
+					"url": "https://t.co/e6bfLtv49R",
+					"display_url": "pic.twitter.com/e6bfLtv49R",
+					"expanded_url": "https://twitter.com/shareski/status/1657072896022544387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657072885960413200,
+					"id_str": "1657072885960413185",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv8bAp6aEAEbPdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv8bAp6aEAEbPdV.jpg",
+					"url": "https://t.co/e6bfLtv49R",
+					"display_url": "pic.twitter.com/e6bfLtv49R",
+					"expanded_url": "https://twitter.com/shareski/status/1657072896022544387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1657068240307101700,
+		"in_reply_to_status_id_str": "1657068240307101697",
+		"in_reply_to_user_id": 779771093368250400,
+		"in_reply_to_user_id_str": "779771093368250368",
+		"in_reply_to_screen_name": "danmcguirempls",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37918,
+			"friends_count": 10594,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@danmcguirempls this is the only evidence I have, dunking on an 8 ft basket. https://t.co/e6bfLtv49R"
+	},
+	{
+		"created_at": "Fri May 12 03:36:42 +0000 2023",
+		"id": 1656865960484290600,
+		"id_str": "1656865960484290561",
+		"full_text": "@bcrosby and gigantic hands",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bcrosby",
+					"name": "Brian Crosby",
+					"id": 7032662,
+					"id_str": "7032662",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": 1656864892010512400,
+		"in_reply_to_status_id_str": "1656864892010512388",
+		"in_reply_to_user_id": 7032662,
+		"in_reply_to_user_id_str": "7032662",
+		"in_reply_to_screen_name": "bcrosby",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37918,
+			"friends_count": 10594,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bcrosby and gigantic hands"
+	},
+	{
+		"created_at": "Fri May 12 03:29:22 +0000 2023",
+		"id": 1656864112176169000,
+		"id_str": "1656864112176168960",
+		"full_text": "@robwall @schwier @courosa @mctoonish I'm serious about a reunion. Check DMs if you're interested.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robwall",
+					"name": "Rob Wall",
+					"id": 5545092,
+					"id_str": "5545092",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "schwier",
+					"name": "Rick Schwier",
+					"id": 12162982,
+					"id_str": "12162982",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "mctoonish",
+					"name": "Heather M. Ross 🇺🇦",
+					"id": 26377999,
+					"id_str": "26377999",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 5545092,
+		"in_reply_to_user_id_str": "5545092",
+		"in_reply_to_screen_name": "robwall",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37918,
+			"friends_count": 10594,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robwall @schwier @courosa @mctoonish I'm serious about a reunion. Check DMs if you're interested."
+	},
+	{
 		"created_at": "Thu May 11 23:17:52 +0000 2023",
 		"id": 1656800821944656000,
 		"id_str": "1656800821944655877",
