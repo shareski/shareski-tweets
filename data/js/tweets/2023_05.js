@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 13 22:31:15 +0000 2023",
+		"id": 1657513864810885000,
+		"id_str": "1657513864810885120",
+		"full_text": "@NoCupsEver1970 @Sportsnet @Canucks The Sabres are identical",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoCupsEver1970",
+					"name": "Canucks - 53 Years of Failure",
+					"id": 1553210498740457500,
+					"id_str": "1553210498740457472",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Sportsnet",
+					"name": "Sportsnet",
+					"id": 21660529,
+					"id_str": "21660529",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Canucks",
+					"name": "Vancouver Canucks",
+					"id": 17093604,
+					"id_str": "17093604",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1657449631889109000,
+		"in_reply_to_status_id_str": "1657449631889108992",
+		"in_reply_to_user_id": 1553210498740457500,
+		"in_reply_to_user_id_str": "1553210498740457472",
+		"in_reply_to_screen_name": "NoCupsEver1970",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37913,
+			"friends_count": 10593,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NoCupsEver1970 @Sportsnet @Canucks The Sabres are identical"
+	},
+	{
+		"created_at": "Sat May 13 17:19:02 +0000 2023",
+		"id": 1657435295917174800,
+		"id_str": "1657435295917174784",
+		"full_text": "@GolfChannel @CBSSports I realize it’s petty, but how do you decide which players to show on an abbreviated leaderboard? Usually it’s status or cache but this makes no sense. @MacHughesGolf wasn’t even listed until he was hitting. https://t.co/CHfHu2yrfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GolfChannel",
+					"name": "Golf Channel",
+					"id": 28349128,
+					"id_str": "28349128",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "CBSSports",
+					"name": "CBS Sports",
+					"id": 14885860,
+					"id_str": "14885860",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "MacHughesGolf",
+					"name": "Mackenzie Hughes",
+					"id": 356957829,
+					"id_str": "356957829",
+					"indices": [
+						175,
+						189
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657435289852461000,
+					"id_str": "1657435289852461056",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBknVnaQAA6VGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBknVnaQAA6VGl.jpg",
+					"url": "https://t.co/CHfHu2yrfe",
+					"display_url": "pic.twitter.com/CHfHu2yrfe",
+					"expanded_url": "https://twitter.com/shareski/status/1657435295917174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657435289852461000,
+					"id_str": "1657435289852461056",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FwBknVnaQAA6VGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwBknVnaQAA6VGl.jpg",
+					"url": "https://t.co/CHfHu2yrfe",
+					"display_url": "pic.twitter.com/CHfHu2yrfe",
+					"expanded_url": "https://twitter.com/shareski/status/1657435295917174784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 28349128,
+		"in_reply_to_user_id_str": "28349128",
+		"in_reply_to_screen_name": "GolfChannel",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37913,
+			"friends_count": 10593,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GolfChannel @CBSSports I realize it’s petty, but how do you decide which players to show on an abbreviated leaderboard? Usually it’s status or cache but this makes no sense. @MacHughesGolf wasn’t even listed until he was hitting. https://t.co/CHfHu2yrfe"
+	},
+	{
+		"created_at": "Sat May 13 16:43:25 +0000 2023",
+		"id": 1657426331737415700,
+		"id_str": "1657426331737415680",
+		"full_text": "After a deal is struck on Shark Tank I’m always curious to see if they’ll hug or shake hands. I need someone to do an analysis of how to tell if a greeting warrants a hug or a handshake or other. What are the specific body signals that suggest a preference? https://t.co/6kbzG0PNyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657426325576257500,
+					"id_str": "1657426325576257536",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FwBcdjFakAAyRMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FwBcdjFakAAyRMs.jpg",
+					"url": "https://t.co/6kbzG0PNyM",
+					"display_url": "pic.twitter.com/6kbzG0PNyM",
+					"expanded_url": "https://twitter.com/shareski/status/1657426331737415680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657426325576257500,
+					"id_str": "1657426325576257536",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FwBcdjFakAAyRMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FwBcdjFakAAyRMs.jpg",
+					"url": "https://t.co/6kbzG0PNyM",
+					"display_url": "pic.twitter.com/6kbzG0PNyM",
+					"expanded_url": "https://twitter.com/shareski/status/1657426331737415680/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FwBcdjFakAAyRMs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37913,
+			"friends_count": 10593,
+			"listed_count": 1284,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After a deal is struck on Shark Tank I’m always curious to see if they’ll hug or shake hands. I need someone to do an analysis of how to tell if a greeting warrants a hug or a handshake or other. What are the specific body signals that suggest a preference? https://t.co/6kbzG0PNyM"
+	},
+	{
 		"created_at": "Fri May 12 21:09:49 +0000 2023",
 		"id": 1657130983156768800,
 		"id_str": "1657130983156768768",
