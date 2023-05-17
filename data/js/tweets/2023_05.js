@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 16 21:06:58 +0000 2023",
+		"id": 1658490078728003600,
+		"id_str": "1658579817850187776",
+		"full_text": "We’re excited to share another smashing episode of Insights with NetSupport featuring @shareski! Dean discusses the state of remote learning, the overall challenge of new teachers and leadership and more! Check it out https://t.co/1TEQn1mqmZ #EdTech #leadership #Remote https://t.co/nsGwwLFX1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						242,
+						249
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						250,
+						261
+					]
+				},
+				{
+					"text": "Remote",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1TEQn1mqmZ",
+					"expanded_url": "http://mvnt.us/m1407231",
+					"display_url": "mvnt.us/m1407231",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1658490076412911600,
+					"id_str": "1658490076412911622",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FwQj7_waIAYWb6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwQj7_waIAYWb6_.jpg",
+					"url": "https://t.co/nsGwwLFX1E",
+					"display_url": "pic.twitter.com/nsGwwLFX1E",
+					"expanded_url": "https://twitter.com/NetSupportInc/status/1658490078728003587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1658490076412911600,
+					"id_str": "1658490076412911622",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FwQj7_waIAYWb6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwQj7_waIAYWb6_.jpg",
+					"url": "https://t.co/nsGwwLFX1E",
+					"display_url": "pic.twitter.com/nsGwwLFX1E",
+					"expanded_url": "https://twitter.com/NetSupportInc/status/1658490078728003587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.mavsocial.com\" rel=\"nofollow\">MavSocial Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 836526805226045400,
+			"id_str": "836526805226045441",
+			"name": "NetSupport-Inc",
+			"screen_name": "NetSupportInc",
+			"location": "Alpharetta, GA",
+			"description": "Award-winning IT solutions for schools and businesses worldwide.\n\nFor corporate solutions: @NetSupportICorp",
+			"url": "https://t.co/FDNfkeuRMn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FDNfkeuRMn",
+							"expanded_url": "http://www.netsupport-inc.com",
+							"display_url": "netsupport-inc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 681,
+			"listed_count": 1,
+			"created_at": "Tue Feb 28 10:41:47 +0000 2017",
+			"favourites_count": 293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569982774790037505/VeOIzi63_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569982774790037505/VeOIzi63_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/836526805226045441/1663147223",
+			"profile_link_color": "285A8E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re excited to share another smashing episode of Insights with NetSupport featuring @shareski! Dean discusses the state of remote learning, the overall challenge of new teachers and leadership and more! Check it out https://t.co/1TEQn1mqmZ #EdTech #leadership #Remote https://t.co/nsGwwLFX1E"
+	},
+	{
 		"created_at": "Sat May 13 22:31:15 +0000 2023",
 		"id": 1657513864810885000,
 		"id_str": "1657513864810885120",
