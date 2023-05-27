@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 26 22:01:14 +0000 2023",
+		"id": 1662217356574347300,
+		"id_str": "1662217356574347265",
+		"full_text": "I likely pulled off one of my top 3 airport moves of all time. Cleared customs and picked up bags, switched terminals and got on an earlier flight that gets me in 5 hours earlier. All that in less than 30 minutes. Cc @lindsmor https://t.co/3SCCzixYUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lindsmor",
+					"name": "Lindsay Morhart",
+					"id": 28699452,
+					"id_str": "28699452",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1662217336722530300,
+					"id_str": "1662217336722530306",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxFh3GbXoAIgSsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxFh3GbXoAIgSsl.jpg",
+					"url": "https://t.co/3SCCzixYUi",
+					"display_url": "pic.twitter.com/3SCCzixYUi",
+					"expanded_url": "https://twitter.com/shareski/status/1662217356574347265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662217336722530300,
+					"id_str": "1662217336722530306",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxFh3GbXoAIgSsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxFh3GbXoAIgSsl.jpg",
+					"url": "https://t.co/3SCCzixYUi",
+					"display_url": "pic.twitter.com/3SCCzixYUi",
+					"expanded_url": "https://twitter.com/shareski/status/1662217356574347265/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 398,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							199
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FxFh3GbXoAIgSsl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37830,
+			"friends_count": 10582,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I likely pulled off one of my top 3 airport moves of all time. Cleared customs and picked up bags, switched terminals and got on an earlier flight that gets me in 5 hours earlier. All that in less than 30 minutes. Cc @lindsmor https://t.co/3SCCzixYUi"
+	},
+	{
+		"created_at": "Fri May 26 19:09:12 +0000 2023",
+		"id": 1662174060254752800,
+		"id_str": "1662174060254752768",
+		"full_text": "I forgot how good a Burger-Fi burger is. https://t.co/mHxZfaGMaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1662174050360385500,
+					"id_str": "1662174050360385537",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxE6fgKaYAEKNjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxE6fgKaYAEKNjg.jpg",
+					"url": "https://t.co/mHxZfaGMaz",
+					"display_url": "pic.twitter.com/mHxZfaGMaz",
+					"expanded_url": "https://twitter.com/shareski/status/1662174060254752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662174050360385500,
+					"id_str": "1662174050360385537",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxE6fgKaYAEKNjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxE6fgKaYAEKNjg.jpg",
+					"url": "https://t.co/mHxZfaGMaz",
+					"display_url": "pic.twitter.com/mHxZfaGMaz",
+					"expanded_url": "https://twitter.com/shareski/status/1662174060254752768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FxE6fgKaYAEKNjg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37830,
+			"friends_count": 10582,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I forgot how good a Burger-Fi burger is. https://t.co/mHxZfaGMaz"
+	},
+	{
 		"created_at": "Thu May 25 17:29:52 +0000 2023",
 		"id": 1661786673208860700,
 		"id_str": "1661786673208860672",
