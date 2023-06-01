@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 31 19:04:16 +0000 2023",
+		"id": 1663984759180017700,
+		"id_str": "1663984759180017680",
+		"full_text": "@kayakcari @ZielinskiTara Good for you Cari!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kayakcari",
+					"name": "Cari Wilson",
+					"id": 26283378,
+					"id_str": "26283378",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ZielinskiTara",
+					"name": "Tara Zielinski",
+					"id": 1500548582365012000,
+					"id_str": "1500548582365011968",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663760077503991800,
+		"in_reply_to_status_id_str": "1663760077503991811",
+		"in_reply_to_user_id": 26283378,
+		"in_reply_to_user_id_str": "26283378",
+		"in_reply_to_screen_name": "kayakcari",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37825,
+			"friends_count": 10579,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kayakcari @ZielinskiTara Good for you Cari!"
+	},
+	{
+		"created_at": "Wed May 31 18:33:19 +0000 2023",
+		"id": 1663970163761516500,
+		"id_str": "1663976968554151937",
+		"full_text": "I am biased but I think @WestVanSchools is a a great place to learn and lead!  And ….  we are looking for principals and vice-principals.  I would be happy to connect with potential candidates to answer questions - send me an email or DM.  And check out our postings. #westvaned https://t.co/FzPIAZIkIH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "westvaned",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WestVanSchools",
+					"name": "WestVanSchools",
+					"id": 55673055,
+					"id_str": "55673055",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1663970156975095800,
+					"id_str": "1663970156975095808",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FxecCqtaAAAEaJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxecCqtaAAAEaJc.jpg",
+					"url": "https://t.co/FzPIAZIkIH",
+					"display_url": "pic.twitter.com/FzPIAZIkIH",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1663970163761516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663970156975095800,
+					"id_str": "1663970156975095808",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FxecCqtaAAAEaJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxecCqtaAAAEaJc.jpg",
+					"url": "https://t.co/FzPIAZIkIH",
+					"display_url": "pic.twitter.com/FzPIAZIkIH",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1663970163761516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1663970156983496700,
+					"id_str": "1663970156983496704",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FxecCqvaMAARMlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxecCqvaMAARMlP.jpg",
+					"url": "https://t.co/FzPIAZIkIH",
+					"display_url": "pic.twitter.com/FzPIAZIkIH",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1663970163761516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1121,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1663970156983500800,
+					"id_str": "1663970156983500800",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FxecCqvaQAAmpmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxecCqvaQAAmpmI.jpg",
+					"url": "https://t.co/FzPIAZIkIH",
+					"display_url": "pic.twitter.com/FzPIAZIkIH",
+					"expanded_url": "https://twitter.com/chrkennedy/status/1663970163761516544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1118,
+							"h": 1394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2056741,
+			"id_str": "2056741",
+			"name": "Chris Kennedy",
+			"screen_name": "chrkennedy",
+			"location": "ÜT: 49.120583,-123.165359",
+			"description": "I am the Superintendent of Schools of the West Vancouver School District in British Columbia.",
+			"url": "https://t.co/gp9Rz6Rj2T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gp9Rz6Rj2T",
+							"expanded_url": "http://cultureofyes.ca/",
+							"display_url": "cultureofyes.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12009,
+			"friends_count": 2130,
+			"listed_count": 420,
+			"created_at": "Fri Mar 23 22:00:07 +0000 2007",
+			"favourites_count": 14649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360303071138516992/7Ch4V-Qh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360303071138516992/7Ch4V-Qh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2056741/1398824805",
+			"profile_link_color": "0900FF",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "43dab8343fafc800",
+			"url": "https://api.twitter.com/1.1/geo/id/43dab8343fafc800.json",
+			"place_type": "city",
+			"name": "West Vancouver",
+			"full_name": "West Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.29656,
+							49.313607
+						],
+						[
+							-123.117141,
+							49.313607
+						],
+						[
+							-123.117141,
+							49.407888
+						],
+						[
+							-123.29656,
+							49.407888
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am biased but I think @WestVanSchools is a a great place to learn and lead!  And ….  we are looking for principals and vice-principals.  I would be happy to connect with potential candidates to answer questions - send me an email or DM.  And check out our postings. #westvaned https://t.co/FzPIAZIkIH"
+	},
+	{
 		"created_at": "Sun May 28 02:30:32 +0000 2023",
 		"id": 1661113566169112600,
 		"id_str": "1662647512401055744",
