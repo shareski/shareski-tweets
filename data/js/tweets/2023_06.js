@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 05 17:57:59 +0000 2023",
+		"id": 1665780015802519600,
+		"id_str": "1665780015802519553",
+		"full_text": "After a couple of weeks hiatus, we’re back with a new episode featuring ⁦@KevinKaardal⁩ of #sd23learns #alplearn ⁦@SD23News⁩ with shout outs to ⁦@chrkennedy⁩ and ⁦@cassaacgcs⁩ Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sd23learns",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "alplearn",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinKaardal",
+					"name": "Kevin Kaardal",
+					"id": 217478202,
+					"id_str": "217478202",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "SD23News",
+					"name": "Central Okanagan Public Schools",
+					"id": 1963695481,
+					"id_str": "1963695481",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "chrkennedy",
+					"name": "Chris Kennedy",
+					"id": 2056741,
+					"id_str": "2056741",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"screen_name": "cassaacgcs",
+					"name": "CASSAACGCS",
+					"id": 1879521560,
+					"id_str": "1879521560",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t7NXqbwNEr",
+					"expanded_url": "http://alplearn.com/podcasts",
+					"display_url": "alplearn.com/podcasts",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1665779988241723400,
+					"id_str": "1665779988241723392",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1665779988241723392/pu/img/FrOjq-nSDMMxrCK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1665779988241723392/pu/img/FrOjq-nSDMMxrCK1.jpg",
+					"url": "https://t.co/nnk1m3LSmm",
+					"display_url": "pic.twitter.com/nnk1m3LSmm",
+					"expanded_url": "https://twitter.com/shareski/status/1665780015802519553/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1665779988241723400,
+					"id_str": "1665779988241723392",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1665779988241723392/pu/img/FrOjq-nSDMMxrCK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1665779988241723392/pu/img/FrOjq-nSDMMxrCK1.jpg",
+					"url": "https://t.co/nnk1m3LSmm",
+					"display_url": "pic.twitter.com/nnk1m3LSmm",
+					"expanded_url": "https://twitter.com/shareski/status/1665780015802519553/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52333,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1665779988241723392/pu/vid/720x720/Jz8xPV7BLmf4sk8-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1665779988241723392/pu/pl/HW8I4Paeuh0Iwrrt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1665779988241723392/pu/vid/320x320/pKkNzln7o0hJ5QWx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1665779988241723392/pu/vid/540x540/lGPQkEz7np_j9_H3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37802,
+			"friends_count": 10577,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After a couple of weeks hiatus, we’re back with a new episode featuring ⁦@KevinKaardal⁩ of #sd23learns #alplearn ⁦@SD23News⁩ with shout outs to ⁦@chrkennedy⁩ and ⁦@cassaacgcs⁩ Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm"
+	},
+	{
 		"created_at": "Sat Jun 03 16:09:07 +0000 2023",
 		"id": 1665027843334582300,
 		"id_str": "1665027843334582273",
