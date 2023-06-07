@@ -1,10 +1,531 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 20:00:22 +0000 2023",
+		"id": 1666173205659234300,
+		"id_str": "1666173205659234305",
+		"full_text": "@MacHughesGolf I’d be asking JM some pretty hard questions. \n1. Why the 180 change?\n2. Should players that turned down offers to stay loyal be compensated?\n3. How should players with moral objections respond? \n4. Play him the video from last year about 9-11 and ask him to respond.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MacHughesGolf",
+					"name": "Mackenzie Hughes",
+					"id": 356957829,
+					"id_str": "356957829",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1666134936661766100,
+		"in_reply_to_status_id_str": "1666134936661766147",
+		"in_reply_to_user_id": 356957829,
+		"in_reply_to_user_id_str": "356957829",
+		"in_reply_to_screen_name": "MacHughesGolf",
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37802,
+			"friends_count": 10581,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MacHughesGolf I’d be asking JM some pretty hard questions. \n1. Why the 180 change?\n2. Should players that turned down offers to stay loyal be compensated?\n3. How should players with moral objections respond? \n4. Play him the video from last year about 9-11 and ask him to respond."
+	},
+	{
+		"created_at": "Tue Jun 06 19:02:55 +0000 2023",
+		"id": 1666097837904478200,
+		"id_str": "1666158747352170528",
+		"full_text": "https://t.co/9t7EQsnPVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666097700121477000,
+					"id_str": "1666097700121477120",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1666097700121477120/img/6FWfmbSDbgrsUNxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1666097700121477120/img/6FWfmbSDbgrsUNxM.jpg",
+					"url": "https://t.co/9t7EQsnPVg",
+					"display_url": "pic.twitter.com/9t7EQsnPVg",
+					"expanded_url": "https://twitter.com/AnnieAgar/status/1666097837904478208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666097700121477000,
+					"id_str": "1666097700121477120",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1666097700121477120/img/6FWfmbSDbgrsUNxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1666097700121477120/img/6FWfmbSDbgrsUNxM.jpg",
+					"url": "https://t.co/9t7EQsnPVg",
+					"display_url": "pic.twitter.com/9t7EQsnPVg",
+					"expanded_url": "https://twitter.com/AnnieAgar/status/1666097837904478208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 68400,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1666097700121477120/vid/360x270/pfB2qjlqIm2ca26a.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1666097700121477120/pl/fROhWoJcIqGrHpHO.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1666097700121477120/vid/960x720/yLZlDb47ZIUH21DM.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1666097700121477120/vid/480x360/-sV5SdqA_7GXfKqb.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 940389631,
+			"id_str": "940389631",
+			"name": "Annie Agar",
+			"screen_name": "AnnieAgar",
+			"location": "",
+			"description": "correspondent at @BallySports. I like putting teams in uncomfortable meetings 🏈 for inquiries: dspander@insightsportsadvisors.com",
+			"url": "https://t.co/Y2SLDfO0tx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y2SLDfO0tx",
+							"expanded_url": "https://vm.tiktok.com/ZMJaApHEM/",
+							"display_url": "vm.tiktok.com/ZMJaApHEM/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429671,
+			"friends_count": 1778,
+			"listed_count": 1130,
+			"created_at": "Sun Nov 11 02:14:47 +0000 2012",
+			"favourites_count": 24575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1659261231360880640/YKjw0cTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1659261231360880640/YKjw0cTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/940389631/1673643021",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1303,
+		"favorite_count": 7055,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/9t7EQsnPVg"
+	},
+	{
+		"created_at": "Tue Jun 06 18:44:42 +0000 2023",
+		"id": 1666154163036618800,
+		"id_str": "1666154163036618764",
+		"full_text": "Jay Monahan  better have negotiated that all the offers that players turned down be honoured by PIF. https://t.co/imu957WMrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666154155839459300,
+					"id_str": "1666154155839459328",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fx9eYIfaEAAscEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fx9eYIfaEAAscEl.jpg",
+					"url": "https://t.co/imu957WMrS",
+					"display_url": "pic.twitter.com/imu957WMrS",
+					"expanded_url": "https://twitter.com/shareski/status/1666154163036618764/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666154155839459300,
+					"id_str": "1666154155839459328",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fx9eYIfaEAAscEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fx9eYIfaEAAscEl.jpg",
+					"url": "https://t.co/imu957WMrS",
+					"display_url": "pic.twitter.com/imu957WMrS",
+					"expanded_url": "https://twitter.com/shareski/status/1666154163036618764/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fx9eYIfaEAAscEl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37802,
+			"friends_count": 10581,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jay Monahan  better have negotiated that all the offers that players turned down be honoured by PIF. https://t.co/imu957WMrS"
+	},
+	{
 		"created_at": "Mon Jun 05 17:57:59 +0000 2023",
 		"id": 1665780015802519600,
 		"id_str": "1665780015802519553",
-		"full_text": "After a couple of weeks hiatus, we’re back with a new episode featuring ⁦@KevinKaardal⁩ of #sd23learns #alplearn ⁦@SD23News⁩ with shout outs to ⁦@chrkennedy⁩ and ⁦@cassaacgcs⁩ Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm",
+		"full_text": "After a couple of weeks hiatus, we’re back with a new episode featuring @KevinKaardal of #sd23learns #alplearn @SD23News with shout outs to @chrkennedy and @cassaacgcs Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +801,7 @@ Grailbird.data.tweets_2023_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "After a couple of weeks hiatus, we’re back with a new episode featuring ⁦@KevinKaardal⁩ of #sd23learns #alplearn ⁦@SD23News⁩ with shout outs to ⁦@chrkennedy⁩ and ⁦@cassaacgcs⁩ Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm"
+		"text": "After a couple of weeks hiatus, we’re back with a new episode featuring @KevinKaardal of #sd23learns #alplearn @SD23News with shout outs to @chrkennedy and @cassaacgcs Full episode available at https://t.co/t7NXqbwNEr also other great episodes https://t.co/nnk1m3LSmm"
 	},
 	{
 		"created_at": "Sat Jun 03 16:09:07 +0000 2023",
