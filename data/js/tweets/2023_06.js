@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 16:34:56 +0000 2023",
+		"id": 1666846280218480600,
+		"id_str": "1666846280218480641",
+		"full_text": "Tom does a beautiful job of talking about grading and reporting. Whether you're in BC or not, you'd do well to listen. @TomSchimmer https://t.co/sjWfZePpeP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomSchimmer",
+					"name": "Tom Schimmer",
+					"id": 61558735,
+					"id_str": "61558735",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sjWfZePpeP",
+					"expanded_url": "https://twitter.com/TomSchimmerPod/status/1666761994169450499",
+					"display_url": "twitter.com/TomSchimmerPod…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37805,
+			"friends_count": 10580,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1666761994169450500,
+		"quoted_status_id_str": "1666761994169450499",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sjWfZePpeP",
+			"expanded": "https://twitter.com/TomSchimmerPod/status/1666761994169450499",
+			"display": "twitter.com/TomSchimmerPod…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 08 11:00:01 +0000 2023",
+			"id": 1666761994169450500,
+			"id_str": "1666761994169450499",
+			"full_text": "[BONUS EPISODE] Unpacking, reaffirming, and critiquing the new #bced Reporting Order.  \n\n🟣Apple https://t.co/mq3SVq6yea \n🟢Spotify https://t.co/hl3eeH9nkO\n🔴YouTube https://t.co/6GZfZKVPLz\n\n#TeachBetter #bcedchat #edchat #teachertwitter #edutwitter #teachersoftwitter https://t.co/LHUemvYMoz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bced",
+						"indices": [
+							63,
+							68
+						]
+					},
+					{
+						"text": "TeachBetter",
+						"indices": [
+							188,
+							200
+						]
+					},
+					{
+						"text": "bcedchat",
+						"indices": [
+							201,
+							210
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							211,
+							218
+						]
+					},
+					{
+						"text": "teachertwitter",
+						"indices": [
+							219,
+							234
+						]
+					},
+					{
+						"text": "edutwitter",
+						"indices": [
+							235,
+							246
+						]
+					},
+					{
+						"text": "teachersoftwitter",
+						"indices": [
+							247,
+							265
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mq3SVq6yea",
+						"expanded_url": "https://apple.co/3J1XPbt",
+						"display_url": "apple.co/3J1XPbt",
+						"indices": [
+							96,
+							119
+						]
+					},
+					{
+						"url": "https://t.co/hl3eeH9nkO",
+						"expanded_url": "https://tinyurl.com/cef4rv84",
+						"display_url": "tinyurl.com/cef4rv84",
+						"indices": [
+							130,
+							153
+						]
+					},
+					{
+						"url": "https://t.co/6GZfZKVPLz",
+						"expanded_url": "https://tinyurl.com/76bt3z5k",
+						"display_url": "tinyurl.com/76bt3z5k",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1666755378862870500,
+						"id_str": "1666755378862870531",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGBL6yX0AM8rcn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FyGBL6yX0AM8rcn.jpg",
+						"url": "https://t.co/LHUemvYMoz",
+						"display_url": "pic.twitter.com/LHUemvYMoz",
+						"expanded_url": "https://twitter.com/TomSchimmerPod/status/1666761994169450499/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1666755378862870500,
+						"id_str": "1666755378862870531",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGBL6yX0AM8rcn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FyGBL6yX0AM8rcn.jpg",
+						"url": "https://t.co/LHUemvYMoz",
+						"display_url": "pic.twitter.com/LHUemvYMoz",
+						"expanded_url": "https://twitter.com/TomSchimmerPod/status/1666761994169450499/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1299793053478129700,
+				"id_str": "1299793053478129664",
+				"name": "🎙 Tom Schimmer Podcast",
+				"screen_name": "TomSchimmerPod",
+				"location": "Vancouver, British Columbia",
+				"description": "Hosted by @TomSchimmer | An Education Podcast focused on learning, leadership, & life. | Follow on Apple, Spotify, Google, Amazon, or YouTube!",
+				"url": "https://t.co/vpKw7WQCGL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vpKw7WQCGL",
+								"expanded_url": "https://linktr.ee/tschimmer",
+								"display_url": "linktr.ee/tschimmer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1267,
+				"friends_count": 328,
+				"listed_count": 8,
+				"created_at": "Sat Aug 29 19:36:54 +0000 2020",
+				"favourites_count": 930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1723,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1299793265193934848/zjsWYajM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299793265193934848/zjsWYajM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1299793053478129664/1598833511",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tom does a beautiful job of talking about grading and reporting. Whether you're in BC or not, you'd do well to listen. @TomSchimmer https://t.co/sjWfZePpeP"
+	},
+	{
+		"created_at": "Thu Jun 08 15:49:38 +0000 2023",
+		"id": 1666577623856697300,
+		"id_str": "1666834879198429185",
+		"full_text": "In 1950, a great forest fire burning in Canada set large amounts of smoke down south forcing a game at Fenway Park to turn their lights on for an afternoon game. The 1950 Great Smoke Pall was one of biggest forest fires in North American history burning 3,500,000 acres https://t.co/p2B1QogYw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666577237066301400,
+					"id_str": "1666577237066301442",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FyDfKs4WwAI3-EG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyDfKs4WwAI3-EG.jpg",
+					"url": "https://t.co/p2B1QogYw3",
+					"display_url": "pic.twitter.com/p2B1QogYw3",
+					"expanded_url": "https://twitter.com/OTBaseballPhoto/status/1666577623856697344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666577237066301400,
+					"id_str": "1666577237066301442",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FyDfKs4WwAI3-EG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyDfKs4WwAI3-EG.jpg",
+					"url": "https://t.co/p2B1QogYw3",
+					"display_url": "pic.twitter.com/p2B1QogYw3",
+					"expanded_url": "https://twitter.com/OTBaseballPhoto/status/1666577623856697344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2853322953,
+			"id_str": "2853322953",
+			"name": "Old-Time Baseball Photos",
+			"screen_name": "OTBaseballPhoto",
+			"location": "",
+			"description": "Celebrating baseball from the ages through the eyes of old baseball photos. SABR Member",
+			"url": "https://t.co/eRTUXQUkTW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRTUXQUkTW",
+							"expanded_url": "https://www.facebook.com/pages/Old-Time-Baseball-Photos/308921932607061",
+							"display_url": "facebook.com/pages/Old-Time…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109663,
+			"friends_count": 618,
+			"listed_count": 1151,
+			"created_at": "Fri Oct 31 14:46:09 +0000 2014",
+			"favourites_count": 26766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/528198336939954176/v_-agXfV_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/528198336939954176/v_-agXfV_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853322953/1414768093",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1950, a great forest fire burning in Canada set large amounts of smoke down south forcing a game at Fenway Park to turn their lights on for an afternoon game. The 1950 Great Smoke Pall was one of biggest forest fires in North American history burning 3,500,000 acres https://t.co/p2B1QogYw3"
+	},
+	{
 		"created_at": "Tue Jun 06 20:00:22 +0000 2023",
 		"id": 1666173205659234300,
 		"id_str": "1666173205659234305",
