@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 00:22:50 +0000 2023",
+		"id": 1667688806483468300,
+		"id_str": "1667688806483468288",
+		"full_text": "If you don’t think esports is a thing, you’d be wrong.  @MelissaBurnsEdu share her journey from gamer to leading esports Canada\nhttps://t.co/4YC5tuPsmT\n\nAccess all the episodes:\n🔵Apple https://t.co/5MZ2WmppLz\n🟢Spotify https://t.co/WgOCFMyoB4 \n🔴Youtube https://t.co/RVS7r6HV2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MelissaBurnsEdu",
+					"name": "Melissa Burns",
+					"id": 905532212015231000,
+					"id_str": "905532212015230976",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4YC5tuPsmT",
+					"expanded_url": "https://youtu.be/ykiZ9k-Tyqg",
+					"display_url": "youtu.be/ykiZ9k-Tyqg",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/5MZ2WmppLz",
+					"expanded_url": "http://shareski.ca/y/4cm",
+					"display_url": "shareski.ca/y/4cm",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/WgOCFMyoB4",
+					"expanded_url": "http://shareski.ca/y/4cn",
+					"display_url": "shareski.ca/y/4cn",
+					"indices": [
+						218,
+						241
+					]
+				},
+				{
+					"url": "https://t.co/RVS7r6HV2q",
+					"expanded_url": "http://shareski.ca/y/4co",
+					"display_url": "shareski.ca/y/4co",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739743,
+			"id_str": "739743",
+			"name": "Dean Shareski",
+			"screen_name": "shareski",
+			"location": "Moose Jaw, SK",
+			"description": "Trying to spread a little joy. Lots of silliness. Concurrently trying to identify and linger in delight. Former blue check mark guy. FYI: https://t.co/PHfvBHnDlx",
+			"url": "https://t.co/jBMEaOW0Gw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBMEaOW0Gw",
+							"expanded_url": "http://shareski.ca",
+							"display_url": "shareski.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PHfvBHnDlx",
+							"expanded_url": "http://shareski.ca/y/followme",
+							"display_url": "shareski.ca/y/followme",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37799,
+			"friends_count": 10576,
+			"listed_count": 1282,
+			"created_at": "Wed Jan 31 19:59:13 +0000 2007",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "666BFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635046446264139776/IPWnWEHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739743/1478275492",
+			"profile_link_color": "384D3A",
+			"profile_sidebar_border_color": "CCC333",
+			"profile_sidebar_fill_color": "1DB2D7",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you don’t think esports is a thing, you’d be wrong.  @MelissaBurnsEdu share her journey from gamer to leading esports Canada\nhttps://t.co/4YC5tuPsmT\n\nAccess all the episodes:\n🔵Apple https://t.co/5MZ2WmppLz\n🟢Spotify https://t.co/WgOCFMyoB4 \n🔴Youtube https://t.co/RVS7r6HV2q"
+	},
+	{
 		"created_at": "Fri Jun 09 17:55:20 +0000 2023",
 		"id": 1667228902266380300,
 		"id_str": "1667228902266380289",
